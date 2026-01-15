@@ -16,10 +16,10 @@ Greek.
 
 I wanted a simple, repeatable way to build and maintain vocabulary flashcards
 directly from the text—without manually copying words, losing context, or
-relying on proprietary software. It also reflects a personal interest in
-data aggregation, spreadsheets, and structured workflows, combined with a
-desire to read the New Testament more carefully and learn more about Jesus
-through the original language.
+relying on proprietary software. It also brings together my interest in data
+aggregation, spreadsheets, and structured workflows with a desire to read the
+New Testament more carefully and learn more about Jesus through the original
+language.
 
 To meet that need, I built a complete Greek New Testament vocabulary database
 for my own study and uploads. Once the dataset was complete, stable, and
@@ -104,6 +104,28 @@ All CSV files are encoded as **UTF-8 with BOM** to ensure compatibility with:
 
 Note: CSV files may appear as plain text in a web browser. Download the files
 and open them in a spreadsheet or flashcard application for proper formatting.
+
+---
+
+## Future Direction
+
+Future expansions may include Hebrew Old Testament and Septuagint datasets
+built with the same emphasis on openness, reproducibility, and learner-first
+design. Any such work will follow the same commitment to free availability
+and transparent versioning.
+
+---
+
+## Support
+
+This project is offered freely for study and reuse.  
+Support is received gratefully, not expected.
+
+If you find this dataset helpful and would like to support continued
+maintenance or future language datasets, optional support is available via
+GitHub Sponsors:
+
+https://github.com/sponsors/GreekNTDatabase
 
 ---
 
