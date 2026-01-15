@@ -11,26 +11,20 @@ reusability, and learner-driven workflows.
 
 ## Project Background
 
-This project began as a personal learning tool.
+This project began as a personal learning tool while studying New Testament
+Greek.
 
-While studying New Testament Greek, I wanted a **simple and repeatable way to
-build and maintain vocabulary flashcards directly from the text**—without
-manually copying words, losing context, or relying on proprietary software.
+I wanted a simple, repeatable way to build and maintain vocabulary flashcards
+directly from the text—without manually copying words, losing context, or
+relying on proprietary software. It also reflects a personal interest in
+data aggregation, spreadsheets, and structured workflows, combined with a
+desire to read the New Testament more carefully and learn more about Jesus
+through the original language.
 
-In particular, I wanted:
-
-- vocabulary ordered by *actual reading sequence*
-- reliable identification of **first occurrences**
-- clean data that could be freely sorted, filtered, and re-ordered
-- a format that worked equally well in Excel, flashcard apps, and scripts
-- a dataset I could re-upload or regenerate without friction
-
-To solve this, I built a complete Greek New Testament vocabulary database for
-my own study and flashcard uploads. Once the dataset was complete, stable,
-and internally consistent, I decided to publish it openly so others could
-benefit from the same workflow.
-
-This repository is the result.
+To meet that need, I built a complete Greek New Testament vocabulary database
+for my own study and uploads. Once the dataset was complete, stable, and
+internally consistent, I decided to publish it openly so others could benefit
+from the same workflow.
 
 ---
 
@@ -89,16 +83,12 @@ Each CSV uses the following columns:
 
 ### Ordinal Column
 
-The `ordinal` column preserves the **original sequence of the dataset** prior
-to any filtering, sorting, or deduplication.
+The `ordinal` column preserves the original sequence of the dataset prior to
+any filtering, sorting, or deduplication.
 
-This allows users to:
-- sort or filter freely
-- deduplicate safely
-- restore the original order deterministically at any time
-
-Ordinal values are 1-based, monotonically increasing, and stable within each
-dataset.
+This allows users to sort or filter freely and then restore the original
+order deterministically. Ordinal values are 1-based, monotonically increasing,
+and stable within each dataset.
 
 ---
 
@@ -114,6 +104,16 @@ All CSV files are encoded as **UTF-8 with BOM** to ensure compatibility with:
 
 Note: CSV files may appear as plain text in a web browser. Download the files
 and open them in a spreadsheet or flashcard application for proper formatting.
+
+---
+
+## Citation
+
+If you use this dataset in teaching, research, or study materials, you may
+cite it as:
+
+> GreekNTDatabase. *Greek New Testament Vocabulary Dataset*, v1.1.  
+> https://greekntdatabase.github.io/NTGreekDatabase/
 
 ---
 
