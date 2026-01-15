@@ -1,18 +1,17 @@
-# NTGreekDatabase
-New Testament Greek in Excel format
 # Greek New Testament Vocabulary Dataset
 
-This repository provides structured Greek New Testament vocabulary data
-designed for learners, teachers, and researchers.
+This repository provides clean, structured Greek New Testament vocabulary
+datasets designed for learners, teachers, and researchers.
 
-The dataset is derived from interlinear Greek NT sources and is published
-as clean, UTF-8 CSV files suitable for spreadsheets, flashcards, and
-computational analysis.
+The data is derived from interlinear Greek New Testament sources and published
+as UTF-8 CSV files suitable for spreadsheets, flashcards, and computational use.
+>>>>>>> 899b00a (Add README, license, and GitHub Pages site)
 
 ## Dataset Variants
 
 Four complementary datasets are provided:
 
+<<<<<<< HEAD
 1. **Reading Order – Unique Forms**
    - Unique Greek word forms ordered by first occurrence using the
      Greek for Life recommended reading sequence.
@@ -45,3 +44,28 @@ Excel, LibreOffice, and flashcard software.
 ## License
 
 See LICENSE for usage terms.
+=======
+### Canonical Order
+- Unique Forms
+- All Occurrences
+
+### Reading Order (Greek for Life)
+- Unique Forms
+- All Occurrences
+
+## Schema
+
+Each CSV uses the following columns:
+
+- greek_word
+- english_translation
+- parsing_abbreviation
+- strongs_number
+- chapter_ref
+
+All files are encoded as UTF-8 with BOM for maximum compatibility.
+
+## License
+
+CC BY 4.0
+>>>>>>> 899b00a (Add README, license, and GitHub Pages site)
