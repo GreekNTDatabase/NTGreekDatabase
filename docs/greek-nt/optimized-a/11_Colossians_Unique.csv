@@ -1,0 +1,434 @@
+Greek Word,english_translation,parsing_abbreviation,strongs_number,chapter_ref,Row Ordinal,reading_order_position
+Παῦλος,Paul,N-NMS,G3972,Colossians 1,1,11
+ἀπόστολος,an apostle,N-NMS,G652,Colossians 1,2,11
+Χριστοῦ,of Christ,N-GMS,G5547,Colossians 1,3,11
+Ἰησοῦ,Jesus,N-GMS,G2424,Colossians 1,4,11
+διὰ,by,Prep,G1223,Colossians 1,5,11
+θελήματος,the will,N-GNS,G2307,Colossians 1,6,11
+Θεοῦ,of God,N-GMS,G2316,Colossians 1,7,11
+καὶ,and,Conj,G2532,Colossians 1,8,11
+Τιμόθεος,Timothy,N-NMS,G5095,Colossians 1,9,11
+ὁ,the,Art-NMS,G3588,Colossians 1,10,11
+ἀδελφὸς,brother,N-NMS,G80,Colossians 1,11,11
+ἐν,in,Prep,G1722,Colossians 1,12,11
+Κολοσσαῖς,Colossae,N-DFP,G2857,Colossians 1,13,11
+ἁγίοις,saints,Adj-DMP,G40,Colossians 1,14,11
+πιστοῖς,faithful,Adj-DMP,G4103,Colossians 1,15,11
+Χάρις,Grace,N-NFS,G5485,Colossians 1,16,11
+ὑμῖν,to you,PPro-D2P,G4771,Colossians 1,17,11
+εἰρήνη,peace,N-NFS,G1515,Colossians 1,18,11
+ἀπὸ,from,Prep,G575,Colossians 1,19,11
+Πατρὸς,the Father,N-GMS,G3962,Colossians 1,20,11
+ἡμῶν,of us,PPro-G1P,G1473,Colossians 1,21,11
+Εὐχαριστοῦμεν,We give thanks,V-PIA-1P,G2168,Colossians 1,22,11
+Κυρίου,Lord,N-GMS,G2962,Colossians 1,23,11
+πάντοτε,continually,Adv,G3842,Colossians 1,24,11
+περὶ,for,Prep,G4012,Colossians 1,25,11
+προσευχόμενοι,praying,V-PPM/P-NMP,G4336,Colossians 1,26,11
+ἀκούσαντες,having heard of,V-APA-NMP,G191,Colossians 1,27,11
+πίστιν,faith,N-AFS,G4102,Colossians 1,28,11
+ἀγάπην,love,N-AFS,G26,Colossians 1,29,11
+ἣν,that,RelPro-AFS,G3739,Colossians 1,30,11
+ἔχετε,you have,V-PIA-2P,G2192,Colossians 1,31,11
+εἰς,toward,Prep,G1519,Colossians 1,32,11
+πάντας,all,Adj-AMP,G3956,Colossians 1,33,11
+ἐλπίδα,hope,N-AFS,G1680,Colossians 1,34,11
+ἀποκειμένην,being laid up,V-PPM/P-AFS,G606,Colossians 1,35,11
+οὐρανοῖς,heavens,N-DMP,G3772,Colossians 1,36,11
+προηκούσατε,you heard of before,V-AIA-2P,G4257,Colossians 1,37,11
+λόγῳ,word,N-DMS,G3056,Colossians 1,38,11
+ἀληθείας,truth,N-GFS,G225,Colossians 1,39,11
+εὐαγγελίου,gospel,N-GNS,G2098,Colossians 1,40,11
+παρόντος,being present,V-PPA-GNS,G3918,Colossians 1,41,11
+καθὼς,just as,Adv,G2531,Colossians 1,42,11
+κόσμῳ,world,N-DMS,G2889,Colossians 1,43,11
+ἐστὶν,it is,V-PIA-3S,G1510,Colossians 1,44,11
+καρποφορούμενον,bearing fruit,V-PPM-NNS,G2592,Colossians 1,45,11
+αὐξανόμενον,increasing,V-PPM/P-NNS,G837,Colossians 1,46,11
+ἡμέρας,day,N-GFS,G2250,Colossians 1,47,11
+ἐπέγνωτε,knew,V-AIA-2P,G1921,Colossians 1,48,11
+ἐμάθετε,you learned,V-AIA-2P,G3129,Colossians 1,49,11
+Ἐπαφρᾶ,Epaphras,N-GMS,G1889,Colossians 1,50,11
+ἀγαπητοῦ,beloved,Adj-GMS,G27,Colossians 1,51,11
+συνδούλου,fellow bond-servant,N-GMS,G4889,Colossians 1,52,11
+ὑπὲρ,on behalf of,Prep,G5228,Colossians 1,53,11
+διάκονος,a servant,N-NMS,G1249,Colossians 1,54,11
+δηλώσας,having made known,V-APA-NMS,G1213,Colossians 1,55,11
+Πνεύματι,the Spirit,N-DNS,G4151,Colossians 1,56,11
+τοῦτο,this,DPro-ANS,G3778,Colossians 1,57,11
+οὐ,not,Adv,G3756,Colossians 1,58,11
+παυόμεθα,cease,V-PIM-1P,G3973,Colossians 1,59,11
+αἰτούμενοι,asking,V-PPM-NMP,G154,Colossians 1,60,11
+ἵνα,that,Conj,G2443,Colossians 1,61,11
+πληρωθῆτε,you may be filled with,V-ASP-2P,G4137,Colossians 1,62,11
+ἐπίγνωσιν,knowledge,N-AFS,G1922,Colossians 1,63,11
+αὐτοῦ,of Him,PPro-GM3S,G846,Colossians 1,64,11
+σοφίᾳ,wisdom,N-DFS,G4678,Colossians 1,65,11
+συνέσει,understanding,N-DFS,G4907,Colossians 1,66,11
+πνευματικῇ,spiritual,Adj-DFS,G4152,Colossians 1,67,11
+περιπατῆσαι,to walk,V-ANA,G4043,Colossians 1,68,11
+ἀξίως,worthily,Adv,G516,Colossians 1,69,11
+ἀρεσκείαν,pleasing,N-AFS,G699,Colossians 1,70,11
+ἔργῳ,work,N-DNS,G2041,Colossians 1,71,11
+ἀγαθῷ,good,Adj-DNS,G18,Colossians 1,72,11
+δυνάμει,power,N-DFS,G1411,Colossians 1,73,11
+δυναμούμενοι,being strengthened,V-PPM/P-NMP,G1412,Colossians 1,74,11
+κατὰ,according to,Prep,G2596,Colossians 1,75,11
+κράτος,might,N-ANS,G2904,Colossians 1,76,11
+δόξης,glorious,N-GFS,G1391,Colossians 1,77,11
+ὑπομονὴν,endurance,N-AFS,G5281,Colossians 1,78,11
+μακροθυμίαν,patience,N-AFS,G3115,Colossians 1,79,11
+μετὰ,with,Prep,G3326,Colossians 1,80,11
+χαρᾶς,joy,N-GFS,G5479,Colossians 1,81,11
+ἱκανώσαντι,having qualified,V-APA-DMS,G2427,Colossians 1,82,11
+μερίδα,share,N-AFS,G3310,Colossians 1,83,11
+κλήρου,inheritance,N-GMS,G2819,Colossians 1,84,11
+φωτί,light,N-DNS,G5457,Colossians 1,85,11
+ἐρρύσατο,has delivered,V-AIM-3S,G4506,Colossians 1,86,11
+ἐκ,from,Prep,G1537,Colossians 1,87,11
+ἐξουσίας,dominion,N-GFS,G1849,Colossians 1,88,11
+σκότους,of darkness,N-GNS,G4655,Colossians 1,89,11
+μετέστησεν,transferred us,V-AIA-3S,G3179,Colossians 1,90,11
+βασιλείαν,kingdom,N-AFS,G932,Colossians 1,91,11
+Υἱοῦ,Son,N-GMS,G5207,Colossians 1,92,11
+ἀπολύτρωσιν,redemption,N-AFS,G629,Colossians 1,93,11
+ἄφεσιν,forgiveness,N-AFS,G859,Colossians 1,94,11
+ἁμαρτιῶν,of sins,N-GFP,G266,Colossians 1,95,11
+εἰκὼν,the image,N-NFS,G1504,Colossians 1,96,11
+ἀοράτου,invisible,Adj-GMS,G517,Colossians 1,97,11
+πρωτότοκος,the firstborn,Adj-NMS,G4416,Colossians 1,98,11
+κτίσεως,creation,N-GFS,G2937,Colossians 1,99,11
+ὅτι,because,Conj,G3754,Colossians 1,100,11
+ἐκτίσθη,were created,V-AIP-3S,G2936,Colossians 1,101,11
+ἐπὶ,upon,Prep,G1909,Colossians 1,102,11
+γῆς,earth,N-GFS,G1093,Colossians 1,103,11
+ὁρατὰ,visible,Adj-NNP,G3707,Colossians 1,104,11
+εἴτε,whether,Conj,G1535,Colossians 1,105,11
+θρόνοι,thrones,N-NMP,G2362,Colossians 1,106,11
+κυριότητες,dominions,N-NFP,G2963,Colossians 1,107,11
+ἀρχαὶ,rulers,N-NFP,G746,Colossians 1,108,11
+πρὸ,before,Prep,G4253,Colossians 1,109,11
+συνέστηκεν,hold together,V-RIA-3S,G4921,Colossians 1,110,11
+κεφαλὴ,head,N-NFS,G2776,Colossians 1,111,11
+σώματος,body,N-GNS,G4983,Colossians 1,112,11
+ἐκκλησίας,church,N-GFS,G1577,Colossians 1,113,11
+νεκρῶν,dead,Adj-GMP,G3498,Colossians 1,114,11
+γένηται,might be,V-ASM-3S,G1096,Colossians 1,115,11
+πρωτεύων,holding preeminence,V-PPA-NMS,G4409,Colossians 1,116,11
+εὐδόκησεν,was pleased,V-AIA-3S,G2106,Colossians 1,117,11
+πλήρωμα,fullness,N-ANS,G4138,Colossians 1,118,11
+κατοικῆσαι,to dwell,V-ANA,G2730,Colossians 1,119,11
+ἀποκαταλλάξαι,to reconcile,V-ANA,G604,Colossians 1,120,11
+εἰρηνοποιήσας,having made peace,V-APA-NMS,G1517,Colossians 1,121,11
+αἵματος,blood,N-GNS,G129,Colossians 1,122,11
+σταυροῦ,cross,N-GMS,G4716,Colossians 1,123,11
+ποτε,once,Prtcl,G4218,Colossians 1,124,11
+ἀπηλλοτριωμένους,alienated,V-RPM/P-AMP,G526,Colossians 1,125,11
+ἐχθροὺς,hostile,Adj-AMP,G2190,Colossians 1,126,11
+διανοίᾳ,in mind,N-DFS,G1271,Colossians 1,127,11
+πονηροῖς,evil,Adj-DNP,G4190,Colossians 1,128,11
+νυνὶ,now,Adv,G3570,Colossians 1,129,11
+δὲ,however,Conj,G1161,Colossians 1,130,11
+σαρκὸς,flesh,N-GFS,G4561,Colossians 1,131,11
+θανάτου,death,N-GMS,G2288,Colossians 1,132,11
+παραστῆσαι,to present,V-ANA,G3936,Colossians 1,133,11
+ἀμώμους,unblemished,Adj-AMP,G299,Colossians 1,134,11
+ἀνεγκλήτους,blameless,Adj-AMP,G410,Colossians 1,135,11
+κατενώπιον,before,Prep,G2714,Colossians 1,136,11
+εἴ,if,Conj,G1487,Colossians 1,137,11
+γε,indeed,Prtcl,G1065,Colossians 1,138,11
+ἐπιμένετε,you continue,V-PIA-2P,G1961,Colossians 1,139,11
+τεθεμελιωμένοι,established,V-RPM/P-NMP,G2311,Colossians 1,140,11
+ἑδραῖοι,firm,Adj-NMP,G1476,Colossians 1,141,11
+μὴ,not,Adv,G3361,Colossians 1,142,11
+μετακινούμενοι,being moved away,V-PPM/P-NMP,G3334,Colossians 1,143,11
+κηρυχθέντος,having been proclaimed,V-APP-GNS,G2784,Colossians 1,144,11
+ὑπὸ,under,Prep,G5259,Colossians 1,145,11
+Νῦν,Now,Adv,G3568,Colossians 1,146,11
+χαίρω,I rejoice,V-PIA-1S,G5463,Colossians 1,147,11
+παθήμασιν,sufferings,N-DNP,G3804,Colossians 1,148,11
+ἀνταναπληρῶ,I am filling up,V-PIA-1S,G466,Colossians 1,149,11
+ὑστερήματα,is lacking,N-ANP,G5303,Colossians 1,150,11
+θλίψεων,tribulations,N-GFP,G2347,Colossians 1,151,11
+οἰκονομίαν,administration,N-AFS,G3622,Colossians 1,152,11
+δοθεῖσάν,having been given,V-APP-AFS,G1325,Colossians 1,153,11
+μυστήριον,mystery,N-ANS,G3466,Colossians 1,154,11
+ἀποκεκρυμμένον,having been hidden,V-RPM/P-ANS,G613,Colossians 1,155,11
+αἰώνων,ages,N-GMP,G165,Colossians 1,156,11
+γενεῶν,generations,N-GFP,G1074,Colossians 1,157,11
+ἐφανερώθη,having been manifested,V-AIP-3S,G5319,Colossians 1,158,11
+ἠθέλησεν,has willed,V-AIA-3S,G2309,Colossians 1,159,11
+γνωρίσαι,to make known,V-ANA,G1107,Colossians 1,160,11
+τί,what is,IPro-NNS,G5101,Colossians 1,161,11
+πλοῦτος,riches,N-NNS,G4149,Colossians 1,162,11
+ἔθνεσιν,Gentiles,N-DNP,G1484,Colossians 1,163,11
+καταγγέλλομεν,preach,V-PIA-1P,G2605,Colossians 1,164,11
+νουθετοῦντες,admonishing,V-PPA-NMP,G3560,Colossians 1,165,11
+ἄνθρωπον,man,N-AMS,G444,Colossians 1,166,11
+διδάσκοντες,teaching,V-PPA-NMP,G1321,Colossians 1,167,11
+τέλειον,perfect,Adj-AMS,G5046,Colossians 1,168,11
+κοπιῶ,I toil,V-PIA-1S,G2872,Colossians 1,169,11
+ἀγωνιζόμενος,striving,V-PPM/P-NMS,G75,Colossians 1,170,11
+ἐνέργειαν,energy,N-AFS,G1753,Colossians 1,171,11
+ἐνεργουμένην,working,V-PPM-AFS,G1754,Colossians 1,172,11
+γὰρ,for,Conj,G1063,Colossians 2,173,11
+εἰδέναι,to know,V-RNA,G1492,Colossians 2,174,11
+ἡλίκον,how great,Adj-AMS,G2245,Colossians 2,175,11
+ἀγῶνα,a struggle,N-AMS,G73,Colossians 2,176,11
+Λαοδικείᾳ,Laodicea,N-DFS,G2993,Colossians 2,177,11
+ὅσοι,as many as,RelPro-NMP,G3745,Colossians 2,178,11
+ἑόρακαν,have seen,V-RIA-3P,G3708,Colossians 2,179,11
+πρόσωπόν,face,N-ANS,G4383,Colossians 2,180,11
+παρακληθῶσιν,may be encouraged,V-ASP-3P,G3870,Colossians 2,181,11
+καρδίαι,hearts,N-NFP,G2588,Colossians 2,182,11
+συμβιβασθέντες,having been knit together,V-APP-NMP,G4822,Colossians 2,183,11
+πληροφορίας,full assurance,N-GFS,G4136,Colossians 2,184,11
+θησαυροὶ,treasures,N-NMP,G2344,Colossians 2,185,11
+γνώσεως,of knowledge,N-GFS,G1108,Colossians 2,186,11
+ἀπόκρυφοι,hidden,Adj-NMP,G614,Colossians 2,187,11
+λέγω,I say,V-PIA-1S,G3004,Colossians 2,188,11
+μηδεὶς,no one,Adj-NMS,G3367,Colossians 2,189,11
+παραλογίζηται,might delude,V-PSM/P-3S,G3884,Colossians 2,190,11
+πιθανολογίᾳ,persuasive speech,N-DFS,G4086,Colossians 2,191,11
+ἄπειμι,I am absent,V-PIA-1S,G548,Colossians 2,192,11
+ἀλλὰ,yet,Conj,G235,Colossians 2,193,11
+σὺν,with,Prep,G4862,Colossians 2,194,11
+βλέπων,seeing,V-PPA-NMS,G991,Colossians 2,195,11
+τάξιν,good order,N-AFS,G5010,Colossians 2,196,11
+στερέωμα,firmness,N-ANS,G4733,Colossians 2,197,11
+Ὡς,Just as,Adv,G5613,Colossians 2,198,11
+οὖν,therefore,Conj,G3767,Colossians 2,199,11
+παρελάβετε,you have received,V-AIA-2P,G3880,Colossians 2,200,11
+ἐρριζωμένοι,having been rooted,V-RPM/P-NMP,G4492,Colossians 2,201,11
+ἐποικοδομούμενοι,being built up,V-PPM/P-NMP,G2026,Colossians 2,202,11
+βεβαιούμενοι,being strengthened in,V-PPM/P-NMP,G950,Colossians 2,203,11
+περισσεύοντες,abounding,V-PPA-NMP,G4052,Colossians 2,204,11
+εὐχαριστίᾳ,thanksgiving,N-DFS,G2169,Colossians 2,205,11
+τις,anyone,IPro-NMS,G5100,Colossians 2,206,11
+συλαγωγῶν,taking captive,V-PPA-NMS,G4812,Colossians 2,207,11
+φιλοσοφίας,philosophy,N-GFS,G5385,Colossians 2,208,11
+κενῆς,empty,Adj-GFS,G2756,Colossians 2,209,11
+ἀπάτης,deceit,N-GFS,G539,Colossians 2,210,11
+παράδοσιν,tradition,N-AFS,G3862,Colossians 2,211,11
+στοιχεῖα,principles,N-ANP,G4747,Colossians 2,212,11
+Θεότητος,Deity,N-GFS,G2320,Colossians 2,213,11
+σωματικῶς,bodily,Adv,G4985,Colossians 2,214,11
+περιετμήθητε,you were circumcised,V-AIP-2P,G4059,Colossians 2,215,11
+περιτομῇ,with the circumcision,N-DFS,G4061,Colossians 2,216,11
+ἀχειροποιήτῳ,made without hands,Adj-DFS,G886,Colossians 2,217,11
+ἀπεκδύσει,removal,N-DFS,G555,Colossians 2,218,11
+συνταφέντες,having been buried with,V-APP-NMP,G4916,Colossians 2,219,11
+βαπτισμῷ,baptism,N-DMS,G909,Colossians 2,220,11
+συνηγέρθητε,you were raised with Him,V-AIP-2P,G4891,Colossians 2,221,11
+ἐγείραντος,having raised,V-APA-GMS,G1453,Colossians 2,222,11
+παραπτώμασιν,trespasses,N-DNP,G3900,Colossians 2,223,11
+ἀκροβυστίᾳ,uncircumcision,N-DFS,G203,Colossians 2,224,11
+συνεζωοποίησεν,He made alive together,V-AIA-3S,G4806,Colossians 2,225,11
+χαρισάμενος,having forgiven,V-APM-NMS,G5483,Colossians 2,226,11
+ἐξαλείψας,having blotted out,V-APA-NMS,G1813,Colossians 2,227,11
+χειρόγραφον,handwriting,N-ANS,G5498,Colossians 2,228,11
+δόγμασιν,decrees,N-DNP,G1378,Colossians 2,229,11
+ὑπεναντίον,adverse,Adj-NNS,G5227,Colossians 2,230,11
+ἦρκεν,He has taken,V-RIA-3S,G142,Colossians 2,231,11
+μέσου,way,Adj-GNS,G3319,Colossians 2,232,11
+προσηλώσας,having nailed,V-APA-NMS,G4338,Colossians 2,233,11
+ἀπεκδυσάμενος,Having disarmed,V-APM-NMS,G554,Colossians 2,234,11
+ἐδειγμάτισεν,He made a show of them,V-AIA-3S,G1165,Colossians 2,235,11
+παρρησίᾳ,public,N-DFS,G3954,Colossians 2,236,11
+θριαμβεύσας,having triumphed,V-APA-NMS,G2358,Colossians 2,237,11
+κρινέτω,let judge,V-PMA-3S,G2919,Colossians 2,238,11
+βρώσει,food,N-DFS,G1035,Colossians 2,239,11
+πόσει,drink,N-DFS,G4213,Colossians 2,240,11
+ἢ,or,Conj,G2228,Colossians 2,241,11
+μέρει,regard,N-DNS,G3313,Colossians 2,242,11
+ἑορτῆς,to a feast,N-GFS,G1859,Colossians 2,243,11
+νεομηνίας,a New Moon,N-GFS,G3561,Colossians 2,244,11
+σαββάτων,Sabbaths,N-GNP,G4521,Colossians 2,245,11
+σκιὰ,a shadow,N-NFS,G4639,Colossians 2,246,11
+μελλόντων,coming,V-PPA-GNP,G3195,Colossians 2,247,11
+καταβραβευέτω,let disqualify,V-PMA-3S,G2603,Colossians 2,248,11
+ταπεινοφροσύνῃ,humility,N-DFS,G5012,Colossians 2,249,11
+θρησκείᾳ,the worship,N-DFS,G2356,Colossians 2,250,11
+ἀγγέλων,angels,N-GMP,G32,Colossians 2,251,11
+ἐμβατεύων,detailing,V-PPA-NMS,G1687,Colossians 2,252,11
+εἰκῇ,vainly,Adv,G1500,Colossians 2,253,11
+φυσιούμενος,being puffed up,V-PPM/P-NMS,G5448,Colossians 2,254,11
+νοὸς,mind,N-GMS,G3563,Colossians 2,255,11
+κρατῶν,holding fast,V-PPA-NMS,G2902,Colossians 2,256,11
+ἁφῶν,joints,N-GFP,G860,Colossians 2,257,11
+συνδέσμων,ligaments,N-GMP,G4886,Colossians 2,258,11
+ἐπιχορηγούμενον,being supplied,V-PPM/P-NNS,G2023,Colossians 2,259,11
+αὔξησιν,increase,N-AFS,G838,Colossians 2,260,11
+ἀπεθάνετε,you have died,V-AIA-2P,G599,Colossians 2,261,11
+ζῶντες,living,V-PPA-NMP,G2198,Colossians 2,262,11
+δογματίζεσθε,do you submit to decrees,V-PIM/P-2P,G1379,Colossians 2,263,11
+ἅψῃ,you should handle,V-ASM-2S,G680,Colossians 2,264,11
+μηδὲ,Not,Conj,G3366,Colossians 2,265,11
+γεύσῃ,you should taste,V-ASM-2S,G1089,Colossians 2,266,11
+θίγῃς,you should touch,V-ASA-2S,G2345,Colossians 2,267,11
+φθορὰν,decay,N-AFS,G5356,Colossians 2,268,11
+ἀποχρήσει,use,N-DFS,G671,Colossians 2,269,11
+ἐντάλματα,commandments,N-ANP,G1778,Colossians 2,270,11
+διδασκαλίας,teachings,N-AFP,G1319,Colossians 2,271,11
+ἅτινά,which,RelPro-NNP,G3748,Colossians 2,272,11
+μὲν,indeed,Prtcl,G3303,Colossians 2,273,11
+ἐθελοθρησκίᾳ,self-imposed worship,N-DFS,G1479,Colossians 2,274,11
+ἀφειδίᾳ,harsh treatment,N-DFS,G857,Colossians 2,275,11
+τιμῇ,honor,N-DFS,G5092,Colossians 2,276,11
+πρὸς,against,Prep,G4314,Colossians 2,277,11
+πλησμονὴν,the indulgence,N-AFS,G4140,Colossians 2,278,11
+ἄνω,above,Adv,G507,Colossians 3,279,11
+ζητεῖτε,seek,V-PMA-2P,G2212,Colossians 3,280,11
+οὗ,where,Adv,G3757,Colossians 3,281,11
+δεξιᾷ,right hand,Adj-DFS,G1188,Colossians 3,282,11
+καθήμενος,sitting,V-PPM/P-NMS,G2521,Colossians 3,283,11
+φρονεῖτε,set your minds on,V-PMA-2P,G5426,Colossians 3,284,11
+ζωὴ,life,N-NFS,G2222,Colossians 3,285,11
+κέκρυπται,has been hidden,V-RIM/P-3S,G2928,Colossians 3,286,11
+ὅταν,When,Conj,G3752,Colossians 3,287,11
+τότε,then,Adv,G5119,Colossians 3,288,11
+Νεκρώσατε,Put to death,V-AMA-2P,G3499,Colossians 3,289,11
+μέλη,members,N-ANP,G3196,Colossians 3,290,11
+πορνείαν,sexual immorality,N-AFS,G4202,Colossians 3,291,11
+ἀκαθαρσίαν,impurity,N-AFS,G167,Colossians 3,292,11
+πάθος,passion,N-ANS,G3806,Colossians 3,293,11
+ἐπιθυμίαν,desire,N-AFS,G1939,Colossians 3,294,11
+κακήν,evil,Adj-AFS,G2556,Colossians 3,295,11
+πλεονεξίαν,covetousness,N-AFS,G4124,Colossians 3,296,11
+εἰδωλολατρία,idolatry,N-NFS,G1495,Colossians 3,297,11
+ἔρχεται,is coming,V-PIM/P-3S,G2064,Colossians 3,298,11
+ὀργὴ,wrath,N-NFS,G3709,Colossians 3,299,11
+ἀπειθείας,disobedience,N-GFS,G543,Colossians 3,300,11
+ὅτε,when,Adv,G3753,Colossians 3,301,11
+ἀπόθεσθε,put off,V-AMM-2P,G659,Colossians 3,302,11
+θυμόν,rage,N-AMS,G2372,Colossians 3,303,11
+κακίαν,malice,N-AFS,G2549,Colossians 3,304,11
+βλασφημίαν,slander,N-AFS,G988,Colossians 3,305,11
+αἰσχρολογίαν,foul language,N-AFS,G148,Colossians 3,306,11
+στόματος,mouth,N-GNS,G4750,Colossians 3,307,11
+ψεύδεσθε,do lie,V-PMM-2P,G5574,Colossians 3,308,11
+ἀλλήλους,one another,RecPro-AMP,G240,Colossians 3,309,11
+παλαιὸν,old,Adj-AMS,G3820,Colossians 3,310,11
+πράξεσιν,practices,N-DFP,G4234,Colossians 3,311,11
+ἐνδυσάμενοι,having put on,V-APM-NMP,G1746,Colossians 3,312,11
+νέον,new,Adj-AMS,G3501,Colossians 3,313,11
+ἀνακαινούμενον,being renewed,V-PPM/P-AMS,G341,Colossians 3,314,11
+ὅπου,where,Adv,G3699,Colossians 3,315,11
+ἔνι,there is,V-PIA-3S,G1762,Colossians 3,316,11
+Ἕλλην,Greek,N-NMS,G1672,Colossians 3,317,11
+Ἰουδαῖος,Jew,Adj-NMS,G2453,Colossians 3,318,11
+βάρβαρος,Barbarian,Adj-NMS,G915,Colossians 3,319,11
+Σκύθης,Scythian,N-NMS,G4658,Colossians 3,320,11
+δοῦλος,slave,N-NMS,G1401,Colossians 3,321,11
+ἐλεύθερος,free,Adj-NMS,G1658,Colossians 3,322,11
+ἐκλεκτοὶ,the elect,Adj-NMP,G1588,Colossians 3,323,11
+ἠγαπημένοι,beloved,V-RPM/P-NMP,G25,Colossians 3,324,11
+σπλάγχνα,hearts,N-ANP,G4698,Colossians 3,325,11
+οἰκτιρμοῦ,of compassion,N-GMS,G3628,Colossians 3,326,11
+χρηστότητα,kindness,N-AFS,G5544,Colossians 3,327,11
+πραΰτητα,gentleness,N-AFS,G4240,Colossians 3,328,11
+ἀνεχόμενοι,bearing with,V-PPM/P-NMP,G430,Colossians 3,329,11
+ἑαυτοῖς,each other,RefPro-DM3P,G1438,Colossians 3,330,11
+ἐάν,If,Conj,G1437,Colossians 3,331,11
+μομφήν,a complaint,N-AFS,G3437,Colossians 3,332,11
+οὕτως,so,Adv,G3779,Colossians 3,333,11
+τελειότητος,of perfect unity,N-GFS,G5047,Colossians 3,334,11
+βραβευέτω,let rule,V-PMA-3S,G1018,Colossians 3,335,11
+ἐκλήθητε,you were called,V-AIP-2P,G2564,Colossians 3,336,11
+ἑνὶ,one,Adj-DNS,G1520,Colossians 3,337,11
+εὐχάριστοι,thankful,Adj-NMP,G2170,Colossians 3,338,11
+ἐνοικείτω,let dwell,V-PMA-3S,G1774,Colossians 3,339,11
+πλουσίως,richly,Adv,G4146,Colossians 3,340,11
+ψαλμοῖς,in psalms,N-DMP,G5568,Colossians 3,341,11
+ὕμνοις,hymns,N-DMP,G5215,Colossians 3,342,11
+ᾠδαῖς,and songs,N-DFP,G5603,Colossians 3,343,11
+ᾄδοντες,singing,V-PPA-NMP,G103,Colossians 3,344,11
+ποιῆτε,you might do,V-PSA-2P,G4160,Colossians 3,345,11
+ὀνόματι,the name,N-DNS,G3686,Colossians 3,346,11
+γυναῖκες,Wives,N-VFP,G1135,Colossians 3,347,11
+ὑποτάσσεσθε,submit yourselves,V-PMP-2P,G5293,Colossians 3,348,11
+ἀνδράσιν,husbands,N-DMP,G435,Colossians 3,349,11
+ἀνῆκεν,is fitting,V-IIA-3S,G433,Colossians 3,350,11
+πικραίνεσθε,be harsh,V-PMM/P-2P,G4087,Colossians 3,351,11
+τέκνα,Children,N-VNP,G5043,Colossians 3,352,11
+ὑπακούετε,obey,V-PMA-2P,G5219,Colossians 3,353,11
+γονεῦσιν,parents,N-DMP,G1118,Colossians 3,354,11
+εὐάρεστόν,pleasing,Adj-NNS,G2101,Colossians 3,355,11
+ἐρεθίζετε,do provoke,V-PMA-2P,G2042,Colossians 3,356,11
+ἀθυμῶσιν,they might become discouraged,V-PSA-3P,G120,Colossians 3,357,11
+ὀφθαλμοδουλίαις,eye-services,N-DFP,G3787,Colossians 3,358,11
+ἀνθρωπάρεσκοι,men-pleasers,Adj-NMP,G441,Colossians 3,359,11
+ἁπλότητι,sincerity,N-DFS,G572,Colossians 3,360,11
+φοβούμενοι,fearing,V-PPM/P-NMP,G5399,Colossians 3,361,11
+ψυχῆς,the soul,N-GFS,G5590,Colossians 3,362,11
+ἐργάζεσθε,work,V-PMM/P-2P,G2038,Colossians 3,363,11
+ἀπολήμψεσθε,you will receive,V-FIM-2P,G618,Colossians 3,364,11
+ἀνταπόδοσιν,reward,N-AFS,G469,Colossians 3,365,11
+κληρονομίας,inheritance,N-GFS,G2817,Colossians 3,366,11
+δουλεύετε,you serve,V-PMA-2P,G1398,Colossians 3,367,11
+ἀδικῶν,doing wrong,V-PPA-NMS,G91,Colossians 3,368,11
+κομίσεται,will be repaid for,V-FIM-3S,G2865,Colossians 3,369,11
+προσωπολημψία,partiality,N-NFS,G4382,Colossians 3,370,11
+δίκαιον,is righteous,Adj-ANS,G1342,Colossians 4,371,11
+ἰσότητα,is equal,N-AFS,G2471,Colossians 4,372,11
+παρέχεσθε,give,V-PMM-2P,G3930,Colossians 4,373,11
+προσευχῇ,In prayer,N-DFS,G4335,Colossians 4,374,11
+προσκαρτερεῖτε,continue steadfastly,V-PMA-2P,G4342,Colossians 4,375,11
+γρηγοροῦντες,watching,V-PPA-NMP,G1127,Colossians 4,376,11
+ἅμα,at the same time,Adv,G260,Colossians 4,377,11
+ἀνοίξῃ,may open,V-ASA-3S,G455,Colossians 4,378,11
+θύραν,a door,N-AFS,G2374,Colossians 4,379,11
+λαλῆσαι,to declare,V-ANA,G2980,Colossians 4,380,11
+δέδεμαι,I have been bound,V-RIM/P-1S,G1210,Colossians 4,381,11
+δεῖ,it behooves,V-PIA-3S,G1163,Colossians 4,382,11
+ἔξω,outside,Adv,G1854,Colossians 4,383,11
+καιρὸν,time,N-AMS,G2540,Colossians 4,384,11
+ἐξαγοραζόμενοι,redeeming,V-PPM-NMP,G1805,Colossians 4,385,11
+ἅλατι,with salt,N-DNS,G217,Colossians 4,386,11
+ἠρτυμένος,having been seasoned,V-RPM/P-NMS,G741,Colossians 4,387,11
+πῶς,how,Adv,G4459,Colossians 4,388,11
+ἑκάστῳ,each,Adj-DMS,G1538,Colossians 4,389,11
+ἀποκρίνεσθαι,to answer,V-PNM/P,G611,Colossians 4,390,11
+Τυχικὸς,Tychicus,N-NMS,G5190,Colossians 4,391,11
+ἔπεμψα,I sent,V-AIA-1S,G3992,Colossians 4,392,11
+γνῶτε,you might know,V-ASA-2P,G1097,Colossians 4,393,11
+Ὀνησίμῳ,Onesimus,N-DMS,G3682,Colossians 4,394,11
+ὧδε,here,Adv,G5602,Colossians 4,395,11
+Ἀσπάζεται,Greets,V-PIM/P-3S,G782,Colossians 4,396,11
+Ἀρίσταρχος,Aristarchus,N-NMS,G708,Colossians 4,397,11
+συναιχμάλωτός,fellow prisoner,N-NMS,G4869,Colossians 4,398,11
+Μᾶρκος,Mark,N-NMS,G3138,Colossians 4,399,11
+ἀνεψιὸς,cousin,N-NMS,G431,Colossians 4,400,11
+Βαρνάβα,of Barnabas,N-GMS,G921,Colossians 4,401,11
+ἐλάβετε,you have received,V-AIA-2P,G2983,Colossians 4,402,11
+ἐντολάς,instructions,N-AFP,G1785,Colossians 4,403,11
+δέξασθε,welcome,V-AMM-2P,G1209,Colossians 4,404,11
+Ἰοῦστος,Justus,N-NMS,G2459,Colossians 4,405,11
+μόνοι,only,Adj-NMP,G3441,Colossians 4,406,11
+συνεργοὶ,fellow workers,Adj-NMP,G4904,Colossians 4,407,11
+παρηγορία,a comfort,N-NFS,G3931,Colossians 4,408,11
+σταθῆτε,you may stand,V-ASP-2P,G2476,Colossians 4,409,11
+πεπληροφορημένοι,fully assured,V-RPM/P-NMP,G4135,Colossians 4,410,11
+μαρτυρῶ,I bear witness,V-PIA-1S,G3140,Colossians 4,411,11
+πολὺν,great,Adj-AMS,G4183,Colossians 4,412,11
+πόνον,concern,N-AMS,G4192,Colossians 4,413,11
+Ἱερα,Hiera,N-DFS,G2413,Colossians 4,414,11
+πόλει,polis,N-DFS,G4172,Colossians 4,415,11
+Λουκᾶς,Luke,N-NMS,G3065,Colossians 4,416,11
+ἰατρὸς,physician,N-NMS,G2395,Colossians 4,417,11
+Δημᾶς,Demas,N-NMS,G1214,Colossians 4,418,11
+Νύμφαν,Nympha,N-AFS,G3564,Colossians 4,419,11
+οἶκον,house,N-AMS,G3624,Colossians 4,420,11
+ἀναγνωσθῇ,shall be read,V-ASP-3S,G314,Colossians 4,421,11
+παρ,among,Prep,G3844,Colossians 4,422,11
+ἐπιστολή,letter,N-NFS,G1992,Colossians 4,423,11
+Λαοδικέων,of the Laodiceans,N-GMP,G2994,Colossians 4,424,11
+εἴπατε,say,V-AMA-2P,G2036,Colossians 4,425,11
+Ἀρχίππῳ,to Archippus,N-DMS,G751,Colossians 4,426,11
+διακονίαν,ministry,N-AFS,G1248,Colossians 4,427,11
+ἀσπασμὸς,greeting,N-NMS,G783,Colossians 4,428,11
+ἐμῇ,own,PPro-DF1S,G1699,Colossians 4,429,11
+χειρὶ,hand,N-DFS,G5495,Colossians 4,430,11
+Μνημονεύετέ,Remember,V-PMA-2P,G3421,Colossians 4,431,11
+δεσμῶν,chains,N-GMP,G1199,Colossians 4,432,11
+Ἀμήν,Amen,Heb,G281,Colossians 4,433,11

@@ -1,0 +1,544 @@
+Greek Word,english_translation,parsing_abbreviation,strongs_number,chapter_ref,Row Ordinal,reading_order_position
+Πέτρος,Peter,N-NMS,G4074,1 Peter 1,1,17
+ἀπόστολος,an apostle,N-NMS,G652,1 Peter 1,2,17
+Ἰησοῦ,of Jesus,N-GMS,G2424,1 Peter 1,3,17
+Χριστοῦ,Christ,N-GMS,G5547,1 Peter 1,4,17
+Ἐκλεκτοῖς,To the elect,Adj-DMP,G1588,1 Peter 1,5,17
+παρεπιδήμοις,sojourners,Adj-DMP,G3927,1 Peter 1,6,17
+Διασπορᾶς,of the Dispersion,N-GFS,G1290,1 Peter 1,7,17
+Πόντου,of Pontus,N-GMS,G4195,1 Peter 1,8,17
+Γαλατίας,Galatia,N-GFS,G1053,1 Peter 1,9,17
+Καππαδοκίας,Cappadocia,N-GFS,G2587,1 Peter 1,10,17
+Ἀσίας,Asia,N-GFS,G773,1 Peter 1,11,17
+καὶ,and,Conj,G2532,1 Peter 1,12,17
+Βιθυνίας,Bithynia,N-GFS,G978,1 Peter 1,13,17
+κατὰ,according to,Prep,G2596,1 Peter 1,14,17
+πρόγνωσιν,the foreknowledge,N-AFS,G4268,1 Peter 1,15,17
+Θεοῦ,of God,N-GMS,G2316,1 Peter 1,16,17
+Πατρός,the Father,N-GMS,G3962,1 Peter 1,17,17
+ἐν,by,Prep,G1722,1 Peter 1,18,17
+ἁγιασμῷ,the sanctification,N-DMS,G38,1 Peter 1,19,17
+Πνεύματος,of the Spirit,N-GNS,G4151,1 Peter 1,20,17
+εἰς,unto,Prep,G1519,1 Peter 1,21,17
+ὑπακοὴν,the obedience,N-AFS,G5218,1 Peter 1,22,17
+ῥαντισμὸν,sprinkling,N-AMS,G4473,1 Peter 1,23,17
+αἵματος,of the blood,N-GNS,G129,1 Peter 1,24,17
+Χάρις,Grace,N-NFS,G5485,1 Peter 1,25,17
+ὑμῖν,to you,PPro-D2P,G4771,1 Peter 1,26,17
+εἰρήνη,peace,N-NFS,G1515,1 Peter 1,27,17
+πληθυνθείη,may be multiplied,V-AOP-3S,G4129,1 Peter 1,28,17
+Εὐλογητὸς,Blessed be,Adj-NMS,G2128,1 Peter 1,29,17
+ὁ,the,Art-NMS,G3588,1 Peter 1,30,17
+Κυρίου,Lord,N-GMS,G2962,1 Peter 1,31,17
+ἡμῶν,of us,PPro-G1P,G1473,1 Peter 1,32,17
+πολὺ,great,Adj-ANS,G4183,1 Peter 1,33,17
+αὐτοῦ,of Him,PPro-GM3S,G846,1 Peter 1,34,17
+ἔλεος,mercy,N-ANS,G1656,1 Peter 1,35,17
+ἀναγεννήσας,having begotten again,V-APA-NMS,G313,1 Peter 1,36,17
+ἐλπίδα,a hope,N-AFS,G1680,1 Peter 1,37,17
+ζῶσαν,living,V-PPA-AFS,G2198,1 Peter 1,38,17
+δι,through,Prep,G1223,1 Peter 1,39,17
+ἀναστάσεως,the resurrection,N-GFS,G386,1 Peter 1,40,17
+ἐκ,out from,Prep,G1537,1 Peter 1,41,17
+νεκρῶν,the dead,Adj-GMP,G3498,1 Peter 1,42,17
+κληρονομίαν,an inheritance,N-AFS,G2817,1 Peter 1,43,17
+ἄφθαρτον,imperishable,Adj-AFS,G862,1 Peter 1,44,17
+ἀμίαντον,undefiled,Adj-AFS,G283,1 Peter 1,45,17
+ἀμάραντον,unfading,Adj-AFS,G263,1 Peter 1,46,17
+τετηρημένην,being reserved,V-RPM/P-AFS,G5083,1 Peter 1,47,17
+οὐρανοῖς,the heavens,N-DMP,G3772,1 Peter 1,48,17
+δυνάμει,the power,N-DFS,G1411,1 Peter 1,49,17
+φρουρουμένους,are being guarded,V-PPM/P-AMP,G5432,1 Peter 1,50,17
+πίστεως,faith,N-GFS,G4102,1 Peter 1,51,17
+σωτηρίαν,the salvation,N-AFS,G4991,1 Peter 1,52,17
+ἑτοίμην,ready,Adj-AFS,G2092,1 Peter 1,53,17
+ἀποκαλυφθῆναι,to be revealed,V-ANP,G601,1 Peter 1,54,17
+καιρῷ,the time,N-DMS,G2540,1 Peter 1,55,17
+ἐσχάτῳ,last,Adj-DMS,G2078,1 Peter 1,56,17
+ᾧ,which,RelPro-DMS,G3739,1 Peter 1,57,17
+ἀγαλλιᾶσθε,you greatly rejoice,V-PIM/P-2P,G21,1 Peter 1,58,17
+ὀλίγον,for a little while,Adj-ANS,G3641,1 Peter 1,59,17
+ἄρτι,at present,Adv,G737,1 Peter 1,60,17
+εἰ,if,Conj,G1487,1 Peter 1,61,17
+δέον,being necessary,V-PPA-NNS,G1163,1 Peter 1,62,17
+ἐστὶν,it is,V-PIA-3S,G1510,1 Peter 1,63,17
+λυπηθέντες,having been put to grief,V-APP-NMP,G3076,1 Peter 1,64,17
+ποικίλοις,various,Adj-DMP,G4164,1 Peter 1,65,17
+πειρασμοῖς,trials,N-DMP,G3986,1 Peter 1,66,17
+ἵνα,so that,Conj,G2443,1 Peter 1,67,17
+δοκίμιον,proven genuineness,N-NNS,G1383,1 Peter 1,68,17
+πολυτιμότερον,more precious,Adj-NNS-C,G4186,1 Peter 1,69,17
+χρυσίου,than gold,N-GNS,G5553,1 Peter 1,70,17
+ἀπολλυμένου,perishing,V-PPM-GNS,G622,1 Peter 1,71,17
+πυρὸς,fire,N-GNS,G4442,1 Peter 1,72,17
+δὲ,though,Conj,G1161,1 Peter 1,73,17
+δοκιμαζομένου,being refined,V-PPM/P-GNS,G1381,1 Peter 1,74,17
+εὑρεθῇ,may be discovered,V-ASP-3S,G2147,1 Peter 1,75,17
+ἔπαινον,praise,N-AMS,G1868,1 Peter 1,76,17
+δόξαν,glory,N-AFS,G1391,1 Peter 1,77,17
+τιμὴν,honor,N-AFS,G5092,1 Peter 1,78,17
+ἀποκαλύψει,the revelation,N-DFS,G602,1 Peter 1,79,17
+οὐκ,not,Adv,G3756,1 Peter 1,80,17
+ἰδόντες,having seen,V-APA-NMP,G3708,1 Peter 1,81,17
+ἀγαπᾶτε,you love,V-PIA-2P,G25,1 Peter 1,82,17
+μὴ,not,Adv,G3361,1 Peter 1,83,17
+πιστεύοντες,believing,V-PPA-NMP,G4100,1 Peter 1,84,17
+χαρᾷ,with joy,N-DFS,G5479,1 Peter 1,85,17
+ἀνεκλαλήτῳ,inexpressible,Adj-DFS,G412,1 Peter 1,86,17
+δεδοξασμένῃ,filled with glory,V-RPM/P-DFS,G1392,1 Peter 1,87,17
+κομιζόμενοι,receiving,V-PPM-NMP,G2865,1 Peter 1,88,17
+τέλος,outcome,N-ANS,G5056,1 Peter 1,89,17
+ψυχῶν,of your souls,N-GFP,G5590,1 Peter 1,90,17
+Περὶ,Concerning,Prep,G4012,1 Peter 1,91,17
+ἐξεζήτησαν,sought out,V-AIA-3P,G1567,1 Peter 1,92,17
+ἐξηραύνησαν,searched out diligently,V-AIA-3P,G1830,1 Peter 1,93,17
+προφῆται,the prophets,N-NMP,G4396,1 Peter 1,94,17
+προφητεύσαντες,having prophesied,V-APA-NMP,G4395,1 Peter 1,95,17
+ἐραυνῶντες,inquiring,V-PPA-NMP,G2045,1 Peter 1,96,17
+τίνα,what,IPro-AMS,G5101,1 Peter 1,97,17
+ἢ,or,Conj,G2228,1 Peter 1,98,17
+ποῖον,what manner of,IPro-AMS,G4169,1 Peter 1,99,17
+ἐδήλου,was signifying,V-IIA-3S,G1213,1 Peter 1,100,17
+προμαρτυρόμενον,testifying beforehand,V-PPM/P-NNS,G4303,1 Peter 1,101,17
+παθήματα,sufferings,N-ANP,G3804,1 Peter 1,102,17
+μετὰ,after,Prep,G3326,1 Peter 1,103,17
+ταῦτα,these,DPro-ANP,G3778,1 Peter 1,104,17
+ὅτι,that,Conj,G3754,1 Peter 1,105,17
+ἑαυτοῖς,themselves,RefPro-DM3P,G1438,1 Peter 1,106,17
+διηκόνουν,they were serving,V-IIA-3P,G1247,1 Peter 1,107,17
+νῦν,now,Adv,G3568,1 Peter 1,108,17
+ἀνηγγέλη,have been proclaimed,V-AIP-3S,G312,1 Peter 1,109,17
+εὐαγγελισαμένων,having proclaimed the gospel to,V-APM-GMP,G2097,1 Peter 1,110,17
+Ἁγίῳ,Holy,Adj-DNS,G40,1 Peter 1,111,17
+ἀποσταλέντι,having been sent,V-APP-DNS,G649,1 Peter 1,112,17
+ἀπ,from,Prep,G575,1 Peter 1,113,17
+ἐπιθυμοῦσιν,desire,V-PIA-3P,G1937,1 Peter 1,114,17
+ἄγγελοι,angels,N-NMP,G32,1 Peter 1,115,17
+παρακύψαι,to look,V-ANA,G3879,1 Peter 1,116,17
+Διὸ,Therefore,Conj,G1352,1 Peter 1,117,17
+ἀναζωσάμενοι,having girded up,V-APM-NMP,G328,1 Peter 1,118,17
+ὀσφύας,loins,N-AFP,G3751,1 Peter 1,119,17
+διανοίας,mind,N-GFS,G1271,1 Peter 1,120,17
+νήφοντες,being sober-minded,V-PPA-NMP,G3525,1 Peter 1,121,17
+τελείως,fully,Adv,G5049,1 Peter 1,122,17
+ἐλπίσατε,set your hope,V-AMA-2P,G1679,1 Peter 1,123,17
+ἐπὶ,upon,Prep,G1909,1 Peter 1,124,17
+φερομένην,being brought,V-PPM/P-AFS,G5342,1 Peter 1,125,17
+ὡς,as,Adv,G5613,1 Peter 1,126,17
+τέκνα,children,N-NNP,G5043,1 Peter 1,127,17
+συσχηματιζόμενοι,fashioning yourselves,V-PPM/P-NMP,G4964,1 Peter 1,128,17
+πρότερον,former,Adj-ANS-C,G4386,1 Peter 1,129,17
+ἀγνοίᾳ,ignorance,N-DFS,G52,1 Peter 1,130,17
+ἐπιθυμίαις,desires,N-DFP,G1939,1 Peter 1,131,17
+ἀλλὰ,But,Conj,G235,1 Peter 1,132,17
+καλέσαντα,having called,V-APA-AMS,G2564,1 Peter 1,133,17
+πάσῃ,all,Adj-DFS,G3956,1 Peter 1,134,17
+ἀναστροφῇ,your conduct,N-DFS,G391,1 Peter 1,135,17
+γενήθητε,be,V-AMP-2P,G1096,1 Peter 1,136,17
+διότι,because,Conj,G1360,1 Peter 1,137,17
+γέγραπται,it has been written,V-RIM/P-3S,G1125,1 Peter 1,138,17
+ἐπικαλεῖσθε,you call on,V-PIM-2P,G1941,1 Peter 1,139,17
+ἀπροσωπολήμπτως,impartially,Adv,G678,1 Peter 1,140,17
+κρίνοντα,judging,V-PPA-AMS,G2919,1 Peter 1,141,17
+ἑκάστου,of each,Adj-GMS,G1538,1 Peter 1,142,17
+ἔργον,work,N-ANS,G2041,1 Peter 1,143,17
+φόβῳ,fear,N-DMS,G5401,1 Peter 1,144,17
+παροικίας,sojourn,N-GFS,G3940,1 Peter 1,145,17
+χρόνον,time,N-AMS,G5550,1 Peter 1,146,17
+ἀναστράφητε,conduct yourselves,V-AMP-2P,G390,1 Peter 1,147,17
+εἰδότες,knowing,V-RPA-NMP,G1492,1 Peter 1,148,17
+φθαρτοῖς,by perishable things,Adj-DNP,G5349,1 Peter 1,149,17
+ἀργυρίῳ,by silver,N-DNS,G694,1 Peter 1,150,17
+ἐλυτρώθητε,you were redeemed,V-AIP-2P,G3084,1 Peter 1,151,17
+ματαίας,futile,Adj-GFS,G3152,1 Peter 1,152,17
+πατροπαραδότου,handed down from your fathers,Adj-GFS,G3970,1 Peter 1,153,17
+τιμίῳ,by the precious,Adj-DNS,G5093,1 Peter 1,154,17
+ἀμνοῦ,of a lamb,N-GMS,G286,1 Peter 1,155,17
+ἀμώμου,without blemish,Adj-GMS,G299,1 Peter 1,156,17
+ἀσπίλου,without spot,Adj-GMS,G784,1 Peter 1,157,17
+προεγνωσμένου,having been foreknown,V-RPM/P-GMS,G4267,1 Peter 1,158,17
+μὲν,indeed,Conj,G3303,1 Peter 1,159,17
+πρὸ,before,Prep,G4253,1 Peter 1,160,17
+καταβολῆς,the foundation,N-GFS,G2602,1 Peter 1,161,17
+κόσμου,of the world,N-GMS,G2889,1 Peter 1,162,17
+φανερωθέντος,having been revealed,V-APP-GMS,G5319,1 Peter 1,163,17
+πιστοὺς,believe,Adj-AMP,G4103,1 Peter 1,164,17
+ἐγείραντα,having raised up,V-APA-AMS,G1453,1 Peter 1,165,17
+δόντα,having given,V-APA-AMS,G1325,1 Peter 1,166,17
+ὥστε,so as for,Conj,G5620,1 Peter 1,167,17
+ἡγνικότες,having purified,V-RPA-NMP,G48,1 Peter 1,168,17
+ἀληθείας,truth,N-GFS,G225,1 Peter 1,169,17
+φιλαδελφίαν,brotherly love,N-AFS,G5360,1 Peter 1,170,17
+ἀνυπόκριτον,sincere,Adj-AFS,G505,1 Peter 1,171,17
+καθαρᾶς,purity,Adj-GFS,G2513,1 Peter 1,172,17
+καρδίας,of heart,N-GFS,G2588,1 Peter 1,173,17
+ἀλλήλους,one another,RecPro-AMP,G240,1 Peter 1,174,17
+ἐκτενῶς,fervently,Adv,G1619,1 Peter 1,175,17
+σπορᾶς,seed,N-GFS,G4701,1 Peter 1,176,17
+λόγου,the word,N-GMS,G3056,1 Peter 1,177,17
+μένοντος,abiding,V-PPA-GMS,G3306,1 Peter 1,178,17
+σὰρξ,flesh is,N-NFS,G4561,1 Peter 1,179,17
+χόρτος,grass,N-NMS,G5528,1 Peter 1,180,17
+ἄνθος,the flower,N-NNS,G438,1 Peter 1,181,17
+ἐξηράνθη,Withers,V-AIP-3S,G3583,1 Peter 1,182,17
+ἐξέπεσεν,falls away,V-AIA-3S,G1601,1 Peter 1,183,17
+ῥῆμα,the word,N-NNS,G4487,1 Peter 1,184,17
+αἰῶνα,age,N-AMS,G165,1 Peter 1,185,17
+Ἀποθέμενοι,Having put aside,V-APM-NMP,G659,1 Peter 2,186,17
+οὖν,therefore,Conj,G3767,1 Peter 2,187,17
+κακίαν,malice,N-AFS,G2549,1 Peter 2,188,17
+δόλον,deceit,N-AMS,G1388,1 Peter 2,189,17
+ὑποκρίσεις,hypocrisy,N-AFP,G5272,1 Peter 2,190,17
+φθόνους,envies,N-AMP,G5355,1 Peter 2,191,17
+καταλαλιάς,evil speakings,N-AFP,G2636,1 Peter 2,192,17
+ἀρτιγέννητα,newborn,Adj-NNP,G738,1 Peter 2,193,17
+βρέφη,babies,N-NNP,G1025,1 Peter 2,194,17
+λογικὸν,reasonable,Adj-ANS,G3050,1 Peter 2,195,17
+ἄδολον,pure,Adj-ANS,G97,1 Peter 2,196,17
+γάλα,milk,N-ANS,G1051,1 Peter 2,197,17
+ἐπιποθήσατε,crave,V-AMA-2P,G1971,1 Peter 2,198,17
+αὐξηθῆτε,you may grow up,V-ASP-2P,G837,1 Peter 2,199,17
+ἐγεύσασθε,you have tasted,V-AIM-2P,G1089,1 Peter 2,200,17
+χρηστὸς,is good,Adj-NMS,G5543,1 Peter 2,201,17
+Πρὸς,To,Prep,G4314,1 Peter 2,202,17
+προσερχόμενοι,coming,V-PPM/P-NMP,G4334,1 Peter 2,203,17
+λίθον,a stone,N-AMS,G3037,1 Peter 2,204,17
+ὑπὸ,by,Prep,G5259,1 Peter 2,205,17
+ἀνθρώπων,men,N-GMP,G444,1 Peter 2,206,17
+ἀποδεδοκιμασμένον,rejected,V-RPM/P-AMS,G593,1 Peter 2,207,17
+παρὰ,in the sight of,Prep,G3844,1 Peter 2,208,17
+ἔντιμον,and precious,Adj-AMS,G1784,1 Peter 2,209,17
+οἰκοδομεῖσθε,are being built up,V-PIM/P-2P,G3618,1 Peter 2,210,17
+οἶκος,as a house,N-NMS,G3624,1 Peter 2,211,17
+πνευματικὸς,spiritual,Adj-NMS,G4152,1 Peter 2,212,17
+ἱεράτευμα,a priesthood,N-ANS,G2406,1 Peter 2,213,17
+ἀνενέγκαι,to offer,V-ANA,G399,1 Peter 2,214,17
+θυσίας,sacrifices,N-AFP,G2378,1 Peter 2,215,17
+εὐπροσδέκτους,acceptable,Adj-AFP,G2144,1 Peter 2,216,17
+περιέχει,it is contained,V-PIA-3S,G4023,1 Peter 2,217,17
+γραφῇ,Scripture,N-DFS,G1124,1 Peter 2,218,17
+Ἰδοὺ,Behold,V-AMA-2S,G2400,1 Peter 2,219,17
+τίθημι,I lay,V-PIA-1S,G5087,1 Peter 2,220,17
+Σιὼν,Zion,N-DFS,G4622,1 Peter 2,221,17
+ἀκρογωνιαῖον,cornerstone,Adj-AMS,G204,1 Peter 2,222,17
+καταισχυνθῇ,shall be put to shame,V-ASP-3S,G2617,1 Peter 2,223,17
+ἀπιστοῦσιν,to those disobeying,V-PPA-DMP,G569,1 Peter 2,224,17
+κεφαλὴν,the head,N-AFS,G2776,1 Peter 2,225,17
+γωνίας,of the corner,N-GFS,G1137,1 Peter 2,226,17
+προσκόμματος,of stumbling,N-GNS,G4348,1 Peter 2,227,17
+πέτρα,a rock,N-NFS,G4073,1 Peter 2,228,17
+σκανδάλου,of offense,N-GNS,G4625,1 Peter 2,229,17
+προσκόπτουσιν,stumble at,V-PIA-3P,G4350,1 Peter 2,230,17
+ἀπειθοῦντες,being disobedient,V-PPA-NMP,G544,1 Peter 2,231,17
+γένος,are a race,N-NNS,G1085,1 Peter 2,232,17
+βασίλειον,a royal,Adj-NNS,G934,1 Peter 2,233,17
+ἔθνος,a nation,N-NNS,G1484,1 Peter 2,234,17
+λαὸς,a people,N-NMS,G2992,1 Peter 2,235,17
+περιποίησιν,possession,N-AFS,G4047,1 Peter 2,236,17
+ὅπως,so that,Conj,G3704,1 Peter 2,237,17
+ἀρετὰς,excellencies,N-AFP,G703,1 Peter 2,238,17
+ἐξαγγείλητε,you may proclaim,V-ASA-2P,G1804,1 Peter 2,239,17
+σκότους,darkness,N-GNS,G4655,1 Peter 2,240,17
+θαυμαστὸν,marvelous,Adj-ANS,G2298,1 Peter 2,241,17
+φῶς,light,N-ANS,G5457,1 Peter 2,242,17
+ποτε,once were,Prtcl,G4218,1 Peter 2,243,17
+ἠλεημένοι,having received mercy,V-RPM/P-NMP,G1653,1 Peter 2,244,17
+Ἀγαπητοί,Beloved,Adj-VMP,G27,1 Peter 2,245,17
+παρακαλῶ,I exhort you,V-PIA-1S,G3870,1 Peter 2,246,17
+παροίκους,aliens,Adj-AMP,G3941,1 Peter 2,247,17
+ἀπέχεσθαι,to abstain,V-PNM,G568,1 Peter 2,248,17
+σαρκικῶν,fleshly,Adj-GFP,G4559,1 Peter 2,249,17
+αἵτινες,which,RelPro-NFP,G3748,1 Peter 2,250,17
+στρατεύονται,war,V-PIM-3P,G4754,1 Peter 2,251,17
+ἔχοντες,keeping,V-PPA-NMP,G2192,1 Peter 2,252,17
+καλήν,honorable,Adj-AFS,G2570,1 Peter 2,253,17
+καταλαλοῦσιν,they speak against,V-PIA-3P,G2635,1 Peter 2,254,17
+κακοποιῶν,evildoers,N-GMP,G2555,1 Peter 2,255,17
+ἐποπτεύοντες,having witnessed,V-PPA-NMP,G2029,1 Peter 2,256,17
+ἡμέρᾳ,the day,N-DFS,G2250,1 Peter 2,257,17
+ἐπισκοπῆς,of visitation,N-GFS,G1984,1 Peter 2,258,17
+Ὑποτάγητε,Be in subjection,V-AMP-2P,G5293,1 Peter 2,259,17
+ἀνθρωπίνῃ,human,Adj-DFS,G442,1 Peter 2,260,17
+κτίσει,institution,N-DFS,G2937,1 Peter 2,261,17
+εἴτε,whether,Conj,G1535,1 Peter 2,262,17
+βασιλεῖ,to the king,N-DMS,G935,1 Peter 2,263,17
+ὑπερέχοντι,being supreme,V-PPA-DMS,G5242,1 Peter 2,264,17
+ἡγεμόσιν,to governors,N-DMP,G2232,1 Peter 2,265,17
+πεμπομένοις,being sent,V-PPM/P-DMP,G3992,1 Peter 2,266,17
+ἐκδίκησιν,vengeance,N-AFS,G1557,1 Peter 2,267,17
+ἀγαθοποιῶν,to well-doers,N-GMP,G17,1 Peter 2,268,17
+οὕτως,this,Adv,G3779,1 Peter 2,269,17
+θέλημα,will,N-NNS,G2307,1 Peter 2,270,17
+ἀγαθοποιοῦντας,doing good,V-PPA-AMP,G15,1 Peter 2,271,17
+φιμοῦν,to put to silence,V-PNA,G5392,1 Peter 2,272,17
+ἀφρόνων,of foolish,Adj-GMP,G878,1 Peter 2,273,17
+ἀγνωσίαν,ignorance,N-AFS,G56,1 Peter 2,274,17
+ἐλεύθεροι,free,Adj-NMP,G1658,1 Peter 2,275,17
+ἐπικάλυμμα,a cover-up,N-ANS,G1942,1 Peter 2,276,17
+ἐλευθερίαν,freedom,N-AFS,G1657,1 Peter 2,277,17
+δοῦλοι,servants,N-NMP,G1401,1 Peter 2,278,17
+τιμήσατε,honor,V-AMA-2P,G5091,1 Peter 2,279,17
+ἀδελφότητα,brotherhood,N-AFS,G81,1 Peter 2,280,17
+φοβεῖσθε,fear,V-PMM/P-2P,G5399,1 Peter 2,281,17
+οἰκέται,Servants,N-VMP,G3610,1 Peter 2,282,17
+δεσπόταις,masters,N-DMP,G1203,1 Peter 2,283,17
+μόνον,only,Adv,G3440,1 Peter 2,284,17
+ἀγαθοῖς,good,Adj-DMP,G18,1 Peter 2,285,17
+ἐπιεικέσιν,gentle,Adj-DMP,G1933,1 Peter 2,286,17
+σκολιοῖς,unreasonable,Adj-DMP,G4646,1 Peter 2,287,17
+γὰρ,for,Conj,G1063,1 Peter 2,288,17
+συνείδησιν,conscience,N-AFS,G4893,1 Peter 2,289,17
+ὑποφέρει,endures,V-PIA-3S,G5297,1 Peter 2,290,17
+τις,anyone,IPro-NMS,G5100,1 Peter 2,291,17
+λύπας,griefs,N-AFP,G3077,1 Peter 2,292,17
+πάσχων,suffering,V-PPA-NMS,G3958,1 Peter 2,293,17
+ἀδίκως,unjustly,Adv,G95,1 Peter 2,294,17
+κλέος,credit is it,N-NNS,G2811,1 Peter 2,295,17
+ἁμαρτάνοντες,sinning,V-PPA-NMP,G264,1 Peter 2,296,17
+κολαφιζόμενοι,being struck,V-PPM/P-NMP,G2852,1 Peter 2,297,17
+ὑπομενεῖτε,you shall endure,V-FIA-2P,G5278,1 Peter 2,298,17
+ὑπὲρ,for,Prep,G5228,1 Peter 2,299,17
+ὑπολιμπάνων,leaving,V-PPA-NMS,G5277,1 Peter 2,300,17
+ὑπογραμμὸν,an example,N-AMS,G5261,1 Peter 2,301,17
+ἐπακολουθήσητε,you should follow after,V-ASA-2P,G1872,1 Peter 2,302,17
+ἴχνεσιν,steps,N-DNP,G2487,1 Peter 2,303,17
+ἁμαρτίαν,sin,N-AFS,G266,1 Peter 2,304,17
+ἐποίησεν,committed,V-AIA-3S,G4160,1 Peter 2,305,17
+οὐδὲ,neither,Conj,G3761,1 Peter 2,306,17
+στόματι,mouth,N-DNS,G4750,1 Peter 2,307,17
+λοιδορούμενος,being reviled,V-PPM/P-NMS,G3058,1 Peter 2,308,17
+ἀντελοιδόρει,reviled in return,V-IIA-3S,G486,1 Peter 2,309,17
+ἠπείλει,threatened,V-IIA-3S,G546,1 Peter 2,310,17
+παρεδίδου,He gave Himself over,V-IIA-3S,G3860,1 Peter 2,311,17
+δικαίως,justly,Adv,G1346,1 Peter 2,312,17
+σώματι,body,N-DNS,G4983,1 Peter 2,313,17
+ξύλον,tree,N-ANS,G3586,1 Peter 2,314,17
+ἀπογενόμενοι,having been dead,V-APM-NMP,G581,1 Peter 2,315,17
+δικαιοσύνῃ,to righteousness,N-DFS,G1343,1 Peter 2,316,17
+μώλωπι,wounds,N-DMS,G3468,1 Peter 2,317,17
+ἰάθητε,you have been healed,V-AIP-2P,G2390,1 Peter 2,318,17
+πρόβατα,sheep,N-NNP,G4263,1 Peter 2,319,17
+πλανώμενοι,going astray,V-PPM/P-NMP,G4105,1 Peter 2,320,17
+ἐπεστράφητε,you have returned,V-AIP-2P,G1994,1 Peter 2,321,17
+Ποιμένα,Shepherd,N-AMS,G4166,1 Peter 2,322,17
+Ἐπίσκοπον,Overseer,N-AMS,G1985,1 Peter 2,323,17
+Ὁμοίως,Likewise,Adv,G3668,1 Peter 3,324,17
+γυναῖκες,wives,N-VFP,G1135,1 Peter 3,325,17
+ἰδίοις,own,Adj-DMP,G2398,1 Peter 3,326,17
+ἀνδράσιν,husbands,N-DMP,G435,1 Peter 3,327,17
+ἄνευ,without,Prep,G427,1 Peter 3,328,17
+κερδηθήσονται,they will be won over,V-FIP-3P,G2770,1 Peter 3,329,17
+ἁγνὴν,pure,Adj-AFS,G53,1 Peter 3,330,17
+ἔξωθεν,external,Adv,G1855,1 Peter 3,331,17
+ἐμπλοκῆς,of braiding,N-GFS,G1708,1 Peter 3,332,17
+τριχῶν,of hair,N-GFP,G2359,1 Peter 3,333,17
+περιθέσεως,putting around,N-GFS,G4025,1 Peter 3,334,17
+ἐνδύσεως,putting on,N-GFS,G1745,1 Peter 3,335,17
+ἱματίων,of garments,N-GNP,G2440,1 Peter 3,336,17
+κρυπτὸς,hidden,Adj-NMS,G2927,1 Peter 3,337,17
+πραέως,gentle,Adj-GNS,G4239,1 Peter 3,338,17
+ἡσυχίου,quiet,Adj-GNS,G2272,1 Peter 3,339,17
+ἐνώπιον,before,Prep,G1799,1 Peter 3,340,17
+πολυτελές,of great worth,Adj-NNS,G4185,1 Peter 3,341,17
+ἐκόσμουν,used to adorn,V-IIA-3P,G2885,1 Peter 3,342,17
+Σάρρα,Sarah,N-NFS,G4564,1 Peter 3,343,17
+ὑπήκουσεν,obeyed,V-AIA-3S,G5219,1 Peter 3,344,17
+Ἀβραάμ,Abraham,N-DMS,G11,1 Peter 3,345,17
+μηδεμίαν,not one,Adj-AFS,G3367,1 Peter 3,346,17
+πτόησιν,consternation,N-AFS,G4423,1 Peter 3,347,17
+συνοικοῦντες,dwelling with them,V-PPA-NMP,G4924,1 Peter 3,348,17
+γνῶσιν,knowledge,N-AFS,G1108,1 Peter 3,349,17
+ἀσθενεστέρῳ,with a weaker,Adj-DNS-C,G772,1 Peter 3,350,17
+σκεύει,vessel,N-DNS,G4632,1 Peter 3,351,17
+γυναικείῳ,female,Adj-DNS,G1134,1 Peter 3,352,17
+ἀπονέμοντες,rendering,V-PPA-NMP,G632,1 Peter 3,353,17
+συνκληρονόμοις,joint-heirs,Adj-DMP,G4789,1 Peter 3,354,17
+ζωῆς,of life,N-GFS,G2222,1 Peter 3,355,17
+ἐνκόπτεσθαι,to be hindered,V-PNM/P,G1465,1 Peter 3,356,17
+προσευχὰς,prayers,N-AFP,G4335,1 Peter 3,357,17
+ὁμόφρονες,single-minded,Adj-NMP,G3675,1 Peter 3,358,17
+συμπαθεῖς,sympathetic,Adj-NMP,G4835,1 Peter 3,359,17
+φιλάδελφοι,loving as brothers,Adj-NMP,G5361,1 Peter 3,360,17
+εὔσπλαγχνοι,tender-hearted,Adj-NMP,G2155,1 Peter 3,361,17
+ταπεινόφρονες,humble,Adj-NMP,G5012,1 Peter 3,362,17
+ἀποδιδόντες,repaying,V-PPA-NMP,G591,1 Peter 3,363,17
+κακὸν,evil,Adj-ANS,G2556,1 Peter 3,364,17
+ἀντὶ,for,Prep,G473,1 Peter 3,365,17
+λοιδορίαν,insult,N-AFS,G3059,1 Peter 3,366,17
+τοὐναντίον,on the contrary,Adv-C,G5121,1 Peter 3,367,17
+εὐλογοῦντες,blessing,V-PPA-NMP,G2127,1 Peter 3,368,17
+εὐλογίαν,blessing,N-AFS,G2129,1 Peter 3,369,17
+κληρονομήσητε,you should inherit,V-ASA-2P,G2816,1 Peter 3,370,17
+θέλων,desiring,V-PPA-NMS,G2309,1 Peter 3,371,17
+παυσάτω,let him keep,V-AMA-3S,G3973,1 Peter 3,372,17
+γλῶσσαν,tongue,N-AFS,G1100,1 Peter 3,373,17
+χείλη,lips,N-ANP,G5491,1 Peter 3,374,17
+λαλῆσαι,to speak,V-ANA,G2980,1 Peter 3,375,17
+ἐκκλινάτω,Let him turn away,V-AMA-3S,G1578,1 Peter 3,376,17
+ζητησάτω,Let him seek,V-AMA-3S,G2212,1 Peter 3,377,17
+διωξάτω,let him pursue,V-AMA-3S,G1377,1 Peter 3,378,17
+ὀφθαλμοὶ,the eyes,N-NMP,G3788,1 Peter 3,379,17
+δικαίους,the righteous,Adj-AMP,G1342,1 Peter 3,380,17
+ὦτα,the ears,N-NNP,G3775,1 Peter 3,381,17
+δέησιν,prayer,N-AFS,G1162,1 Peter 3,382,17
+πρόσωπον,The face,N-NNS,G4383,1 Peter 3,383,17
+κακώσων,will harm,V-FPA-NMS,G2559,1 Peter 3,384,17
+ἐὰν,if,Conj,G1437,1 Peter 3,385,17
+ζηλωταὶ,zealous,N-NMP,G2207,1 Peter 3,386,17
+μακάριοι,you are blessed,Adj-NMP,G3107,1 Peter 3,387,17
+μηδὲ,neither,Conj,G3366,1 Peter 3,388,17
+ταραχθῆτε,should you be troubled,V-ASP-2P,G5015,1 Peter 3,389,17
+ἁγιάσατε,sanctify,V-AMA-2P,G37,1 Peter 3,390,17
+ἀεὶ,always,Adv,G104,1 Peter 3,391,17
+ἀπολογίαν,a defense,N-AFS,G627,1 Peter 3,392,17
+αἰτοῦντι,asking,V-PPA-DMS,G154,1 Peter 3,393,17
+πραΰτητος,gentleness,N-GFS,G4240,1 Peter 3,394,17
+ἐπηρεάζοντες,reviling,V-PPA-NMP,G1908,1 Peter 3,395,17
+κρεῖττον,It is better,Adj-NNS-C,G2909,1 Peter 3,396,17
+κακοποιοῦντας,doing evil,V-PPA-AMP,G2554,1 Peter 3,397,17
+ἅπαξ,once,Adv,G530,1 Peter 3,398,17
+ἀδίκων,the unrighteous,Adj-GMP,G94,1 Peter 3,399,17
+προσαγάγῃ,He might bring,V-ASA-3S,G4317,1 Peter 3,400,17
+θανατωθεὶς,having been put to death,V-APM/P-NMS,G2289,1 Peter 3,401,17
+ζωοποιηθεὶς,having been made alive,V-APP-NMS,G2227,1 Peter 3,402,17
+φυλακῇ,prison,N-DFS,G5438,1 Peter 3,403,17
+πορευθεὶς,having gone,V-APP-NMS,G4198,1 Peter 3,404,17
+ἐκήρυξεν,He preached,V-AIA-3S,G2784,1 Peter 3,405,17
+ὅτε,when,Adv,G3753,1 Peter 3,406,17
+ἀπεξεδέχετο,was waiting,V-IIM/P-3S,G553,1 Peter 3,407,17
+μακροθυμία,longsuffering,N-NFS,G3115,1 Peter 3,408,17
+Νῶε,of Noah,N-GMS,G3575,1 Peter 3,409,17
+κατασκευαζομένης,being prepared,V-PPM/P-GFS,G2680,1 Peter 3,410,17
+κιβωτοῦ,of the ark,N-GFS,G2787,1 Peter 3,411,17
+ὀκτὼ,eight,Adj-NFP,G3638,1 Peter 3,412,17
+διεσώθησαν,were saved,V-AIP-3P,G1295,1 Peter 3,413,17
+ὕδατος,water,N-GNS,G5204,1 Peter 3,414,17
+ἀντίτυπον,prefigures,Adj-NNS,G499,1 Peter 3,415,17
+σῴζει,saving,V-PIA-3S,G4982,1 Peter 3,416,17
+βάπτισμα,baptism,N-NNS,G908,1 Peter 3,417,17
+ἀπόθεσις,a putting away,N-NFS,G595,1 Peter 3,418,17
+ῥύπου,of the filth,N-GMS,G4509,1 Peter 3,419,17
+ἐπερώτημα,the demand,N-NNS,G1906,1 Peter 3,420,17
+δεξιᾷ,the right hand,Adj-DFS,G1188,1 Peter 3,421,17
+ἐξουσιῶν,authorities,N-GFP,G1849,1 Peter 3,422,17
+ἔννοιαν,mind,N-AFS,G1771,1 Peter 4,423,17
+ὁπλίσασθε,arm yourselves with,V-AMM-2P,G3695,1 Peter 4,424,17
+μηκέτι,no longer,Adv,G3371,1 Peter 4,425,17
+ἐπίλοιπον,remaining,Adj-AMS,G1954,1 Peter 4,426,17
+βιῶσαι,to live,V-ANA,G980,1 Peter 4,427,17
+ἀρκετὸς,Is sufficient,Adj-NMS,G713,1 Peter 4,428,17
+παρεληλυθὼς,past,V-RPA-NMS,G3928,1 Peter 4,429,17
+βούλημα,desire,N-ANS,G1013,1 Peter 4,430,17
+κατειργάσθαι,to have carried out,V-RNM/P,G2716,1 Peter 4,431,17
+ἀσελγείαις,sensuality,N-DFP,G766,1 Peter 4,432,17
+οἰνοφλυγίαις,drunkenness,N-DFP,G3632,1 Peter 4,433,17
+κώμοις,orgies,N-DMP,G2970,1 Peter 4,434,17
+πότοις,carousing,N-DMP,G4224,1 Peter 4,435,17
+ἀθεμίτοις,abominable,Adj-DFP,G111,1 Peter 4,436,17
+εἰδωλολατρίαις,idolatries,N-DFP,G1495,1 Peter 4,437,17
+ξενίζονται,they think it strange,V-PIM/P-3P,G3579,1 Peter 4,438,17
+συντρεχόντων,running with them,V-PPA-GMP,G4936,1 Peter 4,439,17
+ἀσωτίας,of debauchery,N-GFS,G810,1 Peter 4,440,17
+ἀνάχυσιν,overflow,N-AFS,G401,1 Peter 4,441,17
+βλασφημοῦντες,speaking evil of you,V-PPA-NMP,G987,1 Peter 4,442,17
+ἑτοίμως,ready,Adv,G2093,1 Peter 4,443,17
+ἤγγικεν,has drawn near,V-RIA-3S,G1448,1 Peter 4,444,17
+σωφρονήσατε,Be clear-minded,V-AMA-2P,G4993,1 Peter 4,445,17
+ἀγάπην,love,N-AFS,G26,1 Peter 4,446,17
+ἐκτενῆ,fervent,Adj-AFS,G1618,1 Peter 4,447,17
+καλύπτει,covers over,V-PIA-3S,G2572,1 Peter 4,448,17
+πλῆθος,a multitude,N-ANS,G4128,1 Peter 4,449,17
+φιλόξενοι,hospitable,Adj-NMP,G5382,1 Peter 4,450,17
+γογγυσμοῦ,complaint,N-GMS,G1112,1 Peter 4,451,17
+καθὼς,as,Adv,G2531,1 Peter 4,452,17
+ἔλαβεν,has received,V-AIA-3S,G2983,1 Peter 4,453,17
+χάρισμα,a gift,N-ANS,G5486,1 Peter 4,454,17
+οἰκονόμοι,stewards,N-NMP,G3623,1 Peter 4,455,17
+λόγια,oracles,N-ANP,G3051,1 Peter 4,456,17
+ἰσχύος,strength,N-GFS,G2479,1 Peter 4,457,17
+χορηγεῖ,supplies,V-PIA-3S,G5524,1 Peter 4,458,17
+κράτος,power,N-NNS,G2904,1 Peter 4,459,17
+ἀμήν,Amen,Heb,G281,1 Peter 4,460,17
+πυρώσει,fire,N-DFS,G4451,1 Peter 4,461,17
+ξένου,a strange thing,Adj-GNS,G3581,1 Peter 4,462,17
+συμβαίνοντος,were happening,V-PPA-GNS,G4819,1 Peter 4,463,17
+καθὸ,as,Adv,G2526,1 Peter 4,464,17
+κοινωνεῖτε,you have shared,V-PIA-2P,G2841,1 Peter 4,465,17
+χαίρετε,rejoice,V-PMA-2P,G5463,1 Peter 4,466,17
+ὀνειδίζεσθε,you are insulted,V-PIM/P-2P,G3679,1 Peter 4,467,17
+ὀνόματι,the name,N-DNS,G3686,1 Peter 4,468,17
+ἀναπαύεται,rests,V-PIM-3S,G373,1 Peter 4,469,17
+φονεὺς,a murderer,N-NMS,G5406,1 Peter 4,470,17
+κλέπτης,a thief,N-NMS,G2812,1 Peter 4,471,17
+ἀλλοτριεπίσκοπος,a troublesome meddler,N-NMS,G244,1 Peter 4,472,17
+Χριστιανός,a Christian,N-NMS,G5546,1 Peter 4,473,17
+αἰσχυνέσθω,let him be ashamed,V-PMM/P-3S,G153,1 Peter 4,474,17
+ἄρξασθαι,to have begun,V-ANM,G756,1 Peter 4,475,17
+κρίμα,judgment,N-ANS,G2917,1 Peter 4,476,17
+πρῶτον,first,Adv-S,G4412,1 Peter 4,477,17
+εὐαγγελίῳ,gospel,N-DNS,G2098,1 Peter 4,478,17
+μόλις,with difficulty,Adv,G3433,1 Peter 4,479,17
+ἀσεβὴς,ungodly,Adj-NMS,G765,1 Peter 4,480,17
+ἁμαρτωλὸς,sinner,Adj-NMS,G268,1 Peter 4,481,17
+ποῦ,where,Adv,G4226,1 Peter 4,482,17
+φανεῖται,will appear,V-FIM-3S,G5316,1 Peter 4,483,17
+Κτίστῃ,Creator,N-DMS,G2939,1 Peter 4,484,17
+παρατιθέσθωσαν,let them commit,V-PMM/P-3P,G3908,1 Peter 4,485,17
+ἀγαθοποιΐᾳ,well-doing,N-DFS,G16,1 Peter 4,486,17
+Πρεσβυτέρους,Elders,Adj-AMP,G4245,1 Peter 5,487,17
+συμπρεσβύτερος,a fellow elder,N-NMS,G4850,1 Peter 5,488,17
+μάρτυς,witness,N-NMS,G3144,1 Peter 5,489,17
+μελλούσης,being about,V-PPA-GFS,G3195,1 Peter 5,490,17
+κοινωνός,partaker,N-NMS,G2844,1 Peter 5,491,17
+ποιμάνατε,Shepherd,V-AMA-2P,G4165,1 Peter 5,492,17
+ποίμνιον,flock,N-ANS,G4168,1 Peter 5,493,17
+ἐπισκοποῦντες,exercising oversight,V-PPA-NMP,G1983,1 Peter 5,494,17
+ἀναγκαστῶς,under compulsion,Adv,G317,1 Peter 5,495,17
+ἑκουσίως,willingly,Adv,G1596,1 Peter 5,496,17
+αἰσχροκερδῶς,for base gain,Adv,G147,1 Peter 5,497,17
+προθύμως,eagerly,Adv,G4290,1 Peter 5,498,17
+κατακυριεύοντες,exercising lordship over,V-PPA-NMP,G2634,1 Peter 5,499,17
+κλήρων,those in your charge,N-GMP,G2819,1 Peter 5,500,17
+τύποι,examples,N-NMP,G5179,1 Peter 5,501,17
+Ἀρχιποίμενος,Chief Shepherd,N-GMS,G750,1 Peter 5,502,17
+ἀμαράντινον,unfading,Adj-AMS,G262,1 Peter 5,503,17
+στέφανον,crown,N-AMS,G4735,1 Peter 5,504,17
+νεώτεροι,younger ones,Adj-VMP-C,G3501,1 Peter 5,505,17
+ἐγκομβώσασθε,gird on,V-AMM-2P,G1463,1 Peter 5,506,17
+ὑπερηφάνοις,the proud,Adj-DMP,G5244,1 Peter 5,507,17
+ἀντιτάσσεται,opposes,V-PIM-3S,G498,1 Peter 5,508,17
+ταπεινοῖς,to the humble,Adj-DMP,G5011,1 Peter 5,509,17
+Ταπεινώθητε,Be humbled,V-AMP-2P,G5013,1 Peter 5,510,17
+κραταιὰν,mighty,Adj-AFS,G2900,1 Peter 5,511,17
+χεῖρα,hand,N-AFS,G5495,1 Peter 5,512,17
+ὑψώσῃ,He may exalt,V-ASA-3S,G5312,1 Peter 5,513,17
+μέριμναν,anxiety,N-AFS,G3308,1 Peter 5,514,17
+ἐπιρίψαντες,having cast,V-APA-NMP,G1977,1 Peter 5,515,17
+μέλει,there is care,V-PIA-3S,G3199,1 Peter 5,516,17
+γρηγορήσατε,watch,V-AMA-2P,G1127,1 Peter 5,517,17
+ἀντίδικος,adversary,N-NMS,G476,1 Peter 5,518,17
+διάβολος,the devil,Adj-NMS,G1228,1 Peter 5,519,17
+λέων,a lion,N-NMS,G3023,1 Peter 5,520,17
+ὠρυόμενος,roaring,V-PPM/P-NMS,G5612,1 Peter 5,521,17
+περιπατεῖ,prowls about,V-PIA-3S,G4043,1 Peter 5,522,17
+καταπιεῖν,to devour,V-ANA,G2666,1 Peter 5,523,17
+ἀντίστητε,you should resist,V-AMA-2P,G436,1 Peter 5,524,17
+στερεοὶ,firm,Adj-NMP,G4731,1 Peter 5,525,17
+ἐπιτελεῖσθαι,to be accomplished,V-PNM/P,G2005,1 Peter 5,526,17
+αἰώνιον,eternal,Adj-AFS,G166,1 Peter 5,527,17
+καταρτίσει,will perfect,V-FIA-3S,G2675,1 Peter 5,528,17
+στηρίξει,will confirm,V-FIA-3S,G4741,1 Peter 5,529,17
+σθενώσει,will strengthen,V-FIA-3S,G4599,1 Peter 5,530,17
+θεμελιώσει,and will establish you,V-FIA-3S,G2311,1 Peter 5,531,17
+Σιλουανοῦ,Silvanus,N-GMS,G4610,1 Peter 5,532,17
+ἀδελφοῦ,brother,N-GMS,G80,1 Peter 5,533,17
+λογίζομαι,I regard him,V-PIM/P-1S,G3049,1 Peter 5,534,17
+ἐπιμαρτυρῶν,testifying,V-PPA-NMS,G1957,1 Peter 5,535,17
+ἀληθῆ,the true,Adj-AFS,G227,1 Peter 5,536,17
+στῆτε,you stand,V-AMA-2P,G2476,1 Peter 5,537,17
+Ἀσπάζεται,Greets,V-PIM/P-3S,G782,1 Peter 5,538,17
+Βαβυλῶνι,Babylon,N-DFS,G897,1 Peter 5,539,17
+συνεκλεκτὴ,elected with you,Adj-NFS,G4899,1 Peter 5,540,17
+Μάρκος,Mark,N-NMS,G3138,1 Peter 5,541,17
+υἱός,son,N-NMS,G5207,1 Peter 5,542,17
+φιλήματι,a kiss,N-DNS,G5370,1 Peter 5,543,17

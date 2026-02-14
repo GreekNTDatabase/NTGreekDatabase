@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Biblical Language Vocabulary Database</title>
+  <style>    *,*::before,*::after{box-sizing:border-box}
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6; margin: 0; padding: 0;
+      color: #111; background: #fff;
+    }
+    nav {
+      background: #1a1a2e; padding: 0.75rem 1.5rem;
+      display: flex; gap: 1.5rem; flex-wrap: wrap;
+    }
+    nav a {
+      color: #ccc; text-decoration: none; font-size: 0.95rem;
+      padding: 0.25rem 0;
+    }
+    nav a:hover, nav a.active { color: #fff; }
+    nav a.active { border-bottom: 2px solid #6c9bd2; }
+    .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.5rem; margin-top: 2.5rem; margin-bottom: 0.75rem;
+         padding-bottom: 0.4rem; border-bottom: 1px solid #e0e0e0; }
+    h3 { font-size: 1.15rem; margin-top: 1.75rem; margin-bottom: 0.5rem; }
+    p { margin: 0.75rem 0; }
+    a { color: #0645ad; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .subtitle { color: #555; font-size: 1.05rem; margin-top: 0; }
+    .stats-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem; margin: 1.5rem 0;
+    }
+    .stat-card {
+      background: #f8f9fa; border-radius: 6px; padding: 1.25rem;
+      text-align: center; border: 1px solid #e9ecef;
+    }
+    .stat-card .number { font-size: 1.8rem; font-weight: 700; color: #1a1a2e; }
+    .stat-card .label { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
+    .corpus-cards {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem; margin: 2rem 0;
+    }
+    .corpus-card {
+      border: 1px solid #ddd; border-radius: 8px; padding: 1.75rem;
+      transition: box-shadow 0.2s;
+    }
+    .corpus-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .corpus-card h3 { margin-top: 0; font-size: 1.3rem; }
+    .corpus-card .meta { color: #555; font-size: 0.9rem; margin: 0.5rem 0; }
+    .corpus-card .cta {
+      display: inline-block; margin-top: 0.75rem;
+      color: #0645ad; font-weight: 600;
+    }
+    .downloads-box {
+      background: #f8f9fa; padding: 1.25rem 1.5rem;
+      border-radius: 6px; margin: 1rem 0;
+    }
+    .downloads-box ul { margin: 0.5rem 0 0.5rem 1.2rem; }
+    .downloads-box li { margin: 0.4rem 0; }
+    table {
+      width: 100%; border-collapse: collapse; margin: 1rem 0;
+      font-size: 0.88rem;
+    }
+    th, td { padding: 0.5rem 0.65rem; text-align: left; border-bottom: 1px solid #e9ecef; }
+    th {
+      background: #f8f9fa; font-weight: 600; position: sticky; top: 0;
+      cursor: pointer; user-select: none; white-space: nowrap;
+    }
+    th:hover { background: #e9ecef; }
+    th .sort-arrow { font-size: 0.7rem; margin-left: 0.3rem; color: #999; }
+    tr:hover { background: #f8f9fa; }
+    td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .pct-bar {
+      display: inline-block; height: 6px; border-radius: 3px;
+      background: #6c9bd2; vertical-align: middle; margin-left: 0.4rem;
+    }
+    .table-wrap { overflow-x: auto; margin: 1rem 0; }
+    .dl-link { font-size: 0.82rem; white-space: nowrap; }
+    .dl-link a { margin-right: 0.5rem; }
+    .strategy-label {
+      display: inline-block; background: #1a1a2e; color: #fff;
+      font-size: 0.75rem; font-weight: 700; padding: 0.15rem 0.6rem;
+      border-radius: 3px; letter-spacing: 0.03em; vertical-align: middle;
+    }
+    .highlight-box {
+      background: #e8f4f8; border-left: 4px solid #6c9bd2;
+      padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0;
+    }
+    .comparison-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 1.5rem; margin: 1.5rem 0;
+    }
+    @media (max-width: 700px) {
+      .comparison-grid { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: 1fr 1fr; }
+    }
+    .toggle-btn {
+      background: none; border: 1px solid #ccc; border-radius: 4px;
+      padding: 0.4rem 0.8rem; cursor: pointer; font-size: 0.85rem;
+      color: #333; margin: 0.5rem 0;
+    }
+    .toggle-btn:hover { background: #f0f0f0; }
+    details { margin: 0.5rem 0; }
+    details summary {
+      cursor: pointer; font-weight: 600; padding: 0.5rem 0;
+      color: #0645ad;
+    }
+    details summary:hover { text-decoration: underline; }
+    footer {
+      margin-top: 3rem; padding-top: 1.5rem;
+      border-top: 1px solid #ddd; font-size: 0.85rem; color: #666;
+    }
+    footer a { color: #0645ad; }
+    small { color: #555; }
+</style>
+</head>
+<body>
+<nav><a href="index.html">Home</a><a href="greek-nt.html">Greek NT</a><a href="hebrew-ot.html">Hebrew OT</a><a href="about.html" class="active">About</a></nav>
+<div class="container">
+
+<h1>About This Project</h1>
+
+<p>This project began as a personal learning tool for studying the Greek
+   New Testament and Hebrew Old Testament in their original languages. It
+   brings together an interest in data, structured workflows, and a desire
+   to read the Scriptures more carefully in the original languages.</p>
+
+<h2>How It Was Built</h2>
+
+<p>The raw data was extracted from interlinear Bible sources, producing
+   per-word records with morphological parsing, Strong's concordance numbers,
+   and English glosses. Each corpus was processed through an automated pipeline:</p>
+
+<ol>
+  <li><strong>Extraction</strong> &mdash; Parse source data into per-book CSV files</li>
+  <li><strong>Deduplication</strong> &mdash; Generate unique-lemma files (first occurrence of each Strong's number)</li>
+  <li><strong>Master compilation</strong> &mdash; Concatenate all books with globally renumbered ordinals</li>
+  <li><strong>Reading order analysis</strong> &mdash; Run two greedy optimization algorithms</li>
+  <li><strong>Optimized file generation</strong> &mdash; Produce per-book files in each optimized order</li>
+</ol>
+
+<h2>Data Schema</h2>
+
+<h3>Greek New Testament</h3>
+<div class="table-wrap">
+<table>
+<thead><tr><th>Column</th><th>Description</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>Greek Word</td><td>The Greek word form as it appears in the text</td><td>&#x03BB;&#x03CC;&#x03B3;&#x03BF;&#x03C2;</td></tr>
+<tr><td>english_translation</td><td>English gloss / interlinear translation</td><td>word</td></tr>
+<tr><td>parsing_abbreviation</td><td>Morphological parsing code</td><td>N-NMS</td></tr>
+<tr><td>strongs_number</td><td>Strong's Greek concordance number</td><td>G3056</td></tr>
+<tr><td>chapter_ref</td><td>Book and chapter reference</td><td>John 1</td></tr>
+<tr><td>Row Ordinal</td><td>Sequential position number</td><td>1</td></tr>
+</tbody>
+</table>
+</div>
+
+<h3>Hebrew Old Testament</h3>
+<div class="table-wrap">
+<table>
+<thead><tr><th>Column</th><th>Description</th><th>Example</th></tr></thead>
+<tbody>
+<tr><td>hebrew_word</td><td>The Hebrew word form with cantillation</td><td>&#x05D1;&#x05E8;&#x05D0;&#x05E9;&#x05C1;&#x05B4;&#x05D9;&#x05EA;</td></tr>
+<tr><td>lemma</td><td>Strong's number (lexical form reference)</td><td>H7225</td></tr>
+<tr><td>transliteration</td><td>Romanized pronunciation</td><td>b&#x0259;&#xB7;r&#x0113;&#xB7;&#x161;&#x00EE;&#x1E6F;</td></tr>
+<tr><td>english_translation</td><td>English gloss</td><td>In the beginning</td></tr>
+<tr><td>parsing_abbreviation</td><td>Morphological parsing code</td><td>N&#x2011;fs</td></tr>
+<tr><td>strongs_number</td><td>Strong's Hebrew concordance number</td><td>H7225</td></tr>
+<tr><td>book</td><td>Book name</td><td>Genesis</td></tr>
+<tr><td>chapter</td><td>Chapter number</td><td>1</td></tr>
+<tr><td>ordinal</td><td>Sequential position number</td><td>1</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>Reading Order Algorithms</h2>
+
+<p>Both strategies use a greedy algorithm. They share the same starting book
+   &mdash; the one whose vocabulary set has the highest overlap with the most
+   frequent words across the entire corpus.</p>
+
+<h3>Strategy A &mdash; Minimal New Vocabulary</h3>
+<p>At each step, pick the remaining book that introduces the <em>fewest</em>
+   new lemmas. This keeps vocabulary growth as gradual as possible.</p>
+
+<h3>Strategy B &mdash; Maximum Readability</h3>
+<p>At each step, pick the remaining book where you already know the
+   <em>highest percentage</em> of its vocabulary. This maximizes reading
+   comprehension at each step.</p>
+
+<h2>Inspiration</h2>
+
+<p>The Greek NT reading order was originally inspired by
+   <a href="https://www.amazon.com/Greek-Life-Strategies-Retaining-Testament/dp/0801093201/"
+      target="_blank" rel="noopener"><em>Greek for Life</em></a>
+   by Jonathan T. Pennington, which recommends reading the NT in a
+   specific order to build vocabulary naturally.</p>
+
+<p>The computational approach extends this idea by using actual corpus data
+   to optimize the sequence algorithmically.</p>
+
+<h2>License &amp; Citation</h2>
+
+<p>This project is licensed under
+   <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+   You are free to use, share, and adapt the data with attribution.</p>
+
+<p>Source code:
+   <a href="https://github.com/GreekNTDatabase/NTGreekDatabase">GitHub</a></p>
+
+<footer>
+  <p>Files are provided as UTF-8 CSV. Download and open in Excel, LibreOffice,
+     or a flashcard application.</p>
+  <p>Licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+     Source on <a href="https://github.com/GreekNTDatabase/NTGreekDatabase">GitHub</a>.</p>
+</footer>
+</div>
+<script>function sortTable(table, col, type) {
+  var tbody = table.querySelector('tbody');
+  var rows = Array.from(tbody.querySelectorAll('tr'));
+  var asc = table.getAttribute('data-sort-col') == col
+            && table.getAttribute('data-sort-dir') == 'asc' ? false : true;
+  rows.sort(function(a, b) {
+    var av = a.cells[col].getAttribute('data-v') || a.cells[col].textContent.trim();
+    var bv = b.cells[col].getAttribute('data-v') || b.cells[col].textContent.trim();
+    if (type === 'num') { av = parseFloat(av) || 0; bv = parseFloat(bv) || 0; }
+    if (av < bv) return asc ? -1 : 1;
+    if (av > bv) return asc ? 1 : -1;
+    return 0;
+  });
+  rows.forEach(function(r) { tbody.appendChild(r); });
+  table.setAttribute('data-sort-col', col);
+  table.setAttribute('data-sort-dir', asc ? 'asc' : 'desc');
+  // Update arrows
+  table.querySelectorAll('th .sort-arrow').forEach(function(s) { s.textContent = '\u2195'; });
+  var arrow = table.querySelectorAll('th')[col].querySelector('.sort-arrow');
+  if (arrow) arrow.textContent = asc ? '\u25B2' : '\u25BC';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('table.sortable th').forEach(function(th, i) {
+    th.addEventListener('click', function() {
+      var table = th.closest('table');
+      var type = th.getAttribute('data-type') || 'str';
+      sortTable(table, i, type);
+    });
+  });
+});
+</script>
+</body>
+</html>

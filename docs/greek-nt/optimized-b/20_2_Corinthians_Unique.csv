@@ -1,0 +1,786 @@
+Greek Word,english_translation,parsing_abbreviation,strongs_number,chapter_ref,Row Ordinal,reading_order_position
+Παῦλος,Paul,N-NMS,G3972,2 Corinthians 1,1,20
+ἀπόστολος,apostle,N-NMS,G652,2 Corinthians 1,2,20
+Χριστοῦ,of Christ,N-GMS,G5547,2 Corinthians 1,3,20
+Ἰησοῦ,Jesus,N-GMS,G2424,2 Corinthians 1,4,20
+διὰ,by,Prep,G1223,2 Corinthians 1,5,20
+θελήματος,the will,N-GNS,G2307,2 Corinthians 1,6,20
+Θεοῦ,of God,N-GMS,G2316,2 Corinthians 1,7,20
+καὶ,and,Conj,G2532,2 Corinthians 1,8,20
+Τιμόθεος,Timothy,N-NMS,G5095,2 Corinthians 1,9,20
+ὁ,the,Art-NMS,G3588,2 Corinthians 1,10,20
+ἀδελφὸς,brother,N-NMS,G80,2 Corinthians 1,11,20
+ἐκκλησίᾳ,church,N-DFS,G1577,2 Corinthians 1,12,20
+οὔσῃ,being,V-PPA-DFS,G1510,2 Corinthians 1,13,20
+ἐν,in,Prep,G1722,2 Corinthians 1,14,20
+Κορίνθῳ,Corinth,N-DFS,G2882,2 Corinthians 1,15,20
+σὺν,with,Prep,G4862,2 Corinthians 1,16,20
+ἁγίοις,saints,Adj-DMP,G40,2 Corinthians 1,17,20
+πᾶσιν,all,Adj-DMP,G3956,2 Corinthians 1,18,20
+ὅλῃ,all,Adj-DFS,G3650,2 Corinthians 1,19,20
+Ἀχαΐᾳ,Achaia,N-DFS,G882,2 Corinthians 1,20,20
+Χάρις,Grace,N-NFS,G5485,2 Corinthians 1,21,20
+ὑμῖν,to you,PPro-D2P,G4771,2 Corinthians 1,22,20
+εἰρήνη,peace,N-NFS,G1515,2 Corinthians 1,23,20
+ἀπὸ,from,Prep,G575,2 Corinthians 1,24,20
+Πατρὸς,the Father,N-GMS,G3962,2 Corinthians 1,25,20
+ἡμῶν,of us,PPro-G1P,G1473,2 Corinthians 1,26,20
+Κυρίου,the Lord,N-GMS,G2962,2 Corinthians 1,27,20
+Εὐλογητὸς,Blessed be,Adj-NMS,G2128,2 Corinthians 1,28,20
+οἰκτιρμῶν,of compassions,N-GMP,G3628,2 Corinthians 1,29,20
+παρακλήσεως,comfort,N-GFS,G3874,2 Corinthians 1,30,20
+παρακαλῶν,comforting,V-PPA-NMS,G3870,2 Corinthians 1,31,20
+ἐπὶ,in,Prep,G1909,2 Corinthians 1,32,20
+θλίψει,tribulation,N-DFS,G2347,2 Corinthians 1,33,20
+εἰς,for,Prep,G1519,2 Corinthians 1,34,20
+δύνασθαι,to be able,V-PNM/P,G1410,2 Corinthians 1,35,20
+ἧς,with which,RelPro-GFS,G3739,2 Corinthians 1,36,20
+αὐτοὶ,ourselves,PPro-NM3P,G846,2 Corinthians 1,37,20
+ὑπὸ,by,Prep,G5259,2 Corinthians 1,38,20
+ὅτι,because,Conj,G3754,2 Corinthians 1,39,20
+καθὼς,as,Adv,G2531,2 Corinthians 1,40,20
+περισσεύει,abound,V-PIA-3S,G4052,2 Corinthians 1,41,20
+παθήματα,sufferings,N-NNP,G3804,2 Corinthians 1,42,20
+οὕτως,thus so,Adv,G3779,2 Corinthians 1,43,20
+Εἴτε,If,Conj,G1535,2 Corinthians 1,44,20
+δὲ,however,Conj,G1161,2 Corinthians 1,45,20
+θλιβόμεθα,we are constricted,V-PIM/P-1P,G2346,2 Corinthians 1,46,20
+ὑπὲρ,it is for,Prep,G5228,2 Corinthians 1,47,20
+σωτηρίας,salvation,N-GFS,G4991,2 Corinthians 1,48,20
+ἐνεργουμένης,operating,V-PPM-GFS,G1754,2 Corinthians 1,49,20
+ὑπομονῇ,the endurance,N-DFS,G5281,2 Corinthians 1,50,20
+πάσχομεν,suffer,V-PIA-1P,G3958,2 Corinthians 1,51,20
+ἐλπὶς,hope,N-NFS,G1680,2 Corinthians 1,52,20
+βεβαία,is steadfast,Adj-NFS,G949,2 Corinthians 1,53,20
+εἰδότες,knowing,V-RPA-NMP,G1492,2 Corinthians 1,54,20
+ὡς,as,Adv,G5613,2 Corinthians 1,55,20
+κοινωνοί,partners,N-NMP,G2844,2 Corinthians 1,56,20
+Οὐ,Not,Adv,G3756,2 Corinthians 1,57,20
+γὰρ,for,Conj,G1063,2 Corinthians 1,58,20
+θέλομεν,do we want,V-PIA-1P,G2309,2 Corinthians 1,59,20
+ἀγνοεῖν,to be ignorant,V-PNA,G50,2 Corinthians 1,60,20
+γενομένης,having happened,V-APM-GFS,G1096,2 Corinthians 1,61,20
+Ἀσίᾳ,Asia,N-DFS,G773,2 Corinthians 1,62,20
+καθ,against,Prep,G2596,2 Corinthians 1,63,20
+ὑπερβολὴν,excessively,N-AFS,G5236,2 Corinthians 1,64,20
+δύναμιν,power,N-AFS,G1411,2 Corinthians 1,65,20
+ἐβαρήθημεν,we were weighed,V-AIP-1P,G916,2 Corinthians 1,66,20
+ὥστε,so as,Conj,G5620,2 Corinthians 1,67,20
+ἐξαπορηθῆναι,to despair,V-ANP,G1820,2 Corinthians 1,68,20
+ζῆν,to live,V-PNA,G2198,2 Corinthians 1,69,20
+ἀλλὰ,But,Conj,G235,2 Corinthians 1,70,20
+ἑαυτοῖς,ourselves,RefPro-DM3P,G1438,2 Corinthians 1,71,20
+ἀπόκριμα,sentence,N-ANS,G610,2 Corinthians 1,72,20
+θανάτου,of death,N-GMS,G2288,2 Corinthians 1,73,20
+ἐσχήκαμεν,had,V-RIA-1P,G2192,2 Corinthians 1,74,20
+ἵνα,in order that,Conj,G2443,2 Corinthians 1,75,20
+μὴ,not,Adv,G3361,2 Corinthians 1,76,20
+πεποιθότες,trusting,V-RPA-NMP,G3982,2 Corinthians 1,77,20
+ἐγείροντι,raising,V-PPA-DMS,G1453,2 Corinthians 1,78,20
+νεκρούς,dead,Adj-AMP,G3498,2 Corinthians 1,79,20
+ἐκ,from,Prep,G1537,2 Corinthians 1,80,20
+τηλικούτου,such a great,DPro-GMS,G5082,2 Corinthians 1,81,20
+ἐρρύσατο,has delivered,V-AIM-3S,G4506,2 Corinthians 1,82,20
+ἠλπίκαμεν,we have hope,V-RIA-1P,G1679,2 Corinthians 1,83,20
+ἔτι,still,Adv,G2089,2 Corinthians 1,84,20
+συνυπουργούντων,joining together,V-PPA-GMP,G4943,2 Corinthians 1,85,20
+δεήσει,supplication,N-DFS,G1162,2 Corinthians 1,86,20
+πολλῶν,many,Adj-GNP,G4183,2 Corinthians 1,87,20
+προσώπων,persons,N-GNP,G4383,2 Corinthians 1,88,20
+χάρισμα,grace bestowed,N-NNS,G5486,2 Corinthians 1,89,20
+εὐχαριστηθῇ,thanks may be given,V-ASP-3S,G2168,2 Corinthians 1,90,20
+καύχησις,the boasting,N-NFS,G2746,2 Corinthians 1,91,20
+αὕτη,this,DPro-NFS,G3778,2 Corinthians 1,92,20
+μαρτύριον,testimony,N-NNS,G3142,2 Corinthians 1,93,20
+συνειδήσεως,conscience,N-GFS,G4893,2 Corinthians 1,94,20
+ἁγιότητι,the holiness,N-DFS,G572,2 Corinthians 1,95,20
+εἰλικρινείᾳ,sincerity,N-DFS,G1505,2 Corinthians 1,96,20
+σοφίᾳ,wisdom,N-DFS,G4678,2 Corinthians 1,97,20
+σαρκικῇ,fleshly,Adj-DFS,G4559,2 Corinthians 1,98,20
+ἀνεστράφημεν,we have conducted ourselves,V-AIP-1P,G390,2 Corinthians 1,99,20
+κόσμῳ,world,N-DMS,G2889,2 Corinthians 1,100,20
+περισσοτέρως,more abundantly,Adv,G4057,2 Corinthians 1,101,20
+πρὸς,toward,Prep,G4314,2 Corinthians 1,102,20
+ἄλλα,other things,Adj-ANP,G243,2 Corinthians 1,103,20
+γράφομεν,we write,V-PIA-1P,G1125,2 Corinthians 1,104,20
+ἢ,than,Conj,G2228,2 Corinthians 1,105,20
+ἀναγινώσκετε,you read,V-PIA-2P,G314,2 Corinthians 1,106,20
+ἐπιγινώσκετε,understand,V-PIA-2P,G1921,2 Corinthians 1,107,20
+ἕως,to the,Prep,G2193,2 Corinthians 1,108,20
+τέλους,end,N-GNS,G5056,2 Corinthians 1,109,20
+μέρους,part,N-GNS,G3313,2 Corinthians 1,110,20
+καύχημα,boasting,N-NNS,G2745,2 Corinthians 1,111,20
+καθάπερ,even as,Adv,G2509,2 Corinthians 1,112,20
+ἡμέρᾳ,day,N-DFS,G2250,2 Corinthians 1,113,20
+πεποιθήσει,confidence,N-DFS,G4006,2 Corinthians 1,114,20
+ἐβουλόμην,I was planning,V-IIM/P-1S,G1014,2 Corinthians 1,115,20
+πρότερον,previously,Adv-C,G4386,2 Corinthians 1,116,20
+ἐλθεῖν,to come,V-ANA,G2064,2 Corinthians 1,117,20
+δευτέραν,a second,Adj-AFS,G1208,2 Corinthians 1,118,20
+διελθεῖν,to pass through,V-ANA,G1330,2 Corinthians 1,119,20
+Μακεδονίαν,Macedonia,N-AFS,G3109,2 Corinthians 1,120,20
+πάλιν,again,Adv,G3825,2 Corinthians 1,121,20
+προπεμφθῆναι,to be set forward,V-ANP,G4311,2 Corinthians 1,122,20
+Ἰουδαίαν,Judea,N-AFS,G2449,2 Corinthians 1,123,20
+οὖν,therefore,Conj,G3767,2 Corinthians 1,124,20
+μήτι,not,IntPrtcl,G3385,2 Corinthians 1,125,20
+ἄρα,then,Conj,G686,2 Corinthians 1,126,20
+ἐλαφρίᾳ,lightness,N-DFS,G1644,2 Corinthians 1,127,20
+ἐχρησάμην,did I use,V-AIM-1S,G5530,2 Corinthians 1,128,20
+βουλεύομαι,I purpose,V-PIM/P-1S,G1011,2 Corinthians 1,129,20
+σάρκα,flesh,N-AFS,G4561,2 Corinthians 1,130,20
+παρ,with,Prep,G3844,2 Corinthians 1,131,20
+Ναί,Yes,Prtcl,G3483,2 Corinthians 1,132,20
+πιστὸς,Faithful,Adj-NMS,G4103,2 Corinthians 1,133,20
+λόγος,word,N-NMS,G3056,2 Corinthians 1,134,20
+Υἱὸς,Son,N-NMS,G5207,2 Corinthians 1,135,20
+κηρυχθείς,having been proclaimed,V-APP-NMS,G2784,2 Corinthians 1,136,20
+Σιλουανοῦ,Silvanus,N-GMS,G4610,2 Corinthians 1,137,20
+ὅσαι,As many as,RelPro-NFP,G3745,2 Corinthians 1,138,20
+ἐπαγγελίαι,promises,N-NFP,G1860,2 Corinthians 1,139,20
+διὸ,Therefore,Conj,G1352,2 Corinthians 1,140,20
+Ἀμὴν,Amen,Heb,G281,2 Corinthians 1,141,20
+δόξαν,glory,N-AFS,G1391,2 Corinthians 1,142,20
+βεβαιῶν,establishing,V-PPA-NMS,G950,2 Corinthians 1,143,20
+χρίσας,having anointed,V-APA-NMS,G5548,2 Corinthians 1,144,20
+σφραγισάμενος,having sealed,V-APM-NMS,G4972,2 Corinthians 1,145,20
+δοὺς,having given,V-APA-NMS,G1325,2 Corinthians 1,146,20
+ἀρραβῶνα,pledge,N-AMS,G728,2 Corinthians 1,147,20
+Πνεύματος,Spirit,N-GNS,G4151,2 Corinthians 1,148,20
+καρδίαις,hearts,N-DFP,G2588,2 Corinthians 1,149,20
+μάρτυρα,as witness,N-AMS,G3144,2 Corinthians 1,150,20
+ἐπικαλοῦμαι,call,V-PIM-1S,G1941,2 Corinthians 1,151,20
+ἐμὴν,my,PPro-AF1S,G1699,2 Corinthians 1,152,20
+ψυχήν,soul,N-AFS,G5590,2 Corinthians 1,153,20
+φειδόμενος,sparing,V-PPM/P-NMS,G5339,2 Corinthians 1,154,20
+οὐκέτι,not yet,Adv,G3765,2 Corinthians 1,155,20
+κυριεύομεν,we lord it over,V-PIA-1P,G2961,2 Corinthians 1,156,20
+πίστεως,faith,N-GFS,G4102,2 Corinthians 1,157,20
+συνεργοί,fellow workers,Adj-NMP,G4904,2 Corinthians 1,158,20
+χαρᾶς,joy,N-GFS,G5479,2 Corinthians 1,159,20
+ἑστήκατε,you stand firm,V-RIA-2P,G2476,2 Corinthians 1,160,20
+Ἔκρινα,I judged,V-AIA-1S,G2919,2 Corinthians 2,161,20
+ἐμαυτῷ,within myself,PPro-DM1S,G1683,2 Corinthians 2,162,20
+λύπῃ,grief,N-DFS,G3077,2 Corinthians 2,163,20
+εἰ,If,Conj,G1487,2 Corinthians 2,164,20
+λυπῶ,grieve,V-PIA-1S,G3076,2 Corinthians 2,165,20
+τίς,who,IPro-NMS,G5101,2 Corinthians 2,166,20
+εὐφραίνων,is gladdening,V-PPA-NMS,G2165,2 Corinthians 2,167,20
+ἔδει,it behooves,V-IIA-3S,G1163,2 Corinthians 2,168,20
+χαίρειν,to rejoice,V-PNA,G5463,2 Corinthians 2,169,20
+συνοχῆς,anguish,N-GFS,G4928,2 Corinthians 2,170,20
+δακρύων,tears,N-GNP,G1144,2 Corinthians 2,171,20
+ἀγάπην,love,N-AFS,G26,2 Corinthians 2,172,20
+γνῶτε,you might know,V-ASA-2P,G1097,2 Corinthians 2,173,20
+τις,anyone,IPro-NMS,G5100,2 Corinthians 2,174,20
+ἐπιβαρῶ,I might put it too severely,V-PSA-1S,G1912,2 Corinthians 2,175,20
+ἱκανὸν,Sufficient,Adj-NNS,G2425,2 Corinthians 2,176,20
+τοιούτῳ,such a one,DPro-DMS,G5108,2 Corinthians 2,177,20
+ἐπιτιμία,punishment,N-NFS,G2009,2 Corinthians 2,178,20
+πλειόνων,majority,Adj-GMP-C,G4119,2 Corinthians 2,179,20
+τοὐναντίον,on the contrary,Adv-C,G5121,2 Corinthians 2,180,20
+μᾶλλον,rather,Adv,G3123,2 Corinthians 2,181,20
+χαρίσασθαι,to forgive,V-ANM,G5483,2 Corinthians 2,182,20
+πως,perhaps,Adv,G4459,2 Corinthians 2,183,20
+περισσοτέρᾳ,by more abundant,Adj-DFS-C,G4053,2 Corinthians 2,184,20
+καταποθῇ,should be overwhelmed,V-ASP-3S,G2666,2 Corinthians 2,185,20
+κυρῶσαι,to confirm,V-ANA,G2964,2 Corinthians 2,186,20
+δοκιμὴν,proof,N-AFS,G1382,2 Corinthians 2,187,20
+ὑπήκοοί,obedient,Adj-NMP,G5255,2 Corinthians 2,188,20
+κἀγώ,I also,PPro-N1S,G2504,2 Corinthians 2,189,20
+πλεονεκτηθῶμεν,we should be outwitted,V-ASP-1P,G4122,2 Corinthians 2,190,20
+Σατανᾶ,Satan,N-GMS,G4567,2 Corinthians 2,191,20
+νοήματα,schemes,N-ANP,G3540,2 Corinthians 2,192,20
+Τρῳάδα,Troas,N-AFS,G5174,2 Corinthians 2,193,20
+εὐαγγέλιον,gospel,N-ANS,G2098,2 Corinthians 2,194,20
+θύρας,a door,N-GFS,G2374,2 Corinthians 2,195,20
+ἀνεῳγμένης,having been opened,V-RPM/P-GFS,G455,2 Corinthians 2,196,20
+ἄνεσιν,rest,N-AFS,G425,2 Corinthians 2,197,20
+εὑρεῖν,finding,V-ANA,G2147,2 Corinthians 2,198,20
+Τίτον,Titus,N-AMS,G5103,2 Corinthians 2,199,20
+ἀποταξάμενος,having taken leave of,V-APM-NMS,G657,2 Corinthians 2,200,20
+ἐξῆλθον,I went out,V-AIA-1S,G1831,2 Corinthians 2,201,20
+πάντοτε,always,Adv,G3842,2 Corinthians 2,202,20
+θριαμβεύοντι,leading in triumph,V-PPA-DMS,G2358,2 Corinthians 2,203,20
+ὀσμὴν,fragrance,N-AFS,G3744,2 Corinthians 2,204,20
+γνώσεως,knowledge,N-GFS,G1108,2 Corinthians 2,205,20
+φανεροῦντι,making manifest,V-PPA-DMS,G5319,2 Corinthians 2,206,20
+τόπῳ,place,N-DMS,G5117,2 Corinthians 2,207,20
+εὐωδία,a sweet perfume,N-NFS,G2175,2 Corinthians 2,208,20
+σωζομένοις,being saved,V-PPM/P-DMP,G4982,2 Corinthians 2,209,20
+ἀπολλυμένοις,perishing,V-PPM/P-DMP,G622,2 Corinthians 2,210,20
+μὲν,indeed,Conj,G3303,2 Corinthians 2,211,20
+ζωῆς,life,N-GFS,G2222,2 Corinthians 2,212,20
+καπηλεύοντες,peddling,V-PPA-NMP,G2585,2 Corinthians 2,213,20
+κατέναντι,before,Prep,G2713,2 Corinthians 2,214,20
+λαλοῦμεν,we speak,V-PIA-1P,G2980,2 Corinthians 2,215,20
+Ἀρχόμεθα,Are we beginning,V-PIM-1P,G756,2 Corinthians 3,216,20
+συνιστάνειν,to commend,V-PNA,G4921,2 Corinthians 3,217,20
+χρῄζομεν,we need,V-PIA-1P,G5535,2 Corinthians 3,218,20
+συστατικῶν,commendatory,Adj-GFP,G4956,2 Corinthians 3,219,20
+ἐπιστολῶν,letters,N-GFP,G1992,2 Corinthians 3,220,20
+ἐνγεγραμμένη,having been inscribed,V-RPM/P-NFS,G1449,2 Corinthians 3,221,20
+ἀνθρώπων,men,N-GMP,G444,2 Corinthians 3,222,20
+διακονηθεῖσα,having been ministered to,V-APP-NFS,G1247,2 Corinthians 3,223,20
+μέλανι,in ink,N-DNS,G3188,2 Corinthians 3,224,20
+πλαξὶν,tablets,N-DFP,G4109,2 Corinthians 3,225,20
+λιθίναις,of stone,Adj-DFP,G3035,2 Corinthians 3,226,20
+σαρκίναις,human,Adj-DFP,G4560,2 Corinthians 3,227,20
+λογίσασθαί,to reckon,V-ANM,G3049,2 Corinthians 3,228,20
+ἱκανότης,sufficiency,N-NFS,G2426,2 Corinthians 3,229,20
+ἱκάνωσεν,has made competent,V-AIA-3S,G2427,2 Corinthians 3,230,20
+διακόνους,ministers,N-AMP,G1249,2 Corinthians 3,231,20
+καινῆς,of a new,Adj-GFS,G2537,2 Corinthians 3,232,20
+διαθήκης,covenant,N-GFS,G1242,2 Corinthians 3,233,20
+γράμματος,of the letter,N-GNS,G1121,2 Corinthians 3,234,20
+ἀποκτέννει,kills,V-PIA-3S,G615,2 Corinthians 3,235,20
+ζωοποιεῖ,gives life,V-PIA-3S,G2227,2 Corinthians 3,236,20
+διακονία,ministry,N-NFS,G1248,2 Corinthians 3,237,20
+ἐντετυπωμένη,having been engraved,V-RPM/P-NFS,G1795,2 Corinthians 3,238,20
+λίθοις,on stones,N-DMP,G3037,2 Corinthians 3,239,20
+ἀτενίσαι,to look intently,V-ANA,G816,2 Corinthians 3,240,20
+Ἰσραὴλ,of Israel,N-GMS,G2474,2 Corinthians 3,241,20
+Μωϋσέως,of Moses,N-GMS,G3475,2 Corinthians 3,242,20
+καταργουμένην,is fading,V-PPM/P-AFS,G2673,2 Corinthians 3,243,20
+οὐχὶ,not,Adv,G3780,2 Corinthians 3,244,20
+κατακρίσεως,of condemnation was,N-GFS,G2633,2 Corinthians 3,245,20
+δικαιοσύνης,of righteousness,N-GFS,G1343,2 Corinthians 3,246,20
+δεδόξασται,has been glorified,V-RIM/P-3S,G1392,2 Corinthians 3,247,20
+εἵνεκεν,on account of,Prep,G1752,2 Corinthians 3,248,20
+ὑπερβαλλούσης,surpassing it,V-PPA-GFS,G5235,2 Corinthians 3,249,20
+μένον,remaining,V-PPA-NNS,G3306,2 Corinthians 3,250,20
+παρρησίᾳ,boldness,N-DFS,G3954,2 Corinthians 3,251,20
+ἐτίθει,would put,V-IIA-3S,G5087,2 Corinthians 3,252,20
+κάλυμμα,a veil,N-ANS,G2571,2 Corinthians 3,253,20
+ἐπωρώθη,were hardened,V-AIP-3S,G4456,2 Corinthians 3,254,20
+ἄχρι,Until,Prep,G891,2 Corinthians 3,255,20
+σήμερον,present,Adv,G4594,2 Corinthians 3,256,20
+ἀναγνώσει,reading,N-DFS,G320,2 Corinthians 3,257,20
+παλαιᾶς,old,Adj-GFS,G3820,2 Corinthians 3,258,20
+ἀνακαλυπτόμενον,being lifted,V-PPM/P-NNS,G343,2 Corinthians 3,259,20
+ἡνίκα,when,Adv,G2259,2 Corinthians 3,260,20
+ἂν,-,Prtcl,G302,2 Corinthians 3,261,20
+κεῖται,lies,V-PIM/P-3S,G2749,2 Corinthians 3,262,20
+ἐὰν,if,Conj,G1437,2 Corinthians 3,263,20
+ἐπιστρέψῃ,one shall have turned,V-ASA-3S,G1994,2 Corinthians 3,264,20
+περιαιρεῖται,is taken away,V-PIM/P-3S,G4014,2 Corinthians 3,265,20
+οὗ,where,Adv,G3757,2 Corinthians 3,266,20
+ἐλευθερία,there is freedom,N-NFS,G1657,2 Corinthians 3,267,20
+κατοπτριζόμενοι,beholding as in a mirror,V-PPM-NMP,G2734,2 Corinthians 3,268,20
+εἰκόνα,image,N-AFS,G1504,2 Corinthians 3,269,20
+μεταμορφούμεθα,are being transformed into,V-PIM/P-1P,G3339,2 Corinthians 3,270,20
+ἠλεήθημεν,we received mercy,V-AIP-1P,G1653,2 Corinthians 4,271,20
+ἐγκακοῦμεν,we lose heart,V-PIA-1P,G1573,2 Corinthians 4,272,20
+ἀπειπάμεθα,we have renounced,V-AIM-1P,G550,2 Corinthians 4,273,20
+κρυπτὰ,hidden things,Adj-ANP,G2927,2 Corinthians 4,274,20
+αἰσχύνης,of shame,N-GFS,G152,2 Corinthians 4,275,20
+περιπατοῦντες,walking,V-PPA-NMP,G4043,2 Corinthians 4,276,20
+πανουργίᾳ,craftiness,N-DFS,G3834,2 Corinthians 4,277,20
+μηδὲ,nor,Conj,G3366,2 Corinthians 4,278,20
+δολοῦντες,falsifying,V-PPA-NMP,G1389,2 Corinthians 4,279,20
+φανερώσει,by manifestation,N-DFS,G5321,2 Corinthians 4,280,20
+ἀληθείας,truth,N-GFS,G225,2 Corinthians 4,281,20
+ἐνώπιον,before,Prep,G1799,2 Corinthians 4,282,20
+κεκαλυμμένον,concealed,V-RPM/P-NNS,G2572,2 Corinthians 4,283,20
+αἰῶνος,age,N-GMS,G165,2 Corinthians 4,284,20
+ἐτύφλωσεν,has blinded,V-AIA-3S,G5186,2 Corinthians 4,285,20
+ἀπίστων,unbelieving,Adj-GMP,G571,2 Corinthians 4,286,20
+αὐγάσαι,to beam forth,V-ANA,G826,2 Corinthians 4,287,20
+φωτισμὸν,illumination,N-AMS,G5462,2 Corinthians 4,288,20
+δούλους,servants,N-AMP,G1401,2 Corinthians 4,289,20
+εἰπών,having said,V-APA-NMS,G2036,2 Corinthians 4,290,20
+σκότους,darkness,N-GNS,G4655,2 Corinthians 4,291,20
+φῶς,light,N-NNS,G5457,2 Corinthians 4,292,20
+λάμψει,shall shine,V-FIA-3S,G2989,2 Corinthians 4,293,20
+θησαυρὸν,treasure,N-AMS,G2344,2 Corinthians 4,294,20
+ὀστρακίνοις,earthen,Adj-DNP,G3749,2 Corinthians 4,295,20
+σκεύεσιν,vessels,N-DNP,G4632,2 Corinthians 4,296,20
+στενοχωρούμενοι,being crushed,V-PPM/P-NMP,G4729,2 Corinthians 4,297,20
+ἀπορούμενοι,being perplexed,V-PPM-NMP,G639,2 Corinthians 4,298,20
+διωκόμενοι,being persecuted,V-PPM/P-NMP,G1377,2 Corinthians 4,299,20
+ἐγκαταλειπόμενοι,being forsaken,V-PPM/P-NMP,G1459,2 Corinthians 4,300,20
+καταβαλλόμενοι,being struck down,V-PPM/P-NMP,G2598,2 Corinthians 4,301,20
+νέκρωσιν,death,N-AFS,G3500,2 Corinthians 4,302,20
+σώματι,body,N-DNS,G4983,2 Corinthians 4,303,20
+περιφέροντες,carrying around,V-PPA-NMP,G4064,2 Corinthians 4,304,20
+ἀεὶ,always,Adv,G104,2 Corinthians 4,305,20
+παραδιδόμεθα,are being delivered,V-PIM/P-1P,G3860,2 Corinthians 4,306,20
+θνητῇ,mortal,Adj-DFS,G2349,2 Corinthians 4,307,20
+Ἐπίστευσα,I believed,V-AIA-1S,G4100,2 Corinthians 4,308,20
+παραστήσει,will present us,V-FIA-3S,G3936,2 Corinthians 4,309,20
+πλεονάσασα,having abounded,V-APA-NFS,G4121,2 Corinthians 4,310,20
+εὐχαριστίαν,thanksgiving,N-AFS,G2169,2 Corinthians 4,311,20
+ἔξω,outward,Adv,G1854,2 Corinthians 4,312,20
+διαφθείρεται,is being brought to decay,V-PIM/P-3S,G1311,2 Corinthians 4,313,20
+ἔσω,inner,Adv,G2080,2 Corinthians 4,314,20
+ἀνακαινοῦται,is being renewed,V-PIM/P-3S,G341,2 Corinthians 4,315,20
+παραυτίκα,momentary,Adv,G3910,2 Corinthians 4,316,20
+ἐλαφρὸν,lightness,Adj-NNS,G1645,2 Corinthians 4,317,20
+αἰώνιον,an eternal,Adj-ANS,G166,2 Corinthians 4,318,20
+βάρος,weight,N-ANS,G922,2 Corinthians 4,319,20
+κατεργάζεται,is producing,V-PIM/P-3S,G2716,2 Corinthians 4,320,20
+σκοπούντων,are looking at,V-PPA-GMP,G4648,2 Corinthians 4,321,20
+βλεπόμενα,being seen,V-PPM/P-ANP,G991,2 Corinthians 4,322,20
+πρόσκαιρα,temporary,Adj-NNP,G4340,2 Corinthians 4,323,20
+ἐπίγειος,earthly,Adj-NFS,G1919,2 Corinthians 5,324,20
+οἰκία,house,N-NFS,G3614,2 Corinthians 5,325,20
+σκήνους,tent,N-GNS,G4636,2 Corinthians 5,326,20
+καταλυθῇ,should be destroyed,V-ASP-3S,G2647,2 Corinthians 5,327,20
+οἰκοδομὴν,a building,N-AFS,G3619,2 Corinthians 5,328,20
+ἀχειροποίητον,not made with hands,Adj-AFS,G886,2 Corinthians 5,329,20
+οὐρανοῖς,heavens,N-DMP,G3772,2 Corinthians 5,330,20
+στενάζομεν,we groan,V-PIA-1P,G4727,2 Corinthians 5,331,20
+οἰκητήριον,dwelling,N-ANS,G3613,2 Corinthians 5,332,20
+ἐπενδύσασθαι,to be clothed with,V-ANM,G1902,2 Corinthians 5,333,20
+ἐπιποθοῦντες,longing,V-PPA-NMP,G1971,2 Corinthians 5,334,20
+γε,indeed,Prtcl,G1065,2 Corinthians 5,335,20
+ἐνδυσάμενοι,having been clothed,V-APM-NMP,G1746,2 Corinthians 5,336,20
+γυμνοὶ,naked,Adj-NMP,G1131,2 Corinthians 5,337,20
+ἐκδύσασθαι,to be unclothed,V-ANM,G1562,2 Corinthians 5,338,20
+Θαρροῦντες,being confident,V-PPA-NMP,G2292,2 Corinthians 5,339,20
+ἐνδημοῦντες,being at home,V-PPA-NMP,G1736,2 Corinthians 5,340,20
+ἐκδημοῦμεν,we are absent,V-PIA-1P,G1553,2 Corinthians 5,341,20
+εἴδους,sight,N-GNS,G1491,2 Corinthians 5,342,20
+εὐδοκοῦμεν,are pleased,V-PIA-1P,G2106,2 Corinthians 5,343,20
+φιλοτιμούμεθα,we are ambitious,V-PIM/P-1P,G5389,2 Corinthians 5,344,20
+εὐάρεστοι,well-pleasing,Adj-NMP,G2101,2 Corinthians 5,345,20
+ἔμπροσθεν,before,Prep,G1715,2 Corinthians 5,346,20
+βήματος,judgment seat,N-GNS,G968,2 Corinthians 5,347,20
+κομίσηται,may receive back,V-ASM-3S,G2865,2 Corinthians 5,348,20
+ἕκαστος,each,Adj-NMS,G1538,2 Corinthians 5,349,20
+ἔπραξεν,he did,V-AIA-3S,G4238,2 Corinthians 5,350,20
+ἀγαθὸν,good,Adj-ANS,G18,2 Corinthians 5,351,20
+φαῦλον,evil,Adj-ANS,G5337,2 Corinthians 5,352,20
+φόβον,fear,N-AMS,G5401,2 Corinthians 5,353,20
+ἀφορμὴν,occasion,N-AFS,G874,2 Corinthians 5,354,20
+καυχωμένους,boasting,V-PPM/P-AMP,G2744,2 Corinthians 5,355,20
+ἐξέστημεν,we are beside ourselves,V-AIA-1P,G1839,2 Corinthians 5,356,20
+σωφρονοῦμεν,we are sober-minded,V-PIA-1P,G4993,2 Corinthians 5,357,20
+συνέχει,compels,V-PIA-3S,G4912,2 Corinthians 5,358,20
+εἷς,One,Adj-NMS,G1520,2 Corinthians 5,359,20
+ἀπέθανεν,has died,V-AIA-3S,G599,2 Corinthians 5,360,20
+μηκέτι,no longer,Adv,G3371,2 Corinthians 5,361,20
+νῦν,now,Adv,G3568,2 Corinthians 5,362,20
+οὐδένα,no one,Adj-AMS,G3762,2 Corinthians 5,363,20
+κτίσις,creation,N-NFS,G2937,2 Corinthians 5,364,20
+ἀρχαῖα,old things,Adj-NNP,G744,2 Corinthians 5,365,20
+παρῆλθεν,have passed away,V-AIA-3S,G3928,2 Corinthians 5,366,20
+ἰδοὺ,behold,V-AMA-2S,G2400,2 Corinthians 5,367,20
+καταλλάξαντος,having reconciled,V-APA-GMS,G2644,2 Corinthians 5,368,20
+καταλλαγῆς,of reconciliation,N-GFS,G2643,2 Corinthians 5,369,20
+παραπτώματα,trespasses,N-ANP,G3900,2 Corinthians 5,370,20
+πρεσβεύομεν,we are ambassadors,V-PIA-1P,G4243,2 Corinthians 5,371,20
+δεόμεθα,We implore,V-PIM/P-1P,G1189,2 Corinthians 5,372,20
+ἁμαρτίαν,sin,N-AFS,G266,2 Corinthians 5,373,20
+ἐποίησεν,He made,V-AIA-3S,G4160,2 Corinthians 5,374,20
+Συνεργοῦντες,Working together,V-PPA-NMP,G4903,2 Corinthians 6,375,20
+κενὸν,vain,Adj-ANS,G2756,2 Corinthians 6,376,20
+δέξασθαι,to receive,V-ANM,G1209,2 Corinthians 6,377,20
+λέγει,He says,V-PIA-3S,G3004,2 Corinthians 6,378,20
+Καιρῷ,In a time,N-DMS,G2540,2 Corinthians 6,379,20
+δεκτῷ,acceptable,Adj-DMS,G1184,2 Corinthians 6,380,20
+ἐπήκουσά,I listened to,V-AIA-1S,G1873,2 Corinthians 6,381,20
+ἐβοήθησά,I helped,V-AIA-1S,G997,2 Corinthians 6,382,20
+εὐπρόσδεκτος,of favor,Adj-NMS,G2144,2 Corinthians 6,383,20
+Μηδεμίαν,Nothing,Adj-AFS,G3367,2 Corinthians 6,384,20
+προσκοπήν,an obstacle,N-AFS,G4349,2 Corinthians 6,385,20
+μωμηθῇ,should be blemished,V-ASP-3S,G3469,2 Corinthians 6,386,20
+ἀνάγκαις,hardships,N-DFP,G318,2 Corinthians 6,387,20
+στενοχωρίαις,distresses,N-DFP,G4730,2 Corinthians 6,388,20
+πληγαῖς,beatings,N-DFP,G4127,2 Corinthians 6,389,20
+φυλακαῖς,imprisonments,N-DFP,G5438,2 Corinthians 6,390,20
+ἀκαταστασίαις,riots,N-DFP,G181,2 Corinthians 6,391,20
+κόποις,labors,N-DMP,G2873,2 Corinthians 6,392,20
+ἀγρυπνίαις,watchings,N-DFP,G70,2 Corinthians 6,393,20
+νηστείαις,fastings,N-DFP,G3521,2 Corinthians 6,394,20
+ἁγνότητι,purity,N-DFS,G54,2 Corinthians 6,395,20
+μακροθυμίᾳ,patience,N-DFS,G3115,2 Corinthians 6,396,20
+χρηστότητι,kindness,N-DFS,G5544,2 Corinthians 6,397,20
+ἀνυποκρίτῳ,genuine,Adj-DFS,G505,2 Corinthians 6,398,20
+ὅπλων,weapons,N-GNP,G3696,2 Corinthians 6,399,20
+δεξιῶν,right hand,Adj-GNP,G1188,2 Corinthians 6,400,20
+ἀριστερῶν,for the left,Adj-GNP,G710,2 Corinthians 6,401,20
+ἀτιμίας,dishonor,N-GFS,G819,2 Corinthians 6,402,20
+δυσφημίας,bad report,N-GFS,G1426,2 Corinthians 6,403,20
+εὐφημίας,good report,N-GFS,G2162,2 Corinthians 6,404,20
+πλάνοι,imposters,Adj-NMP,G4108,2 Corinthians 6,405,20
+ἀληθεῖς,TRUE,Adj-NMP,G227,2 Corinthians 6,406,20
+παιδευόμενοι,being disciplined,V-PPM/P-NMP,G3811,2 Corinthians 6,407,20
+θανατούμενοι,being killed,V-PPM/P-NMP,G2289,2 Corinthians 6,408,20
+πτωχοὶ,poor,Adj-NMP,G4434,2 Corinthians 6,409,20
+πλουτίζοντες,enriching,V-PPA-NMP,G4148,2 Corinthians 6,410,20
+κατέχοντες,possessing,V-PPA-NMP,G2722,2 Corinthians 6,411,20
+στόμα,mouth,N-NNS,G4750,2 Corinthians 6,412,20
+Κορίνθιοι,Corinthians,N-VMP,G2881,2 Corinthians 6,413,20
+πεπλάτυνται,has been expanded,V-RIM/P-3S,G4115,2 Corinthians 6,414,20
+σπλάγχνοις,affections,N-DNP,G4698,2 Corinthians 6,415,20
+ἀντιμισθίαν,recompense,N-AFS,G489,2 Corinthians 6,416,20
+τέκνοις,to children,N-DNP,G5043,2 Corinthians 6,417,20
+ἑτεροζυγοῦντες,unequally yoked together,V-PPA-NMP,G2086,2 Corinthians 6,418,20
+μετοχὴ,partnership have,N-NFS,G3352,2 Corinthians 6,419,20
+ἀνομίᾳ,lawlessness,N-DFS,G458,2 Corinthians 6,420,20
+κοινωνία,fellowship,N-NFS,G2842,2 Corinthians 6,421,20
+συμφώνησις,harmony,N-NFS,G4857,2 Corinthians 6,422,20
+Βελιάρ,Belial,N-AMS,G955,2 Corinthians 6,423,20
+μερὶς,part,N-NFS,G3310,2 Corinthians 6,424,20
+μετὰ,with,Prep,G3326,2 Corinthians 6,425,20
+συνκατάθεσις,agreement,N-NFS,G4783,2 Corinthians 6,426,20
+ναῷ,the temple,N-DMS,G3485,2 Corinthians 6,427,20
+εἰδώλων,idols,N-GNP,G1497,2 Corinthians 6,428,20
+Ἐνοικήσω,I will dwell,V-FIA-1S,G1774,2 Corinthians 6,429,20
+ἐμπεριπατήσω,will walk among them,V-FIA-1S,G1704,2 Corinthians 6,430,20
+λαός,a people,N-NMS,G2992,2 Corinthians 6,431,20
+μέσου,the midst,Adj-GNS,G3319,2 Corinthians 6,432,20
+ἀφορίσθητε,be separate,V-AMP-2P,G873,2 Corinthians 6,433,20
+ἀκαθάρτου,unclean,Adj-GNS,G169,2 Corinthians 6,434,20
+ἅπτεσθε,touch,V-PMM-2P,G680,2 Corinthians 6,435,20
+εἰσδέξομαι,will receive,V-FIM-1S,G1523,2 Corinthians 6,436,20
+θυγατέρας,daughters,N-AFP,G2364,2 Corinthians 6,437,20
+Παντοκράτωρ,Almighty,N-NMS,G3841,2 Corinthians 6,438,20
+ἀγαπητοί,beloved,Adj-VMP,G27,2 Corinthians 7,439,20
+καθαρίσωμεν,we should cleanse,V-ASA-1P,G2511,2 Corinthians 7,440,20
+μολυσμοῦ,defilement,N-GMS,G3436,2 Corinthians 7,441,20
+ἐπιτελοῦντες,perfecting,V-PPA-NMP,G2005,2 Corinthians 7,442,20
+ἁγιωσύνην,holiness,N-AFS,G42,2 Corinthians 7,443,20
+Χωρήσατε,Make room for,V-AMA-2P,G5562,2 Corinthians 7,444,20
+ἠδικήσαμεν,we have wronged,V-AIA-1P,G91,2 Corinthians 7,445,20
+ἐφθείραμεν,we have corrupted,V-AIA-1P,G5351,2 Corinthians 7,446,20
+προείρηκα,I have before said,V-RIA-1S,G4302,2 Corinthians 7,447,20
+συναποθανεῖν,to die together,V-ANA,G4880,2 Corinthians 7,448,20
+συζῆν,to live together,V-PNA,G4800,2 Corinthians 7,449,20
+πεπλήρωμαι,I have been filled,V-RIM/P-1S,G4137,2 Corinthians 7,450,20
+ὑπερπερισσεύομαι,I overabound,V-PIP-1S,G5248,2 Corinthians 7,451,20
+ἔξωθεν,on the outside,Adv,G1855,2 Corinthians 7,452,20
+μάχαι,conflicts,N-NFP,G3163,2 Corinthians 7,453,20
+ἔσωθεν,within,Adv,G2081,2 Corinthians 7,454,20
+ταπεινοὺς,downcast,Adj-AMP,G5011,2 Corinthians 7,455,20
+παρουσίᾳ,coming,N-DFS,G3952,2 Corinthians 7,456,20
+μόνον,only,Adv,G3440,2 Corinthians 7,457,20
+ἀναγγέλλων,relating,V-PPA-NMS,G312,2 Corinthians 7,458,20
+ἐπιπόθησιν,earnest desire,N-AFS,G1972,2 Corinthians 7,459,20
+ὀδυρμόν,mourning,N-AMS,G3602,2 Corinthians 7,460,20
+ζῆλον,zeal,N-AMS,G2205,2 Corinthians 7,461,20
+μεταμέλομαι,I do regret it,V-PIM/P-1S,G3338,2 Corinthians 7,462,20
+ἐκείνη,that,DPro-NFS,G1565,2 Corinthians 7,463,20
+ὥραν,an hour,N-AFS,G5610,2 Corinthians 7,464,20
+μετάνοιαν,repentance,N-AFS,G3341,2 Corinthians 7,465,20
+ζημιωθῆτε,you might suffer loss,V-ASP-2P,G2210,2 Corinthians 7,466,20
+ἀμεταμέλητον,without regret,Adj-AFS,G278,2 Corinthians 7,467,20
+ἐργάζεται,produces,V-PIM/P-3S,G2038,2 Corinthians 7,468,20
+πόσην,how much,IPro-AFS,G4214,2 Corinthians 7,469,20
+σπουδήν,earnestness,N-AFS,G4710,2 Corinthians 7,470,20
+ἀπολογίαν,reasoned defense,N-AFS,G627,2 Corinthians 7,471,20
+ἀγανάκτησιν,indignation,N-AFS,G24,2 Corinthians 7,472,20
+ἐκδίκησιν,vindication,N-AFS,G1557,2 Corinthians 7,473,20
+ἁγνοὺς,innocent,Adj-AMP,G53,2 Corinthians 7,474,20
+πράγματι,matter,N-DNS,G4229,2 Corinthians 7,475,20
+οὐδὲ,nor,Conj,G3761,2 Corinthians 7,476,20
+ἀναπέπαυται,has been refreshed,V-RIM/P-3S,G373,2 Corinthians 7,477,20
+κατῃσχύνθην,I was put to shame,V-AIP-1S,G2617,2 Corinthians 7,478,20
+ἀναμιμνῃσκομένου,remembering,V-PPP-GMS,G363,2 Corinthians 7,479,20
+ὑπακοήν,obedience,N-AFS,G5218,2 Corinthians 7,480,20
+τρόμου,trembling,N-GMS,G5156,2 Corinthians 7,481,20
+Γνωρίζομεν,We make known,V-PIA-1P,G1107,2 Corinthians 8,482,20
+περισσεία,abundance,N-NFS,G4050,2 Corinthians 8,483,20
+βάθους,deep,N-GNS,G899,2 Corinthians 8,484,20
+πτωχεία,poverty,N-NFS,G4432,2 Corinthians 8,485,20
+πλοῦτος,riches,N-ANS,G4149,2 Corinthians 8,486,20
+μαρτυρῶ,I testify that,V-PIA-1S,G3140,2 Corinthians 8,487,20
+αὐθαίρετοι,they were willing of themselves,Adj-NMP,G830,2 Corinthians 8,488,20
+πρῶτον,first,Adv-S,G4412,2 Corinthians 8,489,20
+προενήρξατο,he had begun,V-AIM-3S,G4278,2 Corinthians 8,490,20
+ὥσπερ,even as,Adv,G5618,2 Corinthians 8,491,20
+ἐπιταγὴν,a command,N-AFS,G2003,2 Corinthians 8,492,20
+ἑτέρων,of others,Adj-GMP,G2087,2 Corinthians 8,493,20
+ὑμετέρας,of your,PPro-GF2P,G5212,2 Corinthians 8,494,20
+γνήσιον,genuineness,Adj-ANS,G1103,2 Corinthians 8,495,20
+δοκιμάζων,proving,V-PPA-NMS,G1381,2 Corinthians 8,496,20
+ἐπτώχευσεν,He became poor,V-AIA-3S,G4433,2 Corinthians 8,497,20
+πλούσιος,rich,Adj-NMS,G4145,2 Corinthians 8,498,20
+πλουτήσητε,might be enriched,V-ASA-2P,G4147,2 Corinthians 8,499,20
+γνώμην,a judgment,N-AFS,G1106,2 Corinthians 8,500,20
+συμφέρει,is profitable,V-PIA-3S,G4851,2 Corinthians 8,501,20
+οἵτινες,who,RelPro-NMP,G3748,2 Corinthians 8,502,20
+πέρυσι,a year ago,Adv,G4070,2 Corinthians 8,503,20
+νυνὶ,Now,Adv,G3570,2 Corinthians 8,504,20
+ὅπως,so that,Conj,G3704,2 Corinthians 8,505,20
+προθυμία,readiness,N-NFS,G4288,2 Corinthians 8,506,20
+πρόκειται,is present,V-PIM/P-3S,G4295,2 Corinthians 8,507,20
+καθὸ,as,Adv,G2526,2 Corinthians 8,508,20
+ἰσότητος,equality,N-GFS,G2471,2 Corinthians 8,509,20
+περίσσευμα,abundance,N-NNS,G4051,2 Corinthians 8,510,20
+ὑστέρημα,need,N-ANS,G5303,2 Corinthians 8,511,20
+ὀλίγον,little,Adj-ANS,G3641,2 Corinthians 8,512,20
+ἠλαττόνησεν,had lack,V-AIA-3S,G1641,2 Corinthians 8,513,20
+σπουδαιότερος,very earnest,Adj-NMS-C,G4705,2 Corinthians 8,514,20
+ὑπάρχων,being,V-PPA-NMS,G5225,2 Corinthians 8,515,20
+Συνεπέμψαμεν,We have sent,V-AIA-1P,G4842,2 Corinthians 8,516,20
+ἔπαινος,praise,N-NMS,G1868,2 Corinthians 8,517,20
+χειροτονηθεὶς,having been chosen,V-APP-NMS,G5500,2 Corinthians 8,518,20
+συνέκδημος,fellow traveler,N-NMS,G4898,2 Corinthians 8,519,20
+στελλόμενοι,avoiding,V-PPM-NMP,G4724,2 Corinthians 8,520,20
+ἁδρότητι,abundance,N-DFS,G100,2 Corinthians 8,521,20
+προνοοῦμεν,We are taking great care to do,V-PIA-1P,G4306,2 Corinthians 8,522,20
+καλὰ,what is right,Adj-ANP,G2570,2 Corinthians 8,523,20
+πολλάκις,often,Adv,G4178,2 Corinthians 8,524,20
+ἔνδειξιν,the proof,N-AFS,G1732,2 Corinthians 8,525,20
+ἐνδεικνύμενοι,show,V-PPM-NMP,G1731,2 Corinthians 8,526,20
+Περὶ,Concerning,Prep,G4012,2 Corinthians 9,527,20
+Μακεδόσιν,to Macedonians,N-DMP,G3110,2 Corinthians 9,528,20
+παρεσκεύασται,has been prepared,V-RIM/P-3S,G3903,2 Corinthians 9,529,20
+ἠρέθισεν,has been provoking,V-AIA-3S,G2042,2 Corinthians 9,530,20
+Ἔπεμψα,I have sent,V-AIA-1S,G3992,2 Corinthians 9,531,20
+κενωθῇ,should be made void,V-ASP-3S,G2758,2 Corinthians 9,532,20
+ἀπαρασκευάστους,unprepared,Adj-AMP,G532,2 Corinthians 9,533,20
+ὑποστάσει,confidence,N-DFS,G5287,2 Corinthians 9,534,20
+ἀναγκαῖον,Necessary,Adj-NNS,G316,2 Corinthians 9,535,20
+ἡγησάμην,I esteemed it,V-AIM-1S,G2233,2 Corinthians 9,536,20
+προέλθωσιν,they should go before,V-ASA-3P,G4281,2 Corinthians 9,537,20
+προκαταρτίσωσιν,should complete beforehand,V-ASA-3P,G4294,2 Corinthians 9,538,20
+προεπηγγελμένην,foreannounced,V-RPM/P-AFS,G4279,2 Corinthians 9,539,20
+εὐλογίαν,blessing,N-AFS,G2129,2 Corinthians 9,540,20
+ἑτοίμην,ready,Adj-AFS,G2092,2 Corinthians 9,541,20
+πλεονεξίαν,covetousness,N-AFS,G4124,2 Corinthians 9,542,20
+σπείρων,sowing,V-PPA-NMS,G4687,2 Corinthians 9,543,20
+φειδομένως,sparingly,Adv,G5340,2 Corinthians 9,544,20
+θερίσει,will reap,V-FIA-3S,G2325,2 Corinthians 9,545,20
+προῄρηται,he purposes,V-RIM-3S,G4255,2 Corinthians 9,546,20
+ἱλαρὸν,a cheerful,Adj-AMS,G2431,2 Corinthians 9,547,20
+δότην,giver,N-AMS,G1395,2 Corinthians 9,548,20
+ἀγαπᾷ,loves,V-PIA-3S,G25,2 Corinthians 9,549,20
+δυνατεῖ,Able is,V-PIA-3S,G1414,2 Corinthians 9,550,20
+αὐτάρκειαν,sufficiency,N-AFS,G841,2 Corinthians 9,551,20
+ἔργον,work,N-ANS,G2041,2 Corinthians 9,552,20
+Ἐσκόρπισεν,He has scattered abroad,V-AIA-3S,G4650,2 Corinthians 9,553,20
+πένησιν,poor,N-DMP,G3993,2 Corinthians 9,554,20
+ἐπιχορηγῶν,supplying,V-PPA-NMS,G2023,2 Corinthians 9,555,20
+σπόρον,seed,N-AMS,G4703,2 Corinthians 9,556,20
+ἄρτον,bread,N-AMS,G740,2 Corinthians 9,557,20
+βρῶσιν,food,N-AFS,G1035,2 Corinthians 9,558,20
+χορηγήσει,will supply,V-FIA-3S,G5524,2 Corinthians 9,559,20
+πληθυνεῖ,will multiply,V-FIA-3S,G4129,2 Corinthians 9,560,20
+αὐξήσει,will increase,V-FIA-3S,G837,2 Corinthians 9,561,20
+γενήματα,fruits,N-ANP,G1081,2 Corinthians 9,562,20
+λειτουργίας,service,N-GFS,G3009,2 Corinthians 9,563,20
+προσαναπληροῦσα,completely filling up,V-PPA-NFS,G4322,2 Corinthians 9,564,20
+ὑποταγῇ,submission,N-DFS,G5292,2 Corinthians 9,565,20
+ὁμολογίας,of confession,N-GFS,G3671,2 Corinthians 9,566,20
+ἀνεκδιηγήτῳ,indescribable,Adj-DFS,G411,2 Corinthians 9,567,20
+δωρεᾷ,gift,N-DFS,G1431,2 Corinthians 9,568,20
+πραΰτητος,meekness,N-GFS,G4240,2 Corinthians 10,569,20
+ἐπιεικείας,gentleness,N-GFS,G1932,2 Corinthians 10,570,20
+ἀπὼν,being absent,V-PPA-NMS,G548,2 Corinthians 10,571,20
+παρὼν,being present,V-PPA-NMS,G3918,2 Corinthians 10,572,20
+τολμῆσαι,to be daring,V-ANA,G5111,2 Corinthians 10,573,20
+στρατευόμεθα,do we wage war,V-PIM-1P,G4754,2 Corinthians 10,574,20
+στρατείας,warfare,N-GFS,G4752,2 Corinthians 10,575,20
+δυνατὰ,powerful,Adj-NNP,G1415,2 Corinthians 10,576,20
+καθαίρεσιν,the demolition,N-AFS,G2506,2 Corinthians 10,577,20
+ὀχυρωμάτων,of strongholds,N-GNP,G3794,2 Corinthians 10,578,20
+λογισμοὺς,arguments,N-AMP,G3053,2 Corinthians 10,579,20
+καθαιροῦντες,overthrowing,V-PPA-NMP,G2507,2 Corinthians 10,580,20
+ὕψωμα,high thing,N-ANS,G5313,2 Corinthians 10,581,20
+ἐπαιρόμενον,lifting itself up,V-PPM-ANS,G1869,2 Corinthians 10,582,20
+αἰχμαλωτίζοντες,taking captive,V-PPA-NMP,G163,2 Corinthians 10,583,20
+ἐκδικῆσαι,to avenge,V-ANA,G1556,2 Corinthians 10,584,20
+παρακοήν,disobedience,N-AFS,G3876,2 Corinthians 10,585,20
+ὅταν,when,Conj,G3752,2 Corinthians 10,586,20
+τε,even,Conj,G5037,2 Corinthians 10,587,20
+ἐξουσίας,authority,N-GFS,G1849,2 Corinthians 10,588,20
+αἰσχυνθήσομαι,I will be ashamed,V-FIP-1S,G153,2 Corinthians 10,589,20
+δόξω,I might seem,V-ASA-1S,G1380,2 Corinthians 10,590,20
+ἐκφοβεῖν,to frighten,V-PNA,G1629,2 Corinthians 10,591,20
+φησίν,they say,V-PIA-3S,G5346,2 Corinthians 10,592,20
+Βαρεῖαι,are weighty,Adj-NFP,G926,2 Corinthians 10,593,20
+ἰσχυραί,strong,Adj-NFP,G2478,2 Corinthians 10,594,20
+ἀσθενὴς,weak,Adj-NFS,G772,2 Corinthians 10,595,20
+ἐξουθενημένος,having been ignored,V-RPM/P-NMS,G1848,2 Corinthians 10,596,20
+οἷοί,such as,RelPro-NMP,G3634,2 Corinthians 10,597,20
+ἐνκρῖναι,to classify,V-ANA,G1469,2 Corinthians 10,598,20
+συνκρῖναι,to compare,V-ANA,G4793,2 Corinthians 10,599,20
+μετροῦντες,measuring,V-PPA-NMP,G3354,2 Corinthians 10,600,20
+συνιᾶσιν,understand,V-PIA-3P,G4920,2 Corinthians 10,601,20
+ἄμετρα,beyond measure,Adj-ANP,G280,2 Corinthians 10,602,20
+μέτρον,measure,N-ANS,G3358,2 Corinthians 10,603,20
+κανόνος,area,N-GMS,G2583,2 Corinthians 10,604,20
+ἐμέρισεν,has assigned,V-AIA-3S,G3307,2 Corinthians 10,605,20
+ἐφικέσθαι,to reach,V-ANM,G2185,2 Corinthians 10,606,20
+ὑπερεκτείνομεν,we are overextending,V-PIA-1P,G5239,2 Corinthians 10,607,20
+ἐφθάσαμεν,we came,V-AIA-1P,G5348,2 Corinthians 10,608,20
+ἀλλοτρίοις,others’,Adj-DMP,G245,2 Corinthians 10,609,20
+μεγαλυνθῆναι,to be enlarged,V-ANP,G3170,2 Corinthians 10,610,20
+ὑπερέκεινα,beyond,Prep,G5238,2 Corinthians 10,611,20
+εὐαγγελίσασθαι,to preach the gospel,V-ANM,G2097,2 Corinthians 10,612,20
+δόκιμος,approved,Adj-NMS,G1384,2 Corinthians 10,613,20
+Ὄφελον,I wish,I,G3785,2 Corinthians 11,614,20
+ἀνείχεσθέ,you were bearing with,V-IIM/P-2P,G430,2 Corinthians 11,615,20
+μικρόν,little,Adj-ANS,G3398,2 Corinthians 11,616,20
+ἀφροσύνης,in foolishness,N-GFS,G877,2 Corinthians 11,617,20
+ζηλῶ,I am jealous as to,V-PIA-1S,G2206,2 Corinthians 11,618,20
+ἡρμοσάμην,I have betrothed,V-AIM-1S,G718,2 Corinthians 11,619,20
+ἀνδρὶ,husband,N-DMS,G435,2 Corinthians 11,620,20
+παρθένον,a virgin,N-AFS,G3933,2 Corinthians 11,621,20
+Φοβοῦμαι,I am afraid,V-PIM/P-1S,G5399,2 Corinthians 11,622,20
+ὄφις,serpent,N-NMS,G3789,2 Corinthians 11,623,20
+ἐξηπάτησεν,deceived,V-AIA-3S,G1818,2 Corinthians 11,624,20
+Εὕαν,Eve,N-AFS,G2096,2 Corinthians 11,625,20
+λαμβάνετε,you receive,V-PIA-2P,G2983,2 Corinthians 11,626,20
+καλῶς,well,Adv,G2573,2 Corinthians 11,627,20
+ὑστερηκέναι,to have been inferior,V-RNA,G5302,2 Corinthians 11,628,20
+ἰδιώτης,unpolished,N-NMS,G2399,2 Corinthians 11,629,20
+ταπεινῶν,humbling,V-PPA-NMS,G5013,2 Corinthians 11,630,20
+ὑψωθῆτε,might be exalted,V-ASP-2P,G5312,2 Corinthians 11,631,20
+δωρεὰν,freely,Adv,G1432,2 Corinthians 11,632,20
+ἐσύλησα,I robbed,V-AIA-1S,G4813,2 Corinthians 11,633,20
+ὀψώνιον,support,N-ANS,G3800,2 Corinthians 11,634,20
+κατενάρκησα,I did burden,V-AIA-1S,G2655,2 Corinthians 11,635,20
+ἀβαρῆ,unburdensome,Adj-AMS,G4,2 Corinthians 11,636,20
+ἐτήρησα,I kept,V-AIA-1S,G5083,2 Corinthians 11,637,20
+φραγήσεται,will be sealed up,V-FIP-3S,G5420,2 Corinthians 11,638,20
+κλίμασιν,regions,N-DNP,G2824,2 Corinthians 11,639,20
+ἐκκόψω,I might cut off,V-ASA-1S,G1581,2 Corinthians 11,640,20
+ψευδαπόστολοι,false apostles,N-NMP,G5570,2 Corinthians 11,641,20
+ἐργάται,workers,N-NMP,G2040,2 Corinthians 11,642,20
+δόλιοι,deceitful,Adj-NMP,G1386,2 Corinthians 11,643,20
+μετασχηματιζόμενοι,disguising themselves,V-PPM-NMP,G3345,2 Corinthians 11,644,20
+θαῦμα,wonder,N-NNS,G2295,2 Corinthians 11,645,20
+ἄγγελον,an angel,N-AMS,G32,2 Corinthians 11,646,20
+μέγα,surprising,Adj-NNS,G3173,2 Corinthians 11,647,20
+ἄφρονα,a fool,Adj-AMS,G878,2 Corinthians 11,648,20
+μή,otherwise,Prtcl,G1490,2 Corinthians 11,649,20
+κἂν,even,Adv,G2579,2 Corinthians 11,650,20
+ἐπεὶ,Since,Conj,G1893,2 Corinthians 11,651,20
+ἡδέως,Gladly,Adv,G2234,2 Corinthians 11,652,20
+φρόνιμοι,wise,Adj-NMP,G5429,2 Corinthians 11,653,20
+καταδουλοῖ,enslaves,V-PIA-3S,G2615,2 Corinthians 11,654,20
+κατεσθίει,devours you,V-PIA-3S,G2719,2 Corinthians 11,655,20
+δέρει,strikes you,V-PIA-3S,G1194,2 Corinthians 11,656,20
+ἠσθενήκαμεν,have been weak,V-RIA-1P,G770,2 Corinthians 11,657,20
+Ἑβραῖοί,Hebrews,N-NMP,G1445,2 Corinthians 11,658,20
+Ἰσραηλῖταί,Israelites,N-NMP,G2475,2 Corinthians 11,659,20
+σπέρμα,Descendants,N-NNS,G4690,2 Corinthians 11,660,20
+Ἀβραάμ,of Abraham,N-GMS,G11,2 Corinthians 11,661,20
+παραφρονῶν,As being beside myself,V-PPA-NMS,G3912,2 Corinthians 11,662,20
+ὑπερβαλλόντως,above measure,Adv,G5234,2 Corinthians 11,663,20
+Ἰουδαίων,the Jews,Adj-GMP,G2453,2 Corinthians 11,664,20
+πεντάκις,five times,Adv,G3999,2 Corinthians 11,665,20
+τεσσεράκοντα,forty lashes,Adj-AFP,G5062,2 Corinthians 11,666,20
+τρὶς,Three times,Adv,G5151,2 Corinthians 11,667,20
+ἐραβδίσθην,I was beaten with rods,V-AIP-1S,G4463,2 Corinthians 11,668,20
+ἅπαξ,once,Adv,G530,2 Corinthians 11,669,20
+ἐλιθάσθην,I was stoned,V-AIP-1S,G3034,2 Corinthians 11,670,20
+ἐναυάγησα,I was shipwrecked,V-AIA-1S,G3489,2 Corinthians 11,671,20
+νυχθήμερον,a night and a day,N-ANS,G3574,2 Corinthians 11,672,20
+βυθῷ,deep sea,N-DMS,G1037,2 Corinthians 11,673,20
+ὁδοιπορίαις,in journeyings,N-DFP,G3597,2 Corinthians 11,674,20
+κινδύνοις,in perils,N-DMP,G2794,2 Corinthians 11,675,20
+ποταμῶν,of rivers,N-GMP,G4215,2 Corinthians 11,676,20
+λῃστῶν,of robbers,N-GMP,G3027,2 Corinthians 11,677,20
+γένους,race,N-GNS,G1085,2 Corinthians 11,678,20
+ἐθνῶν,the Gentiles,N-GNP,G1484,2 Corinthians 11,679,20
+πόλει,the city,N-DFS,G4172,2 Corinthians 11,680,20
+ἐρημίᾳ,the wilderness,N-DFS,G2047,2 Corinthians 11,681,20
+θαλάσσῃ,the sea,N-DFS,G2281,2 Corinthians 11,682,20
+ψευδαδέλφοις,false brothers,N-DMP,G5569,2 Corinthians 11,683,20
+μόχθῳ,toil,N-DMS,G3449,2 Corinthians 11,684,20
+λιμῷ,hunger,N-DMS,G3042,2 Corinthians 11,685,20
+δίψει,thirst,N-DNS,G1373,2 Corinthians 11,686,20
+ψύχει,cold,N-DNS,G5592,2 Corinthians 11,687,20
+γυμνότητι,nakedness,N-DFS,G1132,2 Corinthians 11,688,20
+Χωρὶς,Besides,Prep,G5565,2 Corinthians 11,689,20
+παρεκτὸς,external,Adv,G3924,2 Corinthians 11,690,20
+ἐπίστασίς,pressure,N-NFS,G1999,2 Corinthians 11,691,20
+μέριμνα,care,N-NFS,G3308,2 Corinthians 11,692,20
+σκανδαλίζεται,is led into sin,V-PIM/P-3S,G4624,2 Corinthians 11,693,20
+πυροῦμαι,do burn inwardly,V-PIM/P-1S,G4448,2 Corinthians 11,694,20
+ἀσθενείας,weakness,N-GFS,G769,2 Corinthians 11,695,20
+ψεύδομαι,I am lying,V-PIM/P-1S,G5574,2 Corinthians 11,696,20
+Δαμασκῷ,Damascus,N-DFS,G1154,2 Corinthians 11,697,20
+ἐθνάρχης,governor,N-NMS,G1481,2 Corinthians 11,698,20
+Ἁρέτα,under Aretas,N-GMS,G702,2 Corinthians 11,699,20
+βασιλέως,king,N-GMS,G935,2 Corinthians 11,700,20
+ἐφρούρει,was guarding,V-IIA-3S,G5432,2 Corinthians 11,701,20
+Δαμασκηνῶν,of the Damascenes,Adj-GMP,G1153,2 Corinthians 11,702,20
+πιάσαι,to seize,V-ANA,G4084,2 Corinthians 11,703,20
+θυρίδος,a window,N-GFS,G2376,2 Corinthians 11,704,20
+σαργάνῃ,a basket,N-DFS,G4553,2 Corinthians 11,705,20
+ἐχαλάσθην,I was let down,V-AIP-1S,G5465,2 Corinthians 11,706,20
+τείχους,wall,N-GNS,G5038,2 Corinthians 11,707,20
+ἐξέφυγον,I escaped,V-AIA-1S,G1628,2 Corinthians 11,708,20
+χεῖρας,hands,N-AFP,G5495,2 Corinthians 11,709,20
+ὀπτασίας,visions,N-AFP,G3701,2 Corinthians 12,710,20
+ἀποκαλύψεις,revelations,N-AFP,G602,2 Corinthians 12,711,20
+πρὸ,ago,Prep,G4253,2 Corinthians 12,712,20
+ἐτῶν,years,N-GNP,G2094,2 Corinthians 12,713,20
+δεκατεσσάρων,fourteen,Adj-GNP,G1180,2 Corinthians 12,714,20
+ἐκτὸς,out of,Prep,G1622,2 Corinthians 12,715,20
+ἁρπαγέντα,having been caught up,V-APP-AMS,G726,2 Corinthians 12,716,20
+τρίτου,the third,Adj-GMS,G5154,2 Corinthians 12,717,20
+Παράδεισον,Paradise,N-AMS,G3857,2 Corinthians 12,718,20
+ἤκουσεν,he heard,V-AIA-3S,G191,2 Corinthians 12,719,20
+ἄρρητα,inexpressible,Adj-ANP,G731,2 Corinthians 12,720,20
+ῥήματα,words,N-ANP,G4487,2 Corinthians 12,721,20
+ἐξὸν,being permitted,V-PPA-NNS,G1832,2 Corinthians 12,722,20
+ἐρῶ,I will be speaking,V-FIA-1S,G2046,2 Corinthians 12,723,20
+ὑπεραίρωμαι,I should become conceited,V-PSM/P-1S,G5229,2 Corinthians 12,724,20
+σκόλοψ,a thorn,N-NMS,G4647,2 Corinthians 12,725,20
+κολαφίζῃ,he might buffet,V-PSA-3S,G2852,2 Corinthians 12,726,20
+ἀποστῇ,it might depart,V-ASA-3S,G868,2 Corinthians 12,727,20
+Ἀρκεῖ,Suffices,V-PIA-3S,G714,2 Corinthians 12,728,20
+τελεῖται,is perfected,V-PIM/P-3S,G5055,2 Corinthians 12,729,20
+Ἥδιστα,Most gladly,Adv-S,G2236,2 Corinthians 12,730,20
+ἐπισκηνώσῃ,may rest,V-ASA-3S,G1981,2 Corinthians 12,731,20
+ὕβρεσιν,insults,N-DFP,G5196,2 Corinthians 12,732,20
+διωγμοῖς,persecutions,N-DMP,G1375,2 Corinthians 12,733,20
+τότε,then,Adv,G5119,2 Corinthians 12,734,20
+ἠναγκάσατε,compelled,V-AIA-2P,G315,2 Corinthians 12,735,20
+ὤφειλον,ought,V-IIA-1S,G3784,2 Corinthians 12,736,20
+σημεῖα,signs,N-NNP,G4592,2 Corinthians 12,737,20
+τέρασιν,wonders,N-DNP,G5059,2 Corinthians 12,738,20
+ἡσσώθητε,you were inferior,V-AIP-2P,G2274,2 Corinthians 12,739,20
+λοιπὰς,rest,Adj-AFP,G3062,2 Corinthians 12,740,20
+ἀδικίαν,wrong,N-AFS,G93,2 Corinthians 12,741,20
+ἑτοίμως,ready,Adv,G2093,2 Corinthians 12,742,20
+ζητῶ,I seek,V-PIA-1S,G2212,2 Corinthians 12,743,20
+γονεῦσιν,parents,N-DMP,G1118,2 Corinthians 12,744,20
+θησαυρίζειν,to treasure up,V-PNA,G2343,2 Corinthians 12,745,20
+δαπανήσω,will spend,V-FIA-1S,G1159,2 Corinthians 12,746,20
+ἐκδαπανηθήσομαι,will be utterly spent,V-FIP-1S,G1550,2 Corinthians 12,747,20
+ἧσσον,less,Adj-ANS-C,G2276,2 Corinthians 12,748,20
+κατεβάρησα,did burden,V-AIA-1S,G2599,2 Corinthians 12,749,20
+πανοῦργος,crafty,Adj-NMS,G3835,2 Corinthians 12,750,20
+δόλῳ,by trickery,N-DMS,G1388,2 Corinthians 12,751,20
+ἀπέσταλκα,I have sent,V-RIA-1S,G649,2 Corinthians 12,752,20
+συναπέστειλα,sent with him,V-AIA-1S,G4882,2 Corinthians 12,753,20
+ἴχνεσιν,steps,N-DNP,G2487,2 Corinthians 12,754,20
+Πάλαι,All along,Adv,G3819,2 Corinthians 12,755,20
+ἀπολογούμεθα,we have been making a defense,V-PIM/P-1P,G626,2 Corinthians 12,756,20
+ἔρις,quarreling,N-NFS,G2054,2 Corinthians 12,757,20
+θυμοί,anger,N-NMP,G2372,2 Corinthians 12,758,20
+ἐριθεῖαι,contentions,N-NFP,G2052,2 Corinthians 12,759,20
+καταλαλιαί,slander,N-NFP,G2636,2 Corinthians 12,760,20
+ψιθυρισμοί,gossip,N-NMP,G5587,2 Corinthians 12,761,20
+φυσιώσεις,conceit,N-NFP,G5450,2 Corinthians 12,762,20
+πενθήσω,I should mourn over,V-ASA-1S,G3996,2 Corinthians 12,763,20
+προημαρτηκότων,having before sinned,V-RPA-GMP,G4258,2 Corinthians 12,764,20
+μετανοησάντων,having repented,V-APA-GMP,G3340,2 Corinthians 12,765,20
+ἀκαθαρσίᾳ,impurity,N-DFS,G167,2 Corinthians 12,766,20
+πορνείᾳ,sexual immorality,N-DFS,G4202,2 Corinthians 12,767,20
+ἀσελγείᾳ,sensuality,N-DFS,G766,2 Corinthians 12,768,20
+δύο,of two,Adj-GMP,G1417,2 Corinthians 13,769,20
+τριῶν,three,Adj-GMP,G5140,2 Corinthians 13,770,20
+ἐσταυρώθη,He was crucified,V-AIP-3S,G4717,2 Corinthians 13,771,20
+πειράζετε,examine,V-PMA-2P,G3985,2 Corinthians 13,772,20
+ἀδόκιμοί,unapproved,Adj-NMP,G96,2 Corinthians 13,773,20
+Εὐχόμεθα,We pray,V-PIM/P-1P,G2172,2 Corinthians 13,774,20
+κακὸν,wrong,Adj-ANS,G2556,2 Corinthians 13,775,20
+φανῶμεν,might appear,V-ASP-1P,G5316,2 Corinthians 13,776,20
+κατάρτισιν,perfection,N-AFS,G2676,2 Corinthians 13,777,20
+ἀποτόμως,with severity,Adv,G664,2 Corinthians 13,778,20
+Λοιπόν,Finally,Adj-ANS,G3063,2 Corinthians 13,779,20
+καταρτίζεσθε,Be perfected,V-PMM/P-2P,G2675,2 Corinthians 13,780,20
+φρονεῖτε,mind,V-PMA-2P,G5426,2 Corinthians 13,781,20
+εἰρηνεύετε,be at peace,V-PMA-2P,G1514,2 Corinthians 13,782,20
+Ἀσπάσασθε,Greet,V-AMM-2P,G782,2 Corinthians 13,783,20
+ἀλλήλους,one another,RecPro-AMP,G240,2 Corinthians 13,784,20
+φιλήματι,kiss,N-DNS,G5370,2 Corinthians 13,785,20

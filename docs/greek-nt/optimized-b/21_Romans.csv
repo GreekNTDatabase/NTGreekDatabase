@@ -1,0 +1,4030 @@
+Greek Word,english_translation,parsing_abbreviation,strongs_number,chapter_ref,Row Ordinal,reading_order_position
+Παῦλος,Paul,N-NMS,G3972,Romans 1,1,21
+δοῦλος,a servant,N-NMS,G1401,Romans 1,2,21
+Χριστοῦ,of Christ,N-GMS,G5547,Romans 1,3,21
+Ἰησοῦ,Jesus,N-GMS,G2424,Romans 1,4,21
+κλητὸς,a called,Adj-NMS,G2822,Romans 1,5,21
+ἀπόστολος,apostle,N-NMS,G652,Romans 1,6,21
+ἀφωρισμένος,having been set apart,V-RPM/P-NMS,G873,Romans 1,7,21
+εἰς,for,Prep,G1519,Romans 1,8,21
+εὐαγγέλιον,the gospel,N-ANS,G2098,Romans 1,9,21
+Θεοῦ,of God,N-GMS,G2316,Romans 1,10,21
+ὃ,which,RelPro-ANS,G3739,Romans 1,11,21
+προεπηγγείλατο,He promised beforehand,V-AIM-3S,G4279,Romans 1,12,21
+διὰ,through,Prep,G1223,Romans 1,13,21
+τῶν,the,Art-GMP,G3588,Romans 1,14,21
+προφητῶν,prophets,N-GMP,G4396,Romans 1,15,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 1,16,21
+ἐν,in,Prep,G1722,Romans 1,17,21
+γραφαῖς,the Scriptures,N-DFP,G1124,Romans 1,18,21
+ἁγίαις,Holy,Adj-DFP,G40,Romans 1,19,21
+περὶ,concerning,Prep,G4012,Romans 1,20,21
+τοῦ,the,Art-GMS,G3588,Romans 1,21,21
+Υἱοῦ,Son,N-GMS,G5207,Romans 1,22,21
+γενομένου,having come,V-APM-GMS,G1096,Romans 1,23,21
+ἐκ,of the,Prep,G1537,Romans 1,24,21
+σπέρματος,seed,N-GNS,G4690,Romans 1,25,21
+Δαυὶδ,of David,N-GMS,G1138,Romans 1,26,21
+κατὰ,according to,Prep,G2596,Romans 1,27,21
+σάρκα,flesh,N-AFS,G4561,Romans 1,28,21
+ὁρισθέντος,having been declared,V-APP-GMS,G3724,Romans 1,29,21
+δυνάμει,power,N-DFS,G1411,Romans 1,30,21
+πνεῦμα,Spirit,N-ANS,G4151,Romans 1,31,21
+ἁγιωσύνης,of holiness,N-GFS,G42,Romans 1,32,21
+ἐξ,by,Prep,G1537,Romans 1,33,21
+ἀναστάσεως,resurrection,N-GFS,G386,Romans 1,34,21
+νεκρῶν,from the dead,Adj-GMP,G3498,Romans 1,35,21
+Κυρίου,Lord,N-GMS,G2962,Romans 1,36,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 1,37,21
+δι,through,Prep,G1223,Romans 1,38,21
+οὗ,whom,RelPro-GMS,G3739,Romans 1,39,21
+ἐλάβομεν,we have received,V-AIA-1P,G2983,Romans 1,40,21
+χάριν,grace,N-AFS,G5485,Romans 1,41,21
+καὶ,and,Conj,G2532,Romans 1,42,21
+ἀποστολὴν,apostleship,N-AFS,G651,Romans 1,43,21
+ὑπακοὴν,obedience,N-AFS,G5218,Romans 1,44,21
+πίστεως,of faith,N-GFS,G4102,Romans 1,45,21
+πᾶσιν,all,Adj-DNP,G3956,Romans 1,46,21
+τοῖς,the,Art-DNP,G3588,Romans 1,47,21
+ἔθνεσιν,Gentiles,N-DNP,G1484,Romans 1,48,21
+ὑπὲρ,on behalf of,Prep,G5228,Romans 1,49,21
+τοῦ,the,Art-GNS,G3588,Romans 1,50,21
+ὀνόματος,name,N-GNS,G3686,Romans 1,51,21
+οἷς,whom,RelPro-DNP,G3739,Romans 1,52,21
+ἐστε,are,V-PIA-2P,G1510,Romans 1,53,21
+ὑμεῖς,you,PPro-N2P,G4771,Romans 1,54,21
+κλητοὶ,called,Adj-NMP,G2822,Romans 1,55,21
+Πᾶσιν,To all,Adj-DMP,G3956,Romans 1,56,21
+τοῖς,those,Art-DMP,G3588,Romans 1,57,21
+οὖσιν,being,V-PPA-DMP,G1510,Romans 1,58,21
+Ῥώμῃ,Rome,N-DFS,G4516,Romans 1,59,21
+ἀγαπητοῖς,beloved,Adj-DMP,G27,Romans 1,60,21
+κλητοῖς,called,Adj-DMP,G2822,Romans 1,61,21
+ἁγίοις,saints,Adj-DMP,G40,Romans 1,62,21
+Χάρις,Grace,N-NFS,G5485,Romans 1,63,21
+ὑμῖν,to you,PPro-D2P,G4771,Romans 1,64,21
+εἰρήνη,peace,N-NFS,G1515,Romans 1,65,21
+ἀπὸ,from,Prep,G575,Romans 1,66,21
+Πατρὸς,the Father,N-GMS,G3962,Romans 1,67,21
+Πρῶτον,First,Adv-S,G4412,Romans 1,68,21
+μὲν,indeed,Conj,G3303,Romans 1,69,21
+εὐχαριστῶ,I thank,V-PIA-1S,G2168,Romans 1,70,21
+τῷ,the,Art-DMS,G3588,Romans 1,71,21
+Θεῷ,God,N-DMS,G2316,Romans 1,72,21
+μου,of me,PPro-G1S,G1473,Romans 1,73,21
+πάντων,all,Adj-GMP,G3956,Romans 1,74,21
+ὑμῶν,of you,PPro-G2P,G4771,Romans 1,75,21
+ὅτι,because,Conj,G3754,Romans 1,76,21
+ἡ,the,Art-NFS,G3588,Romans 1,77,21
+πίστις,faith,N-NFS,G4102,Romans 1,78,21
+καταγγέλλεται,is being proclaimed,V-PIM/P-3S,G2605,Romans 1,79,21
+ὅλῳ,all,Adj-DMS,G3650,Romans 1,80,21
+κόσμῳ,world,N-DMS,G2889,Romans 1,81,21
+μάρτυς,Witness,N-NMS,G3144,Romans 1,82,21
+γάρ,for,Conj,G1063,Romans 1,83,21
+μού,my,PPro-G1S,G1473,Romans 1,84,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 1,85,21
+ὁ,-,Art-NMS,G3588,Romans 1,86,21
+Θεός,God,N-NMS,G2316,Romans 1,87,21
+ᾧ,whom,RelPro-DMS,G3739,Romans 1,88,21
+λατρεύω,I serve,V-PIA-1S,G3000,Romans 1,89,21
+τῷ,the,Art-DNS,G3588,Romans 1,90,21
+πνεύματί,spirit,N-DNS,G4151,Romans 1,91,21
+εὐαγγελίῳ,gospel,N-DNS,G2098,Romans 1,92,21
+ὡς,how,Adv,G5613,Romans 1,93,21
+ἀδιαλείπτως,unceasingly,Adv,G89,Romans 1,94,21
+μνείαν,mention,N-AFS,G3417,Romans 1,95,21
+ποιοῦμαι,I make,V-PIM-1S,G4160,Romans 1,96,21
+πάντοτε,always,Adv,G3842,Romans 1,97,21
+ἐπὶ,upon,Prep,G1909,Romans 1,98,21
+τῶν,the,Art-GFP,G3588,Romans 1,99,21
+προσευχῶν,prayers,N-GFP,G4335,Romans 1,100,21
+δεόμενος,imploring,V-PPM/P-NMS,G1189,Romans 1,101,21
+εἴ,if,Conj,G1487,Romans 1,102,21
+πως,perhaps,Adv,G4459,Romans 1,103,21
+ἤδη,now,Adv,G2235,Romans 1,104,21
+ποτὲ,at last,Adv,G4218,Romans 1,105,21
+εὐοδωθήσομαι,I will make a prosperous journey,V-FIP-1S,G2137,Romans 1,106,21
+θελήματι,will,N-DNS,G2307,Romans 1,107,21
+ἐλθεῖν,to come,V-ANA,G2064,Romans 1,108,21
+πρὸς,to,Prep,G4314,Romans 1,109,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 1,110,21
+ἐπιποθῶ,I long,V-PIA-1S,G1971,Romans 1,111,21
+γὰρ,for,Conj,G1063,Romans 1,112,21
+ἰδεῖν,to see,V-ANA,G3708,Romans 1,113,21
+ἵνα,that,Conj,G2443,Romans 1,114,21
+τι,some,IPro-ANS,G5100,Romans 1,115,21
+μεταδῶ,I may impart,V-ASA-1S,G3330,Romans 1,116,21
+χάρισμα,gift,N-ANS,G5486,Romans 1,117,21
+πνευματικὸν,spiritual,Adj-ANS,G4152,Romans 1,118,21
+τὸ,the,Art-ANS,G3588,Romans 1,119,21
+στηριχθῆναι,strengthening,V-ANP,G4741,Romans 1,120,21
+τοῦτο,that,DPro-NNS,G3778,Romans 1,121,21
+δέ,now,Conj,G1161,Romans 1,122,21
+συμπαρακληθῆναι,to be encouraged together,V-ANP,G4837,Romans 1,123,21
+τῆς,the,Art-GFS,G3588,Romans 1,124,21
+ἀλλήλοις,one another,RecPro-DMP,G240,Romans 1,125,21
+τε,both,Conj,G5037,Romans 1,126,21
+ἐμοῦ,of me,PPro-G1S,G1473,Romans 1,127,21
+Οὐ,Not,Adv,G3756,Romans 1,128,21
+θέλω,I do want,V-PIA-1S,G2309,Romans 1,129,21
+δὲ,now,Conj,G1161,Romans 1,130,21
+ἀγνοεῖν,to be ignorant,V-PNA,G50,Romans 1,131,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 1,132,21
+πολλάκις,many times,Adv,G4178,Romans 1,133,21
+προεθέμην,I purposed,V-AIM-1S,G4388,Romans 1,134,21
+ἐκωλύθην,was hindered,V-AIP-1S,G2967,Romans 1,135,21
+ἄχρι,until,Prep,G891,Romans 1,136,21
+δεῦρο,present,Adv,G1204,Romans 1,137,21
+τινὰ,some,IPro-AMS,G5100,Romans 1,138,21
+καρπὸν,fruit,N-AMS,G2590,Romans 1,139,21
+σχῶ,I might have,V-ASA-1S,G2192,Romans 1,140,21
+καθὼς,as,Adv,G2531,Romans 1,141,21
+λοιποῖς,other,Adj-DNP,G3062,Romans 1,142,21
+Ἕλλησίν,To Greeks,N-DMP,G1672,Romans 1,143,21
+Βαρβάροις,to barbarians,Adj-DMP,G915,Romans 1,144,21
+σοφοῖς,to the wise,Adj-DMP,G4680,Romans 1,145,21
+ἀνοήτοις,the foolish,Adj-DMP,G453,Romans 1,146,21
+ὀφειλέτης,a debtor,N-NMS,G3781,Romans 1,147,21
+εἰμί,I am,V-PIA-1S,G1510,Romans 1,148,21
+οὕτως,Thus,Adv,G3779,Romans 1,149,21
+τὸ,-,Art-NNS,G3588,Romans 1,150,21
+κατ,as to,Prep,G2596,Romans 1,151,21
+ἐμὲ,me there is,PPro-A1S,G1473,Romans 1,152,21
+πρόθυμον,readiness,Adj-NNS,G4289,Romans 1,153,21
+εὐαγγελίσασθαι,to preach the gospel,V-ANM,G2097,Romans 1,154,21
+ἐπαισχύνομαι,I am ashamed of,V-PIM/P-1S,G1870,Romans 1,155,21
+δύναμις,the power,N-NFS,G1411,Romans 1,156,21
+σωτηρίαν,salvation,N-AFS,G4991,Romans 1,157,21
+παντὶ,to everyone,Adj-DMS,G3956,Romans 1,158,21
+πιστεύοντι,believing,V-PPA-DMS,G4100,Romans 1,159,21
+Ἰουδαίῳ,to Jewish,Adj-DMS,G2453,Romans 1,160,21
+πρῶτον,first,Adv-S,G4412,Romans 1,161,21
+Ἕλληνι,to Greek,N-DMS,G1672,Romans 1,162,21
+δικαιοσύνη,The righteousness,N-NFS,G1343,Romans 1,163,21
+αὐτῷ,it,PPro-DN3S,G846,Romans 1,164,21
+ἀποκαλύπτεται,is revealed,V-PIM/P-3S,G601,Romans 1,165,21
+πίστιν,faith,N-AFS,G4102,Romans 1,166,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 1,167,21
+Ὁ,-,Art-NMS,G3588,Romans 1,168,21
+δίκαιος,the righteous,Adj-NMS,G1342,Romans 1,169,21
+ζήσεται,will live,V-FIM-3S,G2198,Romans 1,170,21
+Ἀποκαλύπτεται,Is revealed,V-PIM/P-3S,G601,Romans 1,171,21
+ὀργὴ,the wrath,N-NFS,G3709,Romans 1,172,21
+ἀπ,from,Prep,G575,Romans 1,173,21
+οὐρανοῦ,heaven,N-GMS,G3772,Romans 1,174,21
+πᾶσαν,all,Adj-AFS,G3956,Romans 1,175,21
+ἀσέβειαν,ungodliness,N-AFS,G763,Romans 1,176,21
+ἀδικίαν,unrighteousness,N-AFS,G93,Romans 1,177,21
+ἀνθρώπων,of men,N-GMP,G444,Romans 1,178,21
+τὴν,the,Art-AFS,G3588,Romans 1,179,21
+ἀλήθειαν,truth,N-AFS,G225,Romans 1,180,21
+ἀδικίᾳ,unrighteousness,N-DFS,G93,Romans 1,181,21
+κατεχόντων,suppressing,V-PPA-GMP,G2722,Romans 1,182,21
+διότι,because,Conj,G1360,Romans 1,183,21
+γνωστὸν,known,Adj-NNS,G1110,Romans 1,184,21
+φανερόν,manifest,Adj-NNS,G5318,Romans 1,185,21
+αὐτοῖς,them,PPro-DM3P,G846,Romans 1,186,21
+θεὸς,God,N-NMS,G2316,Romans 1,187,21
+ἐφανέρωσεν,has revealed it,V-AIA-3S,G5319,Romans 1,188,21
+τὰ,The,Art-NNP,G3588,Romans 1,189,21
+ἀόρατα,invisible qualities,Adj-NNP,G517,Romans 1,190,21
+κτίσεως,the creation,N-GFS,G2937,Romans 1,191,21
+κόσμου,of the world,N-GMS,G2889,Romans 1,192,21
+ποιήμασιν,things made,N-DNP,G4161,Romans 1,193,21
+νοούμενα,being understood,V-PPM/P-NNP,G3539,Romans 1,194,21
+καθορᾶται,are clearly seen,V-PIM/P-3S,G2529,Romans 1,195,21
+ἥ,the,Art-NFS,G3588,Romans 1,196,21
+ἀΐδιος,eternal,Adj-NFS,G126,Romans 1,197,21
+θειότης,divinity,N-NFS,G2305,Romans 1,198,21
+εἶναι,to be,V-PNA,G1510,Romans 1,199,21
+αὐτοὺς,them,PPro-AM3P,G846,Romans 1,200,21
+ἀναπολογήτους,without excuse,Adj-AMP,G379,Romans 1,201,21
+Διότι,For,Conj,G1360,Romans 1,202,21
+γνόντες,having known,V-APA-NMP,G1097,Romans 1,203,21
+τὸν,-,Art-AMS,G3588,Romans 1,204,21
+Θεὸν,God,N-AMS,G2316,Romans 1,205,21
+οὐχ,not,Adv,G3756,Romans 1,206,21
+ἐδόξασαν,they glorified Him,V-AIA-3P,G1392,Romans 1,207,21
+ἢ,or,Conj,G2228,Romans 1,208,21
+ηὐχαρίστησαν,were thankful,V-AIA-3P,G2168,Romans 1,209,21
+ἀλλὰ,but,Conj,G235,Romans 1,210,21
+ἐματαιώθησαν,they became futile,V-AIP-3P,G3154,Romans 1,211,21
+διαλογισμοῖς,thinking,N-DMP,G1261,Romans 1,212,21
+αὐτῶν,of them,PPro-GM3P,G846,Romans 1,213,21
+ἐσκοτίσθη,was darkened,V-AIP-3S,G4654,Romans 1,214,21
+ἀσύνετος,foolish,Adj-NFS,G801,Romans 1,215,21
+καρδία,heart,N-NFS,G2588,Romans 1,216,21
+φάσκοντες,Professing,V-PPA-NMP,G5335,Romans 1,217,21
+σοφοὶ,wise,Adj-NMP,G4680,Romans 1,218,21
+ἐμωράνθησαν,they became fools,V-AIP-3P,G3471,Romans 1,219,21
+ἤλλαξαν,they changed,V-AIA-3P,G236,Romans 1,220,21
+δόξαν,glory,N-AFS,G1391,Romans 1,221,21
+ἀφθάρτου,immortal,Adj-GMS,G862,Romans 1,222,21
+ὁμοιώματι,a likeness,N-DNS,G3667,Romans 1,223,21
+εἰκόνος,of an image,N-GFS,G1504,Romans 1,224,21
+φθαρτοῦ,of mortal,Adj-GMS,G5349,Romans 1,225,21
+ἀνθρώπου,man,N-GMS,G444,Romans 1,226,21
+πετεινῶν,birds,N-GNP,G4071,Romans 1,227,21
+τετραπόδων,quadrupeds,Adj-GNP,G5074,Romans 1,228,21
+ἑρπετῶν,creeping things,N-GNP,G2062,Romans 1,229,21
+Διὸ,Therefore,Conj,G1352,Romans 1,230,21
+παρέδωκεν,gave up,V-AIA-3S,G3860,Romans 1,231,21
+Θεὸς,God,N-NMS,G2316,Romans 1,232,21
+ταῖς,the,Art-DFP,G3588,Romans 1,233,21
+ἐπιθυμίαις,desires,N-DFP,G1939,Romans 1,234,21
+καρδιῶν,hearts,N-GFP,G2588,Romans 1,235,21
+ἀκαθαρσίαν,impurity,N-AFS,G167,Romans 1,236,21
+ἀτιμάζεσθαι,to dishonor,V-PNM/P,G818,Romans 1,237,21
+τὰ,the,Art-ANP,G3588,Romans 1,238,21
+σώματα,bodies,N-ANP,G4983,Romans 1,239,21
+οἵτινες,who,RelPro-NMP,G3748,Romans 1,240,21
+μετήλλαξαν,changed,V-AIA-3P,G3337,Romans 1,241,21
+ψεύδει,falsehood,N-DNS,G5579,Romans 1,242,21
+ἐσεβάσθησαν,reverenced,V-AIP-3P,G4573,Romans 1,243,21
+ἐλάτρευσαν,served,V-AIA-3P,G3000,Romans 1,244,21
+τῇ,the,Art-DFS,G3588,Romans 1,245,21
+κτίσει,created thing,N-DFS,G2937,Romans 1,246,21
+παρὰ,beyond,Prep,G3844,Romans 1,247,21
+Κτίσαντα,having created it,V-APA-AMS,G2936,Romans 1,248,21
+ὅς,who,RelPro-NMS,G3739,Romans 1,249,21
+εὐλογητὸς,blessed,Adj-NMS,G2128,Romans 1,250,21
+τοὺς,the,Art-AMP,G3588,Romans 1,251,21
+αἰῶνας,ages,N-AMP,G165,Romans 1,252,21
+ἀμήν,Amen,Heb,G281,Romans 1,253,21
+Διὰ,Because of,Prep,G1223,Romans 1,254,21
+τοῦτο,this,DPro-ANS,G3778,Romans 1,255,21
+πάθη,passions,N-ANP,G3806,Romans 1,256,21
+ἀτιμίας,of dishonor,N-GFS,G819,Romans 1,257,21
+αἵ,-,Art-NFP,G3588,Romans 1,258,21
+θήλειαι,females,Adj-NFP,G2338,Romans 1,259,21
+φυσικὴν,natural,Adj-AFS,G5446,Romans 1,260,21
+χρῆσιν,use,N-AFS,G5540,Romans 1,261,21
+φύσιν,nature,N-AFS,G5449,Romans 1,262,21
+ὁμοίως,Likewise,Adv,G3668,Romans 1,263,21
+οἱ,the,Art-NMP,G3588,Romans 1,264,21
+ἄρσενες,males,N-NMP,G730,Romans 1,265,21
+ἀφέντες,having left,V-APA-NMP,G863,Romans 1,266,21
+θηλείας,female,Adj-GFS,G2338,Romans 1,267,21
+ἐξεκαύθησαν,were inflamed,V-AIP-3P,G1572,Romans 1,268,21
+ὀρέξει,desire,N-DFS,G3715,Romans 1,269,21
+ἀλλήλους,one another,RecPro-AMP,G240,Romans 1,270,21
+ἄρσεσιν,males,N-DMP,G730,Romans 1,271,21
+ἀσχημοσύνην,shame,N-AFS,G808,Romans 1,272,21
+κατεργαζόμενοι,working out,V-PPM/P-NMP,G2716,Romans 1,273,21
+ἀντιμισθίαν,recompense,N-AFS,G489,Romans 1,274,21
+ἣν,which,RelPro-AFS,G3739,Romans 1,275,21
+ἔδει,was fitting,V-IIA-3S,G1163,Romans 1,276,21
+πλάνης,error,N-GFS,G4106,Romans 1,277,21
+ἑαυτοῖς,themselves,RefPro-DM3P,G1438,Romans 1,278,21
+ἀπολαμβάνοντες,receiving,V-PPA-NMP,G618,Romans 1,279,21
+Καὶ,And,Conj,G2532,Romans 1,280,21
+οὐκ,not,Adv,G3756,Romans 1,281,21
+ἐδοκίμασαν,they did see fit,V-AIA-3P,G1381,Romans 1,282,21
+ἔχειν,to have,V-PNA,G2192,Romans 1,283,21
+ἐπιγνώσει,knowledge,N-DFS,G1922,Romans 1,284,21
+ἀδόκιμον,a depraved,Adj-AMS,G96,Romans 1,285,21
+νοῦν,mind,N-AMS,G3563,Romans 1,286,21
+ποιεῖν,to do,V-PNA,G4160,Romans 1,287,21
+μὴ,not,Adv,G3361,Romans 1,288,21
+καθήκοντα,being proper,V-PPA-ANP,G2520,Romans 1,289,21
+πεπληρωμένους,being filled with,V-RPM/P-AMP,G4137,Romans 1,290,21
+πάσῃ,all,Adj-DFS,G3956,Romans 1,291,21
+πονηρίᾳ,wickedness,N-DFS,G4189,Romans 1,292,21
+πλεονεξίᾳ,covetousness,N-DFS,G4124,Romans 1,293,21
+κακίᾳ,malice,N-DFS,G2549,Romans 1,294,21
+μεστοὺς,full,Adj-AMP,G3324,Romans 1,295,21
+φθόνου,of envy,N-GMS,G5355,Romans 1,296,21
+φόνου,murder,N-GMS,G5408,Romans 1,297,21
+ἔριδος,strife,N-GFS,G2054,Romans 1,298,21
+δόλου,deceit,N-GMS,G1388,Romans 1,299,21
+κακοηθείας,maliciousness,N-GFS,G2550,Romans 1,300,21
+ψιθυριστάς,gossips,N-AMP,G5588,Romans 1,301,21
+καταλάλους,slanderers,Adj-AMP,G2637,Romans 1,302,21
+θεοστυγεῖς,hateful to God,Adj-AMP,G2319,Romans 1,303,21
+ὑβριστάς,insolent,N-AMP,G5197,Romans 1,304,21
+ὑπερηφάνους,arrogant,Adj-AMP,G5244,Romans 1,305,21
+ἀλαζόνας,boastful,N-AMP,G213,Romans 1,306,21
+ἐφευρετὰς,inventors,N-AMP,G2182,Romans 1,307,21
+κακῶν,of evil things,Adj-GNP,G2556,Romans 1,308,21
+γονεῦσιν,to parents,N-DMP,G1118,Romans 1,309,21
+ἀπειθεῖς,disobedient,Adj-AMP,G545,Romans 1,310,21
+ἀσυνέτους,foolish,Adj-AMP,G801,Romans 1,311,21
+ἀσυνθέτους,untrustworthy,Adj-AMP,G802,Romans 1,312,21
+ἀστόργους,heartless,Adj-AMP,G794,Romans 1,313,21
+ἀνελεήμονας,unmerciful,Adj-AMP,G415,Romans 1,314,21
+δικαίωμα,righteous decree,N-ANS,G1345,Romans 1,315,21
+ἐπιγνόντες,having known,V-APA-NMP,G1921,Romans 1,316,21
+τοιαῦτα,things,DPro-ANP,G5108,Romans 1,317,21
+πράσσοντες,doing,V-PPA-NMP,G4238,Romans 1,318,21
+ἄξιοι,worthy,Adj-NMP,G514,Romans 1,319,21
+θανάτου,of death,N-GMS,G2288,Romans 1,320,21
+εἰσίν,are,V-PIA-3P,G1510,Romans 1,321,21
+οὐ,not,Adv,G3756,Romans 1,322,21
+μόνον,only,Adv,G3440,Romans 1,323,21
+αὐτὰ,them,PPro-AN3P,G846,Romans 1,324,21
+ποιοῦσιν,are practicing,V-PIA-3P,G4160,Romans 1,325,21
+συνευδοκοῦσιν,are approving of,V-PIA-3P,G4909,Romans 1,326,21
+πράσσουσιν,practicing them,V-PPA-DMP,G4238,Romans 1,327,21
+Διὸ,Therefore,Conj,G1352,Romans 2,328,21
+ἀναπολόγητος,inexcusable,Adj-NMS,G379,Romans 2,329,21
+εἶ,you are,V-PIA-2S,G1510,Romans 2,330,21
+ὦ,O,I,G5599,Romans 2,331,21
+ἄνθρωπε,man,N-VMS,G444,Romans 2,332,21
+πᾶς,each one,Adj-VMS,G3956,Romans 2,333,21
+ὁ,who,Art-VMS,G3588,Romans 2,334,21
+κρίνων,is judging,V-PPA-VMS,G2919,Romans 2,335,21
+ἐν,In,Prep,G1722,Romans 2,336,21
+ᾧ,that which,RelPro-DNS,G3739,Romans 2,337,21
+γὰρ,for,Conj,G1063,Romans 2,338,21
+κρίνεις,you judge,V-PIA-2S,G2919,Romans 2,339,21
+τὸν,the,Art-AMS,G3588,Romans 2,340,21
+ἕτερον,other,Adj-AMS,G2087,Romans 2,341,21
+σεαυτὸν,yourself,PPro-AM2S,G4572,Romans 2,342,21
+κατακρίνεις,you are condemning,V-PIA-2S,G2632,Romans 2,343,21
+τὰ,-,Art-ANP,G3588,Romans 2,344,21
+αὐτὰ,the same things,PPro-AN3P,G846,Romans 2,345,21
+πράσσεις,you do,V-PIA-2S,G4238,Romans 2,346,21
+ὁ,the one,Art-NMS,G3588,Romans 2,347,21
+κρίνων,judging,V-PPA-NMS,G2919,Romans 2,348,21
+οἴδαμεν,We know,V-RIA-1P,G1492,Romans 2,349,21
+δὲ,however,Conj,G1161,Romans 2,350,21
+ὅτι,that,Conj,G3754,Romans 2,351,21
+τὸ,the,Art-NNS,G3588,Romans 2,352,21
+κρίμα,judgment,N-NNS,G2917,Romans 2,353,21
+τοῦ,-,Art-GMS,G3588,Romans 2,354,21
+Θεοῦ,of God,N-GMS,G2316,Romans 2,355,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 2,356,21
+κατὰ,according to,Prep,G2596,Romans 2,357,21
+ἀλήθειαν,truth,N-AFS,G225,Romans 2,358,21
+ἐπὶ,upon,Prep,G1909,Romans 2,359,21
+τοὺς,those,Art-AMP,G3588,Romans 2,360,21
+τοιαῦτα,such things,DPro-ANP,G5108,Romans 2,361,21
+πράσσοντας,practicing,V-PPA-AMP,G4238,Romans 2,362,21
+λογίζῃ,Suppose you,V-PIM/P-2S,G3049,Romans 2,363,21
+τοῦτο,this,DPro-ANS,G3778,Romans 2,364,21
+καὶ,and,Conj,G2532,Romans 2,365,21
+ποιῶν,doing,V-PPA-VMS,G4160,Romans 2,366,21
+αὐτά,them yourself,PPro-AN3P,G846,Romans 2,367,21
+σὺ,you,PPro-N2S,G4771,Romans 2,368,21
+ἐκφεύξῃ,will escape,V-FIM-2S,G1628,Romans 2,369,21
+τὸ,the,Art-ANS,G3588,Romans 2,370,21
+κρίμα,judgment,N-ANS,G2917,Romans 2,371,21
+ἢ,Or,Conj,G2228,Romans 2,372,21
+πλούτου,riches,N-GMS,G4149,Romans 2,373,21
+τῆς,of the,Art-GFS,G3588,Romans 2,374,21
+χρηστότητος,kindness,N-GFS,G5544,Romans 2,375,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 2,376,21
+ἀνοχῆς,forbearance,N-GFS,G463,Romans 2,377,21
+μακροθυμίας,patience,N-GFS,G3115,Romans 2,378,21
+καταφρονεῖς,despise you,V-PIA-2S,G2706,Romans 2,379,21
+ἀγνοῶν,not knowing,V-PPA-NMS,G50,Romans 2,380,21
+χρηστὸν,kindness,Adj-NNS,G5543,Romans 2,381,21
+εἰς,to,Prep,G1519,Romans 2,382,21
+μετάνοιάν,repentance,N-AFS,G3341,Romans 2,383,21
+σε,you,PPro-A2S,G4771,Romans 2,384,21
+ἄγει,leads,V-PIA-3S,G71,Romans 2,385,21
+Κατὰ,Because of,Prep,G2596,Romans 2,386,21
+τὴν,the,Art-AFS,G3588,Romans 2,387,21
+σκληρότητά,hardness,N-AFS,G4643,Romans 2,388,21
+σου,of you,PPro-G2S,G4771,Romans 2,389,21
+ἀμετανόητον,unrepentant,Adj-AFS,G279,Romans 2,390,21
+καρδίαν,heart,N-AFS,G2588,Romans 2,391,21
+θησαυρίζεις,you are treasuring up,V-PIA-2S,G2343,Romans 2,392,21
+σεαυτῷ,to yourself,PPro-DM2S,G4572,Romans 2,393,21
+ὀργὴν,wrath,N-AFS,G3709,Romans 2,394,21
+ἡμέρᾳ,the day,N-DFS,G2250,Romans 2,395,21
+ὀργῆς,of wrath,N-GFS,G3709,Romans 2,396,21
+ἀποκαλύψεως,revelation,N-GFS,G602,Romans 2,397,21
+δικαιοκρισίας,of righteous judgement,N-GFS,G1341,Romans 2,398,21
+ὃς,who,RelPro-NMS,G3739,Romans 2,399,21
+Ἀποδώσει,will give,V-FIA-3S,G591,Romans 2,400,21
+ἑκάστῳ,to each,Adj-DMS,G1538,Romans 2,401,21
+ἔργα,works,N-ANP,G2041,Romans 2,402,21
+τοῖς,to those who,Art-DMP,G3588,Romans 2,403,21
+μὲν,indeed,Conj,G3303,Romans 2,404,21
+καθ,with,Prep,G2596,Romans 2,405,21
+ὑπομονὴν,endurance,N-AFS,G5281,Romans 2,406,21
+ἔργου,in work,N-GNS,G2041,Romans 2,407,21
+ἀγαθοῦ,good,Adj-GNS,G18,Romans 2,408,21
+δόξαν,glory,N-AFS,G1391,Romans 2,409,21
+τιμὴν,honor,N-AFS,G5092,Romans 2,410,21
+ἀφθαρσίαν,immortality,N-AFS,G861,Romans 2,411,21
+ζητοῦσιν,are seeking,V-PPA-DMP,G2212,Romans 2,412,21
+ζωὴν,life,N-AFS,G2222,Romans 2,413,21
+αἰώνιον,eternal,Adj-AFS,G166,Romans 2,414,21
+ἐξ,of,Prep,G1537,Romans 2,415,21
+ἐριθείας,self-interest,N-GFS,G2052,Romans 2,416,21
+ἀπειθοῦσι,disobeying,V-PPA-DMP,G544,Romans 2,417,21
+τῇ,the,Art-DFS,G3588,Romans 2,418,21
+ἀληθείᾳ,truth,N-DFS,G225,Romans 2,419,21
+πειθομένοις,being persuaded about,V-PPP-DMP,G3982,Romans 2,420,21
+ἀδικίᾳ,unrighteousness,N-DFS,G93,Romans 2,421,21
+ὀργὴ,wrath,N-NFS,G3709,Romans 2,422,21
+θυμός,anger,N-NMS,G2372,Romans 2,423,21
+θλῖψις,tribulation,N-NFS,G2347,Romans 2,424,21
+στενοχωρία,distress,N-NFS,G4730,Romans 2,425,21
+πᾶσαν,every,Adj-AFS,G3956,Romans 2,426,21
+ψυχὴν,soul,N-AFS,G5590,Romans 2,427,21
+ἀνθρώπου,of man,N-GMS,G444,Romans 2,428,21
+κατεργαζομένου,working,V-PPM/P-GMS,G2716,Romans 2,429,21
+κακόν,evil,Adj-ANS,G2556,Romans 2,430,21
+Ἰουδαίου,of Jewish,Adj-GMS,G2453,Romans 2,431,21
+τε,both,Conj,G5037,Romans 2,432,21
+πρῶτον,first,Adv-S,G4412,Romans 2,433,21
+Ἕλληνος,of Greek,N-GMS,G1672,Romans 2,434,21
+δόξα,glory,N-NFS,G1391,Romans 2,435,21
+τιμὴ,honor,N-NFS,G5092,Romans 2,436,21
+εἰρήνη,peace,N-NFS,G1515,Romans 2,437,21
+παντὶ,to everyone,Adj-DMS,G3956,Romans 2,438,21
+τῷ,-,Art-DMS,G3588,Romans 2,439,21
+ἐργαζομένῳ,doing,V-PPM/P-DMS,G2038,Romans 2,440,21
+ἀγαθόν,good,Adj-ANS,G18,Romans 2,441,21
+Ἰουδαίῳ,to Jewish,Adj-DMS,G2453,Romans 2,442,21
+Ἕλληνι,to Greek,N-DMS,G1672,Romans 2,443,21
+οὐ,Not,Adv,G3756,Romans 2,444,21
+γάρ,for,Conj,G1063,Romans 2,445,21
+προσωπολημψία,partiality,N-NFS,G4382,Romans 2,446,21
+παρὰ,with,Prep,G3844,Romans 2,447,21
+Θεῷ,God,N-DMS,G2316,Romans 2,448,21
+Ὅσοι,As many as,RelPro-NMP,G3745,Romans 2,449,21
+ἀνόμως,without the Law,Adv,G460,Romans 2,450,21
+ἥμαρτον,have sinned,V-AIA-3P,G264,Romans 2,451,21
+ἀπολοῦνται,will perish,V-FIM-3P,G622,Romans 2,452,21
+ὅσοι,as many as,RelPro-NMP,G3745,Romans 2,453,21
+νόμῳ,the Law,N-DMS,G3551,Romans 2,454,21
+διὰ,by,Prep,G1223,Romans 2,455,21
+νόμου,the Law,N-GMS,G3551,Romans 2,456,21
+κριθήσονται,will be judged,V-FIP-3P,G2919,Romans 2,457,21
+οἱ,the,Art-NMP,G3588,Romans 2,458,21
+ἀκροαταὶ,hearers,N-NMP,G202,Romans 2,459,21
+δίκαιοι,righteous,Adj-NMP,G1342,Romans 2,460,21
+ἀλλ,but,Conj,G235,Romans 2,461,21
+ποιηταὶ,doers,N-NMP,G4163,Romans 2,462,21
+δικαιωθήσονται,will be justified,V-FIP-3P,G1344,Romans 2,463,21
+Ὅταν,When,Conj,G3752,Romans 2,464,21
+ἔθνη,Gentiles,N-NNP,G1484,Romans 2,465,21
+τὰ,-,Art-NNP,G3588,Romans 2,466,21
+μὴ,not,Adv,G3361,Romans 2,467,21
+νόμον,the law,N-AMS,G3551,Romans 2,468,21
+ἔχοντα,having,V-PPA-NNP,G2192,Romans 2,469,21
+φύσει,by nature,N-DFS,G5449,Romans 2,470,21
+ποιῶσιν,do,V-PSA-3P,G4160,Romans 2,471,21
+οὗτοι,these,DPro-NMP,G3778,Romans 2,472,21
+ἔχοντες,having,V-PPA-NMP,G2192,Romans 2,473,21
+ἑαυτοῖς,to themselves,RefPro-DM3P,G1438,Romans 2,474,21
+εἰσιν,are,V-PIA-3P,G1510,Romans 2,475,21
+νόμος,a law,N-NMS,G3551,Romans 2,476,21
+οἵτινες,who,RelPro-NMP,G3748,Romans 2,477,21
+ἐνδείκνυνται,show,V-PIM-3P,G1731,Romans 2,478,21
+ἔργον,work,N-ANS,G2041,Romans 2,479,21
+γραπτὸν,written,Adj-ANS,G1123,Romans 2,480,21
+ταῖς,the,Art-DFP,G3588,Romans 2,481,21
+καρδίαις,hearts,N-DFP,G2588,Romans 2,482,21
+αὐτῶν,of them,PPro-GM3P,G846,Romans 2,483,21
+συμμαρτυρούσης,bearing witness,V-PPA-GFS,G4828,Romans 2,484,21
+συνειδήσεως,conscience,N-GFS,G4893,Romans 2,485,21
+μεταξὺ,between,Prep,G3342,Romans 2,486,21
+ἀλλήλων,one another,RecPro-GMP,G240,Romans 2,487,21
+τῶν,the,Art-GMP,G3588,Romans 2,488,21
+λογισμῶν,thoughts,N-GMP,G3053,Romans 2,489,21
+κατηγορούντων,accusing,V-PPA-GMP,G2723,Romans 2,490,21
+ἀπολογουμένων,defending them,V-PPM/P-GMP,G626,Romans 2,491,21
+ᾗ,that,RelPro-DFS,G3739,Romans 2,492,21
+ὅτε,when,Adv,G3753,Romans 2,493,21
+κρίνει,will judge,V-PIA-3S,G2919,Romans 2,494,21
+Θεὸς,God,N-NMS,G2316,Romans 2,495,21
+κρυπτὰ,secrets,Adj-ANP,G2927,Romans 2,496,21
+ἀνθρώπων,of men,N-GMP,G444,Romans 2,497,21
+εὐαγγέλιόν,gospel,N-ANS,G2098,Romans 2,498,21
+μου,of me,PPro-G1S,G1473,Romans 2,499,21
+Χριστοῦ,Christ,N-GMS,G5547,Romans 2,500,21
+Ἰησοῦ,Jesus,N-GMS,G2424,Romans 2,501,21
+Εἰ,If,Conj,G1487,Romans 2,502,21
+Ἰουδαῖος,a Jew,Adj-NMS,G2453,Romans 2,503,21
+ἐπονομάζῃ,are called,V-PIM/P-2S,G2028,Romans 2,504,21
+ἐπαναπαύῃ,rely on,V-PIM/P-2S,G1879,Romans 2,505,21
+καυχᾶσαι,boast,V-PIM/P-2S,G2744,Romans 2,506,21
+γινώσκεις,know,V-PIA-2S,G1097,Romans 2,507,21
+θέλημα,will,N-ANS,G2307,Romans 2,508,21
+δοκιμάζεις,approve,V-PIA-2S,G1381,Romans 2,509,21
+διαφέροντα,being superior,V-PPA-ANP,G1308,Romans 2,510,21
+κατηχούμενος,being instructed,V-PPM/P-NMS,G2727,Romans 2,511,21
+ἐκ,out of,Prep,G1537,Romans 2,512,21
+πέποιθάς,are persuaded that,V-RIA-2S,G3982,Romans 2,513,21
+ὁδηγὸν,a guide,N-AMS,G3595,Romans 2,514,21
+εἶναι,are,V-PNA,G1510,Romans 2,515,21
+τυφλῶν,of the blind,Adj-GMP,G5185,Romans 2,516,21
+φῶς,a light,N-ANS,G5457,Romans 2,517,21
+σκότει,darkness,N-DNS,G4655,Romans 2,518,21
+παιδευτὴν,an instructor,N-AMS,G3810,Romans 2,519,21
+ἀφρόνων,of the foolish,Adj-GMP,G878,Romans 2,520,21
+διδάσκαλον,a teacher,N-AMS,G1320,Romans 2,521,21
+νηπίων,of infants,Adj-GMP,G3516,Romans 2,522,21
+ἔχοντα,having,V-PPA-AMS,G2192,Romans 2,523,21
+μόρφωσιν,embodiment,N-AFS,G3446,Romans 2,524,21
+γνώσεως,of knowledge,N-GFS,G1108,Romans 2,525,21
+ἀληθείας,truth,N-GFS,G225,Romans 2,526,21
+οὖν,then,Conj,G3767,Romans 2,527,21
+διδάσκων,teaching,V-PPA-VMS,G1321,Romans 2,528,21
+διδάσκεις,do you teach,V-PIA-2S,G1321,Romans 2,529,21
+κηρύσσων,preaching,V-PPA-VMS,G2784,Romans 2,530,21
+κλέπτειν,to steal,V-PNA,G2813,Romans 2,531,21
+κλέπτεις,do you steal,V-PIA-2S,G2813,Romans 2,532,21
+λέγων,saying,V-PPA-VMS,G3004,Romans 2,533,21
+μοιχεύειν,to commit adultery,V-PNA,G3431,Romans 2,534,21
+μοιχεύεις,do you commit adultery,V-PIA-2S,G3431,Romans 2,535,21
+βδελυσσόμενος,abhorring,V-PPM/P-VMS,G948,Romans 2,536,21
+εἴδωλα,idols,N-ANP,G1497,Romans 2,537,21
+ἱεροσυλεῖς,do you rob temples,V-PIA-2S,G2416,Romans 2,538,21
+παραβάσεως,transgression,N-GFS,G3847,Romans 2,539,21
+Θεὸν,God,N-AMS,G2316,Romans 2,540,21
+ἀτιμάζεις,dishonor you,V-PIA-2S,G818,Romans 2,541,21
+Ὄνομα,The name,N-NNS,G3686,Romans 2,542,21
+δι,through,Prep,G1223,Romans 2,543,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 2,544,21
+βλασφημεῖται,is blasphemed,V-PIM/P-3S,G987,Romans 2,545,21
+τοῖς,the,Art-DNP,G3588,Romans 2,546,21
+ἔθνεσιν,Gentiles,N-DNP,G1484,Romans 2,547,21
+καθὼς,as,Adv,G2531,Romans 2,548,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 2,549,21
+Περιτομὴ,Circumcision,N-NFS,G4061,Romans 2,550,21
+ὠφελεῖ,profits,V-PIA-3S,G5623,Romans 2,551,21
+ἐὰν,if,Conj,G1437,Romans 2,552,21
+πράσσῃς,you do,V-PSA-2S,G4238,Romans 2,553,21
+παραβάτης,a transgressor,N-NMS,G3848,Romans 2,554,21
+ᾖς,you are,V-PSA-2S,G1510,Romans 2,555,21
+ἡ,the,Art-NFS,G3588,Romans 2,556,21
+περιτομή,circumcision,N-NFS,G4061,Romans 2,557,21
+ἀκροβυστία,uncircumcision,N-NFS,G203,Romans 2,558,21
+γέγονεν,has become,V-RIA-3S,G1096,Romans 2,559,21
+δικαιώματα,requirements,N-ANP,G1345,Romans 2,560,21
+φυλάσσῃ,keeps,V-PSA-3S,G5442,Romans 2,561,21
+οὐχ,not,Adv,G3756,Romans 2,562,21
+περιτομὴν,circumcision,N-AFS,G4061,Romans 2,563,21
+λογισθήσεται,will be reckoned,V-FIP-3S,G3049,Romans 2,564,21
+κρινεῖ,will judge,V-FIA-3S,G2919,Romans 2,565,21
+φύσεως,nature,N-GFS,G5449,Romans 2,566,21
+τελοῦσα,fulfilling,V-PPA-NFS,G5055,Romans 2,567,21
+σὲ,you,PPro-A2S,G4771,Romans 2,568,21
+γράμματος,the letter,N-GNS,G1121,Romans 2,569,21
+περιτομῆς,circumcision,N-GFS,G4061,Romans 2,570,21
+παραβάτην,are a transgressor,N-AMS,G3848,Romans 2,571,21
+Οὐ,Not,Adv,G3756,Romans 2,572,21
+τῷ,the,Art-DNS,G3588,Romans 2,573,21
+φανερῷ,outward,Adj-DNS,G5318,Romans 2,574,21
+Ἰουδαῖός,a Jew,Adj-NMS,G2453,Romans 2,575,21
+οὐδὲ,neither,Conj,G3761,Romans 2,576,21
+σαρκὶ,flesh,N-DFS,G4561,Romans 2,577,21
+κρυπτῷ,inward,Adj-DNS,G2927,Romans 2,578,21
+περιτομὴ,circumcision is,N-NFS,G4061,Romans 2,579,21
+καρδίας,of heart,N-GFS,G2588,Romans 2,580,21
+πνεύματι,spirit,N-DNS,G4151,Romans 2,581,21
+γράμματι,in letter,N-DNS,G1121,Romans 2,582,21
+οὗ,of whom,RelPro-GMS,G3739,Romans 2,583,21
+ἔπαινος,praise,N-NMS,G1868,Romans 2,584,21
+οὐκ,is not,Adv,G3756,Romans 2,585,21
+Τί,What,IPro-NNS,G5101,Romans 3,586,21
+οὖν,then is,Conj,G3767,Romans 3,587,21
+τὸ,the,Art-NNS,G3588,Romans 3,588,21
+περισσὸν,superiority,Adj-NNS,G4053,Romans 3,589,21
+τοῦ,of the,Art-GMS,G3588,Romans 3,590,21
+Ἰουδαίου,Jew,Adj-GMS,G2453,Romans 3,591,21
+ἢ,Or,Conj,G2228,Romans 3,592,21
+τίς,what is,IPro-NFS,G5101,Romans 3,593,21
+ἡ,the,Art-NFS,G3588,Romans 3,594,21
+ὠφέλεια,benefit,N-NFS,G5622,Romans 3,595,21
+τῆς,of the,Art-GFS,G3588,Romans 3,596,21
+περιτομῆς,circumcision,N-GFS,G4061,Romans 3,597,21
+πολὺ,Much,Adj-NNS,G4183,Romans 3,598,21
+κατὰ,in,Prep,G2596,Romans 3,599,21
+πάντα,every,Adj-AMS,G3956,Romans 3,600,21
+τρόπον,way,N-AMS,G5158,Romans 3,601,21
+πρῶτον,Chiefly,Adv-S,G4412,Romans 3,602,21
+μὲν,indeed,Prtcl,G3303,Romans 3,603,21
+γὰρ,for,Conj,G1063,Romans 3,604,21
+ὅτι,that,Conj,G3754,Romans 3,605,21
+ἐπιστεύθησαν,they were entrusted with,V-AIP-3P,G4100,Romans 3,606,21
+τὰ,the,Art-ANP,G3588,Romans 3,607,21
+λόγια,oracles,N-ANP,G3051,Romans 3,608,21
+Θεοῦ,of God,N-GMS,G2316,Romans 3,609,21
+γάρ,for,Conj,G1063,Romans 3,610,21
+εἰ,if,Conj,G1487,Romans 3,611,21
+ἠπίστησάν,disbelieved,V-AIA-3P,G569,Romans 3,612,21
+τινες,some,IPro-NMP,G5100,Romans 3,613,21
+μὴ,Not,Adv,G3361,Romans 3,614,21
+ἀπιστία,unbelief,N-NFS,G570,Romans 3,615,21
+αὐτῶν,of them,PPro-GM3P,G846,Romans 3,616,21
+τὴν,the,Art-AFS,G3588,Romans 3,617,21
+πίστιν,faithfulness,N-AFS,G4102,Romans 3,618,21
+καταργήσει,will nullify,V-FIA-3S,G2673,Romans 3,619,21
+γένοιτο,may it be,V-AOM-3S,G1096,Romans 3,620,21
+γινέσθω,Let be,V-PMM/P-3S,G1096,Romans 3,621,21
+δὲ,however,Conj,G1161,Romans 3,622,21
+ὁ,-,Art-NMS,G3588,Romans 3,623,21
+Θεὸς,God,N-NMS,G2316,Romans 3,624,21
+ἀληθής,TRUE,Adj-NMS,G227,Romans 3,625,21
+πᾶς,every,Adj-NMS,G3956,Romans 3,626,21
+ἄνθρωπος,man,N-NMS,G444,Romans 3,627,21
+ψεύστης,a liar,N-NMS,G5583,Romans 3,628,21
+καθὼς,as,Conj,G2531,Romans 3,629,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 3,630,21
+Ὅπως,That,Conj,G3704,Romans 3,631,21
+ἂν,-,Prtcl,G302,Romans 3,632,21
+δικαιωθῇς,You may be justified,V-ASP-2S,G1344,Romans 3,633,21
+ἐν,in,Prep,G1722,Romans 3,634,21
+τοῖς,the,Art-DMP,G3588,Romans 3,635,21
+λόγοις,words,N-DMP,G3056,Romans 3,636,21
+σου,of You,PPro-G2S,G4771,Romans 3,637,21
+καὶ,and,Conj,G2532,Romans 3,638,21
+νικήσεις,will prevail,V-FIA-2S,G3528,Romans 3,639,21
+τῷ,-,Art-DNS,G3588,Romans 3,640,21
+κρίνεσθαί,being judged,V-PNM/P,G2919,Romans 3,641,21
+σε,Your,PPro-A2S,G4771,Romans 3,642,21
+Εἰ,If,Conj,G1487,Romans 3,643,21
+ἀδικία,unrighteousness,N-NFS,G93,Romans 3,644,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 3,645,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 3,646,21
+συνίστησιν,shows,V-PIA-3S,G4921,Romans 3,647,21
+τί,what,IPro-ANS,G5101,Romans 3,648,21
+ἐροῦμεν,shall we say,V-FIA-1P,G2046,Romans 3,649,21
+ἄδικος,unrighteous,Adj-NMS,G94,Romans 3,650,21
+ἐπιφέρων,inflicting,V-PPA-NMS,G2018,Romans 3,651,21
+ὀργήν,wrath,N-AFS,G3709,Romans 3,652,21
+ἄνθρωπον,man,N-AMS,G444,Romans 3,653,21
+λέγω,I speak,V-PIA-1S,G3004,Romans 3,654,21
+ἐπεὶ,Otherwise,Conj,G1893,Romans 3,655,21
+πῶς,how,Adv,G4459,Romans 3,656,21
+κρινεῖ,will judge,V-FIA-3S,G2919,Romans 3,657,21
+τὸν,the,Art-AMS,G3588,Romans 3,658,21
+κόσμον,world,N-AMS,G2889,Romans 3,659,21
+ἀλήθεια,truth,N-NFS,G225,Romans 3,660,21
+ἐμῷ,my,PPro-DN1S,G1699,Romans 3,661,21
+ψεύσματι,lie,N-DNS,G5582,Romans 3,662,21
+ἐπερίσσευσεν,abounded,V-AIA-3S,G4052,Romans 3,663,21
+εἰς,to,Prep,G1519,Romans 3,664,21
+δόξαν,glory,N-AFS,G1391,Romans 3,665,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 3,666,21
+ἔτι,still,Adv,G2089,Romans 3,667,21
+κἀγὼ,also I,PPro-N1S,G2504,Romans 3,668,21
+ὡς,as,Adv,G5613,Romans 3,669,21
+ἁμαρτωλὸς,a sinner,Adj-NMS,G268,Romans 3,670,21
+κρίνομαι,am judged,V-PIM/P-1S,G2919,Romans 3,671,21
+καθὼς,as,Adv,G2531,Romans 3,672,21
+βλασφημούμεθα,we are slanderously charged,V-PIM/P-1P,G987,Romans 3,673,21
+καθώς,as,Adv,G2531,Romans 3,674,21
+φασίν,affirm,V-PIA-3P,G5346,Romans 3,675,21
+ἡμᾶς,us,PPro-A1P,G1473,Romans 3,676,21
+λέγειν,to say,V-PNA,G3004,Romans 3,677,21
+Ποιήσωμεν,Let us do,V-ASA-1P,G4160,Romans 3,678,21
+κακὰ,evil,Adj-ANP,G2556,Romans 3,679,21
+ἵνα,that,Conj,G2443,Romans 3,680,21
+ἔλθῃ,may come,V-ASA-3S,G2064,Romans 3,681,21
+τὰ,the,Art-NNP,G3588,Romans 3,682,21
+ἀγαθά,good things,Adj-NNP,G18,Romans 3,683,21
+ὧν,Their,RelPro-GMP,G3739,Romans 3,684,21
+κρίμα,condemnation,N-NNS,G2917,Romans 3,685,21
+ἔνδικόν,just,Adj-NNS,G1738,Romans 3,686,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 3,687,21
+Τί,What,IPro-ANS,G5101,Romans 3,688,21
+προεχόμεθα,Are we better,V-PIM/P-1P,G4284,Romans 3,689,21
+οὐ,Not,Adv,G3756,Romans 3,690,21
+πάντως,at all,Adv,G3843,Romans 3,691,21
+προῃτιασάμεθα,We have already charged,V-AIM-1P,G4256,Romans 3,692,21
+Ἰουδαίους,Jews,Adj-AMP,G2453,Romans 3,693,21
+τε,both,Conj,G5037,Romans 3,694,21
+Ἕλληνας,Greeks,N-AMP,G1672,Romans 3,695,21
+πάντας,all,Adj-AMP,G3956,Romans 3,696,21
+ὑφ,under,Prep,G5259,Romans 3,697,21
+ἁμαρτίαν,sin,N-AFS,G266,Romans 3,698,21
+εἶναι,to be,V-PNA,G1510,Romans 3,699,21
+Οὐκ,None,Adv,G3756,Romans 3,700,21
+ἔστιν,there is,V-PIA-3S,G1510,Romans 3,701,21
+δίκαιος,righteous,Adj-NMS,G1342,Romans 3,702,21
+οὐδὲ,not even,Adv,G3761,Romans 3,703,21
+εἷς,one,Adj-NMS,G1520,Romans 3,704,21
+οὐκ,none,Adv,G3756,Romans 3,705,21
+συνίων,understanding,V-PPA-NMS,G4920,Romans 3,706,21
+ἐκζητῶν,seeking after,V-PPA-NMS,G1567,Romans 3,707,21
+Θεόν,God,N-AMS,G2316,Romans 3,708,21
+πάντες,All,Adj-NMP,G3956,Romans 3,709,21
+ἐξέκλιναν,have turned away,V-AIA-3P,G1578,Romans 3,710,21
+ἅμα,together they,Adv,G260,Romans 3,711,21
+ἠχρεώθησαν,have become worthless,V-AIP-3P,G889,Romans 3,712,21
+ποιῶν,is practicing,V-PPA-NMS,G4160,Romans 3,713,21
+χρηστότητα,good,N-AFS,G5544,Romans 3,714,21
+ἕως,so much as,Prep,G2193,Romans 3,715,21
+ἑνός,one,Adj-GMS,G1520,Romans 3,716,21
+τάφος,A grave,N-NMS,G5028,Romans 3,717,21
+ἀνεῳγμένος,having been opened,V-RPM/P-NMS,G455,Romans 3,718,21
+λάρυγξ,throat,N-NMS,G2995,Romans 3,719,21
+ταῖς,with the,Art-DFP,G3588,Romans 3,720,21
+γλώσσαις,tongues,N-DFP,G1100,Romans 3,721,21
+ἐδολιοῦσαν,they keep practicing deceit,V-IIA-3P,G1387,Romans 3,722,21
+ἰὸς,the venom,N-NMS,G2447,Romans 3,723,21
+ἀσπίδων,of vipers,N-GFP,G785,Romans 3,724,21
+ὑπὸ,is under,Prep,G5259,Romans 3,725,21
+χείλη,lips,N-ANP,G5491,Romans 3,726,21
+στόμα,mouth,N-NNS,G4750,Romans 3,727,21
+ἀρᾶς,of cursing,N-GFS,G685,Romans 3,728,21
+πικρίας,of bitterness,N-GFS,G4088,Romans 3,729,21
+γέμει,is full,V-PIA-3S,G1073,Romans 3,730,21
+ὀξεῖς,swift are,Adj-NMP,G3691,Romans 3,731,21
+οἱ,the,Art-NMP,G3588,Romans 3,732,21
+πόδες,feet,N-NMP,G4228,Romans 3,733,21
+ἐκχέαι,to shed,V-ANA,G1632,Romans 3,734,21
+αἷμα,blood,N-ANS,G129,Romans 3,735,21
+σύντριμμα,ruin,N-NNS,G4938,Romans 3,736,21
+ταλαιπωρία,misery,N-NFS,G5004,Romans 3,737,21
+ὁδοῖς,paths,N-DFP,G3598,Romans 3,738,21
+ὁδὸν,the way,N-AFS,G3598,Romans 3,739,21
+εἰρήνης,of peace,N-GFS,G1515,Romans 3,740,21
+ἔγνωσαν,they have known,V-AIA-3P,G1097,Romans 3,741,21
+φόβος,fear,N-NMS,G5401,Romans 3,742,21
+ἀπέναντι,before,Prep,G561,Romans 3,743,21
+τῶν,the,Art-GMP,G3588,Romans 3,744,21
+ὀφθαλμῶν,eyes,N-GMP,G3788,Romans 3,745,21
+Οἴδαμεν,We know,V-RIA-1P,G1492,Romans 3,746,21
+ὅσα,whatever,RelPro-ANP,G3745,Romans 3,747,21
+νόμος,law,N-NMS,G3551,Romans 3,748,21
+λέγει,says,V-PIA-3S,G3004,Romans 3,749,21
+τῷ,the,Art-DMS,G3588,Romans 3,750,21
+νόμῳ,law,N-DMS,G3551,Romans 3,751,21
+λαλεῖ,it speaks,V-PIA-3S,G2980,Romans 3,752,21
+πᾶν,every,Adj-NNS,G3956,Romans 3,753,21
+φραγῇ,may be stopped,V-ASP-3S,G5420,Romans 3,754,21
+ὑπόδικος,under judgment,Adj-NMS,G5267,Romans 3,755,21
+γένηται,may be,V-ASM-3S,G1096,Romans 3,756,21
+κόσμος,world,N-NMS,G2889,Romans 3,757,21
+Θεῷ,to God,N-DMS,G2316,Romans 3,758,21
+διότι,Therefore,Conj,G1360,Romans 3,759,21
+ἐξ,by,Prep,G1537,Romans 3,760,21
+ἔργων,works,N-GNP,G2041,Romans 3,761,21
+νόμου,of the Law,N-GMS,G3551,Romans 3,762,21
+δικαιωθήσεται,will be justified,V-FIP-3S,G1344,Romans 3,763,21
+πᾶσα,any,Adj-NFS,G3956,Romans 3,764,21
+σὰρξ,flesh,N-NFS,G4561,Romans 3,765,21
+ἐνώπιον,before,Prep,G1799,Romans 3,766,21
+διὰ,through,Prep,G1223,Romans 3,767,21
+ἐπίγνωσις,is knowledge,N-NFS,G1922,Romans 3,768,21
+ἁμαρτίας,of sin,N-GFS,G266,Romans 3,769,21
+Νυνὶ,Now,Adv,G3570,Romans 3,770,21
+χωρὶς,apart from,Prep,G5565,Romans 3,771,21
+δικαιοσύνη,the righteousness,N-NFS,G1343,Romans 3,772,21
+πεφανέρωται,has been revealed,V-RIM/P-3S,G5319,Romans 3,773,21
+μαρτυρουμένη,being borne witness to,V-PPM/P-NFS,G3140,Romans 3,774,21
+προφητῶν,Prophets,N-GMP,G4396,Romans 3,775,21
+πίστεως,faith,N-GFS,G4102,Romans 3,776,21
+Ἰησοῦ,from Jesus,N-GMS,G2424,Romans 3,777,21
+Χριστοῦ,Christ,N-GMS,G5547,Romans 3,778,21
+τοὺς,those,Art-AMP,G3588,Romans 3,779,21
+πιστεύοντας,believing,V-PPA-AMP,G4100,Romans 3,780,21
+διαστολή,distinction,N-NFS,G1293,Romans 3,781,21
+ἥμαρτον,have sinned,V-AIA-3P,G264,Romans 3,782,21
+ὑστεροῦνται,fall short,V-PIM/P-3P,G5302,Romans 3,783,21
+δόξης,glory,N-GFS,G1391,Romans 3,784,21
+δικαιούμενοι,being justified,V-PPM/P-NMP,G1344,Romans 3,785,21
+δωρεὰν,freely,Adv,G1432,Romans 3,786,21
+τῇ,by the,Art-DFS,G3588,Romans 3,787,21
+χάριτι,grace,N-DFS,G5485,Romans 3,788,21
+ἀπολυτρώσεως,redemption,N-GFS,G629,Romans 3,789,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 3,790,21
+Ἰησοῦ,Jesus,N-DMS,G2424,Romans 3,791,21
+ὃν,whom,RelPro-AMS,G3739,Romans 3,792,21
+προέθετο,set forth as,V-AIM-3S,G4388,Romans 3,793,21
+ἱλαστήριον,a propitiation,N-ANS,G2435,Romans 3,794,21
+τῆς,-,Art-GFS,G3588,Romans 3,795,21
+αἵματι,blood,N-DNS,G129,Romans 3,796,21
+ἔνδειξιν,a showing forth,N-AFS,G1732,Romans 3,797,21
+δικαιοσύνης,righteousness,N-GFS,G1343,Romans 3,798,21
+πάρεσιν,forbearance,N-AFS,G3929,Romans 3,799,21
+τῶν,of the,Art-GNP,G3588,Romans 3,800,21
+προγεγονότων,having taken place beforehand,V-RPA-GNP,G4266,Romans 3,801,21
+ἁμαρτημάτων,sins,N-GNP,G265,Romans 3,802,21
+ἀνοχῇ,forbearance,N-DFS,G463,Romans 3,803,21
+πρὸς,for,Prep,G4314,Romans 3,804,21
+νῦν,present,Adv,G3568,Romans 3,805,21
+καιρῷ,time,N-DMS,G2540,Romans 3,806,21
+τὸ,-,Art-ANS,G3588,Romans 3,807,21
+αὐτὸν,Him,PPro-AM3S,G846,Romans 3,808,21
+δίκαιον,just,Adj-AMS,G1342,Romans 3,809,21
+δικαιοῦντα,justifying,V-PPA-AMS,G1344,Romans 3,810,21
+ἐκ,of,Prep,G1537,Romans 3,811,21
+Ποῦ,Where,Adv,G4226,Romans 3,812,21
+καύχησις,boasting,N-NFS,G2746,Romans 3,813,21
+ἐξεκλείσθη,It has been excluded,V-AIP-3S,G1576,Romans 3,814,21
+ποίου,what,IPro-GMS,G4169,Romans 3,815,21
+οὐχί,No,Adv,G3780,Romans 3,816,21
+ἀλλὰ,but,Conj,G235,Romans 3,817,21
+λογιζόμεθα,We reckon,V-PIM/P-1P,G3049,Romans 3,818,21
+δικαιοῦσθαι,to be justified,V-PNM/P,G1344,Romans 3,819,21
+πίστει,by faith,N-DFS,G4102,Romans 3,820,21
+Ἢ,Or,Conj,G2228,Romans 3,821,21
+Ἰουδαίων,of Jews,Adj-GMP,G2453,Romans 3,822,21
+μόνον,only,Adv,G3440,Romans 3,823,21
+οὐχὶ,not,IntPrtcl,G3780,Romans 3,824,21
+ἐθνῶν,of Gentiles,N-GNP,G1484,Romans 3,825,21
+ναὶ,Yes,Prtcl,G3483,Romans 3,826,21
+εἴπερ,since indeed,Conj,G1512,Romans 3,827,21
+Θεός,God is,N-NMS,G2316,Romans 3,828,21
+ὃς,who,RelPro-NMS,G3739,Romans 3,829,21
+δικαιώσει,will justify,V-FIA-3S,G1344,Romans 3,830,21
+περιτομὴν,the circumcision,N-AFS,G4061,Romans 3,831,21
+ἀκροβυστίαν,the uncircumcision,N-AFS,G203,Romans 3,832,21
+Νόμον,Law,N-AMS,G3551,Romans 3,833,21
+καταργοῦμεν,do we nullify,V-PIA-1P,G2673,Romans 3,834,21
+νόμον,Law,N-AMS,G3551,Romans 3,835,21
+ἱστάνομεν,we uphold,V-PIA-1P,G2476,Romans 3,836,21
+Τί,What,IPro-ANS,G5101,Romans 4,837,21
+οὖν,then,Conj,G3767,Romans 4,838,21
+ἐροῦμεν,shall we say,V-FIA-1P,G2046,Romans 4,839,21
+εὑρηκέναι,discovered,V-RNA,G2147,Romans 4,840,21
+Ἀβραὰμ,Abraham,N-AMS,G11,Romans 4,841,21
+τὸν,the,Art-AMS,G3588,Romans 4,842,21
+προπάτορα,father,N-AMS,G3962,Romans 4,843,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 4,844,21
+κατὰ,according to,Prep,G2596,Romans 4,845,21
+σάρκα,the flesh,N-AFS,G4561,Romans 4,846,21
+εἰ,If,Conj,G1487,Romans 4,847,21
+γὰρ,for,Conj,G1063,Romans 4,848,21
+Ἀβραὰμ,Abraham,N-NMS,G11,Romans 4,849,21
+ἐξ,by,Prep,G1537,Romans 4,850,21
+ἔργων,works,N-GNP,G2041,Romans 4,851,21
+ἐδικαιώθη,was justified,V-AIP-3S,G1344,Romans 4,852,21
+ἔχει,he has,V-PIA-3S,G2192,Romans 4,853,21
+καύχημα,ground of boasting,N-ANS,G2745,Romans 4,854,21
+ἀλλ,but,Conj,G235,Romans 4,855,21
+οὐ,not,Adv,G3756,Romans 4,856,21
+πρὸς,toward,Prep,G4314,Romans 4,857,21
+Θεόν,God,N-AMS,G2316,Romans 4,858,21
+τί,What,IPro-ANS,G5101,Romans 4,859,21
+ἡ,the,Art-NFS,G3588,Romans 4,860,21
+γραφὴ,Scripture,N-NFS,G1124,Romans 4,861,21
+λέγει,says,V-PIA-3S,G3004,Romans 4,862,21
+Ἐπίστευσεν,Believed,V-AIA-3S,G4100,Romans 4,863,21
+δὲ,then,Conj,G1161,Romans 4,864,21
+τῷ,-,Art-DMS,G3588,Romans 4,865,21
+Θεῷ,God,N-DMS,G2316,Romans 4,866,21
+καὶ,and,Conj,G2532,Romans 4,867,21
+ἐλογίσθη,it was reckoned,V-AIP-3S,G3049,Romans 4,868,21
+αὐτῷ,to him,PPro-DM3S,G846,Romans 4,869,21
+εἰς,for,Prep,G1519,Romans 4,870,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 4,871,21
+Τῷ,To the one,Art-DMS,G3588,Romans 4,872,21
+ἐργαζομένῳ,working,V-PPM/P-DMS,G2038,Romans 4,873,21
+ὁ,the,Art-NMS,G3588,Romans 4,874,21
+μισθὸς,reward,N-NMS,G3408,Romans 4,875,21
+λογίζεται,is reckoned,V-PIM/P-3S,G3049,Romans 4,876,21
+χάριν,grace,N-AFS,G5485,Romans 4,877,21
+ἀλλὰ,but,Conj,G235,Romans 4,878,21
+ὀφείλημα,debt,N-ANS,G3783,Romans 4,879,21
+μὴ,not,Adv,G3361,Romans 4,880,21
+πιστεύοντι,believing,V-PPA-DMS,G4100,Romans 4,881,21
+ἐπὶ,on,Prep,G1909,Romans 4,882,21
+δικαιοῦντα,justifying,V-PPA-AMS,G1344,Romans 4,883,21
+ἀσεβῆ,ungodly,Adj-AMS,G765,Romans 4,884,21
+πίστις,faith,N-NFS,G4102,Romans 4,885,21
+αὐτοῦ,of him,PPro-GM3S,G846,Romans 4,886,21
+καθάπερ,just as,Adv,G2509,Romans 4,887,21
+Δαυὶδ,David,N-NMS,G1138,Romans 4,888,21
+μακαρισμὸν,blessedness,N-AMS,G3108,Romans 4,889,21
+τοῦ,of the,Art-GMS,G3588,Romans 4,890,21
+ἀνθρώπου,man,N-GMS,G444,Romans 4,891,21
+ᾧ,to whom,RelPro-DMS,G3739,Romans 4,892,21
+Θεὸς,God,N-NMS,G2316,Romans 4,893,21
+χωρὶς,apart from,Prep,G5565,Romans 4,894,21
+Μακάριοι,Blessed,Adj-NMP,G3107,Romans 4,895,21
+ὧν,are they of whom,RelPro-GMP,G3739,Romans 4,896,21
+ἀφέθησαν,are forgiven,V-AIP-3P,G863,Romans 4,897,21
+αἱ,the,Art-NFP,G3588,Romans 4,898,21
+ἀνομίαι,lawless deeds,N-NFP,G458,Romans 4,899,21
+ἐπεκαλύφθησαν,are covered,V-AIP-3P,G1943,Romans 4,900,21
+ἁμαρτίαι,sins,N-NFP,G266,Romans 4,901,21
+μακάριος,blessed,Adj-NMS,G3107,Romans 4,902,21
+ἀνὴρ,the man,N-NMS,G435,Romans 4,903,21
+οὗ,against whom,RelPro-GMS,G3739,Romans 4,904,21
+λογίσηται,will reckon,V-ASM-3S,G3049,Romans 4,905,21
+Κύριος,the Lord,N-NMS,G2962,Romans 4,906,21
+ἁμαρτίαν,sin,N-AFS,G266,Romans 4,907,21
+Ὁ,Is the,Art-NMS,G3588,Romans 4,908,21
+μακαρισμὸς,blessing,N-NMS,G3108,Romans 4,909,21
+οὗτος,this,DPro-NMS,G3778,Romans 4,910,21
+τὴν,the,Art-AFS,G3588,Romans 4,911,21
+περιτομὴν,circumcision,N-AFS,G4061,Romans 4,912,21
+ἢ,or,Conj,G2228,Romans 4,913,21
+ἀκροβυστίαν,uncircumcision,N-AFS,G203,Romans 4,914,21
+λέγομεν,We are saying,V-PIA-1P,G3004,Romans 4,915,21
+γάρ,for,Conj,G1063,Romans 4,916,21
+Ἐλογίσθη,was credited,V-AIP-3S,G3049,Romans 4,917,21
+Ἀβραὰμ,to Abraham,N-DMS,G11,Romans 4,918,21
+πῶς,How,Adv,G4459,Romans 4,919,21
+ἐν,In,Prep,G1722,Romans 4,920,21
+περιτομῇ,circumcision,N-DFS,G4061,Romans 4,921,21
+ὄντι,being,V-PPA-DMS,G1510,Romans 4,922,21
+ἀκροβυστίᾳ,uncircumcision,N-DFS,G203,Romans 4,923,21
+οὐκ,Not,Adv,G3756,Romans 4,924,21
+Καὶ,And,Conj,G2532,Romans 4,925,21
+σημεῖον,the sign,N-ANS,G4592,Romans 4,926,21
+ἔλαβεν,he received,V-AIA-3S,G2983,Romans 4,927,21
+περιτομῆς,of circumcision,N-GFS,G4061,Romans 4,928,21
+σφραγῖδα,a seal,N-AFS,G4973,Romans 4,929,21
+τῆς,of the,Art-GFS,G3588,Romans 4,930,21
+δικαιοσύνης,righteousness,N-GFS,G1343,Romans 4,931,21
+πίστεως,faith,N-GFS,G4102,Romans 4,932,21
+τῇ,the,Art-DFS,G3588,Romans 4,933,21
+τὸ,the,Art-ANS,G3588,Romans 4,934,21
+εἶναι,to be,V-PNA,G1510,Romans 4,935,21
+αὐτὸν,him,PPro-AM3S,G846,Romans 4,936,21
+πατέρα,father,N-AMS,G3962,Romans 4,937,21
+πάντων,of all,Adj-GMP,G3956,Romans 4,938,21
+τῶν,those,Art-GMP,G3588,Romans 4,939,21
+πιστευόντων,believing,V-PPA-GMP,G4100,Romans 4,940,21
+δι,in,Prep,G1223,Romans 4,941,21
+ἀκροβυστίας,uncircumcision,N-GFS,G203,Romans 4,942,21
+λογισθῆναι,to be credited,V-ANP,G3049,Romans 4,943,21
+καὶ,also,Conj,G2532,Romans 4,944,21
+αὐτοῖς,to them,PPro-DM3P,G846,Romans 4,945,21
+τοῖς,to those,Art-DMP,G3588,Romans 4,946,21
+ἐκ,of,Prep,G1537,Romans 4,947,21
+μόνον,only,Adv,G3440,Romans 4,948,21
+στοιχοῦσιν,walking,V-PPA-DMP,G4748,Romans 4,949,21
+τοῖς,in the,Art-DNP,G3588,Romans 4,950,21
+ἴχνεσιν,steps,N-DNP,G2487,Romans 4,951,21
+πατρὸς,father,N-GMS,G3962,Romans 4,952,21
+Ἀβραάμ,Abraham,N-GMS,G11,Romans 4,953,21
+Οὐ,Not,Adv,G3756,Romans 4,954,21
+διὰ,through,Prep,G1223,Romans 4,955,21
+νόμου,the Law,N-GMS,G3551,Romans 4,956,21
+ἐπαγγελία,promise was,N-NFS,G1860,Romans 4,957,21
+τῷ,the,Art-DNS,G3588,Romans 4,958,21
+σπέρματι,descendants,N-DNS,G4690,Romans 4,959,21
+τὸ,that,Art-NNS,G3588,Romans 4,960,21
+κληρονόμον,heir,N-AMS,G2818,Romans 4,961,21
+κόσμου,of the world,N-GMS,G2889,Romans 4,962,21
+οἱ,those,Art-NMP,G3588,Romans 4,963,21
+κληρονόμοι,heirs,N-NMP,G2818,Romans 4,964,21
+κεκένωται,has been made void,V-RIM/P-3S,G2758,Romans 4,965,21
+κατήργηται,made of no effect,V-RIM/P-3S,G2673,Romans 4,966,21
+νόμος,law,N-NMS,G3551,Romans 4,967,21
+ὀργὴν,wrath,N-AFS,G3709,Romans 4,968,21
+κατεργάζεται,brings,V-PIM/P-3S,G2716,Romans 4,969,21
+οὗ,where,Adv,G3757,Romans 4,970,21
+ἔστιν,there is,V-PIA-3S,G1510,Romans 4,971,21
+οὐδὲ,neither is,Adv,G3761,Romans 4,972,21
+παράβασις,transgression,N-NFS,G3847,Romans 4,973,21
+Διὰ,Therefore,Prep,G1223,Romans 4,974,21
+τοῦτο,it is,DPro-ANS,G3778,Romans 4,975,21
+ἵνα,that it may be,Conj,G2443,Romans 4,976,21
+βεβαίαν,sure,Adj-AFS,G949,Romans 4,977,21
+ἐπαγγελίαν,promise,N-AFS,G1860,Romans 4,978,21
+παντὶ,to all,Adj-DNS,G3956,Romans 4,979,21
+ὅς,who,RelPro-NMS,G3739,Romans 4,980,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 4,981,21
+πατὴρ,the father,N-NMS,G3962,Romans 4,982,21
+καθὼς,as,Adv,G2531,Romans 4,983,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 4,984,21
+ὅτι,-,Conj,G3754,Romans 4,985,21
+Πατέρα,A father,N-AMS,G3962,Romans 4,986,21
+πολλῶν,of many,Adj-GNP,G4183,Romans 4,987,21
+ἐθνῶν,nations,N-GNP,G1484,Romans 4,988,21
+τέθεικά,I have made,V-RIA-1S,G5087,Romans 4,989,21
+σε,you,PPro-A2S,G4771,Romans 4,990,21
+κατέναντι,before,Prep,G2713,Romans 4,991,21
+ἐπίστευσεν,he believed,V-AIA-3S,G4100,Romans 4,992,21
+Θεοῦ,God,N-GMS,G2316,Romans 4,993,21
+ζωοποιοῦντος,giving life,V-PPA-GMS,G2227,Romans 4,994,21
+τοὺς,to the,Art-AMP,G3588,Romans 4,995,21
+νεκροὺς,dead,Adj-AMP,G3498,Romans 4,996,21
+καλοῦντος,calling,V-PPA-GMS,G2564,Romans 4,997,21
+τὰ,the things,Art-ANP,G3588,Romans 4,998,21
+ὄντα,into being,V-PPA-ANP,G1510,Romans 4,999,21
+ὡς,even,Adv,G5613,Romans 4,1000,21
+ὃς,who,RelPro-NMS,G3739,Romans 4,1001,21
+παρ,against,Prep,G3844,Romans 4,1002,21
+ἐλπίδα,hope,N-AFS,G1680,Romans 4,1003,21
+ἐπ,in,Prep,G1909,Romans 4,1004,21
+ἐλπίδι,hope,N-DFS,G1680,Romans 4,1005,21
+γενέσθαι,to become,V-ANM,G1096,Romans 4,1006,21
+εἰρημένον,having been spoken,V-RPM/P-ANS,G2046,Romans 4,1007,21
+Οὕτως,So,Adv,G3779,Romans 4,1008,21
+ἔσται,shall be,V-FIM-3S,G1510,Romans 4,1009,21
+σπέρμα,offspring,N-NNS,G4690,Romans 4,1010,21
+σου,of you,PPro-G2S,G4771,Romans 4,1011,21
+ἀσθενήσας,having become weak,V-APA-NMS,G770,Romans 4,1012,21
+πίστει,faith,N-DFS,G4102,Romans 4,1013,21
+κατενόησεν,he considered,V-AIA-3S,G2657,Romans 4,1014,21
+ἑαυτοῦ,of himself,RefPro-GM3S,G1438,Romans 4,1015,21
+σῶμα,the body,N-ANS,G4983,Romans 4,1016,21
+ἤδη,already,Adv,G2235,Romans 4,1017,21
+νενεκρωμένον,having become dead,V-RPM/P-ANS,G3499,Romans 4,1018,21
+ἑκατονταετής,a hundred years old,Adj-NMS,G1541,Romans 4,1019,21
+που,about,Adv,G4225,Romans 4,1020,21
+ὑπάρχων,being,V-PPA-NMS,G5225,Romans 4,1021,21
+νέκρωσιν,lifelessness,N-AFS,G3500,Romans 4,1022,21
+μήτρας,womb,N-GFS,G3388,Romans 4,1023,21
+Σάρρας,of Sarah,N-GFS,G4564,Romans 4,1024,21
+διεκρίθη,he did waver,V-AIP-3S,G1252,Romans 4,1025,21
+ἀπιστίᾳ,through unbelief,N-DFS,G570,Romans 4,1026,21
+ἐνεδυναμώθη,was strengthened,V-AIP-3S,G1743,Romans 4,1027,21
+δοὺς,having given,V-APA-NMS,G1325,Romans 4,1028,21
+δόξαν,glory,N-AFS,G1391,Romans 4,1029,21
+πληροφορηθεὶς,having been fully assured,V-APP-NMS,G4135,Romans 4,1030,21
+ὃ,what,RelPro-ANS,G3739,Romans 4,1031,21
+ἐπήγγελται,He had promised,V-RIM/P-3S,G1861,Romans 4,1032,21
+δυνατός,able,Adj-NMS,G1415,Romans 4,1033,21
+ποιῆσαι,to do,V-ANA,G4160,Romans 4,1034,21
+διὸ,Therefore,Conj,G1352,Romans 4,1035,21
+Οὐκ,Not,Adv,G3756,Romans 4,1036,21
+ἐγράφη,it was written,V-AIP-3S,G1125,Romans 4,1037,21
+ἡμᾶς,us,PPro-A1P,G1473,Romans 4,1038,21
+οἷς,to whom,RelPro-DMP,G3739,Romans 4,1039,21
+μέλλει,it is about,V-PIA-3S,G3195,Romans 4,1040,21
+λογίζεσθαι,to be credited,V-PNM/P,G3049,Romans 4,1041,21
+πιστεύουσιν,believing,V-PPA-DMP,G4100,Romans 4,1042,21
+ἐγείραντα,having raised,V-APA-AMS,G1453,Romans 4,1043,21
+Ἰησοῦν,Jesus,N-AMS,G2424,Romans 4,1044,21
+Κύριον,Lord,N-AMS,G2962,Romans 4,1045,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 4,1046,21
+παρεδόθη,was delivered over,V-AIP-3S,G3860,Romans 4,1047,21
+παραπτώματα,trespasses,N-ANP,G3900,Romans 4,1048,21
+ἠγέρθη,was raised,V-AIP-3S,G1453,Romans 4,1049,21
+δικαίωσιν,justification,N-AFS,G1347,Romans 4,1050,21
+Δικαιωθέντες,Having been justified,V-APP-NMP,G1344,Romans 5,1051,21
+οὖν,therefore,Conj,G3767,Romans 5,1052,21
+ἐκ,by,Prep,G1537,Romans 5,1053,21
+πίστεως,faith,N-GFS,G4102,Romans 5,1054,21
+εἰρήνην,peace,N-AFS,G1515,Romans 5,1055,21
+ἔχομεν,we have,V-PIA-1P,G2192,Romans 5,1056,21
+πρὸς,with,Prep,G4314,Romans 5,1057,21
+τὸν,-,Art-AMS,G3588,Romans 5,1058,21
+Θεὸν,God,N-AMS,G2316,Romans 5,1059,21
+διὰ,through,Prep,G1223,Romans 5,1060,21
+τοῦ,the,Art-GMS,G3588,Romans 5,1061,21
+Κυρίου,Lord,N-GMS,G2962,Romans 5,1062,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 5,1063,21
+Ἰησοῦ,Jesus,N-GMS,G2424,Romans 5,1064,21
+Χριστοῦ,Christ,N-GMS,G5547,Romans 5,1065,21
+δι,through,Prep,G1223,Romans 5,1066,21
+οὗ,whom,RelPro-GMS,G3739,Romans 5,1067,21
+καὶ,also,Conj,G2532,Romans 5,1068,21
+τὴν,-,Art-AFS,G3588,Romans 5,1069,21
+προσαγωγὴν,access,N-AFS,G4318,Romans 5,1070,21
+ἐσχήκαμεν,we have,V-RIA-1P,G2192,Romans 5,1071,21
+τῇ,by the,Art-DFS,G3588,Romans 5,1072,21
+πίστει,faith,N-DFS,G4102,Romans 5,1073,21
+εἰς,into,Prep,G1519,Romans 5,1074,21
+χάριν,grace,N-AFS,G5485,Romans 5,1075,21
+ταύτην,this,DPro-AFS,G3778,Romans 5,1076,21
+ἐν,in,Prep,G1722,Romans 5,1077,21
+ᾗ,which,RelPro-DFS,G3739,Romans 5,1078,21
+ἑστήκαμεν,we stand,V-RIA-1P,G2476,Romans 5,1079,21
+καυχώμεθα,we boast,V-PIM/P-1P,G2744,Romans 5,1080,21
+ἐπ,in,Prep,G1909,Romans 5,1081,21
+ἐλπίδι,hope,N-DFS,G1680,Romans 5,1082,21
+τῆς,of the,Art-GFS,G3588,Romans 5,1083,21
+δόξης,glory,N-GFS,G1391,Romans 5,1084,21
+Θεοῦ,of God,N-GMS,G2316,Romans 5,1085,21
+Οὐ,Not,Adv,G3756,Romans 5,1086,21
+μόνον,only so,Adv,G3440,Romans 5,1087,21
+δέ,now,Conj,G1161,Romans 5,1088,21
+ἀλλὰ,but,Conj,G235,Romans 5,1089,21
+ταῖς,-,Art-DFP,G3588,Romans 5,1090,21
+θλίψεσιν,tribulations,N-DFP,G2347,Romans 5,1091,21
+εἰδότες,knowing,V-RPA-NMP,G1492,Romans 5,1092,21
+ὅτι,that,Conj,G3754,Romans 5,1093,21
+ἡ,-,Art-NFS,G3588,Romans 5,1094,21
+θλῖψις,tribulation,N-NFS,G2347,Romans 5,1095,21
+ὑπομονὴν,perseverance,N-AFS,G5281,Romans 5,1096,21
+κατεργάζεται,produces,V-PIM/P-3S,G2716,Romans 5,1097,21
+δὲ,And,Conj,G1161,Romans 5,1098,21
+ὑπομονὴ,perseverance,N-NFS,G5281,Romans 5,1099,21
+δοκιμήν,character,N-AFS,G1382,Romans 5,1100,21
+δοκιμὴ,character,N-NFS,G1382,Romans 5,1101,21
+ἐλπίδα,hope,N-AFS,G1680,Romans 5,1102,21
+ἐλπὶς,hope,N-NFS,G1680,Romans 5,1103,21
+οὐ,not,Adv,G3756,Romans 5,1104,21
+καταισχύνει,does make us ashamed,V-PIA-3S,G2617,Romans 5,1105,21
+ἀγάπη,love,N-NFS,G26,Romans 5,1106,21
+ἐκκέχυται,has been poured out,V-RIM/P-3S,G1632,Romans 5,1107,21
+καρδίαις,hearts,N-DFP,G2588,Romans 5,1108,21
+Πνεύματος,the Spirit,N-GNS,G4151,Romans 5,1109,21
+Ἁγίου,Holy,Adj-GNS,G40,Romans 5,1110,21
+τοῦ,the One,Art-GNS,G3588,Romans 5,1111,21
+δοθέντος,having been given,V-APP-GNS,G1325,Romans 5,1112,21
+ἡμῖν,to us,PPro-D1P,G1473,Romans 5,1113,21
+Ἔτι,Yet,Adv,G2089,Romans 5,1114,21
+γὰρ,indeed,Conj,G1063,Romans 5,1115,21
+Χριστὸς,Christ,N-NMS,G5547,Romans 5,1116,21
+ὄντων,being,V-PPA-GMP,G1510,Romans 5,1117,21
+ἀσθενῶν,without strength,Adj-GMP,G772,Romans 5,1118,21
+ἔτι,still,Adv,G2089,Romans 5,1119,21
+κατὰ,according to,Prep,G2596,Romans 5,1120,21
+καιρὸν,the right time,N-AMS,G2540,Romans 5,1121,21
+ὑπὲρ,for,Prep,G5228,Romans 5,1122,21
+ἀσεβῶν,the ungodly,Adj-GMP,G765,Romans 5,1123,21
+ἀπέθανεν,died,V-AIA-3S,G599,Romans 5,1124,21
+μόλις,Rarely,Adv,G3433,Romans 5,1125,21
+δικαίου,a righteous man,Adj-GMS,G1342,Romans 5,1126,21
+τις,anyone,IPro-NMS,G5100,Romans 5,1127,21
+ἀποθανεῖται,will die,V-FIM-3S,G599,Romans 5,1128,21
+ἀγαθοῦ,good man,Adj-GMS,G18,Romans 5,1129,21
+τάχα,perhaps,Adv,G5029,Romans 5,1130,21
+τολμᾷ,would dare,V-PIA-3S,G5111,Romans 5,1131,21
+ἀποθανεῖν,to die,V-ANA,G599,Romans 5,1132,21
+συνίστησιν,Demonstrates,V-PIA-3S,G4921,Romans 5,1133,21
+ἑαυτοῦ,of Himself,RefPro-GM3S,G1438,Romans 5,1134,21
+ἀγάπην,love,N-AFS,G26,Romans 5,1135,21
+ἡμᾶς,us,PPro-A1P,G1473,Romans 5,1136,21
+ὁ,-,Art-NMS,G3588,Romans 5,1137,21
+Θεὸς,God,N-NMS,G2316,Romans 5,1138,21
+ἁμαρτωλῶν,sinners,Adj-GMP,G268,Romans 5,1139,21
+Πολλῷ,Much,Adj-DNS,G4183,Romans 5,1140,21
+μᾶλλον,more,Adv,G3123,Romans 5,1141,21
+δικαιωθέντες,having been justified,V-APP-NMP,G1344,Romans 5,1142,21
+νῦν,now,Adv,G3568,Romans 5,1143,21
+τῷ,the,Art-DNS,G3588,Romans 5,1144,21
+αἵματι,blood,N-DNS,G129,Romans 5,1145,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 5,1146,21
+σωθησόμεθα,we will be saved,V-FIP-1P,G4982,Romans 5,1147,21
+ἀπὸ,from,Prep,G575,Romans 5,1148,21
+ὀργῆς,wrath,N-GFS,G3709,Romans 5,1149,21
+εἰ,If,Conj,G1487,Romans 5,1150,21
+ἐχθροὶ,enemies,Adj-NMP,G2190,Romans 5,1151,21
+ὄντες,being,V-PPA-NMP,G1510,Romans 5,1152,21
+κατηλλάγημεν,we were reconciled,V-AIP-1P,G2644,Romans 5,1153,21
+τῷ,-,Art-DMS,G3588,Romans 5,1154,21
+Θεῷ,to God,N-DMS,G2316,Romans 5,1155,21
+θανάτου,death,N-GMS,G2288,Romans 5,1156,21
+Υἱοῦ,Son,N-GMS,G5207,Romans 5,1157,21
+πολλῷ,much,Adj-DNS,G4183,Romans 5,1158,21
+καταλλαγέντες,having been reconciled,V-APP-NMP,G2644,Romans 5,1159,21
+ζωῇ,life,N-DFS,G2222,Romans 5,1160,21
+καυχώμενοι,we are rejoicing,V-PPM/P-NMP,G2744,Romans 5,1161,21
+καταλλαγὴν,reconciliation,N-AFS,G2643,Romans 5,1162,21
+ἐλάβομεν,we have received,V-AIA-1P,G2983,Romans 5,1163,21
+Διὰ,Because of,Prep,G1223,Romans 5,1164,21
+τοῦτο,this,DPro-ANS,G3778,Romans 5,1165,21
+ὥσπερ,just as,Adv,G5618,Romans 5,1166,21
+ἑνὸς,one,Adj-GMS,G1520,Romans 5,1167,21
+ἀνθρώπου,man,N-GMS,G444,Romans 5,1168,21
+ἁμαρτία,sin,N-NFS,G266,Romans 5,1169,21
+κόσμον,world,N-AMS,G2889,Romans 5,1170,21
+εἰσῆλθεν,entered,V-AIA-3S,G1525,Romans 5,1171,21
+ἁμαρτίας,sin,N-GFS,G266,Romans 5,1172,21
+θάνατος,death,N-NMS,G2288,Romans 5,1173,21
+οὕτως,thus,Adv,G3779,Romans 5,1174,21
+πάντας,all,Adj-AMP,G3956,Romans 5,1175,21
+ἀνθρώπους,men,N-AMP,G444,Romans 5,1176,21
+διῆλθεν,passed,V-AIA-3S,G1330,Romans 5,1177,21
+ἐφ,for,Prep,G1909,Romans 5,1178,21
+ᾧ,that,RelPro-DNS,G3739,Romans 5,1179,21
+πάντες,all,Adj-NMP,G3956,Romans 5,1180,21
+ἥμαρτον,sinned,V-AIA-3P,G264,Romans 5,1181,21
+ἄχρι,Until,Prep,G891,Romans 5,1182,21
+νόμου,the law,N-GMS,G3551,Romans 5,1183,21
+ἦν,was,V-IIA-3S,G1510,Romans 5,1184,21
+κόσμῳ,world,N-DMS,G2889,Romans 5,1185,21
+οὐκ,not,Adv,G3756,Romans 5,1186,21
+ἐλλογεῖται,is imputed,V-PIM/P-3S,G1677,Romans 5,1187,21
+μὴ,not,Adv,G3361,Romans 5,1188,21
+ὄντος,there being,V-PPA-GMS,G1510,Romans 5,1189,21
+ἐβασίλευσεν,reigned,V-AIA-3S,G936,Romans 5,1190,21
+Ἀδὰμ,Adam,N-GMS,G76,Romans 5,1191,21
+μέχρι,until,Prep,G3360,Romans 5,1192,21
+Μωϋσέως,Moses,N-GMS,G3475,Romans 5,1193,21
+ἐπὶ,over,Prep,G1909,Romans 5,1194,21
+τοὺς,those,Art-AMP,G3588,Romans 5,1195,21
+ἁμαρτήσαντας,having sinned,V-APA-AMP,G264,Romans 5,1196,21
+ὁμοιώματι,likeness,N-DNS,G3667,Romans 5,1197,21
+παραβάσεως,transgression,N-GFS,G3847,Romans 5,1198,21
+Ἀδάμ,of Adam,N-GMS,G76,Romans 5,1199,21
+ὅς,who,RelPro-NMS,G3739,Romans 5,1200,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 5,1201,21
+τύπος,a type,N-NMS,G5179,Romans 5,1202,21
+μέλλοντος,coming One,V-PPA-GMS,G3195,Romans 5,1203,21
+Ἀλλ,But,Conj,G235,Romans 5,1204,21
+οὐχ,is not,Adv,G3756,Romans 5,1205,21
+ὡς,like,Adv,G5613,Romans 5,1206,21
+τὸ,the,Art-NNS,G3588,Romans 5,1207,21
+παράπτωμα,trespass,N-NNS,G3900,Romans 5,1208,21
+χάρισμα,gift,N-NNS,G5486,Romans 5,1209,21
+παραπτώματι,trespass,N-DNS,G3900,Romans 5,1210,21
+οἱ,the,Art-NMP,G3588,Romans 5,1211,21
+πολλοὶ,many,Adj-NMP,G4183,Romans 5,1212,21
+ἀπέθανον,died,V-AIA-3P,G599,Romans 5,1213,21
+χάρις,grace,N-NFS,G5485,Romans 5,1214,21
+δωρεὰ,gift,N-NFS,G1431,Romans 5,1215,21
+χάριτι,grace,N-DFS,G5485,Romans 5,1216,21
+πολλοὺς,many,Adj-AMP,G4183,Romans 5,1217,21
+ἐπερίσσευσεν,did abound,V-AIA-3S,G4052,Romans 5,1218,21
+ἁμαρτήσαντος,having sinned,V-APA-GMS,G264,Romans 5,1219,21
+δώρημα,gift,N-NNS,G1434,Romans 5,1220,21
+μὲν,truly,Conj,G3303,Romans 5,1221,21
+κρίμα,judgment was,N-NNS,G2917,Romans 5,1222,21
+ἐξ,of,Prep,G1537,Romans 5,1223,21
+ἑνὸς,one,Adj-GNS,G1520,Romans 5,1224,21
+κατάκριμα,condemnation,N-ANS,G2631,Romans 5,1225,21
+πολλῶν,many,Adj-GNP,G4183,Romans 5,1226,21
+παραπτωμάτων,trespasses,N-GNP,G3900,Romans 5,1227,21
+δικαίωμα,justification,N-ANS,G1345,Romans 5,1228,21
+ἑνός,one,Adj-GMS,G1520,Romans 5,1229,21
+περισσείαν,abundance,N-AFS,G4050,Romans 5,1230,21
+χάριτος,of grace,N-GFS,G5485,Romans 5,1231,21
+δωρεᾶς,gift,N-GFS,G1431,Romans 5,1232,21
+δικαιοσύνης,of righteousness,N-GFS,G1343,Romans 5,1233,21
+λαμβάνοντες,receiving,V-PPA-NMP,G2983,Romans 5,1234,21
+βασιλεύσουσιν,will reign,V-FIA-3P,G936,Romans 5,1235,21
+Ἄρα,So,Conj,G686,Romans 5,1236,21
+παραπτώματος,trespass,N-GNS,G3900,Romans 5,1237,21
+δικαιώματος,act of righteousness,N-GNS,G1345,Romans 5,1238,21
+δικαίωσιν,justification,N-AFS,G1347,Romans 5,1239,21
+ζωῆς,of life,N-GFS,G2222,Romans 5,1240,21
+παρακοῆς,disobedience,N-GFS,G3876,Romans 5,1241,21
+ἁμαρτωλοὶ,sinners,Adj-NMP,G268,Romans 5,1242,21
+κατεστάθησαν,were made,V-AIP-3P,G2525,Romans 5,1243,21
+πολλοί,many,Adj-NMP,G4183,Romans 5,1244,21
+ὑπακοῆς,obedience,N-GFS,G5218,Romans 5,1245,21
+δίκαιοι,righteous,Adj-NMP,G1342,Romans 5,1246,21
+κατασταθήσονται,will be made,V-FIP-3P,G2525,Romans 5,1247,21
+Νόμος,The law,N-NMS,G3551,Romans 5,1248,21
+παρεισῆλθεν,entered,V-AIA-3S,G3922,Romans 5,1249,21
+ἵνα,so that,Conj,G2443,Romans 5,1250,21
+πλεονάσῃ,might abound,V-ASA-3S,G4121,Romans 5,1251,21
+οὗ,where,Adv,G3757,Romans 5,1252,21
+ἐπλεόνασεν,abounded,V-AIA-3S,G4121,Romans 5,1253,21
+ὑπερεπερίσσευσεν,overabounded,V-AIA-3S,G5248,Romans 5,1254,21
+θανάτῳ,death,N-DMS,G2288,Romans 5,1255,21
+βασιλεύσῃ,might reign,V-ASA-3S,G936,Romans 5,1256,21
+ζωὴν,life,N-AFS,G2222,Romans 5,1257,21
+αἰώνιον,eternal,Adj-AFS,G166,Romans 5,1258,21
+Τί,What,IPro-ANS,G5101,Romans 6,1259,21
+οὖν,then,Conj,G3767,Romans 6,1260,21
+ἐροῦμεν,will we say,V-FIA-1P,G2046,Romans 6,1261,21
+ἐπιμένωμεν,Shall we continue,V-PSA-1P,G1961,Romans 6,1262,21
+τῇ,-,Art-DFS,G3588,Romans 6,1263,21
+ἁμαρτίᾳ,in sin,N-DFS,G266,Romans 6,1264,21
+ἵνα,that,Conj,G2443,Romans 6,1265,21
+ἡ,-,Art-NFS,G3588,Romans 6,1266,21
+χάρις,grace,N-NFS,G5485,Romans 6,1267,21
+πλεονάσῃ,may abound,V-ASA-3S,G4121,Romans 6,1268,21
+μὴ,Never,Adv,G3361,Romans 6,1269,21
+γένοιτο,may it be,V-AOM-3S,G1096,Romans 6,1270,21
+οἵτινες,Who,RelPro-NMP,G3748,Romans 6,1271,21
+ἀπεθάνομεν,we died,V-AIA-1P,G599,Romans 6,1272,21
+πῶς,how,Adv,G4459,Romans 6,1273,21
+ἔτι,still,Adv,G2089,Romans 6,1274,21
+ζήσομεν,shall we live,V-FIA-1P,G2198,Romans 6,1275,21
+ἐν,in,Prep,G1722,Romans 6,1276,21
+αὐτῇ,it,PPro-DF3S,G846,Romans 6,1277,21
+ἢ,Or,Conj,G2228,Romans 6,1278,21
+ἀγνοεῖτε,are you unaware,V-PIA-2P,G50,Romans 6,1279,21
+ὅτι,that,Conj,G3754,Romans 6,1280,21
+ὅσοι,as many as,RelPro-NMP,G3745,Romans 6,1281,21
+ἐβαπτίσθημεν,have been baptized,V-AIP-1P,G907,Romans 6,1282,21
+εἰς,into,Prep,G1519,Romans 6,1283,21
+Χριστὸν,Christ,N-AMS,G5547,Romans 6,1284,21
+Ἰησοῦν,Jesus,N-AMS,G2424,Romans 6,1285,21
+τὸν,the,Art-AMS,G3588,Romans 6,1286,21
+θάνατον,death,N-AMS,G2288,Romans 6,1287,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 6,1288,21
+συνετάφημεν,We were buried,V-AIP-1P,G4916,Romans 6,1289,21
+αὐτῷ,with Him,PPro-DM3S,G846,Romans 6,1290,21
+διὰ,through,Prep,G1223,Romans 6,1291,21
+τοῦ,-,Art-GNS,G3588,Romans 6,1292,21
+βαπτίσματος,baptism,N-GNS,G908,Romans 6,1293,21
+ὥσπερ,just as,Adv,G5618,Romans 6,1294,21
+ἠγέρθη,was raised up,V-AIP-3S,G1453,Romans 6,1295,21
+Χριστὸς,Christ,N-NMS,G5547,Romans 6,1296,21
+ἐκ,out from,Prep,G1537,Romans 6,1297,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 6,1298,21
+τῆς,the,Art-GFS,G3588,Romans 6,1299,21
+δόξης,glory,N-GFS,G1391,Romans 6,1300,21
+τοῦ,of the,Art-GMS,G3588,Romans 6,1301,21
+Πατρός,Father,N-GMS,G3962,Romans 6,1302,21
+οὕτως,so,Adv,G3779,Romans 6,1303,21
+καὶ,also,Conj,G2532,Romans 6,1304,21
+ἡμεῖς,we,PPro-N1P,G1473,Romans 6,1305,21
+καινότητι,newness,N-DFS,G2538,Romans 6,1306,21
+ζωῆς,of life,N-GFS,G2222,Romans 6,1307,21
+περιπατήσωμεν,should walk,V-ASA-1P,G4043,Romans 6,1308,21
+Εἰ,If,Conj,G1487,Romans 6,1309,21
+γὰρ,for,Conj,G1063,Romans 6,1310,21
+σύμφυτοι,united,Adj-NMP,G4854,Romans 6,1311,21
+γεγόναμεν,we have become,V-RIA-1P,G1096,Romans 6,1312,21
+τῷ,in the,Art-DNS,G3588,Romans 6,1313,21
+ὁμοιώματι,likeness,N-DNS,G3667,Romans 6,1314,21
+θανάτου,death,N-GMS,G2288,Romans 6,1315,21
+ἀλλὰ,certainly,Conj,G235,Romans 6,1316,21
+ἀναστάσεως,resurrection,N-GFS,G386,Romans 6,1317,21
+ἐσόμεθα,we will be,V-FIM-1P,G1510,Romans 6,1318,21
+τοῦτο,this,DPro-ANS,G3778,Romans 6,1319,21
+γινώσκοντες,knowing,V-PPA-NMP,G1097,Romans 6,1320,21
+ὁ,-,Art-NMS,G3588,Romans 6,1321,21
+παλαιὸς,old,Adj-NMS,G3820,Romans 6,1322,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 6,1323,21
+ἄνθρωπος,self,N-NMS,G444,Romans 6,1324,21
+συνεσταυρώθη,was crucified with Him,V-AIP-3S,G4957,Romans 6,1325,21
+καταργηθῇ,might be annulled,V-ASP-3S,G2673,Romans 6,1326,21
+τὸ,the,Art-NNS,G3588,Romans 6,1327,21
+σῶμα,body,N-NNS,G4983,Romans 6,1328,21
+ἁμαρτίας,of sin,N-GFS,G266,Romans 6,1329,21
+μηκέτι,no longer,Adv,G3371,Romans 6,1330,21
+δουλεύειν,are enslaved,V-PNA,G1398,Romans 6,1331,21
+ἡμᾶς,we,PPro-A1P,G1473,Romans 6,1332,21
+ἀποθανὼν,having died,V-APA-NMS,G599,Romans 6,1333,21
+δεδικαίωται,has been freed,V-RIM/P-3S,G1344,Romans 6,1334,21
+ἀπὸ,from,Prep,G575,Romans 6,1335,21
+δὲ,now,Conj,G1161,Romans 6,1336,21
+σὺν,with,Prep,G4862,Romans 6,1337,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 6,1338,21
+πιστεύομεν,we believe,V-PIA-1P,G4100,Romans 6,1339,21
+συζήσομεν,we will live with,V-FIA-1P,G4800,Romans 6,1340,21
+εἰδότες,knowing,V-RPA-NMP,G1492,Romans 6,1341,21
+ἐγερθεὶς,having been raised up,V-APP-NMS,G1453,Romans 6,1342,21
+οὐκέτι,no more,Adv,G3765,Romans 6,1343,21
+ἀποθνῄσκει,dies,V-PIA-3S,G599,Romans 6,1344,21
+θάνατος,Death,N-NMS,G2288,Romans 6,1345,21
+κυριεύει,rules over,V-PIA-3S,G2961,Romans 6,1346,21
+ὃ,That which,RelPro-ANS,G3739,Romans 6,1347,21
+ἀπέθανεν,He died,V-AIA-3S,G599,Romans 6,1348,21
+ἐφάπαξ,once for all,Adv,G2178,Romans 6,1349,21
+ζῇ,He lives,V-PIA-3S,G2198,Romans 6,1350,21
+τῷ,-,Art-DMS,G3588,Romans 6,1351,21
+Θεῷ,to God,N-DMS,G2316,Romans 6,1352,21
+ὑμεῖς,you,PPro-N2P,G4771,Romans 6,1353,21
+λογίζεσθε,consider,V-PMM/P-2P,G3049,Romans 6,1354,21
+ἑαυτοὺς,yourselves,RefPro-AM3P,G1438,Romans 6,1355,21
+εἶναι,to be,V-PNA,G1510,Romans 6,1356,21
+νεκροὺς,dead,Adj-AMP,G3498,Romans 6,1357,21
+μὲν,indeed,Conj,G3303,Romans 6,1358,21
+ζῶντας,living,V-PPA-AMP,G2198,Romans 6,1359,21
+Ἰησοῦ,Jesus,N-DMS,G2424,Romans 6,1360,21
+Μὴ,Not,Adv,G3361,Romans 6,1361,21
+βασιλευέτω,let reign,V-PMA-3S,G936,Romans 6,1362,21
+ἁμαρτία,sin,N-NFS,G266,Romans 6,1363,21
+θνητῷ,mortal,Adj-DNS,G2349,Romans 6,1364,21
+ὑμῶν,of you,PPro-G2P,G4771,Romans 6,1365,21
+σώματι,body,N-DNS,G4983,Romans 6,1366,21
+τὸ,-,Art-ANS,G3588,Romans 6,1367,21
+ὑπακούειν,to obey,V-PNA,G5219,Romans 6,1368,21
+ταῖς,the,Art-DFP,G3588,Romans 6,1369,21
+ἐπιθυμίαις,desires,N-DFP,G1939,Romans 6,1370,21
+αὐτοῦ,of it,PPro-GN3S,G846,Romans 6,1371,21
+μηδὲ,Neither,Conj,G3366,Romans 6,1372,21
+παριστάνετε,yield,V-PMA-2P,G3936,Romans 6,1373,21
+τὰ,the,Art-ANP,G3588,Romans 6,1374,21
+μέλη,members,N-ANP,G3196,Romans 6,1375,21
+ὅπλα,as instruments,N-ANP,G3696,Romans 6,1376,21
+ἀδικίας,of unrighteousness,N-GFS,G93,Romans 6,1377,21
+παραστήσατε,yield,V-AMA-2P,G3936,Romans 6,1378,21
+ὡσεὶ,as,Adv,G5616,Romans 6,1379,21
+δικαιοσύνης,of righteousness,N-GFS,G1343,Romans 6,1380,21
+οὐ,not,Adv,G3756,Romans 6,1381,21
+κυριεύσει,will rule over,V-FIA-3S,G2961,Romans 6,1382,21
+γάρ,for,Conj,G1063,Romans 6,1383,21
+ἐστε,you are,V-PIA-2P,G1510,Romans 6,1384,21
+ὑπὸ,under,Prep,G5259,Romans 6,1385,21
+νόμον,law,N-AMS,G3551,Romans 6,1386,21
+χάριν,grace,N-AFS,G5485,Romans 6,1387,21
+ἁμαρτήσωμεν,Shall we sin,V-ASA-1P,G264,Romans 6,1388,21
+οὐκ,not,Adv,G3756,Romans 6,1389,21
+ἐσμὲν,we are,V-PIA-1P,G1510,Romans 6,1390,21
+οἴδατε,know you,V-RIA-2P,G1492,Romans 6,1391,21
+ᾧ,to whom,RelPro-DMS,G3739,Romans 6,1392,21
+παριστάνετε,you yield,V-PIA-2P,G3936,Romans 6,1393,21
+δούλους,as slaves,N-AMP,G1401,Romans 6,1394,21
+ὑπακοήν,obedience,N-AFS,G5218,Romans 6,1395,21
+δοῦλοί,slaves,N-NMP,G1401,Romans 6,1396,21
+ὑπακούετε,you obey,V-PIA-2P,G5219,Romans 6,1397,21
+ἤτοι,whether,Conj,G2273,Romans 6,1398,21
+ὑπακοῆς,of obedience,N-GFS,G5218,Romans 6,1399,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 6,1400,21
+ἦτε,you used to be,V-IIA-2P,G1510,Romans 6,1401,21
+δοῦλοι,slaves,N-NMP,G1401,Romans 6,1402,21
+ὑπηκούσατε,you have become obedient,V-AIA-2P,G5219,Romans 6,1403,21
+καρδίας,heart,N-GFS,G2588,Romans 6,1404,21
+ὃν,which,RelPro-AMS,G3739,Romans 6,1405,21
+παρεδόθητε,you were handed over,V-AIP-2P,G3860,Romans 6,1406,21
+τύπον,to the form,N-AMS,G5179,Romans 6,1407,21
+διδαχῆς,of teaching,N-GFS,G1322,Romans 6,1408,21
+ἐλευθερωθέντες,Having been set free,V-APP-NMP,G1659,Romans 6,1409,21
+ἐδουλώθητε,you have become slaves,V-AIP-2P,G1402,Romans 6,1410,21
+δικαιοσύνῃ,to righteousness,N-DFS,G1343,Romans 6,1411,21
+Ἀνθρώπινον,In human terms,Adj-ANS,G442,Romans 6,1412,21
+λέγω,I speak,V-PIA-1S,G3004,Romans 6,1413,21
+τὴν,the,Art-AFS,G3588,Romans 6,1414,21
+ἀσθένειαν,weakness,N-AFS,G769,Romans 6,1415,21
+σαρκὸς,flesh,N-GFS,G4561,Romans 6,1416,21
+παρεστήσατε,you yielded,V-AIA-2P,G3936,Romans 6,1417,21
+δοῦλα,in bondage,Adj-ANP,G1401,Romans 6,1418,21
+ἀκαθαρσίᾳ,to impurity,N-DFS,G167,Romans 6,1419,21
+ἀνομίᾳ,lawlessness,N-DFS,G458,Romans 6,1420,21
+ἀνομίαν,lawlessness,N-AFS,G458,Romans 6,1421,21
+νῦν,now,Adv,G3568,Romans 6,1422,21
+ἁγιασμόν,sanctification,N-AMS,G38,Romans 6,1423,21
+Ὅτε,When,Adv,G3753,Romans 6,1424,21
+ἐλεύθεροι,free,Adj-NMP,G1658,Romans 6,1425,21
+τίνα,What,IPro-AMS,G5101,Romans 6,1426,21
+καρπὸν,fruit,N-AMS,G2590,Romans 6,1427,21
+εἴχετε,had you,V-IIA-2P,G2192,Romans 6,1428,21
+τότε,then,Adv,G5119,Romans 6,1429,21
+ἐφ,in the things,Prep,G1909,Romans 6,1430,21
+οἷς,of which,RelPro-DNP,G3739,Romans 6,1431,21
+ἐπαισχύνεσθε,you are ashamed,V-PIM/P-2P,G1870,Romans 6,1432,21
+τέλος,end,N-NNS,G5056,Romans 6,1433,21
+ἐκείνων,of those things,DPro-GMP,G1565,Romans 6,1434,21
+νυνὶ,Now,Adv,G3570,Romans 6,1435,21
+δέ,however,Conj,G1161,Romans 6,1436,21
+δουλωθέντες,having become slaves,V-APP-NMP,G1402,Romans 6,1437,21
+ἔχετε,you have,V-PIA-2P,G2192,Romans 6,1438,21
+τέλος,the end,N-ANS,G5056,Romans 6,1439,21
+ζωὴν,is life,N-AFS,G2222,Romans 6,1440,21
+αἰώνιον,eternal,Adj-AFS,G166,Romans 6,1441,21
+τὰ,The,Art-NNP,G3588,Romans 6,1442,21
+ὀψώνια,wages,N-NNP,G3800,Romans 6,1443,21
+χάρισμα,the gift,N-NNS,G5486,Romans 6,1444,21
+Θεοῦ,of God,N-GMS,G2316,Romans 6,1445,21
+ζωὴ,life,N-NFS,G2222,Romans 6,1446,21
+αἰώνιος,eternal,Adj-NFS,G166,Romans 6,1447,21
+Κυρίῳ,Lord,N-DMS,G2962,Romans 6,1448,21
+Ἢ,Or,Conj,G2228,Romans 7,1449,21
+ἀγνοεῖτε,are you ignorant,V-PIA-2P,G50,Romans 7,1450,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 7,1451,21
+γινώσκουσιν,to those knowing,V-PPA-DMP,G1097,Romans 7,1452,21
+γὰρ,for,Conj,G1063,Romans 7,1453,21
+νόμον,law,N-AMS,G3551,Romans 7,1454,21
+λαλῶ,I speak,V-PIA-1S,G2980,Romans 7,1455,21
+ὅτι,that,Conj,G3754,Romans 7,1456,21
+ὁ,the,Art-NMS,G3588,Romans 7,1457,21
+νόμος,law,N-NMS,G3551,Romans 7,1458,21
+κυριεύει,rules over,V-PIA-3S,G2961,Romans 7,1459,21
+τοῦ,the,Art-GMS,G3588,Romans 7,1460,21
+ἀνθρώπου,man,N-GMS,G444,Romans 7,1461,21
+ἐφ,for,Prep,G1909,Romans 7,1462,21
+ὅσον,as long as,RelPro-AMS,G3745,Romans 7,1463,21
+χρόνον,the time,N-AMS,G5550,Romans 7,1464,21
+ζῇ,he is alive,V-PIA-3S,G2198,Romans 7,1465,21
+ἡ,The,Art-NFS,G3588,Romans 7,1466,21
+ὕπανδρος,married,Adj-NFS,G5220,Romans 7,1467,21
+γυνὴ,woman,N-NFS,G1135,Romans 7,1468,21
+τῷ,to the,Art-DMS,G3588,Romans 7,1469,21
+ζῶντι,living,V-PPA-DMS,G2198,Romans 7,1470,21
+ἀνδρὶ,husband,N-DMS,G435,Romans 7,1471,21
+δέδεται,is bound,V-RIM/P-3S,G1210,Romans 7,1472,21
+νόμῳ,by law,N-DMS,G3551,Romans 7,1473,21
+ἐὰν,if,Conj,G1437,Romans 7,1474,21
+δὲ,however,Conj,G1161,Romans 7,1475,21
+ἀποθάνῃ,should die,V-ASA-3S,G599,Romans 7,1476,21
+ἀνήρ,husband,N-NMS,G435,Romans 7,1477,21
+κατήργηται,she is cleared,V-RIM/P-3S,G2673,Romans 7,1478,21
+ἀπὸ,from,Prep,G575,Romans 7,1479,21
+νόμου,law,N-GMS,G3551,Romans 7,1480,21
+ἀνδρός,husband,N-GMS,G435,Romans 7,1481,21
+ἄρα,Then,Conj,G686,Romans 7,1482,21
+οὖν,therefore,Conj,G3767,Romans 7,1483,21
+ζῶντος,being alive,V-PPA-GMS,G2198,Romans 7,1484,21
+ἀνδρὸς,husband,N-GMS,G435,Romans 7,1485,21
+μοιχαλὶς,an adulteress,N-NFS,G3428,Romans 7,1486,21
+χρηματίσει,she will be called,V-FIA-3S,G5537,Romans 7,1487,21
+γένηται,she is,V-ASM-3S,G1096,Romans 7,1488,21
+ἑτέρῳ,another,Adj-DMS,G2087,Romans 7,1489,21
+ἐλευθέρα,free,Adj-NFS,G1658,Romans 7,1490,21
+ἐστὶν,she is,V-PIA-3S,G1510,Romans 7,1491,21
+τοῦ,so as for,Art-GNS,G3588,Romans 7,1492,21
+μὴ,not,Adv,G3361,Romans 7,1493,21
+εἶναι,to be,V-PNA,G1510,Romans 7,1494,21
+αὐτὴν,her,PPro-AF3S,G846,Romans 7,1495,21
+μοιχαλίδα,an adulteress,N-AFS,G3428,Romans 7,1496,21
+γενομένην,having been,V-APM-AFS,G1096,Romans 7,1497,21
+Ὥστε,Likewise,Conj,G5620,Romans 7,1498,21
+μου,of me,PPro-G1S,G1473,Romans 7,1499,21
+καὶ,also,Conj,G2532,Romans 7,1500,21
+ὑμεῖς,you,PPro-N2P,G4771,Romans 7,1501,21
+ἐθανατώθητε,have been put to death,V-AIP-2P,G2289,Romans 7,1502,21
+διὰ,through,Prep,G1223,Romans 7,1503,21
+σώματος,body,N-GNS,G4983,Romans 7,1504,21
+Χριστοῦ,of Christ,N-GMS,G5547,Romans 7,1505,21
+εἰς,for,Prep,G1519,Romans 7,1506,21
+τὸ,-,Art-ANS,G3588,Romans 7,1507,21
+γενέσθαι,to belong,V-ANM,G1096,Romans 7,1508,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 7,1509,21
+ἐκ,out from,Prep,G1537,Romans 7,1510,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 7,1511,21
+ἐγερθέντι,having been raised,V-APP-DMS,G1453,Romans 7,1512,21
+ἵνα,so that,Conj,G2443,Romans 7,1513,21
+καρποφορήσωμεν,we should bear fruit,V-ASA-1P,G2592,Romans 7,1514,21
+Θεῷ,to God,N-DMS,G2316,Romans 7,1515,21
+ὅτε,While,Adv,G3753,Romans 7,1516,21
+ἦμεν,we were,V-IIA-1P,G1510,Romans 7,1517,21
+ἐν,in,Prep,G1722,Romans 7,1518,21
+τῇ,the,Art-DFS,G3588,Romans 7,1519,21
+σαρκί,flesh,N-DFS,G4561,Romans 7,1520,21
+τὰ,the,Art-NNP,G3588,Romans 7,1521,21
+παθήματα,passions,N-NNP,G3804,Romans 7,1522,21
+τῶν,-,Art-GFP,G3588,Romans 7,1523,21
+ἁμαρτιῶν,of sins,N-GFP,G266,Romans 7,1524,21
+ἐνηργεῖτο,were at work,V-IIM-3S,G1754,Romans 7,1525,21
+τοῖς,the,Art-DNP,G3588,Romans 7,1526,21
+μέλεσιν,members,N-DNP,G3196,Romans 7,1527,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 7,1528,21
+καρποφορῆσαι,bringing forth of fruit,V-ANA,G2592,Romans 7,1529,21
+θανάτῳ,to death,N-DMS,G2288,Romans 7,1530,21
+νυνὶ,Now,Adv,G3570,Romans 7,1531,21
+κατηργήθημεν,we have been released,V-AIP-1P,G2673,Romans 7,1532,21
+ἀποθανόντες,having died,V-APA-NMP,G599,Romans 7,1533,21
+ᾧ,that which,RelPro-DMS,G3739,Romans 7,1534,21
+κατειχόμεθα,we were bound,V-IIM/P-1P,G2722,Romans 7,1535,21
+ὥστε,in order for,Conj,G5620,Romans 7,1536,21
+δουλεύειν,to serve,V-PNA,G1398,Romans 7,1537,21
+ἡμᾶς,us,PPro-A1P,G1473,Romans 7,1538,21
+καινότητι,newness,N-DFS,G2538,Romans 7,1539,21
+πνεύματος,of the Spirit,N-GNS,G4151,Romans 7,1540,21
+οὐ,not,Adv,G3756,Romans 7,1541,21
+παλαιότητι,in oldness,N-DFS,G3821,Romans 7,1542,21
+γράμματος,of the letter,N-GNS,G1121,Romans 7,1543,21
+Τί,What,IPro-ANS,G5101,Romans 7,1544,21
+ἐροῦμεν,shall we say,V-FIA-1P,G2046,Romans 7,1545,21
+ἁμαρτία,sin,N-NFS,G266,Romans 7,1546,21
+γένοιτο,may it be,V-AOM-3S,G1096,Romans 7,1547,21
+ἀλλὰ,But,Conj,G235,Romans 7,1548,21
+τὴν,-,Art-AFS,G3588,Romans 7,1549,21
+ἁμαρτίαν,sin,N-AFS,G266,Romans 7,1550,21
+οὐκ,not,Adv,G3756,Romans 7,1551,21
+ἔγνων,I have known,V-AIA-1S,G1097,Romans 7,1552,21
+εἰ,if,Conj,G1487,Romans 7,1553,21
+τήν,-,Art-AFS,G3588,Romans 7,1554,21
+τε,then,Conj,G5037,Romans 7,1555,21
+ἐπιθυμίαν,covetousness,N-AFS,G1939,Romans 7,1556,21
+ᾔδειν,I had been conscious of,V-LIA-1S,G1492,Romans 7,1557,21
+ἔλεγεν,had said,V-IIA-3S,G2036,Romans 7,1558,21
+Οὐκ,Not,Adv,G3756,Romans 7,1559,21
+ἐπιθυμήσεις,you shall covet,V-FIA-2S,G1937,Romans 7,1560,21
+ἀφορμὴν,An occasion,N-AFS,G874,Romans 7,1561,21
+λαβοῦσα,having taken,V-APA-NFS,G2983,Romans 7,1562,21
+τῆς,the,Art-GFS,G3588,Romans 7,1563,21
+ἐντολῆς,commandment,N-GFS,G1785,Romans 7,1564,21
+κατειργάσατο,it produced,V-AIM-3S,G2716,Romans 7,1565,21
+ἐμοὶ,me,PPro-D1S,G1473,Romans 7,1566,21
+πᾶσαν,all,Adj-AFS,G3956,Romans 7,1567,21
+χωρὶς,apart from,Prep,G5565,Romans 7,1568,21
+νεκρά,is dead,Adj-NFS,G3498,Romans 7,1569,21
+Ἐγὼ,I,PPro-N1S,G1473,Romans 7,1570,21
+ἔζων,was alive,V-IIA-1S,G2198,Romans 7,1571,21
+ποτέ,once,Prtcl,G4218,Romans 7,1572,21
+ἐλθούσης,having come,V-APA-GFS,G2064,Romans 7,1573,21
+ἀνέζησεν,revived,V-AIA-3S,G326,Romans 7,1574,21
+ἐγὼ,I,PPro-N1S,G1473,Romans 7,1575,21
+ἀπέθανον,died,V-AIA-1S,G599,Romans 7,1576,21
+εὑρέθη,proved to be,V-AIP-3S,G2147,Romans 7,1577,21
+μοι,me,PPro-D1S,G1473,Romans 7,1578,21
+ἐντολὴ,commandment,N-NFS,G1785,Romans 7,1579,21
+ζωὴν,life,N-AFS,G2222,Romans 7,1580,21
+αὕτη,this,DPro-NFS,G3778,Romans 7,1581,21
+θάνατον,death,N-AMS,G2288,Romans 7,1582,21
+ἐξηπάτησέν,deceived,V-AIA-3S,G1818,Romans 7,1583,21
+με,me,PPro-A1S,G1473,Romans 7,1584,21
+δι,by,Prep,G1223,Romans 7,1585,21
+αὐτῆς,it,PPro-GF3S,G846,Romans 7,1586,21
+ἀπέκτεινεν,put me to death,V-AIA-3S,G615,Romans 7,1587,21
+μὲν,indeed,Conj,G3303,Romans 7,1588,21
+ἅγιος,holy,Adj-NMS,G40,Romans 7,1589,21
+ἁγία,holy,Adj-NFS,G40,Romans 7,1590,21
+δικαία,righteous,Adj-NFS,G1342,Romans 7,1591,21
+ἀγαθή,good,Adj-NFS,G18,Romans 7,1592,21
+Τὸ,That which,Art-NNS,G3588,Romans 7,1593,21
+ἀγαθὸν,is good,Adj-NNS,G18,Romans 7,1594,21
+ἐγένετο,has become,V-AIM-3S,G1096,Romans 7,1595,21
+θάνατος,death,N-NMS,G2288,Romans 7,1596,21
+φανῇ,it might be shown to be,V-ASP-3S,G5316,Romans 7,1597,21
+ἀγαθοῦ,good,Adj-GNS,G18,Romans 7,1598,21
+κατεργαζομένη,is working out,V-PPM/P-NFS,G2716,Romans 7,1599,21
+καθ,beyond,Prep,G2596,Romans 7,1600,21
+ὑπερβολὴν,excess,N-AFS,G5236,Romans 7,1601,21
+ἁμαρτωλὸς,sinful,Adj-NFS,G268,Romans 7,1602,21
+Οἴδαμεν,We know,V-RIA-1P,G1492,Romans 7,1603,21
+πνευματικός,spiritual,Adj-NMS,G4152,Romans 7,1604,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 7,1605,21
+σάρκινός,fleshly,Adj-NMS,G4560,Romans 7,1606,21
+εἰμι,am,V-PIA-1S,G1510,Romans 7,1607,21
+πεπραμένος,having been sold,V-RPM/P-NMS,G4097,Romans 7,1608,21
+ὑπὸ,under,Prep,G5259,Romans 7,1609,21
+ὃ,What,RelPro-ANS,G3739,Romans 7,1610,21
+κατεργάζομαι,I do,V-PIM/P-1S,G2716,Romans 7,1611,21
+γινώσκω,I understand,V-PIA-1S,G1097,Romans 7,1612,21
+θέλω,I want,V-PIA-1S,G2309,Romans 7,1613,21
+τοῦτο,this,DPro-ANS,G3778,Romans 7,1614,21
+πράσσω,I do,V-PIA-1S,G4238,Romans 7,1615,21
+ἀλλ,but,Conj,G235,Romans 7,1616,21
+μισῶ,I hate,V-PIA-1S,G3404,Romans 7,1617,21
+ποιῶ,I do,V-PIA-1S,G4160,Romans 7,1618,21
+σύμφημι,I consent,V-PIA-1S,G4852,Romans 7,1619,21
+καλός,good,Adj-NMS,G2570,Romans 7,1620,21
+οὐκέτι,no longer,Adv,G3765,Romans 7,1621,21
+αὐτὸ,it,PPro-AN3S,G846,Romans 7,1622,21
+οἰκοῦσα,dwelling,V-PPA-NFS,G3611,Romans 7,1623,21
+Οἶδα,I know,V-RIA-1S,G1492,Romans 7,1624,21
+οἰκεῖ,there dwells,V-PIA-3S,G3611,Romans 7,1625,21
+ἐμοί,me,PPro-D1S,G1473,Romans 7,1626,21
+τοῦτ,that,DPro-NNS,G3778,Romans 7,1627,21
+ἔστιν,is,V-PIA-3S,G1510,Romans 7,1628,21
+ἀγαθόν,good,Adj-NNS,G18,Romans 7,1629,21
+τὸ,-,Art-NNS,G3588,Romans 7,1630,21
+θέλειν,to will,V-PNA,G2309,Romans 7,1631,21
+παράκειταί,is present with,V-PIM/P-3S,G3873,Romans 7,1632,21
+κατεργάζεσθαι,to do,V-PNM/P,G2716,Romans 7,1633,21
+καλὸν,good,Adj-ANS,G2570,Romans 7,1634,21
+οὔ,not,Adv,G3756,Romans 7,1635,21
+ἀγαθόν,good,Adj-ANS,G18,Romans 7,1636,21
+κακὸν,evil,Adj-ANS,G2556,Romans 7,1637,21
+οἰκοῦσα,dwelling,V-PPA-NFS,G3611,Romans 7,1638,21
+Εὑρίσκω,I find,V-PIA-1S,G2147,Romans 7,1639,21
+τὸν,the,Art-AMS,G3588,Romans 7,1640,21
+θέλοντι,desiring,V-PPA-DMS,G2309,Romans 7,1641,21
+ποιεῖν,to do,V-PNA,G4160,Romans 7,1642,21
+κακὸν,evil,Adj-NNS,G2556,Romans 7,1643,21
+παράκειται,is present with,V-PIM/P-3S,G3873,Romans 7,1644,21
+συνήδομαι,I delight,V-PIM/P-1S,G4913,Romans 7,1645,21
+Θεοῦ,of God,N-GMS,G2316,Romans 7,1646,21
+κατὰ,according to,Prep,G2596,Romans 7,1647,21
+ἔσω,inward,Adv,G2080,Romans 7,1648,21
+ἄνθρωπον,man,N-AMS,G444,Romans 7,1649,21
+βλέπω,I see,V-PIA-1S,G991,Romans 7,1650,21
+ἕτερον,another,Adj-AMS,G2087,Romans 7,1651,21
+μέλεσίν,members,N-DNP,G3196,Romans 7,1652,21
+ἀντιστρατευόμενον,warring against,V-PPM/P-AMS,G497,Romans 7,1653,21
+νοός,mind,N-GMS,G3563,Romans 7,1654,21
+αἰχμαλωτίζοντά,making captive,V-PPA-AMS,G163,Romans 7,1655,21
+ἁμαρτίας,of sin,N-GFS,G266,Romans 7,1656,21
+ὄντι,being,V-PPA-DMS,G1510,Romans 7,1657,21
+Ταλαίπωρος,O wretched,Adj-NMS,G5005,Romans 7,1658,21
+ἄνθρωπος,man,N-NMS,G444,Romans 7,1659,21
+τίς,Who,IPro-NMS,G5101,Romans 7,1660,21
+ῥύσεται,will deliver,V-FIM-3S,G4506,Romans 7,1661,21
+θανάτου,of death,N-GMS,G2288,Romans 7,1662,21
+τούτου,this,DPro-GMS,G3778,Romans 7,1663,21
+χάρις,Thanks be,N-NFS,G5485,Romans 7,1664,21
+δὲ,then,Conj,G1161,Romans 7,1665,21
+Ἰησοῦ,Jesus,N-GMS,G2424,Romans 7,1666,21
+Κυρίου,Lord,N-GMS,G2962,Romans 7,1667,21
+Ἄρα,Then,Conj,G686,Romans 7,1668,21
+αὐτὸς,myself,PPro-NM3S,G846,Romans 7,1669,21
+νοῒ,mind,N-DMS,G3563,Romans 7,1670,21
+δουλεύω,serve,V-PIA-1S,G1398,Romans 7,1671,21
+σαρκὶ,the flesh,N-DFS,G4561,Romans 7,1672,21
+Οὐδὲν,There is no,Adj-NNS,G3762,Romans 8,1673,21
+ἄρα,therefore,Conj,G686,Romans 8,1674,21
+νῦν,now,Adv,G3568,Romans 8,1675,21
+κατάκριμα,condemnation,N-NNS,G2631,Romans 8,1676,21
+τοῖς,to those,Art-DMP,G3588,Romans 8,1677,21
+ἐν,in,Prep,G1722,Romans 8,1678,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 8,1679,21
+Ἰησοῦ,Jesus,N-DMS,G2424,Romans 8,1680,21
+μὴ,not,Adv,G3361,Romans 8,1681,21
+κατὰ,according to,Prep,G2596,Romans 8,1682,21
+σάρκα,flesh,N-AFS,G4561,Romans 8,1683,21
+περιπατοῦσιν,who walk,V-PIA-3P,G4043,Romans 8,1684,21
+ἀλλὰ,but,Conj,G235,Romans 8,1685,21
+πνεῦμα,Spirit,N-NNS,G4151,Romans 8,1686,21
+ὁ,-,Art-NMS,G3588,Romans 8,1687,21
+γὰρ,For,Conj,G1063,Romans 8,1688,21
+νόμος,the law,N-NMS,G3551,Romans 8,1689,21
+τοῦ,of the,Art-GNS,G3588,Romans 8,1690,21
+Πνεύματος,Spirit,N-GNS,G4151,Romans 8,1691,21
+τῆς,of,Art-GFS,G3588,Romans 8,1692,21
+ζωῆς,life,N-GFS,G2222,Romans 8,1693,21
+ἠλευθέρωσέν,has set free,V-AIA-3S,G1659,Romans 8,1694,21
+σε,you,PPro-A2S,G4771,Romans 8,1695,21
+ἀπὸ,from,Prep,G575,Romans 8,1696,21
+τοῦ,the,Art-GMS,G3588,Romans 8,1697,21
+νόμου,law,N-GMS,G3551,Romans 8,1698,21
+ἁμαρτίας,of sin,N-GFS,G266,Romans 8,1699,21
+καὶ,and,Conj,G2532,Romans 8,1700,21
+θανάτου,of death,N-GMS,G2288,Romans 8,1701,21
+τὸ,-,Art-ANS,G3588,Romans 8,1702,21
+ἀδύνατον,powerless being,Adj-ANS,G102,Romans 8,1703,21
+ᾧ,that,RelPro-DNS,G3739,Romans 8,1704,21
+ἠσθένει,it was weak,V-IIA-3S,G770,Romans 8,1705,21
+διὰ,through,Prep,G1223,Romans 8,1706,21
+σαρκός,flesh,N-GFS,G4561,Romans 8,1707,21
+Θεὸς,God,N-NMS,G2316,Romans 8,1708,21
+τὸν,-,Art-AMS,G3588,Romans 8,1709,21
+ἑαυτοῦ,of Himself,RefPro-GM3S,G1438,Romans 8,1710,21
+Υἱὸν,Son,N-AMS,G5207,Romans 8,1711,21
+πέμψας,having sent,V-APA-NMS,G3992,Romans 8,1712,21
+ὁμοιώματι,likeness,N-DNS,G3667,Romans 8,1713,21
+σαρκὸς,of flesh,N-GFS,G4561,Romans 8,1714,21
+περὶ,for,Prep,G4012,Romans 8,1715,21
+κατέκρινεν,condemned,V-AIA-3S,G2632,Romans 8,1716,21
+τὴν,-,Art-AFS,G3588,Romans 8,1717,21
+ἁμαρτίαν,sin,N-AFS,G266,Romans 8,1718,21
+τῇ,the,Art-DFS,G3588,Romans 8,1719,21
+σαρκί,flesh,N-DFS,G4561,Romans 8,1720,21
+ἵνα,so that,Conj,G2443,Romans 8,1721,21
+τὸ,the,Art-NNS,G3588,Romans 8,1722,21
+δικαίωμα,righteousness,N-NNS,G1345,Romans 8,1723,21
+πληρωθῇ,should be fulfilled,V-ASP-3S,G4137,Romans 8,1724,21
+ἡμῖν,us,PPro-D1P,G1473,Romans 8,1725,21
+μὴ,not,Adv,G3361,Romans 8,1726,21
+περιπατοῦσιν,walking,V-PPA-DMP,G4043,Romans 8,1727,21
+πνεῦμα,the Spirit,N-ANS,G4151,Romans 8,1728,21
+Οἱ,Those,Art-NMP,G3588,Romans 8,1729,21
+ὄντες,being,V-PPA-NMP,G1510,Romans 8,1730,21
+τὰ,the things,Art-ANP,G3588,Romans 8,1731,21
+φρονοῦσιν,mind,V-PIA-3P,G5426,Romans 8,1732,21
+οἱ,those,Art-NMP,G3588,Romans 8,1733,21
+δὲ,however,Conj,G1161,Romans 8,1734,21
+πνεύματος,Spirit,N-GNS,G4151,Romans 8,1735,21
+φρόνημα,mind,N-NNS,G5427,Romans 8,1736,21
+θάνατος,is death,N-NMS,G2288,Romans 8,1737,21
+ζωὴ,life,N-NFS,G2222,Romans 8,1738,21
+εἰρήνη,peace,N-NFS,G1515,Romans 8,1739,21
+διότι,because,Conj,G1360,Romans 8,1740,21
+ἔχθρα,is hostility,N-NFS,G2189,Romans 8,1741,21
+εἰς,toward,Prep,G1519,Romans 8,1742,21
+Θεόν,God,N-AMS,G2316,Romans 8,1743,21
+τῷ,to,Art-DMS,G3588,Romans 8,1744,21
+νόμῳ,the law,N-DMS,G3551,Romans 8,1745,21
+Θεοῦ,of God,N-GMS,G2316,Romans 8,1746,21
+οὐχ,not,Adv,G3756,Romans 8,1747,21
+ὑποτάσσεται,it is subject,V-PIM/P-3S,G5293,Romans 8,1748,21
+οὐδὲ,nor even,Adv,G3761,Romans 8,1749,21
+δύναται,can it be,V-PIM/P-3S,G1410,Romans 8,1750,21
+σαρκὶ,flesh,N-DFS,G4561,Romans 8,1751,21
+Θεῷ,God,N-DMS,G2316,Romans 8,1752,21
+ἀρέσαι,to please,V-ANA,G700,Romans 8,1753,21
+οὐ,not,Adv,G3756,Romans 8,1754,21
+δύνανται,are able,V-PIM/P-3P,G1410,Romans 8,1755,21
+Ὑμεῖς,You,PPro-N2P,G4771,Romans 8,1756,21
+οὐκ,not,Adv,G3756,Romans 8,1757,21
+ἐστὲ,are,V-PIA-2P,G1510,Romans 8,1758,21
+πνεύματι,Spirit,N-DNS,G4151,Romans 8,1759,21
+εἴπερ,if indeed the,Conj,G1512,Romans 8,1760,21
+Πνεῦμα,Spirit,N-NNS,G4151,Romans 8,1761,21
+οἰκεῖ,dwells,V-PIA-3S,G3611,Romans 8,1762,21
+ὑμῖν,you,PPro-D2P,G4771,Romans 8,1763,21
+εἰ,if,Conj,G1487,Romans 8,1764,21
+δέ,however,Conj,G1161,Romans 8,1765,21
+τις,anyone,IPro-NMS,G5100,Romans 8,1766,21
+Πνεῦμα,the Spirit,N-ANS,G4151,Romans 8,1767,21
+Χριστοῦ,of Christ,N-GMS,G5547,Romans 8,1768,21
+ἔχει,has,V-PIA-3S,G2192,Romans 8,1769,21
+οὗτος,he,DPro-NMS,G3778,Romans 8,1770,21
+ἔστιν,is,V-PIA-3S,G1510,Romans 8,1771,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 8,1772,21
+Χριστὸς,Christ,N-NMS,G5547,Romans 8,1773,21
+μὲν,indeed,Conj,G3303,Romans 8,1774,21
+σῶμα,body is,N-NNS,G4983,Romans 8,1775,21
+νεκρὸν,dead,Adj-NNS,G3498,Romans 8,1776,21
+πνεῦμα,Spirit,N-NNS,G4151,Romans 8,1777,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 8,1778,21
+ἐγείραντος,having raised up,V-APA-GMS,G1453,Romans 8,1779,21
+Ἰησοῦν,Jesus,N-AMS,G2424,Romans 8,1780,21
+ἐκ,out from,Prep,G1537,Romans 8,1781,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 8,1782,21
+ἐγείρας,having raised up,V-APA-NMS,G1453,Romans 8,1783,21
+ἐκ,out from,Prep,G1537,Romans 8,1784,21
+νεκρῶν» ,the dead,Adj-GMP,G3498,Romans 8,1785,21
+Χριστὸν,Christ,N-AMS,G5547,Romans 8,1786,21
+ζωοποιήσει,will give life,V-FIA-3S,G2227,Romans 8,1787,21
+θνητὰ,mortal,Adj-ANP,G2349,Romans 8,1788,21
+σώματα,bodies,N-ANP,G4983,Romans 8,1789,21
+ὑμῶν,of you,PPro-G2P,G4771,Romans 8,1790,21
+ἐνοικοῦντος,dwelling,V-PPA-GNS,G1774,Romans 8,1791,21
+Ἄρα,So,Conj,G686,Romans 8,1792,21
+οὖν,then,Conj,G3767,Romans 8,1793,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 8,1794,21
+ὀφειλέται,debtors,N-NMP,G3781,Romans 8,1795,21
+ἐσμέν,we are,V-PIA-1P,G1510,Romans 8,1796,21
+ζῆν,to live,V-PNA,G2198,Romans 8,1797,21
+ζῆτε,you live,V-PIA-2P,G2198,Romans 8,1798,21
+μέλλετε,you are about,V-PIA-2P,G3195,Romans 8,1799,21
+ἀποθνήσκειν,to die,V-PNA,G599,Romans 8,1800,21
+τὰς,the,Art-AFP,G3588,Romans 8,1801,21
+πράξεις,deeds,N-AFP,G4234,Romans 8,1802,21
+σώματος,body,N-GNS,G4983,Romans 8,1803,21
+θανατοῦτε,you put to death,V-PIA-2P,G2289,Romans 8,1804,21
+ζήσεσθε,you will live,V-FIM-2P,G2198,Romans 8,1805,21
+ὅσοι,As many as,RelPro-NMP,G3745,Romans 8,1806,21
+Πνεύματι,by the Spirit,N-DNS,G4151,Romans 8,1807,21
+ἄγονται,are led,V-PIM/P-3P,G71,Romans 8,1808,21
+οὗτοι,these,DPro-NMP,G3778,Romans 8,1809,21
+υἱοί,sons,N-NMP,G5207,Romans 8,1810,21
+εἰσιν ,are,V-PIA-3P,G1510,Romans 8,1811,21
+Οὐ,Not,Adv,G3756,Romans 8,1812,21
+ἐλάβετε,you have received,V-AIA-2P,G2983,Romans 8,1813,21
+δουλείας,of bondage,N-GFS,G1397,Romans 8,1814,21
+πάλιν,again,Adv,G3825,Romans 8,1815,21
+φόβον,fear,N-AMS,G5401,Romans 8,1816,21
+υἱοθεσίας,of divine adoption as sons,N-GFS,G5206,Romans 8,1817,21
+κράζομεν,we cry,V-PIA-1P,G2896,Romans 8,1818,21
+Ἀββᾶ,Abba,N-VMS,G5,Romans 8,1819,21
+ὁ,-,Art-VMS,G3588,Romans 8,1820,21
+Πατήρ,Father,N-NMS,G3962,Romans 8,1821,21
+αὐτὸ,Himself,PPro-NN3S,G846,Romans 8,1822,21
+συμμαρτυρεῖ,bears witness with,V-PIA-3S,G4828,Romans 8,1823,21
+τῷ,the,Art-DNS,G3588,Romans 8,1824,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 8,1825,21
+ὅτι,that,Conj,G3754,Romans 8,1826,21
+ἐσμὲν,we are,V-PIA-1P,G1510,Romans 8,1827,21
+τέκνα,children,N-NNP,G5043,Romans 8,1828,21
+κληρονόμοι,heirs,N-NMP,G2818,Romans 8,1829,21
+συνκληρονόμοι,joint-heirs,Adj-NMP,G4789,Romans 8,1830,21
+συμπάσχομεν,we suffer with Him,V-PIA-1P,G4841,Romans 8,1831,21
+συνδοξασθῶμεν,we may be glorified together,V-ASP-1P,G4888,Romans 8,1832,21
+Λογίζομαι,I reckon,V-PIM/P-1S,G3049,Romans 8,1833,21
+ἄξια,comparable,Adj-NNP,G514,Romans 8,1834,21
+τὰ,the,Art-NNP,G3588,Romans 8,1835,21
+παθήματα,sufferings,N-NNP,G3804,Romans 8,1836,21
+καιροῦ,time are,N-GMS,G2540,Romans 8,1837,21
+πρὸς,to,Prep,G4314,Romans 8,1838,21
+μέλλουσαν,coming,V-PPA-AFS,G3195,Romans 8,1839,21
+δόξαν,glory,N-AFS,G1391,Romans 8,1840,21
+ἀποκαλυφθῆναι,to be revealed,V-ANP,G601,Romans 8,1841,21
+ἡμᾶς,us,PPro-A1P,G1473,Romans 8,1842,21
+ἡ,The,Art-NFS,G3588,Romans 8,1843,21
+ἀποκαραδοκία,earnest expectation,N-NFS,G603,Romans 8,1844,21
+κτίσεως,creation,N-GFS,G2937,Romans 8,1845,21
+ἀποκάλυψιν,revelation,N-AFS,G602,Romans 8,1846,21
+τῶν,of the,Art-GMP,G3588,Romans 8,1847,21
+υἱῶν,sons,N-GMP,G5207,Romans 8,1848,21
+ἀπεκδέχεται,awaits,V-PIM/P-3S,G553,Romans 8,1849,21
+ματαιότητι,futility,N-DFS,G3153,Romans 8,1850,21
+κτίσις,creation,N-NFS,G2937,Romans 8,1851,21
+ὑπετάγη,was subjected,V-AIP-3S,G5293,Romans 8,1852,21
+ἑκοῦσα,willingly,Adj-NFS,G1635,Romans 8,1853,21
+ὑποτάξαντα,having subjected it,V-APA-AMS,G5293,Romans 8,1854,21
+ἐφ,in,Prep,G1909,Romans 8,1855,21
+ἑλπίδι,hope,N-DFS,G1680,Romans 8,1856,21
+ὅτι,that,Conj,G3754,Romans 8,1857,21
+αὐτὴ,itself,PPro-NF3S,G846,Romans 8,1858,21
+ἐλευθερωθήσεται,will be set free,V-FIP-3S,G1659,Romans 8,1859,21
+φθορᾶς,of decay,N-GFS,G5356,Romans 8,1860,21
+ἐλευθερίαν,freedom,N-AFS,G1657,Romans 8,1861,21
+δόξης,glory,N-GFS,G1391,Romans 8,1862,21
+τῶν,of the,Art-GNP,G3588,Romans 8,1863,21
+τέκνων,children,N-GNP,G5043,Romans 8,1864,21
+Οἴδαμεν,We know,V-RIA-1P,G1492,Romans 8,1865,21
+πᾶσα,all,Adj-NFS,G3956,Romans 8,1866,21
+συστενάζει,groans together,V-PIA-3S,G4959,Romans 8,1867,21
+συνωδίνει,travails together,V-PIA-3S,G4944,Romans 8,1868,21
+ἄχρι,until,Prep,G891,Romans 8,1869,21
+μόνον,only so,Adv,G3440,Romans 8,1870,21
+αὐτοὶ,ourselves,PPro-NM3P,G846,Romans 8,1871,21
+ἀπαρχὴν,firstfruit,N-AFS,G536,Romans 8,1872,21
+ἔχοντες,having,V-PPA-NMP,G2192,Romans 8,1873,21
+ἡμεῖς,we,PPro-N1P,G1473,Romans 8,1874,21
+ἑαυτοῖς,ourselves,RefPro-DM3P,G1438,Romans 8,1875,21
+στενάζομεν,groan,V-PIA-1P,G4727,Romans 8,1876,21
+υἱοθεσίαν,divine adoption as sons,N-AFS,G5206,Romans 8,1877,21
+ἀπεκδεχόμενοι,awaiting,V-PPM/P-NMP,G553,Romans 8,1878,21
+ἀπολύτρωσιν,redemption,N-AFS,G629,Romans 8,1879,21
+ἐλπίδι,hope,N-DFS,G1680,Romans 8,1880,21
+ἐσώθημεν,we were saved,V-AIP-1P,G4982,Romans 8,1881,21
+ἐλπὶς,hope,N-NFS,G1680,Romans 8,1882,21
+βλεπομένη,being seen,V-PPM/P-NFS,G991,Romans 8,1883,21
+ἐλπίς,hope,N-NFS,G1680,Romans 8,1884,21
+ὃ,what,RelPro-ANS,G3739,Romans 8,1885,21
+βλέπει,sees,V-PIA-3S,G991,Romans 8,1886,21
+τις,any,IPro-NMS,G5101,Romans 8,1887,21
+τί,one,IPro-ANS,G5101,Romans 8,1888,21
+ἐλπίζει,does he hope for,V-PIA-3S,G1679,Romans 8,1889,21
+βλέπομεν,we see,V-PIA-1P,G991,Romans 8,1890,21
+ἐλπίζομεν,we hope for,V-PIA-1P,G1679,Romans 8,1891,21
+δι,in,Prep,G1223,Romans 8,1892,21
+ὑπομονῆς,patience,N-GFS,G5281,Romans 8,1893,21
+ἀπεκδεχόμεθα,we await,V-PIM/P-1P,G553,Romans 8,1894,21
+Ὡσαύτως,Likewise,Adv,G5615,Romans 8,1895,21
+συναντιλαμβάνεται,joins to help,V-PIM/P-3S,G4878,Romans 8,1896,21
+ἀσθενείᾳ,weakness,N-DFS,G769,Romans 8,1897,21
+προσευξώμεθα,we should pray for,V-ASM-1P,G4336,Romans 8,1898,21
+καθὸ,as,Adv,G2526,Romans 8,1899,21
+δεῖ,it behooves,V-PIA-3S,G1163,Romans 8,1900,21
+οἴδαμεν,we know,V-RIA-1P,G1492,Romans 8,1901,21
+ὑπερεντυγχάνει,makes intercession,V-PIA-3S,G5241,Romans 8,1902,21
+στεναγμοῖς,with groanings,N-DMP,G4726,Romans 8,1903,21
+ἀλαλήτοις,inexpressible,Adj-DMP,G215,Romans 8,1904,21
+ἐραυνῶν,searching,V-PPA-NMS,G2045,Romans 8,1905,21
+καρδίας,hearts,N-AFP,G2588,Romans 8,1906,21
+οἶδεν,knows,V-RIA-3S,G1492,Romans 8,1907,21
+Θεὸν,God,N-AMS,G2316,Romans 8,1908,21
+ἐντυγχάνει,He intercedes,V-PIA-3S,G1793,Romans 8,1909,21
+ὑπὲρ,for,Prep,G5228,Romans 8,1910,21
+ἁγίων,the saints,Adj-GMP,G40,Romans 8,1911,21
+ἀγαπῶσιν,loving,V-PPA-DMP,G25,Romans 8,1912,21
+πάντα,all things,Adj-ANP,G3956,Romans 8,1913,21
+συνεργεῖ,works together,V-PIA-3S,G4903,Romans 8,1914,21
+ὁ,-,Art-NMS,G3588,Romans 8,1915,21
+θεὸς,God,N-NMS,G2316,Romans 8,1916,21
+ἀγαθόν,good,Adj-ANS,G18,Romans 8,1917,21
+πρόθεσιν,His purpose,N-AFS,G4286,Romans 8,1918,21
+κλητοῖς,called,Adj-DMP,G2822,Romans 8,1919,21
+οὖσιν,being,V-PPA-DMP,G1510,Romans 8,1920,21
+οὓς,those whom,RelPro-AMP,G3739,Romans 8,1921,21
+προέγνω,He foreknew,V-AIA-3S,G4267,Romans 8,1922,21
+προώρισεν,He predestined to be,V-AIA-3S,G4309,Romans 8,1923,21
+συμμόρφους,conformed to,Adj-AMP,G4832,Romans 8,1924,21
+εἰκόνος,image,N-GFS,G1504,Romans 8,1925,21
+Υἱοῦ,Son,N-GMS,G5207,Romans 8,1926,21
+εἶναι,to be,V-PNA,G1510,Romans 8,1927,21
+αὐτὸν,Him,PPro-AM3S,G846,Romans 8,1928,21
+πρωτότοκον,firstborn,Adj-AMS,G4416,Romans 8,1929,21
+πολλοῖς,many,Adj-DMP,G4183,Romans 8,1930,21
+ἀδελφοῖς,brothers,N-DMP,G80,Romans 8,1931,21
+τούτους,these,DPro-AMP,G3778,Romans 8,1932,21
+ἐκάλεσεν,He called,V-AIA-3S,G2564,Romans 8,1933,21
+ἐδικαίωσεν,He justified,V-AIA-3S,G1344,Romans 8,1934,21
+ἐδόξασεν,He glorified,V-AIA-3S,G1392,Romans 8,1935,21
+Τί,What,IPro-ANS,G5101,Romans 8,1936,21
+ἐροῦμεν,will we say,V-FIA-1P,G2046,Romans 8,1937,21
+ταῦτα,these things,DPro-ANP,G3778,Romans 8,1938,21
+τίς,who can be,IPro-NMS,G5101,Romans 8,1939,21
+καθ,against,Prep,G2596,Romans 8,1940,21
+ὅς,He who,RelPro-NMS,G3739,Romans 8,1941,21
+γε,indeed,Prtcl,G1065,Romans 8,1942,21
+ἰδίου,own,Adj-GMS,G2398,Romans 8,1943,21
+ἐφείσατο,spared,V-AIM-3S,G5339,Romans 8,1944,21
+πάντων,all,Adj-GMP,G3956,Romans 8,1945,21
+παρέδωκεν,gave up,V-AIA-3S,G3860,Romans 8,1946,21
+αὐτόν,Him,PPro-AM3S,G846,Romans 8,1947,21
+πῶς,how,Adv,G4459,Romans 8,1948,21
+οὐχὶ,not,Adv,G3780,Romans 8,1949,21
+σὺν,with,Prep,G4862,Romans 8,1950,21
+αὐτῷ,Him,PPro-DM3S,G846,Romans 8,1951,21
+χαρίσεται,will He grant,V-FIM-3S,G5483,Romans 8,1952,21
+ἐγκαλέσει,will bring an accusation,V-FIA-3S,G1458,Romans 8,1953,21
+ἐκλεκτῶν,the elect,Adj-GMP,G1588,Romans 8,1954,21
+δικαιῶν,justifying,V-PPA-NMS,G1344,Romans 8,1955,21
+κατακρινῶν,condemning,V-PPA-NMS,G2632,Romans 8,1956,21
+Ἰησοῦς,Jesus,N-NMS,G2424,Romans 8,1957,21
+ἀποθανών,having died,V-APA-NMS,G599,Romans 8,1958,21
+μᾶλλον,rather,Adv,G3123,Romans 8,1959,21
+ἐγερθείς,having been raised up,V-APP-NMS,G1453,Romans 8,1960,21
+ἐκ,from,Prep,G1537,Romans 8,1961,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 8,1962,21
+καί,also,Conj,G2532,Romans 8,1963,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 8,1964,21
+δεξιᾷ,right hand,Adj-DFS,G1188,Romans 8,1965,21
+ὃς,who,RelPro-NMS,G3739,Romans 8,1966,21
+Τίς,Who,IPro-NMS,G5101,Romans 8,1967,21
+χωρίσει,will separate,V-FIA-3S,G5563,Romans 8,1968,21
+ἀγάπης,love,N-GFS,G26,Romans 8,1969,21
+θλῖψις,Tribulation,N-NFS,G2347,Romans 8,1970,21
+ἢ,or,Conj,G2228,Romans 8,1971,21
+στενοχωρία,distress,N-NFS,G4730,Romans 8,1972,21
+διωγμὸς,persecution,N-NMS,G1375,Romans 8,1973,21
+λιμὸς,famine,N-NMS,G3042,Romans 8,1974,21
+γυμνότης,nakedness,N-NFS,G1132,Romans 8,1975,21
+κίνδυνος,danger,N-NMS,G2794,Romans 8,1976,21
+μάχαιρα,sword,N-NFS,G3162,Romans 8,1977,21
+καθὼς,As,Adv,G2531,Romans 8,1978,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 8,1979,21
+Ἕνεκεν,For the sake,Prep,G1752,Romans 8,1980,21
+σοῦ,of you,PPro-G2S,G4771,Romans 8,1981,21
+θανατούμεθα,we face death,V-PIM/P-1P,G2289,Romans 8,1982,21
+ὅλην,all,Adj-AFS,G3650,Romans 8,1983,21
+ἡμέραν,day,N-AFS,G2250,Romans 8,1984,21
+ἐλογίσθημεν,we were regarded,V-AIP-1P,G3049,Romans 8,1985,21
+ὡς,as,Adv,G5613,Romans 8,1986,21
+πρόβατα,sheep,N-NNP,G4263,Romans 8,1987,21
+σφαγῆς,of slaughter,N-GFS,G4967,Romans 8,1988,21
+Ἀλλ,But,Conj,G235,Romans 8,1989,21
+τούτοις,these things,DPro-DNP,G3778,Romans 8,1990,21
+πᾶσιν,all,Adj-DNP,G3956,Romans 8,1991,21
+ὑπερνικῶμεν,we more than conquer,V-PIA-1P,G5245,Romans 8,1992,21
+ἀγαπήσαντος,having loved,V-APA-GMS,G25,Romans 8,1993,21
+πέπεισμαι,I am persuaded,V-RIM/P-1S,G3982,Romans 8,1994,21
+οὔτε,neither,Conj,G3777,Romans 8,1995,21
+ἄγγελοι,angels,N-NMP,G32,Romans 8,1996,21
+ἀρχαὶ,principalities,N-NFP,G746,Romans 8,1997,21
+ἐνεστῶτα,things present,V-RPA-NNP,G1764,Romans 8,1998,21
+μέλλοντα,things to come,V-PPA-NNP,G3195,Romans 8,1999,21
+δυνάμεις,powers,N-NFP,G1411,Romans 8,2000,21
+ὕψωμα,height,N-NNS,G5313,Romans 8,2001,21
+βάθος,depth,N-NNS,G899,Romans 8,2002,21
+τις,any,IPro-NFS,G5100,Romans 8,2003,21
+ἑτέρα,other,Adj-NFS,G2087,Romans 8,2004,21
+δυνήσεται,will be able,V-FIM-3S,G1410,Romans 8,2005,21
+χωρίσαι,to separate,V-ANA,G5563,Romans 8,2006,21
+Κυρίῳ,Lord,N-DMS,G2962,Romans 8,2007,21
+Ἀλήθειαν,The truth,N-AFS,G225,Romans 9,2008,21
+λέγω,I speak,V-PIA-1S,G3004,Romans 9,2009,21
+ἐν,in,Prep,G1722,Romans 9,2010,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 9,2011,21
+οὐ,Not,Adv,G3756,Romans 9,2012,21
+ψεύδομαι,I am lying,V-PIM/P-1S,G5574,Romans 9,2013,21
+συμμαρτυρούσης,bearing witness with,V-PPA-GFS,G4828,Romans 9,2014,21
+μοι,me,PPro-D1S,G1473,Romans 9,2015,21
+τῆς,the,Art-GFS,G3588,Romans 9,2016,21
+συνειδήσεώς,conscience,N-GFS,G4893,Romans 9,2017,21
+μου,of me,PPro-G1S,G1473,Romans 9,2018,21
+Πνεύματι,Spirit,N-DNS,G4151,Romans 9,2019,21
+Ἁγίῳ,Holy,Adj-DNS,G40,Romans 9,2020,21
+ὅτι,that,Conj,G3754,Romans 9,2021,21
+λύπη,grief,N-NFS,G3077,Romans 9,2022,21
+μοί,to me,PPro-D1S,G1473,Romans 9,2023,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 9,2024,21
+μεγάλη,great,Adj-NFS,G3173,Romans 9,2025,21
+καὶ,and,Conj,G2532,Romans 9,2026,21
+ἀδιάλειπτος,unceasing,Adj-NFS,G88,Romans 9,2027,21
+ὀδύνη,sorrow,N-NFS,G3601,Romans 9,2028,21
+τῇ,in the,Art-DFS,G3588,Romans 9,2029,21
+καρδίᾳ,heart,N-DFS,G2588,Romans 9,2030,21
+ηὐχόμην,Could wish,V-IIM/P-1S,G2172,Romans 9,2031,21
+γὰρ,for,Conj,G1063,Romans 9,2032,21
+ἀνάθεμα,a curse,N-NNS,G331,Romans 9,2033,21
+εἶναι,to be,V-PNA,G1510,Romans 9,2034,21
+αὐτὸς,myself,PPro-NM3S,G846,Romans 9,2035,21
+ἐγὼ,I,PPro-N1S,G1473,Romans 9,2036,21
+ἀπὸ,separated from,Prep,G575,Romans 9,2037,21
+τοῦ,-,Art-GMS,G3588,Romans 9,2038,21
+Χριστοῦ,Christ,N-GMS,G5547,Romans 9,2039,21
+ὑπὲρ,for,Prep,G5228,Romans 9,2040,21
+τῶν,the,Art-GMP,G3588,Romans 9,2041,21
+ἀδελφῶν,brothers,N-GMP,G80,Romans 9,2042,21
+συγγενῶν,kinsmen,Adj-GMP,G4773,Romans 9,2043,21
+κατὰ,according to,Prep,G2596,Romans 9,2044,21
+σάρκα,the flesh,N-AFS,G4561,Romans 9,2045,21
+οἵτινές,who,RelPro-NMP,G3748,Romans 9,2046,21
+εἰσιν,are,V-PIA-3P,G1510,Romans 9,2047,21
+Ἰσραηλῖται,Israelites,N-NMP,G2475,Romans 9,2048,21
+ὧν,whose is,RelPro-GMP,G3739,Romans 9,2049,21
+ἡ,the,Art-NFS,G3588,Romans 9,2050,21
+υἱοθεσία,divine adoption as sons,N-NFS,G5206,Romans 9,2051,21
+δόξα,glory,N-NFS,G1391,Romans 9,2052,21
+αἱ,the,Art-NFP,G3588,Romans 9,2053,21
+διαθῆκαι,covenants,N-NFP,G1242,Romans 9,2054,21
+νομοθεσία,lawgiving,N-NFS,G3548,Romans 9,2055,21
+λατρεία,service,N-NFS,G2999,Romans 9,2056,21
+ἐπαγγελίαι,promises,N-NFP,G1860,Romans 9,2057,21
+οἱ,the,Art-NMP,G3588,Romans 9,2058,21
+πατέρες,patriarchs,N-NMP,G3962,Romans 9,2059,21
+ἐξ,from,Prep,G1537,Romans 9,2060,21
+ὁ,-,Art-NMS,G3588,Romans 9,2061,21
+Χριστὸς,Christ,N-NMS,G5547,Romans 9,2062,21
+τὸ,-,Art-ANS,G3588,Romans 9,2063,21
+ὢν,being,V-PPA-NMS,G1510,Romans 9,2064,21
+ἐπὶ,over,Prep,G1909,Romans 9,2065,21
+πάντων,all,Adj-GNP,G3956,Romans 9,2066,21
+Θεὸς,God,N-NMS,G2316,Romans 9,2067,21
+εὐλογητὸς,blessed,Adj-NMS,G2128,Romans 9,2068,21
+εἰς,to,Prep,G1519,Romans 9,2069,21
+τοὺς,the,Art-AMP,G3588,Romans 9,2070,21
+αἰῶνας,ages,N-AMP,G165,Romans 9,2071,21
+ἀμήν,Amen,Heb,G281,Romans 9,2072,21
+Οὐχ,It is not,Adv,G3756,Romans 9,2073,21
+οἷον,as,RelPro-NNS,G3634,Romans 9,2074,21
+δὲ,however,Conj,G1161,Romans 9,2075,21
+ἐκπέπτωκεν,has failed,V-RIA-3S,G1601,Romans 9,2076,21
+λόγος,word,N-NMS,G3056,Romans 9,2077,21
+Θεοῦ,of God,N-GMS,G2316,Romans 9,2078,21
+πάντες,all,Adj-NMP,G3956,Romans 9,2079,21
+Ἰσραήλ,Israel,N-GMS,G2474,Romans 9,2080,21
+οὗτοι,are these,DPro-NMP,G3778,Romans 9,2081,21
+Ἰσραήλ,Israel,N-NMS,G2474,Romans 9,2082,21
+οὐδ,Nor,Conj,G3761,Romans 9,2083,21
+εἰσὶν,they are,V-PIA-3P,G1510,Romans 9,2084,21
+σπέρμα,seed,N-NNS,G4690,Romans 9,2085,21
+Ἀβραάμ,of Abraham,N-GMS,G11,Romans 9,2086,21
+τέκνα,children,N-NNP,G5043,Romans 9,2087,21
+ἀλλ,rather,Conj,G235,Romans 9,2088,21
+Ἐν,In,Prep,G1722,Romans 9,2089,21
+Ἰσαὰκ,Isaac,N-DMS,G2464,Romans 9,2090,21
+κληθήσεταί,will be named,V-FIP-3S,G2564,Romans 9,2091,21
+σοι,to you,PPro-D2S,G4771,Romans 9,2092,21
+τοῦτ,That,DPro-NNS,G3778,Romans 9,2093,21
+ἔστιν,is,V-PIA-3S,G1510,Romans 9,2094,21
+τὰ,the,Art-NNP,G3588,Romans 9,2095,21
+σαρκὸς,flesh,N-GFS,G4561,Romans 9,2096,21
+ταῦτα,these are,DPro-NNP,G3778,Romans 9,2097,21
+ἀλλὰ,but,Conj,G235,Romans 9,2098,21
+ἐπαγγελίας,promise,N-GFS,G1860,Romans 9,2099,21
+λογίζεται,are regarded,V-PIM/P-3S,G3049,Romans 9,2100,21
+σπέρμα,offspring,N-ANS,G4690,Romans 9,2101,21
+οὗτος,is this,DPro-NMS,G3778,Romans 9,2102,21
+Κατὰ,At,Prep,G2596,Romans 9,2103,21
+τὸν,the,Art-AMS,G3588,Romans 9,2104,21
+καιρὸν,time,N-AMS,G2540,Romans 9,2105,21
+τοῦτον,this,DPro-AMS,G3778,Romans 9,2106,21
+ἐλεύσομαι,I will come,V-FIM-1S,G2064,Romans 9,2107,21
+ἔσται,there will be,V-FIM-3S,G1510,Romans 9,2108,21
+Σάρρᾳ,to Sarah,N-DFS,G4564,Romans 9,2109,21
+υἱός,a son,N-NMS,G5207,Romans 9,2110,21
+Οὐ,Not,Adv,G3756,Romans 9,2111,21
+μόνον,only,Adv,G3440,Romans 9,2112,21
+δέ,then,Conj,G1161,Romans 9,2113,21
+Ῥεβέκκα,Rebecca,N-NFS,G4479,Romans 9,2114,21
+ἑνὸς,one,Adj-GMS,G1520,Romans 9,2115,21
+κοίτην,conception,N-AFS,G2845,Romans 9,2116,21
+ἔχουσα,having,V-PPA-NFS,G2192,Romans 9,2117,21
+Ἰσαὰκ,Isaac,N-GMS,G2464,Romans 9,2118,21
+πατρὸς,father,N-GMS,G3962,Romans 9,2119,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 9,2120,21
+μήπω,not yet,Adv,G3380,Romans 9,2121,21
+γεννηθέντων,having been born,V-APP-GMP,G1080,Romans 9,2122,21
+μηδὲ,nor,Conj,G3366,Romans 9,2123,21
+πραξάντων,having done,V-APA-GMP,G4238,Romans 9,2124,21
+τι,anything,IPro-ANS,G5100,Romans 9,2125,21
+ἀγαθὸν,good,Adj-ANS,G18,Romans 9,2126,21
+ἢ,or,Conj,G2228,Romans 9,2127,21
+φαῦλον,evil,Adj-ANS,G5337,Romans 9,2128,21
+ἵνα,so that,Conj,G2443,Romans 9,2129,21
+κατ,according to,Prep,G2596,Romans 9,2130,21
+ἐκλογὴν,election,N-AFS,G1589,Romans 9,2131,21
+πρόθεσις,purpose,N-NFS,G4286,Romans 9,2132,21
+μένῃ,might stand,V-PSA-3S,G3306,Romans 9,2133,21
+οὐκ,not,Adv,G3756,Romans 9,2134,21
+ἔργων,works,N-GNP,G2041,Romans 9,2135,21
+ἐκ,of,Prep,G1537,Romans 9,2136,21
+καλοῦντος,calling,V-PPA-GMS,G2564,Romans 9,2137,21
+ἐρρέθη,it was said,V-AIP-3S,G2046,Romans 9,2138,21
+αὐτῇ,to her,PPro-DF3S,G846,Romans 9,2139,21
+Ὁ,The,Art-NMS,G3588,Romans 9,2140,21
+μείζων,older,Adj-NMS-C,G3173,Romans 9,2141,21
+δουλεύσει,will serve,V-FIA-3S,G1398,Romans 9,2142,21
+τῷ,the,Art-DMS,G3588,Romans 9,2143,21
+ἐλάσσονι,younger,Adj-DMS-C,G1640,Romans 9,2144,21
+καθὼς,As,Conj,G2531,Romans 9,2145,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 9,2146,21
+Τὸν,-,Art-AMS,G3588,Romans 9,2147,21
+Ἰακὼβ,Jacob,N-AMS,G2384,Romans 9,2148,21
+ἠγάπησα,I loved,V-AIA-1S,G25,Romans 9,2149,21
+Ἠσαῦ,Esau,N-AMS,G2269,Romans 9,2150,21
+ἐμίσησα,I hated,V-AIA-1S,G3404,Romans 9,2151,21
+Τί,What,IPro-ANS,G5101,Romans 9,2152,21
+οὖν,then,Conj,G3767,Romans 9,2153,21
+ἐροῦμεν,shall we say,V-FIA-1P,G2046,Romans 9,2154,21
+μὴ,Not,Adv,G3361,Romans 9,2155,21
+ἀδικία,injustice,N-NFS,G93,Romans 9,2156,21
+παρὰ,with,Prep,G3844,Romans 9,2157,21
+θεῷ,God is there,N-DMS,G2316,Romans 9,2158,21
+γένοιτο,may it be,V-AOM-3S,G1096,Romans 9,2159,21
+Μωϋσεῖ,Moses,N-DMS,G3475,Romans 9,2160,21
+λέγει,He says,V-PIA-3S,G3004,Romans 9,2161,21
+Ἐλεήσω,I will show mercy to,V-FIA-1S,G1653,Romans 9,2162,21
+ὃν,whom,RelPro-AMS,G3739,Romans 9,2163,21
+ἂν,-,Prtcl,G302,Romans 9,2164,21
+ἐλεῶ,I may show mercy,V-PSA-1S,G1653,Romans 9,2165,21
+οἰκτιρήσω,I will have compassion on,V-FIA-1S,G3627,Romans 9,2166,21
+οἰκτίρω,I may have compassion,V-PSA-1S,G3627,Romans 9,2167,21
+Ἄρα,So,Conj,G686,Romans 9,2168,21
+θέλοντος,willing,V-PPA-GMS,G2309,Romans 9,2169,21
+οὐδὲ,nor,Conj,G3761,Romans 9,2170,21
+τρέχοντος,running,V-PPA-GMS,G5143,Romans 9,2171,21
+ἐλεῶντος,showing mercy,V-PPA-GMS,G1653,Romans 9,2172,21
+γραφὴ,Scripture,N-NFS,G1124,Romans 9,2173,21
+Φαραὼ,Pharaoh,N-DMS,G5328,Romans 9,2174,21
+Εἰς,For,Prep,G1519,Romans 9,2175,21
+αὐτὸ,this very,PPro-AN3S,G846,Romans 9,2176,21
+τοῦτο,therefore,DPro-ANS,G3778,Romans 9,2177,21
+ἐξήγειρά,I have raised up,V-AIA-1S,G1825,Romans 9,2178,21
+σε,you,PPro-A2S,G4771,Romans 9,2179,21
+ὅπως,so that,Conj,G3704,Romans 9,2180,21
+ἐνδείξωμαι,I might show,V-ASM-1S,G1731,Romans 9,2181,21
+σοὶ,you,PPro-D2S,G4771,Romans 9,2182,21
+τὴν,the,Art-AFS,G3588,Romans 9,2183,21
+δύναμίν,power,N-AFS,G1411,Romans 9,2184,21
+διαγγελῇ,should be declared,V-ASP-3S,G1229,Romans 9,2185,21
+ὄνομά,name,N-ANS,G3686,Romans 9,2186,21
+πάσῃ,all,Adj-DFS,G3956,Romans 9,2187,21
+γῇ,earth,N-DFS,G1093,Romans 9,2188,21
+ἄρα,So,Conj,G686,Romans 9,2189,21
+θέλει,He wants,V-PIA-3S,G2309,Romans 9,2190,21
+ἐλεεῖ,He shows mercy,V-PIA-3S,G1653,Romans 9,2191,21
+σκληρύνει,He hardens,V-PIA-3S,G4645,Romans 9,2192,21
+Ἐρεῖς,You will say,V-FIA-2S,G2046,Romans 9,2193,21
+οὖν,then,Conj,G3767,Romans 9,2194,21
+ἔτι,still,Adv,G2089,Romans 9,2195,21
+μέμφεται,does He find fault,V-PIM/P-3S,G3201,Romans 9,2196,21
+τῷ,The,Art-DNS,G3588,Romans 9,2197,21
+βουλήματι,purpose,N-DNS,G1013,Romans 9,2198,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 9,2199,21
+τίς,who,IPro-NMS,G5101,Romans 9,2200,21
+ἀνθέστηκεν,is resisting,V-RIA-3S,G436,Romans 9,2201,21
+ὦ,O,I,G5599,Romans 9,2202,21
+ἄνθρωπε,man,N-VMS,G444,Romans 9,2203,21
+μενοῦνγε,but rather,Prtcl,G3304,Romans 9,2204,21
+σὺ,you,PPro-N2S,G4771,Romans 9,2205,21
+εἶ,are,V-PIA-2S,G1510,Romans 9,2206,21
+ἀνταποκρινόμενος,answering against,V-PPM/P-NMS,G470,Romans 9,2207,21
+Θεῷ,God,N-DMS,G2316,Romans 9,2208,21
+ἐρεῖ,will say,V-FIA-3S,G2046,Romans 9,2209,21
+τὸ,the,Art-NNS,G3588,Romans 9,2210,21
+πλάσμα,thing formed,N-NNS,G4110,Romans 9,2211,21
+πλάσαντι,having formed it,V-APA-DMS,G4111,Romans 9,2212,21
+με,me,PPro-A1S,G1473,Romans 9,2213,21
+ἐποίησας,have you made,V-AIA-2S,G4160,Romans 9,2214,21
+οὕτως,like this,Adv,G3779,Romans 9,2215,21
+ἔχει,has,V-PIA-3S,G2192,Romans 9,2216,21
+ἐξουσίαν,authority,N-AFS,G1849,Romans 9,2217,21
+κεραμεὺς,potter,N-NMS,G2763,Romans 9,2218,21
+πηλοῦ,clay,N-GMS,G4081,Romans 9,2219,21
+τοῦ,the,Art-GNS,G3588,Romans 9,2220,21
+αὐτοῦ,same,PPro-GN3S,G846,Romans 9,2221,21
+φυράματος,lump,N-GNS,G5445,Romans 9,2222,21
+ποιῆσαι,to make,V-ANA,G4160,Romans 9,2223,21
+ὃ,one,RelPro-ANS,G3739,Romans 9,2224,21
+μὲν,indeed,Conj,G3303,Romans 9,2225,21
+τιμὴν,honor,N-AFS,G5092,Romans 9,2226,21
+σκεῦος,vessel,N-ANS,G4632,Romans 9,2227,21
+ἀτιμίαν,dishonor,N-AFS,G819,Romans 9,2228,21
+Εἰ,What if,Conj,G1487,Romans 9,2229,21
+θέλων,desiring,V-PPA-NMS,G2309,Romans 9,2230,21
+ἐνδείξασθαι,to show,V-ANM,G1731,Romans 9,2231,21
+ὀργὴν,wrath,N-AFS,G3709,Romans 9,2232,21
+γνωρίσαι,to make known,V-ANA,G1107,Romans 9,2233,21
+δυνατὸν,power,Adj-ANS,G1415,Romans 9,2234,21
+ἤνεγκεν,bore,V-AIA-3S,G5342,Romans 9,2235,21
+πολλῇ,much,Adj-DFS,G4183,Romans 9,2236,21
+μακροθυμίᾳ,patience,N-DFS,G3115,Romans 9,2237,21
+σκεύη,the vessels,N-ANP,G4632,Romans 9,2238,21
+ὀργῆς,of wrath,N-GFS,G3709,Romans 9,2239,21
+κατηρτισμένα,having been fitted,V-RPM/P-ANP,G2675,Romans 9,2240,21
+ἀπώλειαν,destruction,N-AFS,G684,Romans 9,2241,21
+γνωρίσῃ,He might make known,V-ASA-3S,G1107,Romans 9,2242,21
+πλοῦτον,riches,N-AMS,G4149,Romans 9,2243,21
+δόξης,glory,N-GFS,G1391,Romans 9,2244,21
+ἐλέους,of mercy,N-GNS,G1656,Romans 9,2245,21
+ἃ,which,RelPro-ANP,G3739,Romans 9,2246,21
+προητοίμασεν,He prepared beforehand,V-AIA-3S,G4282,Romans 9,2247,21
+δόξαν,glory,N-AFS,G1391,Romans 9,2248,21
+οὓς,whom,RelPro-AMP,G3739,Romans 9,2249,21
+ἐκάλεσεν,He has called,V-AIA-3S,G2564,Romans 9,2250,21
+ἡμᾶς,us,PPro-A1P,G1473,Romans 9,2251,21
+Ἰουδαίων,the Jews,Adj-GMP,G2453,Romans 9,2252,21
+ἐθνῶν,the Gentiles,N-GNP,G1484,Romans 9,2253,21
+ὡς,As,Adv,G5613,Romans 9,2254,21
+Ὡσηὲ,Hosea,N-DMS,G5617,Romans 9,2255,21
+Καλέσω,I will call,V-FIA-1S,G2564,Romans 9,2256,21
+λαόν,people,N-AMS,G2992,Romans 9,2257,21
+ἠγαπημένην,having been loved,V-RPM/P-AFS,G25,Romans 9,2258,21
+Καὶ,and,Conj,G2532,Romans 9,2259,21
+Ἔσται,It will happen that,V-FIM-3S,G1510,Romans 9,2260,21
+τόπῳ,place,N-DMS,G5117,Romans 9,2261,21
+οὗ,where,Adv,G3739,Romans 9,2262,21
+αὐτοῖς,to them,PPro-DM3P,G846,Romans 9,2263,21
+λαός,people,N-NMS,G2992,Romans 9,2264,21
+ὑμεῖς,You,PPro-N2P,G4771,Romans 9,2265,21
+ἐκεῖ,there,Adv,G1563,Romans 9,2266,21
+κληθήσονται,they will be called,V-FIP-3P,G2564,Romans 9,2267,21
+Υἱοὶ,sons,N-NMP,G5207,Romans 9,2268,21
+ζῶντος,the living,V-PPA-GMS,G2198,Romans 9,2269,21
+Ἠσαΐας,Isaiah,N-NMS,G2268,Romans 9,2270,21
+κράζει,cries out,V-PIA-3S,G2896,Romans 9,2271,21
+Ἐὰν,Though,Conj,G1437,Romans 9,2272,21
+ᾖ,shall be,V-PSA-3S,G1510,Romans 9,2273,21
+ἀριθμὸς,number,N-NMS,G706,Romans 9,2274,21
+υἱῶν,sons,N-GMP,G5207,Romans 9,2275,21
+Ἰσραὴλ,of Israel,N-GMS,G2474,Romans 9,2276,21
+ἄμμος,sand,N-NFS,G285,Romans 9,2277,21
+θαλάσσης,sea,N-GFS,G2281,Romans 9,2278,21
+ὑπόλειμμα,remnant,N-NNS,G5275,Romans 9,2279,21
+σωθήσεται,will be saved,V-FIP-3S,G4982,Romans 9,2280,21
+λόγον,The sentence,N-AMS,G3056,Romans 9,2281,21
+συντελῶν,concluding,V-PPA-NMS,G4931,Romans 9,2282,21
+συντέμνων,bringing swiftly,V-PPA-NMS,G4932,Romans 9,2283,21
+ποιήσει,will perform the,V-FIA-3S,G4160,Romans 9,2284,21
+Κύριος,Lord,N-NMS,G2962,Romans 9,2285,21
+γῆς,earth,N-GFS,G1093,Romans 9,2286,21
+καθὼς,as,Adv,G2531,Romans 9,2287,21
+προείρηκεν,foretold,V-RIA-3S,G4302,Romans 9,2288,21
+Σαβαὼθ,of Hosts,N-GMP,G4519,Romans 9,2289,21
+ἐγκατέλιπεν,had left,V-AIA-3S,G1459,Romans 9,2290,21
+ἡμῖν,us,PPro-D1P,G1473,Romans 9,2291,21
+Σόδομα,Sodom,N-NNP,G4670,Romans 9,2292,21
+ἐγενήθημεν,we would have become,V-AIP-1P,G1096,Romans 9,2293,21
+Γόμορρα,Gomorrah,N-NFS,G1116,Romans 9,2294,21
+ὡμοιώθημεν,we would have been made,V-AIP-1P,G3666,Romans 9,2295,21
+ἔθνη,Gentiles,N-NNP,G1484,Romans 9,2296,21
+διώκοντα,pursuing,V-PPA-NNP,G1377,Romans 9,2297,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 9,2298,21
+κατέλαβεν,have attained,V-AIA-3S,G2638,Romans 9,2299,21
+πίστεως,faith,N-GFS,G4102,Romans 9,2300,21
+Ἰσραὴλ,Israel,N-NMS,G2474,Romans 9,2301,21
+διώκων,pursuing,V-PPA-NMS,G1377,Romans 9,2302,21
+νόμον,a law,N-AMS,G3551,Romans 9,2303,21
+δικαιοσύνης,of righteousness,N-GFS,G1343,Romans 9,2304,21
+ἔφθασεν,did attain,V-AIA-3S,G5348,Romans 9,2305,21
+διὰ,Because of,Prep,G1223,Romans 9,2306,21
+τί,why,IPro-ANS,G5101,Romans 9,2307,21
+προσέκοψαν,They stumbled,V-AIA-3P,G4350,Romans 9,2308,21
+λίθῳ,stone,N-DMS,G3037,Romans 9,2309,21
+προσκόμματος,of stumbling,N-GNS,G4348,Romans 9,2310,21
+Ἰδοὺ,Behold,V-AMA-2S,G2400,Romans 9,2311,21
+τίθημι,I lay,V-PIA-1S,G5087,Romans 9,2312,21
+Σιὼν,Zion,N-DFS,G4622,Romans 9,2313,21
+λίθον,a stone,N-AMS,G3037,Romans 9,2314,21
+πέτραν,a rock,N-AFS,G4073,Romans 9,2315,21
+σκανδάλου,of offense,N-GNS,G4625,Romans 9,2316,21
+πιστεύων,believing,V-PPA-NMS,G4100,Romans 9,2317,21
+ἐπ,on,Prep,G1909,Romans 9,2318,21
+αὐτῷ,Him,PPro-DM3S,G846,Romans 9,2319,21
+καταισχυνθήσεται,will be put to shame,V-FIP-3S,G2617,Romans 9,2320,21
+Ἀδελφοί,Brothers,N-VMP,G80,Romans 10,2321,21
+ἡ,the,Art-NFS,G3588,Romans 10,2322,21
+μὲν,indeed,Conj,G3303,Romans 10,2323,21
+εὐδοκία,desire,N-NFS,G2107,Romans 10,2324,21
+τῆς,-,Art-GFS,G3588,Romans 10,2325,21
+ἐμῆς,of my,PPro-GF1S,G1699,Romans 10,2326,21
+καρδίας,heart,N-GFS,G2588,Romans 10,2327,21
+καὶ,and,Conj,G2532,Romans 10,2328,21
+δέησις,supplication,N-NFS,G1162,Romans 10,2329,21
+πρὸς,to,Prep,G4314,Romans 10,2330,21
+τὸν,-,Art-AMS,G3588,Romans 10,2331,21
+Θεὸν,God,N-AMS,G2316,Romans 10,2332,21
+ὑπὲρ,on behalf of,Prep,G5228,Romans 10,2333,21
+αὐτῶν,them,PPro-GM3P,G846,Romans 10,2334,21
+εἰς,is for,Prep,G1519,Romans 10,2335,21
+σωτηρίαν,salvation,N-AFS,G4991,Romans 10,2336,21
+μαρτυρῶ,I bear witness,V-PIA-1S,G3140,Romans 10,2337,21
+γὰρ,for,Conj,G1063,Romans 10,2338,21
+αὐτοῖς,about them,PPro-DM3P,G846,Romans 10,2339,21
+ὅτι,that,Conj,G3754,Romans 10,2340,21
+ζῆλον,zeal,N-AMS,G2205,Romans 10,2341,21
+Θεοῦ,for God,N-GMS,G2316,Romans 10,2342,21
+ἔχουσιν,they have,V-PIA-3P,G2192,Romans 10,2343,21
+ἀλλ,but,Conj,G235,Romans 10,2344,21
+οὐ,not,Adv,G3756,Romans 10,2345,21
+κατ,according to,Prep,G2596,Romans 10,2346,21
+ἐπίγνωσιν,knowledge,N-AFS,G1922,Romans 10,2347,21
+ἀγνοοῦντες,Being ignorant of,V-PPA-NMP,G50,Romans 10,2348,21
+τὴν,the,Art-AFS,G3588,Romans 10,2349,21
+τοῦ,-,Art-GMS,G3588,Romans 10,2350,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 10,2351,21
+ἰδίαν,own,Adj-AFS,G2398,Romans 10,2352,21
+δικαιοσύνην,righteousness,N-AFS,G1343,Romans 10,2353,21
+ζητοῦντες,seeking,V-PPA-NMP,G2212,Romans 10,2354,21
+στῆσαι,to establish,V-ANA,G2476,Romans 10,2355,21
+τῇ,to the,Art-DFS,G3588,Romans 10,2356,21
+δικαιοσύνῃ,righteousness,N-DFS,G1343,Romans 10,2357,21
+οὐχ,not,Adv,G3756,Romans 10,2358,21
+ὑπετάγησαν,they submitted,V-AIP-3P,G5293,Romans 10,2359,21
+τέλος,The end,N-NNS,G5056,Romans 10,2360,21
+νόμου,of law,N-GMS,G3551,Romans 10,2361,21
+Χριστὸς,is Christ,N-NMS,G5547,Romans 10,2362,21
+παντὶ,to everyone,Adj-DMS,G3956,Romans 10,2363,21
+τῷ,-,Art-DMS,G3588,Romans 10,2364,21
+πιστεύοντι,believing,V-PPA-DMS,G4100,Romans 10,2365,21
+Μωϋσῆς,Moses,N-NMS,G3475,Romans 10,2366,21
+γράφει,writes,V-PIA-3S,G1125,Romans 10,2367,21
+ἐκ,of,Prep,G1537,Romans 10,2368,21
+τοῦ,the,Art-GMS,G3588,Romans 10,2369,21
+ὅτι,that,Conj,G3754,Romans 10,2370,21
+Ὁ,The,Art-NMS,G3588,Romans 10,2371,21
+ποιήσας,having done,V-APA-NMS,G4160,Romans 10,2372,21
+αὐτὰ,these things,PPro-AN3P,G846,Romans 10,2373,21
+ἄνθρωπος,man,N-NMS,G444,Romans 10,2374,21
+ζήσεται,will live,V-FIM-3S,G2198,Romans 10,2375,21
+ἐν,by,Prep,G1722,Romans 10,2376,21
+αὐτῇ,them,PPro-DF3S,G846,Romans 10,2377,21
+δὲ,however,Conj,G1161,Romans 10,2378,21
+πίστεως,faith,N-GFS,G4102,Romans 10,2379,21
+δικαιοσύνη,righteousness,N-NFS,G1343,Romans 10,2380,21
+οὕτως,thus,Adv,G3779,Romans 10,2381,21
+λέγει,speaks,V-PIA-3S,G3004,Romans 10,2382,21
+Μὴ,Not,Adv,G3361,Romans 10,2383,21
+εἴπῃς,you should say,V-ASA-2S,G2036,Romans 10,2384,21
+καρδίᾳ,heart,N-DFS,G2588,Romans 10,2385,21
+σου,of you,PPro-G2S,G4771,Romans 10,2386,21
+Τίς,Who,IPro-NMS,G5101,Romans 10,2387,21
+ἀναβήσεται,will ascend,V-FIM-3S,G305,Romans 10,2388,21
+οὐρανόν,heaven,N-AMS,G3772,Romans 10,2389,21
+τοῦτ,that,DPro-NNS,G3778,Romans 10,2390,21
+ἔστιν,is,V-PIA-3S,G1510,Romans 10,2391,21
+Χριστὸν,Christ,N-AMS,G5547,Romans 10,2392,21
+καταγαγεῖν,to bring down,V-ANA,G2609,Romans 10,2393,21
+ἤ,or,Conj,G2228,Romans 10,2394,21
+καταβήσεται,will descend,V-FIM-3S,G2597,Romans 10,2395,21
+ἄβυσσον,Abyss,N-AFS,G12,Romans 10,2396,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 10,2397,21
+ἀναγαγεῖν,to bring up,V-ANA,G321,Romans 10,2398,21
+Ἀλλὰ,But,Conj,G235,Romans 10,2399,21
+τί,what,IPro-ANS,G5101,Romans 10,2400,21
+Ἐγγύς,Near,Prep,G1451,Romans 10,2401,21
+τὸ,the,Art-NNS,G3588,Romans 10,2402,21
+ῥῆμά,word,N-NNS,G4487,Romans 10,2403,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 10,2404,21
+τῷ,the,Art-DNS,G3588,Romans 10,2405,21
+στόματί,mouth,N-DNS,G4750,Romans 10,2406,21
+ῥῆμα,word,N-NNS,G4487,Romans 10,2407,21
+ὃ,which,RelPro-ANS,G3739,Romans 10,2408,21
+κηρύσσομεν,we proclaim,V-PIA-1P,G2784,Romans 10,2409,21
+ἐὰν,if,Conj,G1437,Romans 10,2410,21
+ὁμολογήσῃς,you confess,V-ASA-2S,G3670,Romans 10,2411,21
+τὸ,the,Art-ANS,G3588,Romans 10,2412,21
+ῥῆμα,saying,N-ANS,G4487,Romans 10,2413,21
+ὅτι,-,Conj,G3754,Romans 10,2414,21
+Κύριον,The Lord is,N-AMS,G2962,Romans 10,2415,21
+Ἰησοῦν,Jesus,N-AMS,G2424,Romans 10,2416,21
+πιστεύσῃς,believe,V-ASA-2S,G4100,Romans 10,2417,21
+ὁ,-,Art-NMS,G3588,Romans 10,2418,21
+Θεὸς,God,N-NMS,G2316,Romans 10,2419,21
+αὐτὸν,Him,PPro-AM3S,G846,Romans 10,2420,21
+ἤγειρεν,raised,V-AIA-3S,G1453,Romans 10,2421,21
+σωθήσῃ,you will be saved,V-FIP-2S,G4982,Romans 10,2422,21
+πιστεύεται,is belief,V-PIM/P-3S,G4100,Romans 10,2423,21
+στόματι,in the mouth,N-DNS,G4750,Romans 10,2424,21
+ὁμολογεῖται,is confession,V-PIM/P-3S,G3670,Romans 10,2425,21
+Λέγει,Says,V-PIA-3S,G3004,Romans 10,2426,21
+γραφή,Scripture,N-NFS,G1124,Romans 10,2427,21
+Πᾶς,Everyone,Adj-NMS,G3956,Romans 10,2428,21
+πιστεύων,believing,V-PPA-NMS,G4100,Romans 10,2429,21
+ἐπ,on,Prep,G1909,Romans 10,2430,21
+αὐτῷ,Him,PPro-DM3S,G846,Romans 10,2431,21
+καταισχυνθήσεται,will be put to shame,V-FIP-3S,G2617,Romans 10,2432,21
+γάρ,for,Conj,G1063,Romans 10,2433,21
+διαστολὴ,difference,N-NFS,G1293,Romans 10,2434,21
+Ἰουδαίου,Jew,Adj-GMS,G2453,Romans 10,2435,21
+τε,between,Conj,G5037,Romans 10,2436,21
+Ἕλληνος,Greek,N-GMS,G1672,Romans 10,2437,21
+αὐτὸς,the same,PPro-NM3S,G846,Romans 10,2438,21
+Κύριος,Lord,N-NMS,G2962,Romans 10,2439,21
+πάντων,of all,Adj-GMP,G3956,Romans 10,2440,21
+πλουτῶν,is rich,V-PPA-NMS,G4147,Romans 10,2441,21
+πάντας,all,Adj-AMP,G3956,Romans 10,2442,21
+τοὺς,those,Art-AMP,G3588,Romans 10,2443,21
+ἐπικαλουμένους,calling,V-PPM-AMP,G1941,Romans 10,2444,21
+αὐτόν,Him,PPro-AM3S,G846,Romans 10,2445,21
+ὃς,that,RelPro-NMS,G3739,Romans 10,2446,21
+ἂν,-,Prtcl,G302,Romans 10,2447,21
+ἐπικαλέσηται,shall call upon,V-ASM-3S,G1941,Romans 10,2448,21
+τὸ,the,Art-ANS,G3588,Romans 10,2449,21
+ὄνομα,name,N-ANS,G3686,Romans 10,2450,21
+Κυρίου,of the Lord,N-GMS,G2962,Romans 10,2451,21
+σωθήσεται,will be saved,V-FIP-3S,G4982,Romans 10,2452,21
+Πῶς,How,Adv,G4459,Romans 10,2453,21
+οὖν,then,Conj,G3767,Romans 10,2454,21
+ἐπικαλέσωνται,shall they call,V-ASM-3P,G1941,Romans 10,2455,21
+ὃν,whom,RelPro-AMS,G3739,Romans 10,2456,21
+οὐκ,not,Adv,G3756,Romans 10,2457,21
+ἐπίστευσαν,they believed,V-AIA-3P,G4100,Romans 10,2458,21
+πῶς,How,Adv,G4459,Romans 10,2459,21
+πιστεύσωσιν,shall they believe on Him,V-ASA-3P,G4100,Romans 10,2460,21
+οὗ,of whom,RelPro-GMS,G3739,Romans 10,2461,21
+ἤκουσαν,they have heard,V-AIA-3P,G191,Romans 10,2462,21
+ἀκούσωσιν,shall they hear,V-ASA-3P,G191,Romans 10,2463,21
+χωρὶς,apart from,Prep,G5565,Romans 10,2464,21
+κηρύσσοντος,preaching,V-PPA-GMS,G2784,Romans 10,2465,21
+κηρύξωσιν,shall they preach,V-ASA-3P,G2784,Romans 10,2466,21
+μὴ,not,Adv,G3361,Romans 10,2467,21
+ἀποσταλῶσιν,they are sent,V-ASP-3P,G649,Romans 10,2468,21
+καθὼς,As,Conj,G2531,Romans 10,2469,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 10,2470,21
+Ὡς,How,Adv,G5613,Romans 10,2471,21
+ὡραῖοι,beautiful,Adj-NMP,G5611,Romans 10,2472,21
+οἱ,the,Art-NMP,G3588,Romans 10,2473,21
+πόδες,feet,N-NMP,G4228,Romans 10,2474,21
+τῶν,of those,Art-GMP,G3588,Romans 10,2475,21
+εὐαγγελιζομένων,proclaiming,V-PPM-GMP,G2097,Romans 10,2476,21
+εἰρήνην,peace,N-AFS,G1515,Romans 10,2477,21
+τῶν,of those,Art-GMP,G3588,Romans 10,2478,21
+τὰ,of,Art-ANP,G3588,Romans 10,2479,21
+ἀγαθά,good things,Adj-ANP,G18,Romans 10,2480,21
+Ἀλλ,But,Conj,G235,Romans 10,2481,21
+πάντες,all,Adj-NMP,G3956,Romans 10,2482,21
+ὑπήκουσαν,heeded,V-AIA-3P,G5219,Romans 10,2483,21
+εὐαγγελίῳ,good news,N-DNS,G2098,Romans 10,2484,21
+Ἠσαΐας,Isaiah,N-NMS,G2268,Romans 10,2485,21
+Κύριε,Lord,N-VMS,G2962,Romans 10,2486,21
+τίς,who,IPro-NMS,G5101,Romans 10,2487,21
+ἐπίστευσεν,has believed,V-AIA-3S,G4100,Romans 10,2488,21
+ἀκοῇ,report,N-DFS,G189,Romans 10,2489,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 10,2490,21
+ἄρα,So,Conj,G686,Romans 10,2491,21
+πίστις,faith is,N-NFS,G4102,Romans 10,2492,21
+ἐξ,from,Prep,G1537,Romans 10,2493,21
+ἀκοῆς,hearing,N-GFS,G189,Romans 10,2494,21
+ἀκοὴ,hearing,N-NFS,G189,Romans 10,2495,21
+διὰ,through,Prep,G1223,Romans 10,2496,21
+ῥήματος,the word,N-GNS,G4487,Romans 10,2497,21
+Χριστοῦ,of Christ,N-GMS,G5547,Romans 10,2498,21
+λέγω,I ask,V-PIA-1S,G3004,Romans 10,2499,21
+μενοῦνγε,Indeed,Prtcl,G3304,Romans 10,2500,21
+Εἰς,Into,Prep,G1519,Romans 10,2501,21
+πᾶσαν,all,Adj-AFS,G3956,Romans 10,2502,21
+γῆν,earth,N-AFS,G1093,Romans 10,2503,21
+ἐξῆλθεν,has gone out,V-AIA-3S,G1831,Romans 10,2504,21
+φθόγγος,voice,N-NMS,G5353,Romans 10,2505,21
+τὰ,the,Art-ANP,G3588,Romans 10,2506,21
+πέρατα,ends,N-ANP,G4009,Romans 10,2507,21
+οἰκουμένης,world,N-GFS,G3625,Romans 10,2508,21
+τὰ,the,Art-NNP,G3588,Romans 10,2509,21
+ῥήματα,words,N-NNP,G4487,Romans 10,2510,21
+Ἰσραὴλ,Israel,N-NMS,G2474,Romans 10,2511,21
+ἔγνω,did know,V-AIA-3S,G1097,Romans 10,2512,21
+πρῶτος,First,Adj-NMS,G4413,Romans 10,2513,21
+Ἐγὼ,I,PPro-N1S,G1473,Romans 10,2514,21
+παραζηλώσω,will provoke to jealousy,V-FIA-1S,G3863,Romans 10,2515,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 10,2516,21
+ἔθνει,a nation,N-DNS,G1484,Romans 10,2517,21
+ἀσυνέτῳ,without understanding,Adj-DNS,G801,Romans 10,2518,21
+παροργιῶ,I will anger,V-FIA-1S,G3949,Romans 10,2519,21
+ἀποτολμᾷ,is very bold,V-PIA-3S,G662,Romans 10,2520,21
+Εὑρέθην,I was found,V-AIP-1S,G2147,Romans 10,2521,21
+ἐν,by,Prep,G1722,Romans 10,2522,21
+τοῖς,those,Art-DMP,G3588,Romans 10,2523,21
+ἐμὲ,Me,PPro-A1S,G1473,Romans 10,2524,21
+ζητοῦσιν,seeking,V-PPA-DMP,G2212,Romans 10,2525,21
+ἐμφανὴς,manifest,Adj-NMS,G1717,Romans 10,2526,21
+ἐγενόμην,I became,V-AIM-1S,G1096,Romans 10,2527,21
+ἐπερωτῶσιν,inquiring after,V-PPA-DMP,G1905,Romans 10,2528,21
+Πρὸς,As for,Prep,G4314,Romans 10,2529,21
+Ἰσραὴλ,Israel,N-AMS,G2474,Romans 10,2530,21
+Ὅλην,All,Adj-AFS,G3650,Romans 10,2531,21
+ἡμέραν,day,N-AFS,G2250,Romans 10,2532,21
+ἐξεπέτασα,I have stretched out,V-AIA-1S,G1600,Romans 10,2533,21
+τὰς,the,Art-AFP,G3588,Romans 10,2534,21
+χεῖράς,hands,N-AFP,G5495,Romans 10,2535,21
+μου,of Me,PPro-G1S,G1473,Romans 10,2536,21
+λαὸν,a people,N-AMS,G2992,Romans 10,2537,21
+ἀπειθοῦντα,disobeying,V-PPA-AMS,G544,Romans 10,2538,21
+ἀντιλέγοντα,contradicting,V-PPA-AMS,G483,Romans 10,2539,21
+Λέγω,I ask,V-PIA-1S,G3004,Romans 11,2540,21
+οὖν,then,Conj,G3767,Romans 11,2541,21
+μὴ,not,Adv,G3361,Romans 11,2542,21
+ἀπώσατο,did reject,V-AIM-3S,G683,Romans 11,2543,21
+ὁ,-,Art-NMS,G3588,Romans 11,2544,21
+Θεὸς,God,N-NMS,G2316,Romans 11,2545,21
+τὸν,the,Art-AMS,G3588,Romans 11,2546,21
+λαὸν,people,N-AMS,G2992,Romans 11,2547,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 11,2548,21
+γένοιτο,may it be,V-AOM-3S,G1096,Romans 11,2549,21
+καὶ,Also,Conj,G2532,Romans 11,2550,21
+γὰρ,for,Conj,G1063,Romans 11,2551,21
+ἐγὼ,I,PPro-N1S,G1473,Romans 11,2552,21
+Ἰσραηλίτης,an Israelite,N-NMS,G2475,Romans 11,2553,21
+εἰμί,am,V-PIA-1S,G1510,Romans 11,2554,21
+ἐκ,of the,Prep,G1537,Romans 11,2555,21
+σπέρματος,seed,N-GNS,G4690,Romans 11,2556,21
+Ἀβραάμ,of Abraham,N-GMS,G11,Romans 11,2557,21
+φυλῆς,of the tribe,N-GFS,G5443,Romans 11,2558,21
+Βενιαμίν,of Benjamin,N-GMS,G958,Romans 11,2559,21
+οὐκ,Not,Adv,G3756,Romans 11,2560,21
+ὃν,whom,RelPro-AMS,G3739,Romans 11,2561,21
+προέγνω,He foreknew,V-AIA-3S,G4267,Romans 11,2562,21
+ἢ,Or,Conj,G2228,Romans 11,2563,21
+οἴδατε,know you,V-RIA-2P,G1492,Romans 11,2564,21
+ἐν,in,Prep,G1722,Romans 11,2565,21
+Ἠλίᾳ,Elijah,N-DMS,G2243,Romans 11,2566,21
+τί,what,IPro-ANS,G5101,Romans 11,2567,21
+λέγει,says,V-PIA-3S,G3004,Romans 11,2568,21
+ἡ,the,Art-NFS,G3588,Romans 11,2569,21
+γραφή,Scripture,N-NFS,G1124,Romans 11,2570,21
+ὡς,how,Adv,G5613,Romans 11,2571,21
+ἐντυγχάνει,he pleads,V-PIA-3S,G1793,Romans 11,2572,21
+τῷ,-,Art-DMS,G3588,Romans 11,2573,21
+Θεῷ,with God,N-DMS,G2316,Romans 11,2574,21
+κατὰ,against,Prep,G2596,Romans 11,2575,21
+τοῦ,-,Art-GMS,G3588,Romans 11,2576,21
+Ἰσραήλ,Israel,N-GMS,G2474,Romans 11,2577,21
+Κύριε,Lord,N-VMS,G2962,Romans 11,2578,21
+τοὺς,the,Art-AMP,G3588,Romans 11,2579,21
+προφήτας,prophets,N-AMP,G4396,Romans 11,2580,21
+σου,of You,PPro-G2S,G4771,Romans 11,2581,21
+ἀπέκτειναν,they have killed,V-AIA-3P,G615,Romans 11,2582,21
+τὰ,the,Art-ANP,G3588,Romans 11,2583,21
+θυσιαστήριά,altars,N-ANP,G2379,Romans 11,2584,21
+κατέσκαψαν,they have torn down,V-AIA-3P,G2679,Romans 11,2585,21
+κἀγὼ,and I,PPro-N1S,G2504,Romans 11,2586,21
+ὑπελείφθην,have been left,V-AIP-1S,G5275,Romans 11,2587,21
+μόνος,alone,Adj-NMS,G3441,Romans 11,2588,21
+ζητοῦσιν,they are seeking,V-PIA-3P,G2212,Romans 11,2589,21
+τὴν,the,Art-AFS,G3588,Romans 11,2590,21
+ψυχήν,life,N-AFS,G5590,Romans 11,2591,21
+μου,of me,PPro-G1S,G1473,Romans 11,2592,21
+Ἀλλὰ,But,Conj,G235,Romans 11,2593,21
+αὐτῷ,to him,PPro-DM3S,G846,Romans 11,2594,21
+χρηματισμός,divine answer,N-NMS,G5538,Romans 11,2595,21
+Κατέλιπον,I have left,V-AIA-1S,G2641,Romans 11,2596,21
+ἐμαυτῷ,to Myself,PPro-DM1S,G1683,Romans 11,2597,21
+ἑπτακισχιλίους,seven thousand,Adj-AMP,G2035,Romans 11,2598,21
+ἄνδρας,men,N-AMP,G435,Romans 11,2599,21
+οἵτινες,who,RelPro-NMP,G3748,Romans 11,2600,21
+ἔκαμψαν,have bowed,V-AIA-3P,G2578,Romans 11,2601,21
+γόνυ,the knee,N-ANS,G1119,Romans 11,2602,21
+τῇ,-,Art-DFS,G3588,Romans 11,2603,21
+Βάαλ,to Baal,N-GMS,G896,Romans 11,2604,21
+Οὕτως,Thus,Adv,G3779,Romans 11,2605,21
+νῦν,present,Adv,G3568,Romans 11,2606,21
+καιρῷ,time,N-DMS,G2540,Romans 11,2607,21
+λεῖμμα,a remnant,N-NNS,G3005,Romans 11,2608,21
+κατ,according to,Prep,G2596,Romans 11,2609,21
+ἐκλογὴν,the election,N-AFS,G1589,Romans 11,2610,21
+χάριτος,of grace,N-GFS,G5485,Romans 11,2611,21
+γέγονεν,there has been,V-RIA-3S,G1096,Romans 11,2612,21
+εἰ,If,Conj,G1487,Romans 11,2613,21
+δὲ,now,Conj,G1161,Romans 11,2614,21
+χάριτι,by grace,N-DFS,G5485,Romans 11,2615,21
+οὐκέτι,no longer,Adv,G3765,Romans 11,2616,21
+ἐξ,from,Prep,G1537,Romans 11,2617,21
+ἔργων,works,N-GNP,G2041,Romans 11,2618,21
+ἐπεὶ,otherwise,Conj,G1893,Romans 11,2619,21
+χάρις,grace,N-NFS,G5485,Romans 11,2620,21
+γίνεται,would be,V-PIM/P-3S,G1096,Romans 11,2621,21
+Εἰ,If,Conj,G1487,Romans 11,2622,21
+ἐστὶν,is it,V-PIA-3S,G1510,Romans 11,2623,21
+τὸ,-,Art-ANS,G3588,Romans 11,2624,21
+ἔργον,work,N-NNS,G2041,Romans 11,2625,21
+ἔργον,work,N-NNS,G2041,Romans 11,2626,21
+Τί,What,IPro-ANS,G5101,Romans 11,2627,21
+ὃ,What,RelPro-ANS,G3739,Romans 11,2628,21
+ἐπιζητεῖ,is seeking,V-PIA-3S,G1934,Romans 11,2629,21
+Ἰσραήλ,Israel,N-NMS,G2474,Romans 11,2630,21
+τοῦτο,this,DPro-ANS,G3778,Romans 11,2631,21
+ἐπέτυχεν,it has obtained,V-AIA-3S,G2013,Romans 11,2632,21
+ἐκλογὴ,the elect,N-NFS,G1589,Romans 11,2633,21
+οἱ,The,Art-NMP,G3588,Romans 11,2634,21
+λοιποὶ,rest,Adj-NMP,G3062,Romans 11,2635,21
+ἐπωρώθησαν,were hardened,V-AIP-3P,G4456,Romans 11,2636,21
+καθὼς,as,Conj,G2531,Romans 11,2637,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 11,2638,21
+Ἔδωκεν,Gave,V-AIA-3S,G1325,Romans 11,2639,21
+αὐτοῖς,them,PPro-DM3P,G846,Romans 11,2640,21
+πνεῦμα,a spirit,N-ANS,G4151,Romans 11,2641,21
+κατανύξεως,of stupor,N-GFS,G2659,Romans 11,2642,21
+ὀφθαλμοὺς,eyes,N-AMP,G3788,Romans 11,2643,21
+τοῦ,-,Art-GNS,G3588,Romans 11,2644,21
+βλέπειν,to see,V-PNA,G991,Romans 11,2645,21
+ὦτα,ears,N-ANP,G3775,Romans 11,2646,21
+ἀκούειν,to hear,V-PNA,G191,Romans 11,2647,21
+ἕως,unto,Prep,G2193,Romans 11,2648,21
+τῆς,the,Art-GFS,G3588,Romans 11,2649,21
+σήμερον,today,Adv,G4594,Romans 11,2650,21
+ἡμέρας,day,N-GFS,G2250,Romans 11,2651,21
+Καὶ,And,Conj,G2532,Romans 11,2652,21
+Δαυὶδ,David,N-NMS,G1138,Romans 11,2653,21
+Γενηθήτω,Let be,V-AMP-3S,G1096,Romans 11,2654,21
+τράπεζα,table,N-NFS,G5132,Romans 11,2655,21
+αὐτῶν,of them,PPro-GM3P,G846,Romans 11,2656,21
+εἰς,for,Prep,G1519,Romans 11,2657,21
+παγίδα,a snare,N-AFS,G3803,Romans 11,2658,21
+θήραν,a trap,N-AFS,G2339,Romans 11,2659,21
+σκάνδαλον,a stumbling block,N-ANS,G4625,Romans 11,2660,21
+ἀνταπόδομα,a retribution,N-ANS,G468,Romans 11,2661,21
+σκοτισθήτωσαν,let be darkened,V-AMP-3P,G4654,Romans 11,2662,21
+ὀφθαλμοὶ,eyes,N-NMP,G3788,Romans 11,2663,21
+νῶτον,backs,N-AMS,G3577,Romans 11,2664,21
+διὰ,for,Prep,G1223,Romans 11,2665,21
+παντὸς,ever,Adj-GMS,G3956,Romans 11,2666,21
+σύνκαμψον,bent over,V-AMA-2S,G4781,Romans 11,2667,21
+ἔπταισαν,did they stumble,V-AIA-3P,G4417,Romans 11,2668,21
+ἵνα,that,Conj,G2443,Romans 11,2669,21
+πέσωσιν,they might fall,V-ASA-3P,G4098,Romans 11,2670,21
+ἀλλὰ,But,Conj,G235,Romans 11,2671,21
+τῷ,in the,Art-DNS,G3588,Romans 11,2672,21
+παραπτώματι,trespass,N-DNS,G3900,Romans 11,2673,21
+σωτηρία,is salvation,N-NFS,G4991,Romans 11,2674,21
+τοῖς,to the,Art-DNP,G3588,Romans 11,2675,21
+ἔθνεσιν,Gentiles,N-DNP,G1484,Romans 11,2676,21
+παραζηλῶσαι,to provoke to jealousy,V-ANA,G3863,Romans 11,2677,21
+αὐτούς,them,PPro-AM3P,G846,Romans 11,2678,21
+τὸ,the,Art-NNS,G3588,Romans 11,2679,21
+παράπτωμα,trespass,N-NNS,G3900,Romans 11,2680,21
+πλοῦτος,is riches,N-NMS,G4149,Romans 11,2681,21
+κόσμου,of the world,N-GMS,G2889,Romans 11,2682,21
+ἥττημα,failure,N-NNS,G2275,Romans 11,2683,21
+ἐθνῶν,of the Gentiles,N-GNP,G1484,Romans 11,2684,21
+πόσῳ,how much,IPro-DNS,G4214,Romans 11,2685,21
+μᾶλλον,more,Adv,G3123,Romans 11,2686,21
+πλήρωμα,fullness,N-NNS,G4138,Romans 11,2687,21
+Ὑμῖν,To you,PPro-D2P,G4771,Romans 11,2688,21
+λέγω,I am speaking,V-PIA-1S,G3004,Romans 11,2689,21
+ἐφ,Upon,Prep,G1909,Romans 11,2690,21
+ὅσον,as much as,RelPro-ANS,G3745,Romans 11,2691,21
+μὲν,indeed,Prtcl,G3303,Romans 11,2692,21
+εἰμι,am,V-PIA-1S,G1510,Romans 11,2693,21
+ἀπόστολος,apostle,N-NMS,G652,Romans 11,2694,21
+διακονίαν,ministry,N-AFS,G1248,Romans 11,2695,21
+δοξάζω,I magnify,V-PIA-1S,G1392,Romans 11,2696,21
+εἴ,if,Conj,G1487,Romans 11,2697,21
+πως,at all,Adv,G4459,Romans 11,2698,21
+παραζηλώσω,I shall provoke to jealousy,V-FIA-1S,G3863,Romans 11,2699,21
+σάρκα,flesh,N-AFS,G4561,Romans 11,2700,21
+σώσω,shall save,V-FIA-1S,G4982,Romans 11,2701,21
+τινὰς,some,IPro-AMP,G5100,Romans 11,2702,21
+ἀποβολὴ,rejection,N-NFS,G580,Romans 11,2703,21
+καταλλαγὴ,is the reconciliation,N-NFS,G2643,Romans 11,2704,21
+τίς,what will be,IPro-NFS,G5101,Romans 11,2705,21
+πρόσλημψις,acceptance,N-NFS,G4356,Romans 11,2706,21
+ζωὴ,life,N-NFS,G2222,Romans 11,2707,21
+νεκρῶν,the dead,Adj-GMP,G3498,Romans 11,2708,21
+ἀπαρχὴ,firstfruit,N-NFS,G536,Romans 11,2709,21
+ἁγία,is holy,Adj-NFS,G40,Romans 11,2710,21
+φύραμα,lump,N-NNS,G5445,Romans 11,2711,21
+ῥίζα,root,N-NFS,G4491,Romans 11,2712,21
+κλάδοι,branches,N-NMP,G2798,Romans 11,2713,21
+Εἰ,If,Conj,G1487,Romans 11,2714,21
+δέ,however,Conj,G1161,Romans 11,2715,21
+τινες,some,IPro-NMP,G5100,Romans 11,2716,21
+τῶν,of the,Art-GMP,G3588,Romans 11,2717,21
+κλάδων,branches,N-GMP,G2798,Romans 11,2718,21
+ἐξεκλάσθησαν,were broken off,V-AIP-3P,G1575,Romans 11,2719,21
+σὺ,you,PPro-N2S,G4771,Romans 11,2720,21
+ἀγριέλαιος,a wild olive tree,N-NFS,G65,Romans 11,2721,21
+ὢν,being,V-PPA-NMS,G1510,Romans 11,2722,21
+ἐνεκεντρίσθης,were grafted in,V-AIP-2S,G1461,Romans 11,2723,21
+συνκοινωνὸς,a fellow-partaker,N-NMS,G4791,Romans 11,2724,21
+ῥίζης,root,N-GFS,G4491,Romans 11,2725,21
+πιότητος,fatness,N-GFS,G4096,Romans 11,2726,21
+ἐλαίας,olive tree,N-GFS,G1636,Romans 11,2727,21
+ἐγένου,have become,V-AIM-2S,G1096,Romans 11,2728,21
+κατακαυχῶ,boast over,V-PMM/P-2S,G2620,Romans 11,2729,21
+κατακαυχᾶσαι,you boast against them,V-PIM/P-2S,G2620,Romans 11,2730,21
+οὐ,not,Adv,G3756,Romans 11,2731,21
+ῥίζαν,root,N-AFS,G4491,Romans 11,2732,21
+βαστάζεις,support,V-PIA-2S,G941,Romans 11,2733,21
+σέ,you,PPro-A2S,G4771,Romans 11,2734,21
+Ἐρεῖς,You will say,V-FIA-2S,G2046,Romans 11,2735,21
+Ἐξεκλάσθησαν,Were broken off,V-AIP-3P,G1575,Romans 11,2736,21
+ἐγκεντρισθῶ,might be grafted in,V-ASP-1S,G1461,Romans 11,2737,21
+καλῶς,Rightly so,Adv,G2573,Romans 11,2738,21
+ἀπιστίᾳ,unbelief,N-DFS,G570,Romans 11,2739,21
+πίστει,by faith,N-DFS,G4102,Romans 11,2740,21
+ἕστηκας,stand,V-RIA-2S,G2476,Romans 11,2741,21
+ὑψηλὰ,high,Adj-ANP,G5308,Romans 11,2742,21
+φρόνει,be minded,V-PMA-2S,G5426,Romans 11,2743,21
+φοβοῦ,be afraid,V-PMM/P-2S,G5399,Romans 11,2744,21
+φύσιν,nature,N-AFS,G5449,Romans 11,2745,21
+ἐφείσατο,spared,V-AIM-3S,G5339,Romans 11,2746,21
+μή,not,Conj,G3361,Romans 11,2747,21
+πως,at all,Adv,G4459,Romans 11,2748,21
+οὐδὲ,neither,Adv,G3761,Romans 11,2749,21
+σοῦ,you,PPro-G2S,G4771,Romans 11,2750,21
+φείσεται,will He spare,V-FIM-3S,G5339,Romans 11,2751,21
+ἴδε,Behold,V-AMA-2S,G2400,Romans 11,2752,21
+χρηστότητα,the kindness,N-AFS,G5544,Romans 11,2753,21
+ἀποτομίαν,severity,N-AFS,G663,Romans 11,2754,21
+Θεοῦ,of God,N-GMS,G2316,Romans 11,2755,21
+ἐπὶ,upon,Prep,G1909,Romans 11,2756,21
+μὲν,indeed,Conj,G3303,Romans 11,2757,21
+πεσόντας,having fallen,V-APA-AMP,G4098,Romans 11,2758,21
+ἀποτομία,severity,N-NFS,G663,Romans 11,2759,21
+σὲ,you,PPro-A2S,G4771,Romans 11,2760,21
+χρηστότης,kindness,N-NFS,G5544,Romans 11,2761,21
+ἐὰν,if,Conj,G1437,Romans 11,2762,21
+ἐπιμένῃς,you continue in,V-PSA-2S,G1961,Romans 11,2763,21
+χρηστότητι,kindness,N-DFS,G5544,Romans 11,2764,21
+ἐκκοπήσῃ,will be cut off,V-FIP-2S,G1581,Romans 11,2765,21
+κἀκεῖνοι,Even they,DPro-NMP,G2548,Romans 11,2766,21
+ἐπιμένωσιν,they continue,V-PSA-3P,G1961,Romans 11,2767,21
+ἐνκεντρισθήσονται,will be grafted in,V-FIP-3P,G1461,Romans 11,2768,21
+δυνατὸς,able,Adj-NMS,G1415,Romans 11,2769,21
+γάρ,for,Conj,G1063,Romans 11,2770,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 11,2771,21
+πάλιν,again,Adv,G3825,Romans 11,2772,21
+ἐνκεντρίσαι,to graft in,V-ANA,G1461,Romans 11,2773,21
+ἐξεκόπης,were cut off,V-AIP-2S,G1581,Romans 11,2774,21
+ἀγριελαίου,a wild olive tree,N-GFS,G65,Romans 11,2775,21
+παρὰ,contrary to,Prep,G3844,Romans 11,2776,21
+καλλιέλαιον,a cultivated olive tree,N-AFS,G2565,Romans 11,2777,21
+οὗτοι,these,DPro-NMP,G3778,Romans 11,2778,21
+ἰδίᾳ,own,Adj-DFS,G2398,Romans 11,2779,21
+ἐλαίᾳ,olive tree,N-DFS,G1636,Romans 11,2780,21
+Οὐ,Not,Adv,G3756,Romans 11,2781,21
+θέλω,I want,V-PIA-1S,G2309,Romans 11,2782,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 11,2783,21
+ἀγνοεῖν,to be ignorant,V-PNA,G50,Romans 11,2784,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 11,2785,21
+μυστήριον,mystery,N-ANS,G3466,Romans 11,2786,21
+ἦτε,you may be,V-PSA-2P,G1510,Romans 11,2787,21
+ἑαυτοῖς,yourselves,RefPro-DM3P,G1438,Romans 11,2788,21
+φρόνιμοι,wise,Adj-NMP,G5429,Romans 11,2789,21
+ὅτι,that,Conj,G3754,Romans 11,2790,21
+πώρωσις,a hardening,N-NFS,G4457,Romans 11,2791,21
+ἀπὸ,in,Prep,G575,Romans 11,2792,21
+μέρους,part,N-GNS,G3313,Romans 11,2793,21
+Ἰσραὴλ,to Israel,N-DMS,G2474,Romans 11,2794,21
+ἄχρι,until,Prep,G891,Romans 11,2795,21
+οὗ,that,RelPro-GMS,G3739,Romans 11,2796,21
+τῶν,of the,Art-GNP,G3588,Romans 11,2797,21
+εἰσέλθῃ,may come in,V-ASA-3S,G1525,Romans 11,2798,21
+οὕτως,so,Adv,G3779,Romans 11,2799,21
+πᾶς,all,Adj-NMS,G3956,Romans 11,2800,21
+Ἰσραὴλ,Israel,N-NMS,G2474,Romans 11,2801,21
+σωθήσεται,will be saved,V-FIP-3S,G4982,Romans 11,2802,21
+καθὼς,as,Adv,G2531,Romans 11,2803,21
+Ἥξει,Will come,V-FIA-3S,G2240,Romans 11,2804,21
+Σιὼν,Zion,N-GFS,G4622,Romans 11,2805,21
+Ῥυόμενος,Delivering,V-PPM/P-NMS,G4506,Romans 11,2806,21
+ἀποστρέψει,He will remove,V-FIA-3S,G654,Romans 11,2807,21
+ἀσεβείας,ungodliness,N-AFP,G763,Romans 11,2808,21
+Ἰακώβ,Jacob,N-GMS,G2384,Romans 11,2809,21
+αὕτη,this is,DPro-NFS,G3778,Romans 11,2810,21
+παρ,from,Prep,G3844,Romans 11,2811,21
+ἐμοῦ,Me,PPro-G1S,G1473,Romans 11,2812,21
+διαθήκη,covenant,N-NFS,G1242,Romans 11,2813,21
+ὅταν,when,Conj,G3752,Romans 11,2814,21
+ἀφέλωμαι,I shall take away,V-ASM-1S,G851,Romans 11,2815,21
+τὰς,the,Art-AFP,G3588,Romans 11,2816,21
+ἁμαρτίας,sins,N-AFP,G266,Romans 11,2817,21
+Κατὰ,As regards,Prep,G2596,Romans 11,2818,21
+εὐαγγέλιον,gospel,N-ANS,G2098,Romans 11,2819,21
+ἐχθροὶ,they are enemies,Adj-NMP,G2190,Romans 11,2820,21
+δι,on account of,Prep,G1223,Romans 11,2821,21
+ἀγαπητοὶ,beloved,Adj-NMP,G27,Romans 11,2822,21
+πατέρας,patriarchs,N-AMP,G3962,Romans 11,2823,21
+ἀμεταμέλητα,Irrevocable,Adj-NNP,G278,Romans 11,2824,21
+τὰ,are the,Art-NNP,G3588,Romans 11,2825,21
+χαρίσματα,gifts,N-NNP,G5486,Romans 11,2826,21
+κλῆσις,calling,N-NFS,G2821,Romans 11,2827,21
+Ὥσπερ,Just as,Adv,G5618,Romans 11,2828,21
+ὑμεῖς,you,PPro-N2P,G4771,Romans 11,2829,21
+ποτε,once,Prtcl,G4218,Romans 11,2830,21
+ἠπειθήσατε,were disobedient,V-AIA-2P,G544,Romans 11,2831,21
+ἠλεήθητε,have been shown mercy,V-AIP-2P,G1653,Romans 11,2832,21
+τούτων,of these,DPro-GMP,G3778,Romans 11,2833,21
+ἀπειθείᾳ,disobedience,N-DFS,G543,Romans 11,2834,21
+ἠπείθησαν,have been disobedient,V-AIA-3P,G544,Romans 11,2835,21
+ὑμετέρῳ,for your,PPro-DM2P,G5212,Romans 11,2836,21
+ἐλέει,mercy,N-DNS,G1656,Romans 11,2837,21
+αὐτοὶ,they,PPro-NM3P,G846,Romans 11,2838,21
+ἐλεηθῶσιν,may have mercy shown them,V-ASP-3P,G1653,Romans 11,2839,21
+συνέκλεισεν,Has bound up,V-AIA-3S,G4788,Romans 11,2840,21
+πάντας,all,Adj-AMP,G3956,Romans 11,2841,21
+ἀπείθειαν,disobedience,N-AFS,G543,Romans 11,2842,21
+ἐλεήσῃ,He may show mercy to,V-ASA-3S,G1653,Romans 11,2843,21
+Ὦ,O,I,G5599,Romans 11,2844,21
+βάθος,the depth,N-NNS,G899,Romans 11,2845,21
+πλούτου,of riches,N-GMS,G4149,Romans 11,2846,21
+σοφίας,of wisdom,N-GFS,G4678,Romans 11,2847,21
+γνώσεως,knowledge,N-GFS,G1108,Romans 11,2848,21
+ἀνεξεραύνητα,unsearchable,Adj-NNP,G419,Romans 11,2849,21
+κρίματα,judgments,N-NNP,G2917,Romans 11,2850,21
+ἀνεξιχνίαστοι,untraceable,Adj-NFP,G421,Romans 11,2851,21
+αἱ,the,Art-NFP,G3588,Romans 11,2852,21
+ὁδοὶ,ways,N-NFP,G3598,Romans 11,2853,21
+Τίς,Who,IPro-NMS,G5101,Romans 11,2854,21
+ἔγνω,has known,V-AIA-3S,G1097,Romans 11,2855,21
+νοῦν,the mind,N-AMS,G3563,Romans 11,2856,21
+Κυρίου,of the Lord,N-GMS,G2962,Romans 11,2857,21
+τίς,who,IPro-NMS,G5101,Romans 11,2858,21
+σύμβουλος,counselor,N-NMS,G4825,Romans 11,2859,21
+ἐγένετο,has been,V-AIM-3S,G1096,Romans 11,2860,21
+Ἢ,Or,Conj,G2228,Romans 11,2861,21
+προέδωκεν,has first given,V-AIA-3S,G4272,Romans 11,2862,21
+ἀνταποδοθήσεται,it will be recompensed,V-FIP-3S,G467,Romans 11,2863,21
+αὐτὸν,Him,PPro-AM3S,G846,Romans 11,2864,21
+πάντα,are all things,Adj-NNP,G3956,Romans 11,2865,21
+δόξα,glory,N-NFS,G1391,Romans 11,2866,21
+αἰῶνας,ages,N-AMP,G165,Romans 11,2867,21
+ἀμήν,Amen,Heb,G281,Romans 11,2868,21
+Παρακαλῶ,I exhort,V-PIA-1S,G3870,Romans 12,2869,21
+οὖν,therefore,Conj,G3767,Romans 12,2870,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 12,2871,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 12,2872,21
+διὰ,through,Prep,G1223,Romans 12,2873,21
+τῶν,the,Art-GMP,G3588,Romans 12,2874,21
+οἰκτιρμῶν,compassions,N-GMP,G3628,Romans 12,2875,21
+τοῦ,-,Art-GMS,G3588,Romans 12,2876,21
+Θεοῦ,of God,N-GMS,G2316,Romans 12,2877,21
+παραστῆσαι,to present,V-ANA,G3936,Romans 12,2878,21
+τὰ,the,Art-ANP,G3588,Romans 12,2879,21
+σώματα,bodies,N-ANP,G4983,Romans 12,2880,21
+ὑμῶν,of you,PPro-G2P,G4771,Romans 12,2881,21
+θυσίαν,a sacrifice,N-AFS,G2378,Romans 12,2882,21
+ζῶσαν,living,V-PPA-AFS,G2198,Romans 12,2883,21
+ἁγίαν,holy,Adj-AFS,G40,Romans 12,2884,21
+τῷ,-,Art-DMS,G3588,Romans 12,2885,21
+Θεῷ» ,to God,N-DMS,G2316,Romans 12,2886,21
+εὐάρεστον,well-pleasing,Adj-AFS,G2101,Romans 12,2887,21
+τὴν,which is,Art-AFS,G3588,Romans 12,2888,21
+λογικὴν,the reasonable,Adj-AFS,G3050,Romans 12,2889,21
+λατρείαν,service,N-AFS,G2999,Romans 12,2890,21
+καὶ,And,Conj,G2532,Romans 12,2891,21
+μὴ,not,Adv,G3361,Romans 12,2892,21
+συσχηματίζεσθε,be conformed,V-PMM/P-2P,G4964,Romans 12,2893,21
+τῷ,to the,Art-DMS,G3588,Romans 12,2894,21
+αἰῶνι,age,N-DMS,G165,Romans 12,2895,21
+τούτῳ,this,DPro-DMS,G3778,Romans 12,2896,21
+ἀλλὰ,but,Conj,G235,Romans 12,2897,21
+μεταμορφοῦσθε,be transformed,V-PMM/P-2P,G3339,Romans 12,2898,21
+τῇ,by the,Art-DFS,G3588,Romans 12,2899,21
+ἀνακαινώσει,renewing,N-DFS,G342,Romans 12,2900,21
+νοός,mind,N-GMS,G3563,Romans 12,2901,21
+εἰς,for,Prep,G1519,Romans 12,2902,21
+τὸ,-,Art-ANS,G3588,Romans 12,2903,21
+δοκιμάζειν,to prove,V-PNA,G1381,Romans 12,2904,21
+τί,what is,IPro-NNS,G5101,Romans 12,2905,21
+τὸ,the,Art-NNS,G3588,Romans 12,2906,21
+θέλημα,will,N-NNS,G2307,Romans 12,2907,21
+ἀγαθὸν,good,Adj-NNS,G18,Romans 12,2908,21
+εὐάρεστον,well-pleasing,Adj-NNS,G2101,Romans 12,2909,21
+τέλειον,perfect,Adj-NNS,G5046,Romans 12,2910,21
+Λέγω,I say,V-PIA-1S,G3004,Romans 12,2911,21
+γὰρ,for,Conj,G1063,Romans 12,2912,21
+τῆς,the,Art-GFS,G3588,Romans 12,2913,21
+χάριτος,grace,N-GFS,G5485,Romans 12,2914,21
+δοθείσης,having been given,V-APP-GFS,G1325,Romans 12,2915,21
+μοι,to me,PPro-D1S,G1473,Romans 12,2916,21
+παντὶ,to everyone,Adj-DMS,G3956,Romans 12,2917,21
+ὄντι,being,V-PPA-DMS,G1510,Romans 12,2918,21
+ἐν,among,Prep,G1722,Romans 12,2919,21
+ὑμῖν,you,PPro-D2P,G4771,Romans 12,2920,21
+ὑπερφρονεῖν,to be high-minded,V-PNA,G5252,Romans 12,2921,21
+παρ,above,Prep,G3844,Romans 12,2922,21
+ὃ,what,RelPro-ANS,G3739,Romans 12,2923,21
+δεῖ,it behooves you,V-PIA-3S,G1163,Romans 12,2924,21
+φρονεῖν,to think,V-PNA,G5426,Romans 12,2925,21
+σωφρονεῖν,to be sober-minded,V-PNA,G4993,Romans 12,2926,21
+ἑκάστῳ,to each,Adj-DMS,G1538,Romans 12,2927,21
+ὡς,as,Adv,G5613,Romans 12,2928,21
+ὁ,-,Art-NMS,G3588,Romans 12,2929,21
+Θεὸς,God,N-NMS,G2316,Romans 12,2930,21
+ἐμέρισεν,has allotted,V-AIA-3S,G3307,Romans 12,2931,21
+μέτρον,a measure,N-ANS,G3358,Romans 12,2932,21
+πίστεως,of faith,N-GFS,G4102,Romans 12,2933,21
+καθάπερ,Just as,Adv,G2509,Romans 12,2934,21
+ἑνὶ,one,Adj-DNS,G1520,Romans 12,2935,21
+σώματι,body,N-DNS,G4983,Romans 12,2936,21
+πολλὰ,many,Adj-ANP,G4183,Romans 12,2937,21
+μέλη,members,N-ANP,G3196,Romans 12,2938,21
+ἔχομεν,we have,V-PIA-1P,G2192,Romans 12,2939,21
+τὰ,-,Art-NNP,G3588,Romans 12,2940,21
+δὲ,now,Conj,G1161,Romans 12,2941,21
+μέλη,the members,N-NNP,G3196,Romans 12,2942,21
+πάντα,all,Adj-NNP,G3956,Romans 12,2943,21
+οὐ,not,Adv,G3756,Romans 12,2944,21
+αὐτὴν,same,PPro-AF3S,G846,Romans 12,2945,21
+ἔχει,have,V-PIA-3S,G2192,Romans 12,2946,21
+πρᾶξιν,function,N-AFS,G4234,Romans 12,2947,21
+οὕτως,so,Adv,G3779,Romans 12,2948,21
+οἱ,the,Art-NMP,G3588,Romans 12,2949,21
+πολλοὶ,many,Adj-NMP,G4183,Romans 12,2950,21
+ἓν,one,Adj-NNS,G1520,Romans 12,2951,21
+σῶμά,body,N-NNS,G4983,Romans 12,2952,21
+ἐσμεν,we are,V-PIA-1P,G1510,Romans 12,2953,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 12,2954,21
+καθ,individually,Prep,G2596,Romans 12,2955,21
+εἷς,one,Adj-NMS,G1520,Romans 12,2956,21
+ἀλλήλων,of another,RecPro-GMP,G240,Romans 12,2957,21
+Ἔχοντες,We are having,V-PPA-NMP,G2192,Romans 12,2958,21
+χαρίσματα,gifts,N-ANP,G5486,Romans 12,2959,21
+κατὰ,according to,Prep,G2596,Romans 12,2960,21
+χάριν,grace,N-AFS,G5485,Romans 12,2961,21
+δοθεῖσαν,having been given,V-APP-AFS,G1325,Romans 12,2962,21
+ἡμῖν,to us,PPro-D1P,G1473,Romans 12,2963,21
+διάφορα,different,Adj-ANP,G1313,Romans 12,2964,21
+εἴτε,if,Conj,G1535,Romans 12,2965,21
+προφητείαν,prophecy,N-AFS,G4394,Romans 12,2966,21
+ἀναλογίαν,proportion,N-AFS,G356,Romans 12,2967,21
+διακονίαν,service,N-AFS,G1248,Romans 12,2968,21
+διακονίᾳ,service,N-DFS,G1248,Romans 12,2969,21
+διδάσκων,teaching,V-PPA-NMS,G1321,Romans 12,2970,21
+διδασκαλίᾳ,teaching,N-DFS,G1319,Romans 12,2971,21
+παρακαλῶν,exhorting,V-PPA-NMS,G3870,Romans 12,2972,21
+παρακλήσει,exhortation,N-DFS,G3874,Romans 12,2973,21
+μεταδιδοὺς,giving,V-PPA-NMS,G3330,Romans 12,2974,21
+ἁπλότητι,generosity,N-DFS,G572,Romans 12,2975,21
+προϊστάμενος,leading,V-PPM-NMS,G4291,Romans 12,2976,21
+σπουδῇ,diligence,N-DFS,G4710,Romans 12,2977,21
+ἐλεῶν,showing mercy,V-PPA-NMS,G1653,Romans 12,2978,21
+ἱλαρότητι,cheerfulness,N-DFS,G2432,Romans 12,2979,21
+Ἡ,Let,Art-NFS,G3588,Romans 12,2980,21
+ἀγάπη,love be,N-NFS,G26,Romans 12,2981,21
+ἀνυπόκριτος,unfeigned,Adj-NFS,G505,Romans 12,2982,21
+ἀποστυγοῦντες,abhorring,V-PPA-NMP,G655,Romans 12,2983,21
+πονηρόν,evil,Adj-ANS,G4190,Romans 12,2984,21
+κολλώμενοι,cleaving to,V-PPM/P-NMP,G2853,Romans 12,2985,21
+τῷ,-,Art-DNS,G3588,Romans 12,2986,21
+ἀγαθῷ,good,Adj-DNS,G18,Romans 12,2987,21
+φιλαδελφίᾳ,in brotherly love,N-DFS,G5360,Romans 12,2988,21
+ἀλλήλους,one another,RecPro-AMP,G240,Romans 12,2989,21
+φιλόστοργοι,devoted,Adj-NMP,G5387,Romans 12,2990,21
+τιμῇ,in honor,N-DFS,G5092,Romans 12,2991,21
+προηγούμενοι,esteeming,V-PPM/P-NMP,G4285,Romans 12,2992,21
+ὀκνηροί,lagging,Adj-NMP,G3636,Romans 12,2993,21
+πνεύματι,in spirit,N-DNS,G4151,Romans 12,2994,21
+ζέοντες,being fervent,V-PPA-NMP,G2204,Romans 12,2995,21
+Κυρίῳ,Lord,N-DMS,G2962,Romans 12,2996,21
+δουλεύοντες,serving,V-PPA-NMP,G1398,Romans 12,2997,21
+ἐλπίδι,in hope,N-DFS,G1680,Romans 12,2998,21
+χαίροντες,rejoicing,V-PPA-NMP,G5463,Romans 12,2999,21
+θλίψει,in tribulation,N-DFS,G2347,Romans 12,3000,21
+ὑπομένοντες,being patient,V-PPA-NMP,G5278,Romans 12,3001,21
+προσευχῇ,in prayer,N-DFS,G4335,Romans 12,3002,21
+προσκαρτεροῦντες,being constant,V-PPA-NMP,G4342,Romans 12,3003,21
+ταῖς,to the,Art-DFP,G3588,Romans 12,3004,21
+χρείαις,needs,N-DFP,G5532,Romans 12,3005,21
+ἁγίων,saints,Adj-GMP,G40,Romans 12,3006,21
+κοινωνοῦντες,contributing,V-PPA-NMP,G2841,Romans 12,3007,21
+φιλοξενίαν,hospitality,N-AFS,G5381,Romans 12,3008,21
+διώκοντες,pursuing,V-PPA-NMP,G1377,Romans 12,3009,21
+Εὐλογεῖτε,Bless,V-PMA-2P,G2127,Romans 12,3010,21
+τοὺς,those,Art-AMP,G3588,Romans 12,3011,21
+διώκοντας,persecuting,V-PPA-AMP,G1377,Romans 12,3012,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 12,3013,21
+εὐλογεῖτε,Bless,V-PMA-2P,G2127,Romans 12,3014,21
+καταρᾶσθε,curse,V-PMM/P-2P,G2672,Romans 12,3015,21
+χαίρειν,to rejoice,V-PNA,G5463,Romans 12,3016,21
+μετὰ,with the,Prep,G3326,Romans 12,3017,21
+χαιρόντων,rejoicing,V-PPA-GMP,G5463,Romans 12,3018,21
+κλαίειν,to weep,V-PNA,G2799,Romans 12,3019,21
+κλαιόντων,weeping,V-PPA-GMP,G2799,Romans 12,3020,21
+αὐτὸ,same thing,PPro-AN3S,G846,Romans 12,3021,21
+φρονοῦντες,minding,V-PPA-NMP,G5426,Romans 12,3022,21
+ὑψηλὰ,haughty,Adj-ANP,G5308,Romans 12,3023,21
+τοῖς,with the,Art-DMP,G3588,Romans 12,3024,21
+ταπεινοῖς,lowly,Adj-DMP,G5011,Romans 12,3025,21
+συναπαγόμενοι,going along,V-PPP-NMP,G4879,Romans 12,3026,21
+γίνεσθε,be,V-PMM/P-2P,G1096,Romans 12,3027,21
+φρόνιμοι,wise,Adj-NMP,G5429,Romans 12,3028,21
+ἑαυτοῖς,yourselves,RefPro-DM3P,G1438,Romans 12,3029,21
+μηδενὶ,To no one,Adj-DMS,G3367,Romans 12,3030,21
+κακὸν,evil,Adj-ANS,G2556,Romans 12,3031,21
+ἀντὶ,for,Prep,G473,Romans 12,3032,21
+κακοῦ,evil,Adj-GNS,G2556,Romans 12,3033,21
+ἀποδιδόντες,repaying,V-PPA-NMP,G591,Romans 12,3034,21
+προνοούμενοι,providing,V-PPM-NMP,G4306,Romans 12,3035,21
+καλὰ,right,Adj-ANP,G2570,Romans 12,3036,21
+ἐνώπιον,before,Prep,G1799,Romans 12,3037,21
+πάντων,all,Adj-GMP,G3956,Romans 12,3038,21
+ἀνθρώπων,men,N-GMP,G444,Romans 12,3039,21
+εἰ,if,Conj,G1487,Romans 12,3040,21
+δυνατόν,possible,Adj-NNS,G1415,Romans 12,3041,21
+ἐξ,of,Prep,G1537,Romans 12,3042,21
+εἰρηνεύοντες,living at peace,V-PPA-NMP,G1514,Romans 12,3043,21
+ἑαυτοὺς,yourselves,RefPro-AM3P,G1438,Romans 12,3044,21
+ἐκδικοῦντες,avenging,V-PPA-NMP,G1556,Romans 12,3045,21
+ἀγαπητοί,beloved,Adj-VMP,G27,Romans 12,3046,21
+δότε,give,V-AMA-2P,G1325,Romans 12,3047,21
+τόπον,place,N-AMS,G5117,Romans 12,3048,21
+ὀργῇ,to wrath,N-DFS,G3709,Romans 12,3049,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 12,3050,21
+γάρ,for,Conj,G1063,Romans 12,3051,21
+Ἐμοὶ,Mine is,PPro-D1S,G1473,Romans 12,3052,21
+ἐκδίκησις,vengeance,N-NFS,G1557,Romans 12,3053,21
+ἐγὼ,I,PPro-N1S,G1473,Romans 12,3054,21
+ἀνταποδώσω,will repay,V-FIA-1S,G467,Romans 12,3055,21
+λέγει,says the,V-PIA-3S,G3004,Romans 12,3056,21
+Κύριος,Lord,N-NMS,G2962,Romans 12,3057,21
+Ἀλλὰ,On the contrary,Conj,G235,Romans 12,3058,21
+Ἐὰν,If,Conj,G1437,Romans 12,3059,21
+πεινᾷ,should hunger,V-PSA-3S,G3983,Romans 12,3060,21
+ἐχθρός,enemy,Adj-NMS,G2190,Romans 12,3061,21
+σου,of you,PPro-G2S,G4771,Romans 12,3062,21
+ψώμιζε,feed,V-PMA-2S,G5595,Romans 12,3063,21
+αὐτόν,him,PPro-AM3S,G846,Romans 12,3064,21
+ἐὰν,if,Conj,G1437,Romans 12,3065,21
+διψᾷ,he should thirst,V-PSA-3S,G1372,Romans 12,3066,21
+πότιζε,give drink,V-PMA-2S,G4222,Romans 12,3067,21
+τοῦτο,this,DPro-ANS,G3778,Romans 12,3068,21
+ποιῶν,doing,V-PPA-NMS,G4160,Romans 12,3069,21
+ἄνθρακας,coals,N-AMP,G440,Romans 12,3070,21
+πυρὸς,of fire,N-GNS,G4442,Romans 12,3071,21
+σωρεύσεις,you will heap,V-FIA-2S,G4987,Romans 12,3072,21
+ἐπὶ,upon,Prep,G1909,Romans 12,3073,21
+κεφαλὴν,head,N-AFS,G2776,Romans 12,3074,21
+αὐτοῦ,of him,PPro-GM3S,G846,Romans 12,3075,21
+Μὴ,Not,Adv,G3361,Romans 12,3076,21
+νικῶ,be overcome,V-PMM/P-2S,G3528,Romans 12,3077,21
+ὑπὸ,by,Prep,G5259,Romans 12,3078,21
+τοῦ,-,Art-GNS,G3588,Romans 12,3079,21
+νίκα,overcome,V-PMA-2S,G3528,Romans 12,3080,21
+κακόν,evil,Adj-ANS,G2556,Romans 12,3081,21
+Πᾶσα,Every,Adj-NFS,G3956,Romans 13,3082,21
+ψυχὴ,soul,N-NFS,G5590,Romans 13,3083,21
+ἐξουσίαις,to the authorities,N-DFP,G1849,Romans 13,3084,21
+ὑπερεχούσαις,being above him,V-PPA-DFP,G5242,Romans 13,3085,21
+ὑποτασσέσθω,let be subject,V-PMP-3S,G5293,Romans 13,3086,21
+οὐ,Not,Adv,G3756,Romans 13,3087,21
+γὰρ,for,Conj,G1063,Romans 13,3088,21
+ἔστιν,there is,V-PIA-3S,G1510,Romans 13,3089,21
+ἐξουσία,authority,N-NFS,G1849,Romans 13,3090,21
+εἰ,if,Conj,G1487,Romans 13,3091,21
+μὴ,not,Adv,G3361,Romans 13,3092,21
+ὑπὸ,by,Prep,G5259,Romans 13,3093,21
+Θεοῦ,God,N-GMS,G2316,Romans 13,3094,21
+αἱ,those,Art-NFP,G3588,Romans 13,3095,21
+δὲ,however,Conj,G1161,Romans 13,3096,21
+οὖσαι,existing,V-PPA-NFP,G1510,Romans 13,3097,21
+τεταγμέναι,having been instituted,V-RPM/P-NFP,G5021,Romans 13,3098,21
+εἰσίν,are,V-PIA-3P,G1510,Romans 13,3099,21
+ὥστε,Therefore,Conj,G5620,Romans 13,3100,21
+ὁ,the one,Art-NMS,G3588,Romans 13,3101,21
+ἀντιτασσόμενος,resisting,V-PPM-NMS,G498,Romans 13,3102,21
+τῇ,the,Art-DFS,G3588,Romans 13,3103,21
+ἐξουσίᾳ,authority,N-DFS,G1849,Romans 13,3104,21
+τοῦ,-,Art-GMS,G3588,Romans 13,3105,21
+διαταγῇ,ordinance,N-DFS,G1296,Romans 13,3106,21
+ἀνθέστηκεν,has resisted,V-RIA-3S,G436,Romans 13,3107,21
+οἱ,those,Art-NMP,G3588,Romans 13,3108,21
+ἀνθεστηκότες,having resisted,V-RPA-NMP,G436,Romans 13,3109,21
+ἑαυτοῖς,upon themselves,RefPro-DM3P,G1438,Romans 13,3110,21
+κρίμα,judgment,N-ANS,G2917,Romans 13,3111,21
+λήμψονται,will bring,V-FIM-3P,G2983,Romans 13,3112,21
+ἄρχοντες,rulers,N-NMP,G758,Romans 13,3113,21
+οὐκ,not,Adv,G3756,Romans 13,3114,21
+εἰσὶν,are,V-PIA-3P,G1510,Romans 13,3115,21
+φόβος,a terror,N-NMS,G5401,Romans 13,3116,21
+τῷ,-,Art-DNS,G3588,Romans 13,3117,21
+ἀγαθῷ,to good,Adj-DNS,G18,Romans 13,3118,21
+ἔργῳ,works,N-DNS,G2041,Romans 13,3119,21
+ἀλλὰ,but,Conj,G235,Romans 13,3120,21
+κακῷ,to evil,Adj-DNS,G2556,Romans 13,3121,21
+θέλεις,Do you desire,V-PIA-2S,G2309,Romans 13,3122,21
+φοβεῖσθαι,to fear,V-PNM/P,G5399,Romans 13,3123,21
+τὴν,the,Art-AFS,G3588,Romans 13,3124,21
+ἐξουσίαν,authority,N-AFS,G1849,Romans 13,3125,21
+τὸ,The,Art-ANS,G3588,Romans 13,3126,21
+ἀγαθὸν,good,Adj-ANS,G18,Romans 13,3127,21
+ποίει,do,V-PMA-2S,G4160,Romans 13,3128,21
+καὶ,and,Conj,G2532,Romans 13,3129,21
+ἕξεις,you will have,V-FIA-2S,G2192,Romans 13,3130,21
+ἔπαινον,praise,N-AMS,G1868,Romans 13,3131,21
+ἐξ,from,Prep,G1537,Romans 13,3132,21
+αὐτῆς,him,PPro-GF3S,G846,Romans 13,3133,21
+διάκονός,servant,N-NMS,G1249,Romans 13,3134,21
+ἐστιν,he is,V-PIA-3S,G1510,Romans 13,3135,21
+σοὶ,to you,PPro-D2S,G4771,Romans 13,3136,21
+εἰς,for,Prep,G1519,Romans 13,3137,21
+ἀγαθόν,good,Adj-ANS,G18,Romans 13,3138,21
+ἐὰν,If,Conj,G1437,Romans 13,3139,21
+κακὸν,evil,Adj-ANS,G2556,Romans 13,3140,21
+ποιῇς,you do,V-PSA-2S,G4160,Romans 13,3141,21
+φοβοῦ,be afraid,V-PMM/P-2S,G5399,Romans 13,3142,21
+εἰκῇ,in vain,Adv,G1500,Romans 13,3143,21
+μάχαιραν,sword,N-AFS,G3162,Romans 13,3144,21
+φορεῖ,he bears,V-PIA-3S,G5409,Romans 13,3145,21
+ἔκδικος,an avenger,Adj-NMS,G1558,Romans 13,3146,21
+ὀργὴν,wrath,N-AFS,G3709,Romans 13,3147,21
+τῷ,to the one,Art-DMS,G3588,Romans 13,3148,21
+πράσσοντι,doing,V-PPA-DMS,G4238,Romans 13,3149,21
+Διὸ,Therefore,Conj,G1352,Romans 13,3150,21
+ἀνάγκη,necessary it is,N-NFS,G318,Romans 13,3151,21
+ὑποτάσσεσθαι,to be subject,V-PNP,G5293,Romans 13,3152,21
+μόνον,only,Adv,G3440,Romans 13,3153,21
+διὰ,on account of,Prep,G1223,Romans 13,3154,21
+συνείδησιν,conscience,N-AFS,G4893,Romans 13,3155,21
+τοῦτο,this,DPro-ANS,G3778,Romans 13,3156,21
+φόρους,taxes,N-AMP,G5411,Romans 13,3157,21
+τελεῖτε,pay you,V-PIA-2P,G5055,Romans 13,3158,21
+λειτουργοὶ,servants,N-NMP,G3011,Romans 13,3159,21
+εἰσιν,they are,V-PIA-3P,G1510,Romans 13,3160,21
+αὐτὸ,this very,PPro-AN3S,G846,Romans 13,3161,21
+προσκαρτεροῦντες,attending continually,V-PPA-NMP,G4342,Romans 13,3162,21
+ἀπόδοτε,Render,V-AMA-2P,G591,Romans 13,3163,21
+πᾶσιν,to all,Adj-DMP,G3956,Romans 13,3164,21
+τὰς,their,Art-AFP,G3588,Romans 13,3165,21
+ὀφειλάς,dues,N-AFP,G3782,Romans 13,3166,21
+τὸν,the,Art-AMS,G3588,Romans 13,3167,21
+φόρον,tax,N-AMS,G5411,Romans 13,3168,21
+τέλος,revenue,N-ANS,G5056,Romans 13,3169,21
+φόβον,respect,N-AMS,G5401,Romans 13,3170,21
+τιμὴν,honor,N-AFS,G5092,Romans 13,3171,21
+τιμήν,honor,N-AFS,G5092,Romans 13,3172,21
+Μηδενὶ,To no one,Adj-DMS,G3367,Romans 13,3173,21
+μηδὲν,nothing,Adj-ANS,G3367,Romans 13,3174,21
+ὀφείλετε,owe,V-PMA-2P,G3784,Romans 13,3175,21
+ἀλλήλους,one another,RecPro-AMP,G240,Romans 13,3176,21
+ἀγαπᾶν,to love,V-PNA,G25,Romans 13,3177,21
+ἀγαπῶν,loving,V-PPA-NMS,G25,Romans 13,3178,21
+ἕτερον,other,Adj-AMS,G2087,Romans 13,3179,21
+νόμον,the Law,N-AMS,G3551,Romans 13,3180,21
+πεπλήρωκεν,has fulfilled,V-RIA-3S,G4137,Romans 13,3181,21
+τὸ,-,Art-NNS,G3588,Romans 13,3182,21
+γάρ,For,Conj,G1063,Romans 13,3183,21
+Οὐ,Not,Adv,G3756,Romans 13,3184,21
+μοιχεύσεις,you shall commit adultery,V-FIA-2S,G3431,Romans 13,3185,21
+φονεύσεις,you shall murder,V-FIA-2S,G5407,Romans 13,3186,21
+κλέψεις,you shall steal,V-FIA-2S,G2813,Romans 13,3187,21
+Οὐκ,Not,Adv,G3756,Romans 13,3188,21
+ἐπιθυμήσεις,you shall covet,V-FIA-2S,G1937,Romans 13,3189,21
+εἴ,if,Conj,G1487,Romans 13,3190,21
+τις,any,IPro-NFS,G5100,Romans 13,3191,21
+ἑτέρα,other,Adj-NFS,G2087,Romans 13,3192,21
+ἐντολή,commandment,N-NFS,G1785,Romans 13,3193,21
+ἐν,in,Prep,G1722,Romans 13,3194,21
+λόγῳ,word,N-DMS,G3056,Romans 13,3195,21
+τούτῳ,this,DPro-DMS,G3778,Romans 13,3196,21
+ἀνακεφαλαιοῦται,it is summed up,V-PIM/P-3S,G346,Romans 13,3197,21
+Ἀγαπήσεις,You shall love,V-FIA-2S,G25,Romans 13,3198,21
+πλησίον,neighbor,Adv,G4139,Romans 13,3199,21
+σου,of you,PPro-G2S,G4771,Romans 13,3200,21
+ὡς,as,Adv,G5613,Romans 13,3201,21
+σεαυτόν,yourself,PPro-AM2S,G4572,Romans 13,3202,21
+ἡ,-,Art-NFS,G3588,Romans 13,3203,21
+ἀγάπη,Love,N-NFS,G26,Romans 13,3204,21
+ἐργάζεται,does do,V-PIM/P-3S,G2038,Romans 13,3205,21
+πλήρωμα,the fulfillment,N-NNS,G4138,Romans 13,3206,21
+οὖν,therefore,Conj,G3767,Romans 13,3207,21
+νόμου,of the law,N-GMS,G3551,Romans 13,3208,21
+Καὶ,And,Conj,G2532,Romans 13,3209,21
+εἰδότες,knowing,V-RPA-NMP,G1492,Romans 13,3210,21
+καιρόν,time,N-AMS,G2540,Romans 13,3211,21
+ὅτι,that it is the,Conj,G3754,Romans 13,3212,21
+ὥρα,hour,N-NFS,G5610,Romans 13,3213,21
+ἤδη,already,Adv,G2235,Romans 13,3214,21
+ὑμᾶς,for you,PPro-A2P,G4771,Romans 13,3215,21
+ὕπνου,sleep,N-GMS,G5258,Romans 13,3216,21
+ἐγερθῆναι,to awaken,V-ANP,G1453,Romans 13,3217,21
+νῦν,now,Adv,G3568,Romans 13,3218,21
+ἐγγύτερον,nearer,Adv,G1452,Romans 13,3219,21
+ἡμῶν,is of us,PPro-G1P,G1473,Romans 13,3220,21
+σωτηρία,salvation,N-NFS,G4991,Romans 13,3221,21
+ἢ,than,Conj,G2228,Romans 13,3222,21
+ὅτε,when first,Adv,G3753,Romans 13,3223,21
+ἐπιστεύσαμεν,we believed,V-AIA-1P,G4100,Romans 13,3224,21
+νὺξ,night,N-NFS,G3571,Romans 13,3225,21
+προέκοψεν,is nearly over,V-AIA-3S,G4298,Romans 13,3226,21
+ἡμέρα,the day,N-NFS,G2250,Romans 13,3227,21
+ἤγγικεν,has drawn near,V-RIA-3S,G1448,Romans 13,3228,21
+ἀποθώμεθα,We should cast off,V-ASM-1P,G659,Romans 13,3229,21
+τὰ,the,Art-ANP,G3588,Romans 13,3230,21
+ἔργα,works,N-ANP,G2041,Romans 13,3231,21
+τοῦ,-,Art-GNS,G3588,Romans 13,3232,21
+σκότους,of darkness,N-GNS,G4655,Romans 13,3233,21
+ἐνδυσώμεθα,we should put on,V-ASM-1P,G1746,Romans 13,3234,21
+ὅπλα,armor,N-ANP,G3696,Romans 13,3235,21
+φωτός,of light,N-GNS,G5457,Romans 13,3236,21
+ἡμέρᾳ,daytime,N-DFS,G2250,Romans 13,3237,21
+εὐσχημόνως,properly,Adv,G2156,Romans 13,3238,21
+περιπατήσωμεν,we should walk,V-ASA-1P,G4043,Romans 13,3239,21
+κώμοις,in reveling,N-DMP,G2970,Romans 13,3240,21
+μέθαις,drinking,N-DFP,G3178,Romans 13,3241,21
+κοίταις,in sexual immorality,N-DFP,G2845,Romans 13,3242,21
+ἀσελγείαις,sensuality,N-DFP,G766,Romans 13,3243,21
+ἔριδι,in dissension,N-DFS,G2054,Romans 13,3244,21
+ζήλῳ,jealousy,N-DMS,G2205,Romans 13,3245,21
+ἐνδύσασθε,put on,V-AMM-2P,G1746,Romans 13,3246,21
+Κύριον,Lord,N-AMS,G2962,Romans 13,3247,21
+Ἰησοῦν,Jesus,N-AMS,G2424,Romans 13,3248,21
+Χριστόν,Christ,N-AMS,G5547,Romans 13,3249,21
+τῆς,of the,Art-GFS,G3588,Romans 13,3250,21
+σαρκὸς,flesh,N-GFS,G4561,Romans 13,3251,21
+πρόνοιαν,provision,N-AFS,G4307,Romans 13,3252,21
+ποιεῖσθε,make,V-PMM-2P,G4160,Romans 13,3253,21
+ἐπιθυμίας,desires,N-AFP,G1939,Romans 13,3254,21
+Τὸν,The one,Art-AMS,G3588,Romans 14,3255,21
+δὲ,now,Conj,G1161,Romans 14,3256,21
+ἀσθενοῦντα,being weak,V-PPA-AMS,G770,Romans 14,3257,21
+τῇ,in the,Art-DFS,G3588,Romans 14,3258,21
+πίστει,faith,N-DFS,G4102,Romans 14,3259,21
+προσλαμβάνεσθε,receive,V-PMM-2P,G4355,Romans 14,3260,21
+μὴ,not,Adv,G3361,Romans 14,3261,21
+εἰς,for,Prep,G1519,Romans 14,3262,21
+διακρίσεις,passing judgment,N-AFP,G1253,Romans 14,3263,21
+διαλογισμῶν,on reasonings,N-GMP,G1261,Romans 14,3264,21
+ὃς,One,RelPro-NMS,G3739,Romans 14,3265,21
+μὲν,indeed,Conj,G3303,Romans 14,3266,21
+πιστεύει,believes,V-PIA-3S,G4100,Romans 14,3267,21
+φαγεῖν,to eat,V-ANA,G5315,Romans 14,3268,21
+πάντα,all things,Adj-ANP,G3956,Romans 14,3269,21
+ὁ,the one,Art-NMS,G3588,Romans 14,3270,21
+ἀσθενῶν,being weak,V-PPA-NMS,G770,Romans 14,3271,21
+λάχανα,vegetables,N-ANP,G3001,Romans 14,3272,21
+ἐσθίει,eats,V-PIA-3S,G2068,Romans 14,3273,21
+ἐσθίων,eating,V-PPA-NMS,G2068,Romans 14,3274,21
+τὸν,the one,Art-AMS,G3588,Romans 14,3275,21
+ἐσθίοντα,eating,V-PPA-AMS,G2068,Romans 14,3276,21
+ἐξουθενείτω,let him despise,V-PMA-3S,G1848,Romans 14,3277,21
+κρινέτω,let him judge,V-PMA-3S,G2919,Romans 14,3278,21
+Θεὸς,God,N-NMS,G2316,Romans 14,3279,21
+γὰρ,for,Conj,G1063,Romans 14,3280,21
+αὐτὸν,him,PPro-AM3S,G846,Romans 14,3281,21
+προσελάβετο,has received,V-AIM-3S,G4355,Romans 14,3282,21
+σὺ,You,PPro-N2S,G4771,Romans 14,3283,21
+τίς,who,IPro-NMS,G5101,Romans 14,3284,21
+εἶ,are,V-PIA-2S,G1510,Romans 14,3285,21
+κρίνων,judging,V-PPA-NMS,G2919,Romans 14,3286,21
+ἀλλότριον,another’s,Adj-AMS,G245,Romans 14,3287,21
+οἰκέτην,servant,N-AMS,G3610,Romans 14,3288,21
+τῷ,To the,Art-DMS,G3588,Romans 14,3289,21
+ἰδίῳ,own,Adj-DMS,G2398,Romans 14,3290,21
+κυρίῳ,master,N-DMS,G2962,Romans 14,3291,21
+στήκει,he stands,V-PIA-3S,G4739,Romans 14,3292,21
+ἢ,or,Conj,G2228,Romans 14,3293,21
+πίπτει,falls,V-PIA-3S,G4098,Romans 14,3294,21
+σταθήσεται,He will be upheld,V-FIP-3S,G2476,Romans 14,3295,21
+δέ,however,Conj,G1161,Romans 14,3296,21
+δυνατεῖ,able is,V-PIA-3S,G1414,Romans 14,3297,21
+Κύριος,Lord,N-NMS,G2962,Romans 14,3298,21
+στῆσαι,to uphold,V-ANA,G2476,Romans 14,3299,21
+αὐτόν,him,PPro-AM3S,G846,Romans 14,3300,21
+Ὃς,One,RelPro-NMS,G3739,Romans 14,3301,21
+κρίνει,judges,V-PIA-3S,G2919,Romans 14,3302,21
+ἡμέραν,a day,N-AFS,G2250,Romans 14,3303,21
+παρ,to be above,Prep,G3844,Romans 14,3304,21
+πᾶσαν,every,Adj-AFS,G3956,Romans 14,3305,21
+ἕκαστος,Each,Adj-NMS,G1538,Romans 14,3306,21
+ἐν,in,Prep,G1722,Romans 14,3307,21
+νοῒ,mind,N-DMS,G3563,Romans 14,3308,21
+πληροφορείσθω,let be fully assured,V-PMM/P-3S,G4135,Romans 14,3309,21
+φρονῶν,regarding,V-PPA-NMS,G5426,Romans 14,3310,21
+τὴν,the,Art-AFS,G3588,Romans 14,3311,21
+Κυρίῳ,to the Lord,N-DMS,G2962,Romans 14,3312,21
+φρονεῖ,regards it,V-PIA-3S,G5426,Romans 14,3313,21
+καὶ,And,Conj,G2532,Romans 14,3314,21
+οὐ,not,Adv,G3756,Romans 14,3315,21
+φρονεῖ,does observe,V-PIA-3S,G5426,Romans 14,3316,21
+εὐχαριστεῖ,he gives thanks,V-PIA-3S,G2168,Romans 14,3317,21
+Θεῷ,to God,N-DMS,G2316,Romans 14,3318,21
+καὶ,and,Conj,G2532,Romans 14,3319,21
+οὐκ,not,Adv,G3756,Romans 14,3320,21
+Οὐδεὶς,No one,Adj-NMS,G3762,Romans 14,3321,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 14,3322,21
+ἑαυτῷ,to himself,RefPro-DM3S,G1438,Romans 14,3323,21
+ζῇ,lives,V-PIA-3S,G2198,Romans 14,3324,21
+οὐδεὶς,no one,Adj-NMS,G3762,Romans 14,3325,21
+ἀποθνῄσκει,dies,V-PIA-3S,G599,Romans 14,3326,21
+ἐάν,If,Conj,G1437,Romans 14,3327,21
+τε,both,Conj,G5037,Romans 14,3328,21
+ζῶμεν,we should live,V-PSA-1P,G2198,Romans 14,3329,21
+ζῶμεν,we live,V-PIA-1P,G2198,Romans 14,3330,21
+ἀποθνήσκωμεν,we should die,V-PSA-1P,G599,Romans 14,3331,21
+ἀποθνήσκομεν,we die,V-PIA-1P,G599,Romans 14,3332,21
+οὖν,therefore,Conj,G3767,Romans 14,3333,21
+τοῦ,the,Art-GMS,G3588,Romans 14,3334,21
+Κυρίου,Lord’s,N-GMS,G2962,Romans 14,3335,21
+ἐσμέν,we are,V-PIA-1P,G1510,Romans 14,3336,21
+τοῦτο,this,DPro-ANS,G3778,Romans 14,3337,21
+Χριστὸς,Christ,N-NMS,G5547,Romans 14,3338,21
+ἀπέθανεν,died,V-AIA-3S,G599,Romans 14,3339,21
+ἔζησεν,lived again,V-AIA-3S,G2198,Romans 14,3340,21
+ἵνα,that,Conj,G2443,Romans 14,3341,21
+νεκρῶν,dead,Adj-GMP,G3498,Romans 14,3342,21
+ζώντων,living,V-PPA-GMP,G2198,Romans 14,3343,21
+κυριεύσῃ,He might rule over,V-ASA-3S,G2961,Romans 14,3344,21
+Σὺ,You,PPro-N2S,G4771,Romans 14,3345,21
+τί,why,IPro-ANS,G5101,Romans 14,3346,21
+κρίνεις,judge you,V-PIA-2S,G2919,Romans 14,3347,21
+ἀδελφόν,brother,N-AMS,G80,Romans 14,3348,21
+σου,or you,PPro-G2S,G4771,Romans 14,3349,21
+ἐξουθενεῖς,do despise,V-PIA-2S,G1848,Romans 14,3350,21
+πάντες,All,Adj-NMP,G3956,Romans 14,3351,21
+παραστησόμεθα,we will stand before,V-FIM-1P,G3936,Romans 14,3352,21
+τῷ,the,Art-DNS,G3588,Romans 14,3353,21
+βήματι,judgment seat,N-DNS,G968,Romans 14,3354,21
+Θεοῦ,God,N-GMS,G2316,Romans 14,3355,21
+γέγραπται,It has been written,V-RIM/P-3S,G1125,Romans 14,3356,21
+γάρ,for,Conj,G1063,Romans 14,3357,21
+Ζῶ,Live,V-PIA-1S,G2198,Romans 14,3358,21
+ἐγώ,I,PPro-N1S,G1473,Romans 14,3359,21
+λέγει,says,V-PIA-3S,G3004,Romans 14,3360,21
+ὅτι,that,Conj,G3754,Romans 14,3361,21
+ἐμοὶ,to Me,PPro-D1S,G1473,Romans 14,3362,21
+κάμψει,will bow,V-FIA-3S,G2578,Romans 14,3363,21
+πᾶν,every,Adj-NNS,G3956,Romans 14,3364,21
+γόνυ,knee,N-NNS,G1119,Romans 14,3365,21
+πᾶσα,every,Adj-NFS,G3956,Romans 14,3366,21
+γλῶσσα,tongue,N-NFS,G1100,Romans 14,3367,21
+ἐξομολογήσεται,will confess,V-FIM-3S,G1843,Romans 14,3368,21
+Ἄρα,So,Conj,G686,Romans 14,3369,21
+περὶ,concerning,Prep,G4012,Romans 14,3370,21
+ἑαυτοῦ,himself,RefPro-GM3S,G1438,Romans 14,3371,21
+λόγον,account,N-AMS,G3056,Romans 14,3372,21
+δώσει,will give,V-FIA-3S,G1325,Romans 14,3373,21
+Μηκέτι,No longer,Adv,G3371,Romans 14,3374,21
+ἀλλήλους,one another,RecPro-AMP,G240,Romans 14,3375,21
+κρίνωμεν,should we judge,V-PSA-1P,G2919,Romans 14,3376,21
+ἀλλὰ,but,Conj,G235,Romans 14,3377,21
+κρίνατε,determine,V-AMA-2P,G2919,Romans 14,3378,21
+μᾶλλον,rather,Adv,G3123,Romans 14,3379,21
+τὸ,-,Art-ANS,G3588,Romans 14,3380,21
+τιθέναι,to put,V-PNA,G5087,Romans 14,3381,21
+πρόσκομμα,any stumbling block,N-ANS,G4348,Romans 14,3382,21
+ἀδελφῷ,brother,N-DMS,G80,Romans 14,3383,21
+σκάνδαλον,snare,N-ANS,G4625,Romans 14,3384,21
+Οἶδα,I know,V-RIA-1S,G1492,Romans 14,3385,21
+πέπεισμαι,I am persuaded,V-RIM/P-1S,G3982,Romans 14,3386,21
+Ἰησοῦ,Jesus,N-DMS,G2424,Romans 14,3387,21
+οὐδὲν,nothing is,Adj-NNS,G3762,Romans 14,3388,21
+κοινὸν,unclean,Adj-NNS,G2839,Romans 14,3389,21
+δι,of,Prep,G1223,Romans 14,3390,21
+ἑαυτοῦ,itself,RefPro-GN3S,G1438,Romans 14,3391,21
+εἰ,if,Conj,G1487,Romans 14,3392,21
+λογιζομένῳ,reckoning,V-PPM/P-DMS,G3049,Romans 14,3393,21
+τι,anything,IPro-ANS,G5100,Romans 14,3394,21
+εἶναι,to be,V-PNA,G1510,Romans 14,3395,21
+ἐκείνῳ,to that one,DPro-DMS,G1565,Romans 14,3396,21
+κοινόν,unclean it is,Adj-NNS,G2839,Romans 14,3397,21
+διὰ,on account of,Prep,G1223,Romans 14,3398,21
+βρῶμα,food,N-ANS,G1033,Romans 14,3399,21
+ἀδελφός,brother,N-NMS,G80,Romans 14,3400,21
+λυπεῖται,is grieved,V-PIM/P-3S,G3076,Romans 14,3401,21
+οὐκέτι,no longer,Adv,G3765,Romans 14,3402,21
+κατὰ,according to,Prep,G2596,Romans 14,3403,21
+ἀγάπην,love,N-AFS,G26,Romans 14,3404,21
+περιπατεῖς,are you walking,V-PIA-2S,G4043,Romans 14,3405,21
+βρώματί,food,N-DNS,G1033,Romans 14,3406,21
+ἐκεῖνον,that one,DPro-AMS,G1565,Romans 14,3407,21
+ἀπόλλυε,destroy,V-PMA-2S,G622,Romans 14,3408,21
+ὑπὲρ,for,Prep,G5228,Romans 14,3409,21
+οὗ,whom,RelPro-GMS,G3739,Romans 14,3410,21
+Μὴ,Not,Adv,G3361,Romans 14,3411,21
+βλασφημείσθω,let be spoken of as evil,V-PMM/P-3S,G987,Romans 14,3412,21
+ὑμῶν,your,PPro-G2P,G4771,Romans 14,3413,21
+τὸ,-,Art-NNS,G3588,Romans 14,3414,21
+ἀγαθόν,good,Adj-NNS,G18,Romans 14,3415,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 14,3416,21
+ἡ,the,Art-NFS,G3588,Romans 14,3417,21
+βασιλεία,kingdom,N-NFS,G932,Romans 14,3418,21
+βρῶσις,eating,N-NFS,G1035,Romans 14,3419,21
+πόσις,drinking,N-NFS,G4213,Romans 14,3420,21
+δικαιοσύνη,righteousness,N-NFS,G1343,Romans 14,3421,21
+εἰρήνη,peace,N-NFS,G1515,Romans 14,3422,21
+χαρὰ,joy,N-NFS,G5479,Romans 14,3423,21
+Πνεύματι,Spirit,N-DNS,G4151,Romans 14,3424,21
+Ἁγίῳ,Holy,Adj-DNS,G40,Romans 14,3425,21
+τούτῳ,these things,DPro-DNS,G3778,Romans 14,3426,21
+δουλεύων,serving,V-PPA-NMS,G1398,Romans 14,3427,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 14,3428,21
+εὐάρεστος,is well-pleasing,Adj-NMS,G2101,Romans 14,3429,21
+δόκιμος,approved,Adj-NMS,G1384,Romans 14,3430,21
+τοῖς,-,Art-DMP,G3588,Romans 14,3431,21
+ἀνθρώποις,by men,N-DMP,G444,Romans 14,3432,21
+τὰ,the things,Art-ANP,G3588,Romans 14,3433,21
+τῆς,-,Art-GFS,G3588,Romans 14,3434,21
+εἰρήνης,of peace,N-GFS,G1515,Romans 14,3435,21
+διώκωμεν,we should pursue,V-PSA-1P,G1377,Romans 14,3436,21
+οἰκοδομῆς,for edification,N-GFS,G3619,Romans 14,3437,21
+ἕνεκεν,for the sake of,Prep,G1752,Romans 14,3438,21
+βρώματος,food,N-GNS,G1033,Romans 14,3439,21
+κατάλυε,destroy,V-PMA-2S,G2647,Romans 14,3440,21
+ἔργον,work,N-ANS,G2041,Romans 14,3441,21
+πάντα,All things,Adj-NNP,G3956,Romans 14,3442,21
+καθαρά,clean,Adj-NNP,G2513,Romans 14,3443,21
+κακὸν,it is wrong,Adj-ANS,G2556,Romans 14,3444,21
+ἀνθρώπῳ,man,N-DMS,G444,Romans 14,3445,21
+προσκόμματος,a stumbling block,N-GNS,G4348,Romans 14,3446,21
+ἐσθίοντι,eating,V-PPA-DMS,G2068,Romans 14,3447,21
+καλὸν,It is good,Adj-NNS,G2570,Romans 14,3448,21
+κρέα,meat,N-ANP,G2907,Romans 14,3449,21
+μηδὲ,nor,Conj,G3366,Romans 14,3450,21
+πιεῖν,to drink,V-ANA,G4095,Romans 14,3451,21
+οἶνον,wine,N-AMS,G3631,Romans 14,3452,21
+ᾧ,which,RelPro-DNS,G3739,Romans 14,3453,21
+προσκόπτει,stumbles,V-PIA-3S,G4350,Romans 14,3454,21
+ἢ,or,Conj,G2228,Romans 14,3455,21
+σκανδαλίζεται,is led into sin,V-PIP-3S,G4624,Romans 14,3456,21
+ἀσθενεῖ,is sick,V-PIA-3S,G770,Romans 14,3457,21
+πίστιν,the faith,N-AFS,G4102,Romans 14,3458,21
+ἣν,that,RelPro-AFS,G3739,Romans 14,3459,21
+ἔχεις,have,V-PIA-2S,G2192,Romans 14,3460,21
+σεαυτὸν,yourself,PPro-AM2S,G4572,Romans 14,3461,21
+ἔχε,keep,V-PMA-2S,G2192,Romans 14,3462,21
+ἐνώπιον,before,Prep,G1799,Romans 14,3463,21
+μακάριος,Blessed is,Adj-NMS,G3107,Romans 14,3464,21
+ἑαυτὸν,himself,RefPro-AM3S,G1438,Romans 14,3465,21
+δοκιμάζει,he approves,V-PIA-3S,G1381,Romans 14,3466,21
+διακρινόμενος,doubting,V-PPM-NMS,G1252,Romans 14,3467,21
+ἐὰν,if,Conj,G1437,Romans 14,3468,21
+φάγῃ,he eats,V-ASA-3S,G5315,Romans 14,3469,21
+κατακέκριται,has been condemned,V-RIM/P-3S,G2632,Romans 14,3470,21
+ἐκ,of,Prep,G1537,Romans 14,3471,21
+πίστεως,faith,N-GFS,G4102,Romans 14,3472,21
+ὃ,that is,RelPro-NNS,G3739,Romans 14,3473,21
+ἁμαρτία,sin,N-NFS,G266,Romans 14,3474,21
+ἐστίν,is,V-PIA-3S,G1510,Romans 14,3475,21
+Ὀφείλομεν,We ought,V-PIA-1P,G3784,Romans 15,3476,21
+δὲ,now,Conj,G1161,Romans 15,3477,21
+ἡμεῖς,we,PPro-N1P,G1473,Romans 15,3478,21
+οἱ,who are,Art-NMP,G3588,Romans 15,3479,21
+δυνατοὶ,strong,Adj-NMP,G1415,Romans 15,3480,21
+τὰ,the,Art-ANP,G3588,Romans 15,3481,21
+ἀσθενήματα,weaknesses,N-ANP,G771,Romans 15,3482,21
+τῶν,of the,Art-GMP,G3588,Romans 15,3483,21
+ἀδυνάτων,weak,Adj-GMP,G102,Romans 15,3484,21
+βαστάζειν,to bear,V-PNA,G941,Romans 15,3485,21
+καὶ,and,Conj,G2532,Romans 15,3486,21
+μὴ,not,Adv,G3361,Romans 15,3487,21
+ἑαυτοῖς,ourselves,RefPro-DM3P,G1438,Romans 15,3488,21
+ἀρέσκειν,to please,V-PNA,G700,Romans 15,3489,21
+ἕκαστος,Each,Adj-NMS,G1538,Romans 15,3490,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 15,3491,21
+τῷ,the,Art-DMS,G3588,Romans 15,3492,21
+πλησίον,neighbor,Adv,G4139,Romans 15,3493,21
+ἀρεσκέτω,let please,V-PMA-3S,G700,Romans 15,3494,21
+εἰς,unto,Prep,G1519,Romans 15,3495,21
+τὸ,the,Art-ANS,G3588,Romans 15,3496,21
+ἀγαθὸν,good,Adj-ANS,G18,Romans 15,3497,21
+πρὸς,for,Prep,G4314,Romans 15,3498,21
+οἰκοδομήν,edification,N-AFS,G3619,Romans 15,3499,21
+γὰρ,for,Conj,G1063,Romans 15,3500,21
+ὁ,-,Art-NMS,G3588,Romans 15,3501,21
+Χριστὸς,Christ,N-NMS,G5547,Romans 15,3502,21
+οὐχ,not,Adv,G3756,Romans 15,3503,21
+ἑαυτῷ,Himself,RefPro-DM3S,G1438,Romans 15,3504,21
+ἤρεσεν,pleased,V-AIA-3S,G700,Romans 15,3505,21
+ἀλλὰ,but,Conj,G235,Romans 15,3506,21
+καθὼς,as,Adv,G2531,Romans 15,3507,21
+γέγραπται,it has been written,V-RIM/P-3S,G1125,Romans 15,3508,21
+Οἱ,The,Art-NMP,G3588,Romans 15,3509,21
+ὀνειδισμοὶ,reproaches,N-NMP,G3680,Romans 15,3510,21
+ὀνειδιζόντων,reproaching,V-PPA-GMP,G3679,Romans 15,3511,21
+σε,You,PPro-A2S,G4771,Romans 15,3512,21
+ἐπέπεσαν,have fallen,V-AIA-3P,G1968,Romans 15,3513,21
+ἐπ,on,Prep,G1909,Romans 15,3514,21
+ἐμέ,Me,PPro-A1S,G1473,Romans 15,3515,21
+ὅσα,Whatever,RelPro-NNP,G3745,Romans 15,3516,21
+προεγράφη,was written in the past,V-AIP-3S,G4270,Romans 15,3517,21
+πάντα,all,Adj-NNP,G3956,Romans 15,3518,21
+τὴν,-,Art-AFS,G3588,Romans 15,3519,21
+ἡμετέραν,our,PPro-AF1P,G2251,Romans 15,3520,21
+διδασκαλίαν,instruction,N-AFS,G1319,Romans 15,3521,21
+ἐγράφη,was written,V-AIP-3S,G1125,Romans 15,3522,21
+ἵνα,so that,Conj,G2443,Romans 15,3523,21
+διὰ,through,Prep,G1223,Romans 15,3524,21
+τῆς,-,Art-GFS,G3588,Romans 15,3525,21
+ὑπομονῆς,endurance,N-GFS,G5281,Romans 15,3526,21
+παρακλήσεως,encouragement,N-GFS,G3874,Romans 15,3527,21
+τῶν,of the,Art-GFP,G3588,Romans 15,3528,21
+γραφῶν,Scriptures,N-GFP,G1124,Romans 15,3529,21
+ἐλπίδα,hope,N-AFS,G1680,Romans 15,3530,21
+ἔχωμεν,we might have,V-PSA-1P,G2192,Romans 15,3531,21
+Ὁ,The,Art-NMS,G3588,Romans 15,3532,21
+Θεὸς,God,N-NMS,G2316,Romans 15,3533,21
+δῴη,may He give,V-AOA-3S,G1325,Romans 15,3534,21
+ὑμῖν,you,PPro-D2P,G4771,Romans 15,3535,21
+αὐτὸ,same,PPro-AN3S,G846,Romans 15,3536,21
+φρονεῖν,to be of mind,V-PNA,G5426,Romans 15,3537,21
+ἐν,with,Prep,G1722,Romans 15,3538,21
+ἀλλήλοις,one another,RecPro-DMP,G240,Romans 15,3539,21
+κατὰ,according to,Prep,G2596,Romans 15,3540,21
+Χριστὸν,Christ,N-AMS,G5547,Romans 15,3541,21
+Ἰησοῦν,Jesus,N-AMS,G2424,Romans 15,3542,21
+ὁμοθυμαδὸν,with one accord,Adv,G3661,Romans 15,3543,21
+ἑνὶ,one,Adj-DNS,G1520,Romans 15,3544,21
+στόματι,mouth,N-DNS,G4750,Romans 15,3545,21
+δοξάζητε,you may glorify,V-PSA-2P,G1392,Romans 15,3546,21
+τὸν,the,Art-AMS,G3588,Romans 15,3547,21
+Θεὸν,God,N-AMS,G2316,Romans 15,3548,21
+Πατέρα,Father,N-AMS,G3962,Romans 15,3549,21
+τοῦ,of the,Art-GMS,G3588,Romans 15,3550,21
+Κυρίου,Lord,N-GMS,G2962,Romans 15,3551,21
+Ἰησοῦ,Jesus,N-GMS,G2424,Romans 15,3552,21
+Χριστοῦ,Christ,N-GMS,G5547,Romans 15,3553,21
+Διὸ,Therefore,Conj,G1352,Romans 15,3554,21
+προσλαμβάνεσθε,receive,V-PMM-2P,G4355,Romans 15,3555,21
+ἀλλήλους,one another,RecPro-AMP,G240,Romans 15,3556,21
+προσελάβετο,received,V-AIM-3S,G4355,Romans 15,3557,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 15,3558,21
+δόξαν,the glory,N-AFS,G1391,Romans 15,3559,21
+Θεοῦ,of God,N-GMS,G2316,Romans 15,3560,21
+λέγω,I say,V-PIA-1S,G3004,Romans 15,3561,21
+διάκονον,a servant,N-AMS,G1249,Romans 15,3562,21
+γεγενῆσθαι,to have become,V-RNM/P,G1096,Romans 15,3563,21
+περιτομῆς,of the circumcision,N-GFS,G4061,Romans 15,3564,21
+ὑπὲρ,for,Prep,G5228,Romans 15,3565,21
+ἀληθείας,the truth,N-GFS,G225,Romans 15,3566,21
+βεβαιῶσαι,to confirm,V-ANA,G950,Romans 15,3567,21
+τὰς,the,Art-AFP,G3588,Romans 15,3568,21
+ἐπαγγελίας,promises given,N-AFP,G1860,Romans 15,3569,21
+πατέρων,fathers,N-GMP,G3962,Romans 15,3570,21
+ἔθνη,the Gentiles,N-ANP,G1484,Romans 15,3571,21
+ἐλέους,mercy,N-GNS,G1656,Romans 15,3572,21
+δοξάσαι,to glorify,V-ANA,G1392,Romans 15,3573,21
+Θεόν,God,N-AMS,G2316,Romans 15,3574,21
+Διὰ,Because of,Prep,G1223,Romans 15,3575,21
+τοῦτο,this,DPro-ANS,G3778,Romans 15,3576,21
+ἐξομολογήσομαί,I will praise,V-FIM-1S,G1843,Romans 15,3577,21
+σοι,You,PPro-D2S,G4771,Romans 15,3578,21
+ἔθνεσιν,the Gentiles,N-DNP,G1484,Romans 15,3579,21
+τῷ,to the,Art-DNS,G3588,Romans 15,3580,21
+ὀνόματί,name,N-DNS,G3686,Romans 15,3581,21
+σου,of You,PPro-G2S,G4771,Romans 15,3582,21
+ψαλῶ,will I sing,V-FIA-1S,G5567,Romans 15,3583,21
+Καὶ,And,Conj,G2532,Romans 15,3584,21
+πάλιν,again,Adv,G3825,Romans 15,3585,21
+λέγει,it says,V-PIA-3S,G3004,Romans 15,3586,21
+Εὐφράνθητε,Rejoice you,V-AMP-2P,G2165,Romans 15,3587,21
+ἔθνη,Gentiles,N-VNP,G1484,Romans 15,3588,21
+μετὰ,with,Prep,G3326,Romans 15,3589,21
+λαοῦ,people,N-GMS,G2992,Romans 15,3590,21
+αὐτοῦ,of Him,PPro-GM3S,G846,Romans 15,3591,21
+Αἰνεῖτε,Praise,V-PMA-2P,G134,Romans 15,3592,21
+πάντα,all,Adj-VNP,G3956,Romans 15,3593,21
+τὰ,the,Art-VNP,G3588,Romans 15,3594,21
+Κύριον,Lord,N-AMS,G2962,Romans 15,3595,21
+ἐπαινεσάτωσαν,praise,V-AMA-3P,G1867,Romans 15,3596,21
+αὐτὸν,Him,PPro-AM3S,G846,Romans 15,3597,21
+πάντες,all,Adj-NMP,G3956,Romans 15,3598,21
+λαοί,peoples,N-NMP,G2992,Romans 15,3599,21
+Ἠσαΐας,Isaiah,N-NMS,G2268,Romans 15,3600,21
+Ἔσται,There will be,V-FIM-3S,G1510,Romans 15,3601,21
+ἡ,the,Art-NFS,G3588,Romans 15,3602,21
+ῥίζα,root,N-NFS,G4491,Romans 15,3603,21
+Ἰεσσαί,of Jesse,N-GMS,G2421,Romans 15,3604,21
+ἀνιστάμενος,arising,V-PPM-NMS,G450,Romans 15,3605,21
+ἄρχειν,to rule over,V-PNA,G757,Romans 15,3606,21
+ἐθνῶν,Gentiles,N-GNP,G1484,Romans 15,3607,21
+αὐτῷ,Him,PPro-DM3S,G846,Romans 15,3608,21
+ἔθνη,the Gentiles,N-NNP,G1484,Romans 15,3609,21
+ἐλπιοῦσιν,will hope,V-FIA-3P,G1679,Romans 15,3610,21
+ἐλπίδος,of hope,N-GFS,G1680,Romans 15,3611,21
+πληρώσαι,may fill,V-AOA-3S,G4137,Romans 15,3612,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 15,3613,21
+πάσης,with all,Adj-GFS,G3956,Romans 15,3614,21
+χαρᾶς,joy,N-GFS,G5479,Romans 15,3615,21
+εἰρήνης,peace,N-GFS,G1515,Romans 15,3616,21
+πιστεύειν,believing,V-PNA,G4100,Romans 15,3617,21
+περισσεύειν,to abound,V-PNA,G4052,Romans 15,3618,21
+τῇ,-,Art-DFS,G3588,Romans 15,3619,21
+ἐλπίδι,hope,N-DFS,G1680,Romans 15,3620,21
+δυνάμει,the power,N-DFS,G1411,Romans 15,3621,21
+Πνεύματος,of the Spirit,N-GNS,G4151,Romans 15,3622,21
+Ἁγίου,Holy,Adj-GNS,G40,Romans 15,3623,21
+Πέπεισμαι,I am persuaded,V-RIM/P-1S,G3982,Romans 15,3624,21
+δέ,now,Conj,G1161,Romans 15,3625,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 15,3626,21
+μου,of me,PPro-G1S,G1473,Romans 15,3627,21
+αὐτὸς,myself,PPro-NM3S,G846,Romans 15,3628,21
+ἐγὼ,I,PPro-N1S,G1473,Romans 15,3629,21
+περὶ,concerning,Prep,G4012,Romans 15,3630,21
+ὑμῶν,you,PPro-G2P,G4771,Romans 15,3631,21
+ὅτι,that,Conj,G3754,Romans 15,3632,21
+αὐτοὶ,you yourselves,PPro-NM3P,G846,Romans 15,3633,21
+μεστοί,full,Adj-NMP,G3324,Romans 15,3634,21
+ἐστε,are,V-PIA-2P,G1510,Romans 15,3635,21
+ἀγαθωσύνης,of goodness,N-GFS,G19,Romans 15,3636,21
+πεπληρωμένοι,being filled,V-RPM/P-NMP,G4137,Romans 15,3637,21
+γνώσεως,knowledge,N-GFS,G1108,Romans 15,3638,21
+δυνάμενοι,being able,V-PPM/P-NMP,G1410,Romans 15,3639,21
+νουθετεῖν,to admonish,V-PNA,G3560,Romans 15,3640,21
+τολμηρότερον,More boldly,Adv,G5112,Romans 15,3641,21
+ἔγραψα,I have written,V-AIA-1S,G1125,Romans 15,3642,21
+ἀπὸ,in,Prep,G575,Romans 15,3643,21
+μέρους,part,N-GNS,G3313,Romans 15,3644,21
+ὡς,as,Adv,G5613,Romans 15,3645,21
+ἐπαναμιμνήσκων,reminding,V-PPA-NMS,G1878,Romans 15,3646,21
+χάριν,grace,N-AFS,G5485,Romans 15,3647,21
+δοθεῖσάν,having been given,V-APP-AFS,G1325,Romans 15,3648,21
+μοι,to me,PPro-D1S,G1473,Romans 15,3649,21
+ὑπὸ,by,Prep,G5259,Romans 15,3650,21
+εἶναί,to be,V-PNA,G1510,Romans 15,3651,21
+με,me,PPro-A1S,G1473,Romans 15,3652,21
+λειτουργὸν,a minister,N-AMS,G3011,Romans 15,3653,21
+ἱερουργοῦντα,administering the sacred service,V-PPA-AMS,G2418,Romans 15,3654,21
+εὐαγγέλιον,gospel,N-ANS,G2098,Romans 15,3655,21
+γένηται,might become,V-ASM-3S,G1096,Romans 15,3656,21
+προσφορὰ,offering,N-NFS,G4376,Romans 15,3657,21
+τῶν,of the,Art-GNP,G3588,Romans 15,3658,21
+εὐπρόσδεκτος,acceptable,Adj-NFS,G2144,Romans 15,3659,21
+ἡγιασμένη,having been sanctified,V-RPM/P-NFS,G37,Romans 15,3660,21
+Πνεύματι,Spirit,N-DNS,G4151,Romans 15,3661,21
+Ἁγίῳ,Holy,Adj-DNS,G40,Romans 15,3662,21
+Ἔχω,I have,V-PIA-1S,G2192,Romans 15,3663,21
+οὖν,therefore,Conj,G3767,Romans 15,3664,21
+καύχησιν,boasting,N-AFS,G2746,Romans 15,3665,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 15,3666,21
+Ἰησοῦ,Jesus,N-DMS,G2424,Romans 15,3667,21
+οὐ,Not,Adv,G3756,Romans 15,3668,21
+τολμήσω,will I dare,V-FIA-1S,G5111,Romans 15,3669,21
+τι,anything,IPro-ANS,G5100,Romans 15,3670,21
+λαλεῖν,to speak of,V-PNA,G2980,Romans 15,3671,21
+ὧν,what,RelPro-GNP,G3739,Romans 15,3672,21
+κατειργάσατο,has accomplished,V-AIM-3S,G2716,Romans 15,3673,21
+δι,through,Prep,G1223,Romans 15,3674,21
+ἐμοῦ,me,PPro-G1S,G1473,Romans 15,3675,21
+ὑπακοὴν,obedience,N-AFS,G5218,Romans 15,3676,21
+λόγῳ,by word,N-DMS,G3056,Romans 15,3677,21
+ἔργῳ,deed,N-DNS,G2041,Romans 15,3678,21
+σημείων,of signs,N-GNP,G4592,Romans 15,3679,21
+τεράτων,wonders,N-GNP,G5059,Romans 15,3680,21
+θεοῦ,of God,N-GMS,G2316,Romans 15,3681,21
+ὥστε,so as,Conj,G5620,Romans 15,3682,21
+Ἰερουσαλὴμ,Jerusalem,N-GFS,G2419,Romans 15,3683,21
+κύκλῳ,around,Adv,G2945,Romans 15,3684,21
+μέχρι,unto,Prep,G3360,Romans 15,3685,21
+τοῦ,-,Art-GNS,G3588,Romans 15,3686,21
+Ἰλλυρικοῦ,Illyricum,N-GNS,G2437,Romans 15,3687,21
+πεπληρωκέναι,to have fully proclaimed,V-RNA,G4137,Romans 15,3688,21
+οὕτως,thus,Adv,G3779,Romans 15,3689,21
+φιλοτιμούμενον,being ambitious,V-PPM/P-AMS,G5389,Romans 15,3690,21
+εὐαγγελίζεσθαι,to preach the gospel,V-PNM,G2097,Romans 15,3691,21
+ὅπου,where,Adv,G3699,Romans 15,3692,21
+ὠνομάσθη,had been named,V-AIP-3S,G3687,Romans 15,3693,21
+Χριστός,Christ,N-NMS,G5547,Romans 15,3694,21
+ἀλλότριον,another’s,Adj-AMS,G245,Romans 15,3695,21
+θεμέλιον,foundation,N-AMS,G2310,Romans 15,3696,21
+οἰκοδομῶ,I might build,V-PSA-1S,G3618,Romans 15,3697,21
+Ὄψονται ,They will see,V-FIM-3P,G3708,Romans 15,3698,21
+οἷς,to whom,RelPro-DMP,G3739,Romans 15,3699,21
+οὐκ,not,Adv,G3756,Romans 15,3700,21
+ἀνηγγέλη,it was proclaimed,V-AIP-3S,G312,Romans 15,3701,21
+αὐτοῦ,Him,PPro-GM3S,G846,Romans 15,3702,21
+οἳ,those that,RelPro-NMP,G3739,Romans 15,3703,21
+ἀκηκόασιν,have heard,V-RIA-3P,G191,Romans 15,3704,21
+συνήσουσιν,will understand,V-FIA-3P,G4920,Romans 15,3705,21
+ἐνεκοπτόμην,I have been hindered,V-IIM/P-1S,G1465,Romans 15,3706,21
+πολλὰ,many times,Adj-ANP,G4183,Romans 15,3707,21
+ἐλθεῖν,to come,V-ANA,G2064,Romans 15,3708,21
+Νυνὶ,Now,Adv,G3570,Romans 15,3709,21
+μηκέτι,no longer,Adv,G3371,Romans 15,3710,21
+τόπον,a place,N-AMS,G5117,Romans 15,3711,21
+ἔχων,having,V-PPA-NMS,G2192,Romans 15,3712,21
+τοῖς,the,Art-DNP,G3588,Romans 15,3713,21
+κλίμασι,regions,N-DNP,G2824,Romans 15,3714,21
+τούτοις,these,DPro-DNP,G3778,Romans 15,3715,21
+ἐπιποθίαν,a great desire,N-AFS,G1974,Romans 15,3716,21
+ἱκανῶν,many,Adj-GMP,G2425,Romans 15,3717,21
+ἐτῶν,years,N-GNP,G2094,Romans 15,3718,21
+ἂν,-,Prtcl,G302,Romans 15,3719,21
+πορεύωμαι,I may go,V-PSM/P-1S,G4198,Romans 15,3720,21
+Σπανίαν,Spain,N-AFS,G4681,Romans 15,3721,21
+ἐλπίζω,I hope,V-PIA-1S,G1679,Romans 15,3722,21
+διαπορευόμενος,going through,V-PPM/P-NMS,G1279,Romans 15,3723,21
+θεάσασθαι,to see,V-ANM,G2300,Romans 15,3724,21
+ὑφ,by,Prep,G5259,Romans 15,3725,21
+προπεμφθῆναι,to be equipped,V-ANP,G4311,Romans 15,3726,21
+ἐκεῖ,there,Adv,G1563,Romans 15,3727,21
+ἐὰν,if,Conj,G1437,Romans 15,3728,21
+πρῶτον,first,Adv-S,G4412,Romans 15,3729,21
+ἐμπλησθῶ,I should be filled,V-ASP-1S,G1705,Romans 15,3730,21
+πορεύομαι,I am going,V-PIM/P-1S,G4198,Romans 15,3731,21
+Ἰερουσαλὴμ,Jerusalem,N-AFS,G2419,Romans 15,3732,21
+διακονῶν,ministering,V-PPA-NMS,G1247,Romans 15,3733,21
+τοῖς,to the,Art-DMP,G3588,Romans 15,3734,21
+ἁγίοις,saints,Adj-DMP,G40,Romans 15,3735,21
+εὐδόκησαν,Were pleased,V-AIA-3P,G2106,Romans 15,3736,21
+Μακεδονία,Macedonia,N-NFS,G3109,Romans 15,3737,21
+Ἀχαΐα,Achaia,N-NFS,G882,Romans 15,3738,21
+κοινωνίαν,a contribution,N-AFS,G2842,Romans 15,3739,21
+τινὰ,certain,IPro-AFS,G5100,Romans 15,3740,21
+ποιήσασθαι,to make,V-ANM,G4160,Romans 15,3741,21
+τοὺς,the,Art-AMP,G3588,Romans 15,3742,21
+πτωχοὺς,poor,Adj-AMP,G4434,Romans 15,3743,21
+ἁγίων,saints,Adj-GMP,G40,Romans 15,3744,21
+Ἰερουσαλήμ,Jerusalem,N-DFS,G2419,Romans 15,3745,21
+γάρ,for,Conj,G1063,Romans 15,3746,21
+ὀφειλέται,debtors,N-NMP,G3781,Romans 15,3747,21
+εἰσὶν,they are,V-PIA-3P,G1510,Romans 15,3748,21
+αὐτῶν,of them,PPro-GM3P,G846,Romans 15,3749,21
+εἰ,If,Conj,G1487,Romans 15,3750,21
+πνευματικοῖς,spiritual,Adj-DNP,G4152,Romans 15,3751,21
+ἐκοινώνησαν,have shared in,V-AIA-3P,G2841,Romans 15,3752,21
+τὰ,the,Art-NNP,G3588,Romans 15,3753,21
+ὀφείλουσιν,they ought,V-PIA-3P,G3784,Romans 15,3754,21
+σαρκικοῖς,material things,Adj-DNP,G4559,Romans 15,3755,21
+λειτουργῆσαι,to minister,V-ANA,G3008,Romans 15,3756,21
+αὐτοῖς,to them,PPro-DM3P,G846,Romans 15,3757,21
+Τοῦτο,This,DPro-ANS,G3778,Romans 15,3758,21
+ἐπιτελέσας,having finished,V-APA-NMS,G2005,Romans 15,3759,21
+σφραγισάμενος,having sealed,V-APM-NMS,G4972,Romans 15,3760,21
+καρπὸν,fruit,N-AMS,G2590,Romans 15,3761,21
+τοῦτον,this,DPro-AMS,G3778,Romans 15,3762,21
+ἀπελεύσομαι,I will set off,V-FIM-1S,G565,Romans 15,3763,21
+οἶδα,I know,V-RIA-1S,G1492,Romans 15,3764,21
+ἐρχόμενος,coming,V-PPM/P-NMS,G2064,Romans 15,3765,21
+πληρώματι,the fullness,N-DNS,G4138,Romans 15,3766,21
+εὐλογίας,of the blessing,N-GFS,G2129,Romans 15,3767,21
+ἐλεύσομαι,I will come,V-FIM-1S,G2064,Romans 15,3768,21
+Παρακαλῶ,I exhort,V-PIA-1S,G3870,Romans 15,3769,21
+ἀγάπης,love,N-GFS,G26,Romans 15,3770,21
+συναγωνίσασθαί,to strive together with,V-ANM,G4865,Romans 15,3771,21
+ταῖς,the,Art-DFP,G3588,Romans 15,3772,21
+προσευχαῖς,prayers,N-DFP,G4335,Romans 15,3773,21
+ῥυσθῶ,I may be delivered,V-ASP-1S,G4506,Romans 15,3774,21
+ἀπειθούντων,refusing to be persuaded,V-PPA-GMP,G544,Romans 15,3775,21
+Ἰουδαίᾳ,Judea,N-DFS,G2449,Romans 15,3776,21
+διακονία,service,N-NFS,G1248,Romans 15,3777,21
+χαρᾷ,joy,N-DFS,G5479,Romans 15,3778,21
+ἐλθὼν,having come,V-APA-NMS,G2064,Romans 15,3779,21
+θελήματος,will,N-GNS,G2307,Romans 15,3780,21
+συναναπαύσωμαι,I may be refreshed with,V-ASM-1S,G4875,Romans 15,3781,21
+πάντων,all,Adj-GMP,G3956,Romans 15,3782,21
+ἀμήν,Amen,Heb,G281,Romans 15,3783,21
+Συνίστημι,I commend,V-PIA-1S,G4921,Romans 16,3784,21
+δὲ,now,Conj,G1161,Romans 16,3785,21
+ὑμῖν,to you,PPro-D2P,G4771,Romans 16,3786,21
+Φοίβην,Phoebe,N-AFS,G5402,Romans 16,3787,21
+τὴν,the,Art-AFS,G3588,Romans 16,3788,21
+ἀδελφὴν,sister,N-AFS,G79,Romans 16,3789,21
+ἡμῶν,of us,PPro-G1P,G1473,Romans 16,3790,21
+οὖσαν,being,V-PPA-AFS,G1510,Romans 16,3791,21
+καὶ,also,Conj,G2532,Romans 16,3792,21
+διάκονον,a servant,N-AFS,G1249,Romans 16,3793,21
+τῆς,of the,Art-GFS,G3588,Romans 16,3794,21
+ἐκκλησίας,church,N-GFS,G1577,Romans 16,3795,21
+ἐν,in,Prep,G1722,Romans 16,3796,21
+Κενχρεαῖς,Cenchrea,N-DFP,G2747,Romans 16,3797,21
+ἵνα,that,Conj,G2443,Romans 16,3798,21
+αὐτὴν,her,PPro-AF3S,G846,Romans 16,3799,21
+προσδέξησθε,you might receive,V-ASM-2P,G4327,Romans 16,3800,21
+Κυρίῳ,Lord,N-DMS,G2962,Romans 16,3801,21
+ἀξίως,worthily,Adv,G516,Romans 16,3802,21
+τῶν,-,Art-GMP,G3588,Romans 16,3803,21
+ἁγίων,of the saints,Adj-GMP,G40,Romans 16,3804,21
+καὶ,and,Conj,G2532,Romans 16,3805,21
+παραστῆτε,you might assist,V-ASA-2P,G3936,Romans 16,3806,21
+αὐτῇ,her,PPro-DF3S,G846,Romans 16,3807,21
+ᾧ,whatever,RelPro-DNS,G3739,Romans 16,3808,21
+ἂν,-,Prtcl,G302,Romans 16,3809,21
+ὑμῶν,of you,PPro-G2P,G4771,Romans 16,3810,21
+χρῄζῃ,she may need,V-PSA-3S,G5535,Romans 16,3811,21
+πράγματι,matter,N-DNS,G4229,Romans 16,3812,21
+γὰρ,for,Conj,G1063,Romans 16,3813,21
+αὐτὴ,she,PPro-NF3S,G846,Romans 16,3814,21
+προστάτις,a patroness,N-NFS,G4368,Romans 16,3815,21
+πολλῶν,of many,Adj-GMP,G4183,Romans 16,3816,21
+ἐγενήθη,has been,V-AIP-3S,G1096,Romans 16,3817,21
+ἐμοῦ,of me,PPro-G1S,G1473,Romans 16,3818,21
+αὐτοῦ,myself,PPro-GM3S,G846,Romans 16,3819,21
+Ἀσπάσασθε,Greet,V-AMM-2P,G782,Romans 16,3820,21
+Πρίσκαν,Prisca,N-AFS,G4251,Romans 16,3821,21
+Ἀκύλαν,Aquila,N-AMS,G207,Romans 16,3822,21
+τοὺς,the,Art-AMP,G3588,Romans 16,3823,21
+συνεργούς,fellow workers,Adj-AMP,G4904,Romans 16,3824,21
+μου,of me,PPro-G1S,G1473,Romans 16,3825,21
+Χριστῷ,Christ,N-DMS,G5547,Romans 16,3826,21
+Ἰησοῦ,Jesus,N-DMS,G2424,Romans 16,3827,21
+οἵτινες,who,RelPro-NMP,G3748,Romans 16,3828,21
+ὑπὲρ,for,Prep,G5228,Romans 16,3829,21
+ψυχῆς,life,N-GFS,G5590,Romans 16,3830,21
+τὸν,the,Art-AMS,G3588,Romans 16,3831,21
+ἑαυτῶν,of them,RefPro-GM3P,G1438,Romans 16,3832,21
+τράχηλον,neck,N-AMS,G5137,Romans 16,3833,21
+ὑπέθηκαν,have lain down,V-AIA-3P,G5294,Romans 16,3834,21
+οἷς,whom,RelPro-DMP,G3739,Romans 16,3835,21
+οὐκ,not,Adv,G3756,Romans 16,3836,21
+ἐγὼ,I,PPro-N1S,G1473,Romans 16,3837,21
+μόνος,only,Adj-NMS,G3441,Romans 16,3838,21
+εὐχαριστῶ,thank,V-PIA-1S,G2168,Romans 16,3839,21
+ἀλλὰ,but,Conj,G235,Romans 16,3840,21
+πᾶσαι,all,Adj-NFP,G3956,Romans 16,3841,21
+αἱ,the,Art-NFP,G3588,Romans 16,3842,21
+ἐκκλησίαι,churches,N-NFP,G1577,Romans 16,3843,21
+τῶν,of the,Art-GNP,G3588,Romans 16,3844,21
+ἐθνῶν,Gentiles,N-GNP,G1484,Romans 16,3845,21
+κατ,at,Prep,G2596,Romans 16,3846,21
+οἶκον,house,N-AMS,G3624,Romans 16,3847,21
+αὐτῶν,their,PPro-GM3P,G846,Romans 16,3848,21
+ἐκκλησίαν,church,N-AFS,G1577,Romans 16,3849,21
+Ἐπαίνετον,Epenetus,N-AMS,G1866,Romans 16,3850,21
+ἀγαπητόν,beloved,Adj-AMS,G27,Romans 16,3851,21
+ὅς,who,RelPro-NMS,G3739,Romans 16,3852,21
+ἐστιν,is,V-PIA-3S,G1510,Romans 16,3853,21
+ἀπαρχὴ,a firstfruit,N-NFS,G536,Romans 16,3854,21
+Ἀσίας,of Asia,N-GFS,G773,Romans 16,3855,21
+εἰς,for,Prep,G1519,Romans 16,3856,21
+Χριστόν,Christ,N-AMS,G5547,Romans 16,3857,21
+Μαριάν,Mary,N-AFS,G3137,Romans 16,3858,21
+ἥτις,who,RelPro-NFS,G3748,Romans 16,3859,21
+πολλὰ,much,Adj-ANP,G4183,Romans 16,3860,21
+ἐκοπίασεν,toiled,V-AIA-3S,G2872,Romans 16,3861,21
+ὑμᾶς,you,PPro-A2P,G4771,Romans 16,3862,21
+Ἀνδρόνικον,Andronicus,N-AMS,G408,Romans 16,3863,21
+Ἰουνίαν,Junias,N-AFS,G2458,Romans 16,3864,21
+συγγενεῖς,kinsmen,Adj-AMP,G4773,Romans 16,3865,21
+συναιχμαλώτους,fellow prisoners,N-AMP,G4869,Romans 16,3866,21
+οἵτινές,who,RelPro-NMP,G3748,Romans 16,3867,21
+εἰσιν,are,V-PIA-3P,G1510,Romans 16,3868,21
+ἐπίσημοι,of note,Adj-NMP,G1978,Romans 16,3869,21
+τοῖς,the,Art-DMP,G3588,Romans 16,3870,21
+ἀποστόλοις,apostles,N-DMP,G652,Romans 16,3871,21
+οἳ,who,RelPro-NMP,G3739,Romans 16,3872,21
+πρὸ,before,Prep,G4253,Romans 16,3873,21
+γέγοναν,were,V-RIA-3P,G1096,Romans 16,3874,21
+Ἀμπλιᾶτον,Ampliatus,N-AMS,G291,Romans 16,3875,21
+Οὐρβανὸν,Urbanus,N-AMS,G3773,Romans 16,3876,21
+συνεργὸν,fellow worker,Adj-AMS,G4904,Romans 16,3877,21
+Στάχυν,Stachys,N-AMS,G4720,Romans 16,3878,21
+Ἀπελλῆν,Apelles,N-AMS,G559,Romans 16,3879,21
+δόκιμον,approved,Adj-AMS,G1384,Romans 16,3880,21
+ἐκ,of,Prep,G1537,Romans 16,3881,21
+Ἀριστοβούλου,of Aristobulus,N-GMS,G711,Romans 16,3882,21
+Ἡρῳδίωνα,Herodion,N-AMS,G2267,Romans 16,3883,21
+συγγενῆ,kinsman,Adj-AMS,G4773,Romans 16,3884,21
+Ναρκίσσου,of Narcissus,N-GMS,G3488,Romans 16,3885,21
+ὄντας,being,V-PPA-AMP,G1510,Romans 16,3886,21
+Τρύφαιναν,Tryphena,N-AFS,G5170,Romans 16,3887,21
+Τρυφῶσαν,Tryphosa,N-AFS,G5173,Romans 16,3888,21
+τὰς,those,Art-AFP,G3588,Romans 16,3889,21
+κοπιώσας,toiling,V-PPA-AFP,G2872,Romans 16,3890,21
+Περσίδα,Persis,N-AFS,G4069,Romans 16,3891,21
+ἀγαπητήν,beloved,Adj-AFS,G27,Romans 16,3892,21
+Ῥοῦφον,Rufus,N-AMS,G4504,Romans 16,3893,21
+ἐκλεκτὸν,chosen,Adj-AMS,G1588,Romans 16,3894,21
+μητέρα,mother,N-AFS,G3384,Romans 16,3895,21
+Ἀσύνκριτον,Asyncritus,N-AMS,G799,Romans 16,3896,21
+Φλέγοντα,Phlegon,N-AMS,G5393,Romans 16,3897,21
+Ἑρμῆν,Hermes,N-AMS,G2060,Romans 16,3898,21
+Πατρόβαν,Patrobas,N-AMS,G3969,Romans 16,3899,21
+Ἑρμᾶν,Hermas,N-AMS,G2057,Romans 16,3900,21
+σὺν,with,Prep,G4862,Romans 16,3901,21
+αὐτοῖς,them,PPro-DM3P,G846,Romans 16,3902,21
+ἀδελφούς,brothers,N-AMP,G80,Romans 16,3903,21
+Φιλόλογον,Philologus,N-AMS,G5378,Romans 16,3904,21
+Ἰουλίαν,Julia,N-AFS,G2456,Romans 16,3905,21
+Νηρέα,Nereus,N-AMS,G3517,Romans 16,3906,21
+Ὀλυμπᾶν,Olympas,N-AMS,G3652,Romans 16,3907,21
+πάντας,all,Adj-AMP,G3956,Romans 16,3908,21
+ἁγίους,saints,Adj-AMP,G40,Romans 16,3909,21
+ἀλλήλους,one another,RecPro-AMP,G240,Romans 16,3910,21
+φιλήματι,a kiss,N-DNS,G5370,Romans 16,3911,21
+ἁγίῳ,holy,Adj-DNS,G40,Romans 16,3912,21
+Ἀσπάζονται,Greet,V-PIM/P-3P,G782,Romans 16,3913,21
+τοῦ,-,Art-GMS,G3588,Romans 16,3914,21
+Χριστοῦ,of Christ,N-GMS,G5547,Romans 16,3915,21
+Παρακαλῶ,I exhort,V-PIA-1S,G3870,Romans 16,3916,21
+ἀδελφοί,brothers,N-VMP,G80,Romans 16,3917,21
+σκοπεῖν,to watch out for,V-PNA,G4648,Romans 16,3918,21
+διχοστασίας,divisions,N-AFP,G1370,Romans 16,3919,21
+τὰ,-,Art-ANP,G3588,Romans 16,3920,21
+σκάνδαλα,obstacles,N-ANP,G4625,Romans 16,3921,21
+παρὰ,contrary to,Prep,G3844,Romans 16,3922,21
+διδαχὴν,teaching,N-AFS,G1322,Romans 16,3923,21
+ἣν,that,RelPro-AFS,G3739,Romans 16,3924,21
+ὑμεῖς,you,PPro-N2P,G4771,Romans 16,3925,21
+ἐμάθετε,have learned,V-AIA-2P,G3129,Romans 16,3926,21
+ποιοῦντας,causing,V-PPA-AMP,G4160,Romans 16,3927,21
+ἐκκλίνετε,turn away,V-PMA-2P,G1578,Romans 16,3928,21
+ἀπ,from,Prep,G575,Romans 16,3929,21
+οἱ,-,Art-NMP,G3588,Romans 16,3930,21
+τοιοῦτοι,such,DPro-NMP,G5108,Romans 16,3931,21
+τῷ,the,Art-DMS,G3588,Romans 16,3932,21
+οὐ,not,Adv,G3756,Romans 16,3933,21
+δουλεύουσιν,serve,V-PIA-3P,G1398,Romans 16,3934,21
+τῇ,the,Art-DFS,G3588,Romans 16,3935,21
+κοιλίᾳ,belly,N-DFS,G2836,Romans 16,3936,21
+διὰ,by,Prep,G1223,Romans 16,3937,21
+χρηστολογίας,smooth talk,N-GFS,G5542,Romans 16,3938,21
+εὐλογίας,flattery,N-GFS,G2129,Romans 16,3939,21
+ἐξαπατῶσιν,they deceive,V-PIA-3P,G1818,Romans 16,3940,21
+καρδίας,hearts,N-AFP,G2588,Romans 16,3941,21
+ἀκάκων,naive,Adj-GMP,G172,Romans 16,3942,21
+Ἡ,The,Art-NFS,G3588,Romans 16,3943,21
+ὑπακοὴ,obedience,N-NFS,G5218,Romans 16,3944,21
+ἀφίκετο,has reached,V-AIM-3S,G864,Romans 16,3945,21
+ἐφ,Over,Prep,G1909,Romans 16,3946,21
+οὖν,therefore,Conj,G3767,Romans 16,3947,21
+χαίρω,I rejoice,V-PIA-1S,G5463,Romans 16,3948,21
+θέλω,I wish,V-PIA-1S,G2309,Romans 16,3949,21
+σοφοὺς,wise,Adj-AMP,G4680,Romans 16,3950,21
+μὲν,indeed,Prtcl,G3303,Romans 16,3951,21
+εἶναι,to be,V-PNA,G1510,Romans 16,3952,21
+τὸ,-,Art-ANS,G3588,Romans 16,3953,21
+ἀγαθόν,good,Adj-ANS,G18,Romans 16,3954,21
+ἀκεραίους,innocent,Adj-AMP,G185,Romans 16,3955,21
+κακόν,evil,Adj-ANS,G2556,Romans 16,3956,21
+Ὁ,The,Art-NMS,G3588,Romans 16,3957,21
+Θεὸς,God,N-NMS,G2316,Romans 16,3958,21
+εἰρήνης,of peace,N-GFS,G1515,Romans 16,3959,21
+συντρίψει,will crush,V-FIA-3S,G4937,Romans 16,3960,21
+Σατανᾶν,Satan,N-AMS,G4567,Romans 16,3961,21
+ὑπὸ,under,Prep,G5259,Romans 16,3962,21
+πόδας,feet,N-AMP,G4228,Romans 16,3963,21
+τάχει,a short time,N-DNS,G5034,Romans 16,3964,21
+χάρις,grace,N-NFS,G5485,Romans 16,3965,21
+Κυρίου,Lord,N-GMS,G2962,Romans 16,3966,21
+Ἰησοῦ,Jesus,N-GMS,G2424,Romans 16,3967,21
+Χριστοῦ,Christ,N-GMS,G5547,Romans 16,3968,21
+μεθ,be with,Prep,G3326,Romans 16,3969,21
+Ἀσπάζεται,Greets,V-PIM/P-3S,G782,Romans 16,3970,21
+Τιμόθεος,Timothy,N-NMS,G5095,Romans 16,3971,21
+ὁ,the,Art-NMS,G3588,Romans 16,3972,21
+συνεργός,fellow worker,Adj-NMS,G4904,Romans 16,3973,21
+Λούκιος,Lucius,N-NMS,G3066,Romans 16,3974,21
+Ἰάσων,Jason,N-NMS,G2394,Romans 16,3975,21
+Σωσίπατρος,Sosipater,N-NMS,G4989,Romans 16,3976,21
+συγγενεῖς,kinsmen,Adj-NMP,G4773,Romans 16,3977,21
+Ἀσπάζομαι,Greet,V-PIM/P-1S,G782,Romans 16,3978,21
+Τέρτιος,Tertius,N-NMS,G5060,Romans 16,3979,21
+γράψας,having written down,V-APA-NMS,G1125,Romans 16,3980,21
+ἐπιστολὴν,letter,N-AFS,G1992,Romans 16,3981,21
+Γάϊος,Gaius,N-NMS,G1050,Romans 16,3982,21
+ξένος,host,Adj-NMS,G3581,Romans 16,3983,21
+ὅλης,of all,Adj-GFS,G3650,Romans 16,3984,21
+Ἔραστος,Erastus,N-NMS,G2037,Romans 16,3985,21
+οἰκονόμος,steward,N-NMS,G3623,Romans 16,3986,21
+πόλεως,city,N-GFS,G4172,Romans 16,3987,21
+Κούαρτος,Quartus,N-NMS,G2890,Romans 16,3988,21
+ἀδελφός,brother,N-NMS,G80,Romans 16,3989,21
+Ἡ,The,Art-NFS,G3588,Romans 16,3990,21
+κυρίου,Lord,N-GMS,G2962,Romans 16,3991,21
+μετὰ,be with,Prep,G3326,Romans 16,3992,21
+πάντων,all,Adj-GMP,G3956,Romans 16,3993,21
+Ἀμήν,Amen,Heb,G281,Romans 16,3994,21
+Τῷ,To Him,Art-DMS,G3588,Romans 16,3995,21
+δυναμένῳ,being able,V-PPM/P-DMS,G1410,Romans 16,3996,21
+στηρίξαι,to strengthen,V-ANA,G4741,Romans 16,3997,21
+κατὰ,according to,Prep,G2596,Romans 16,3998,21
+εὐαγγέλιόν,gospel,N-ANS,G2098,Romans 16,3999,21
+κήρυγμα,preaching,N-ANS,G2782,Romans 16,4000,21
+ἀποκάλυψιν,the revelation,N-AFS,G602,Romans 16,4001,21
+μυστηρίου,of the mystery,N-GNS,G3466,Romans 16,4002,21
+χρόνοις,in times,N-DMP,G5550,Romans 16,4003,21
+αἰωνίοις,of the ages,Adj-DMP,G166,Romans 16,4004,21
+σεσιγημένου,having been kept secret,V-RPM/P-GNS,G4601,Romans 16,4005,21
+φανερωθέντος,having been made manifest,V-APP-GMS,G5319,Romans 16,4006,21
+νῦν,now,Adv,G3568,Romans 16,4007,21
+διά,through,Prep,G1223,Romans 16,4008,21
+τε,also,Conj,G5037,Romans 16,4009,21
+γραφῶν,Scriptures,N-GFP,G1124,Romans 16,4010,21
+προφητικῶν,prophetic,Adj-GFP,G4397,Romans 16,4011,21
+ἐπιταγὴν,the commandment,N-AFS,G2003,Romans 16,4012,21
+αἰωνίου,Eternal,Adj-GMS,G166,Romans 16,4013,21
+Θεοῦ,God,N-GMS,G2316,Romans 16,4014,21
+ὑπακοὴν,obedience,N-AFS,G5218,Romans 16,4015,21
+πίστεως,of faith,N-GFS,G4102,Romans 16,4016,21
+πάντα,all,Adj-ANP,G3956,Romans 16,4017,21
+ἔθνη,Gentiles,N-ANP,G1484,Romans 16,4018,21
+γνωρισθέντος,having been made known,V-APP-GNS,G1107,Romans 16,4019,21
+μόνῳ,to the only,Adj-DMS,G3441,Romans 16,4020,21
+σοφῷ,wise,Adj-DMS,G4680,Romans 16,4021,21
+Θεῷ,God,N-DMS,G2316,Romans 16,4022,21
+ᾧ,which is,RelPro-DMS,G3739,Romans 16,4023,21
+ἡ,be the,Art-NFS,G3588,Romans 16,4024,21
+δόξα,glory,N-NFS,G1391,Romans 16,4025,21
+αἰῶνας,ages,N-AMP,G165,Romans 16,4026,21
+τῶν,of the,Art-GMP,G3588,Romans 16,4027,21
+αἰώνων,ages,N-GMP,G165,Romans 16,4028,21
+ἀμήν,Amen,Heb,G281,Romans 16,4029,21

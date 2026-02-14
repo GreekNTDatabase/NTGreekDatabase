@@ -1,0 +1,531 @@
+Greek Word,english_translation,parsing_abbreviation,strongs_number,chapter_ref,Row Ordinal,reading_order_position
+Παῦλος,Paul,N-NMS,G3972,Ephesians 1,1,12
+ἀπόστολος,an apostle,N-NMS,G652,Ephesians 1,2,12
+Χριστοῦ,of Christ,N-GMS,G5547,Ephesians 1,3,12
+Ἰησοῦ,Jesus,N-GMS,G2424,Ephesians 1,4,12
+διὰ,by,Prep,G1223,Ephesians 1,5,12
+θελήματος,the will,N-GNS,G2307,Ephesians 1,6,12
+Θεοῦ,of God,N-GMS,G2316,Ephesians 1,7,12
+Τοῖς,To the,Art-DMP,G3588,Ephesians 1,8,12
+ἁγίοις,saints,Adj-DMP,G40,Ephesians 1,9,12
+οὖσιν,being,V-PPA-DMP,G1510,Ephesians 1,10,12
+ἐν,in,Prep,G1722,Ephesians 1,11,12
+Ἐφέσῳ,Ephesus,N-DFS,G2181,Ephesians 1,12,12
+καὶ,and,Conj,G2532,Ephesians 1,13,12
+πιστοῖς,faithful,Adj-DMP,G4103,Ephesians 1,14,12
+Χάρις,Grace,N-NFS,G5485,Ephesians 1,15,12
+ὑμῖν,to you,PPro-D2P,G4771,Ephesians 1,16,12
+εἰρήνη,peace,N-NFS,G1515,Ephesians 1,17,12
+ἀπὸ,from,Prep,G575,Ephesians 1,18,12
+Πατρὸς,the Father,N-GMS,G3962,Ephesians 1,19,12
+ἡμῶν,of us,PPro-G1P,G1473,Ephesians 1,20,12
+Κυρίου,the Lord,N-GMS,G2962,Ephesians 1,21,12
+Εὐλογητὸς,Blessed be,Adj-NMS,G2128,Ephesians 1,22,12
+εὐλογήσας,having blessed,V-APA-NMS,G2127,Ephesians 1,23,12
+πάσῃ,every,Adj-DFS,G3956,Ephesians 1,24,12
+εὐλογίᾳ,blessing,N-DFS,G2129,Ephesians 1,25,12
+πνευματικῇ,spiritual,Adj-DFS,G4152,Ephesians 1,26,12
+ἐπουρανίοις,heavenly realms,Adj-DNP,G2032,Ephesians 1,27,12
+καθὼς,just as,Adv,G2531,Ephesians 1,28,12
+ἐξελέξατο,He chose,V-AIM-3S,G1586,Ephesians 1,29,12
+αὐτῷ,Him,PPro-DM3S,G846,Ephesians 1,30,12
+πρὸ,before,Prep,G4253,Ephesians 1,31,12
+καταβολῆς,the foundation,N-GFS,G2602,Ephesians 1,32,12
+κόσμου,of the world,N-GMS,G2889,Ephesians 1,33,12
+ἀμώμους,blameless,Adj-AMP,G299,Ephesians 1,34,12
+κατενώπιον,before,Prep,G2714,Ephesians 1,35,12
+ἀγάπῃ,love,N-DFS,G26,Ephesians 1,36,12
+προορίσας,having predestined,V-APA-NMS,G4309,Ephesians 1,37,12
+εἰς,for,Prep,G1519,Ephesians 1,38,12
+υἱοθεσίαν,divine adoption as sons,N-AFS,G5206,Ephesians 1,39,12
+κατὰ,according to,Prep,G2596,Ephesians 1,40,12
+εὐδοκίαν,good pleasure,N-AFS,G2107,Ephesians 1,41,12
+ἔπαινον,the praise,N-AMS,G1868,Ephesians 1,42,12
+δόξης,of the glory,N-GFS,G1391,Ephesians 1,43,12
+ἧς,which,RelPro-GFS,G3739,Ephesians 1,44,12
+ἐχαρίτωσεν,He has freely given,V-AIA-3S,G5487,Ephesians 1,45,12
+Ἠγαπημένῳ,Beloved One,V-RPM/P-DMS,G25,Ephesians 1,46,12
+ἔχομεν,we have,V-PIA-1P,G2192,Ephesians 1,47,12
+ἀπολύτρωσιν,redemption,N-AFS,G629,Ephesians 1,48,12
+αἵματος,blood,N-GNS,G129,Ephesians 1,49,12
+ἄφεσιν,forgiveness,N-AFS,G859,Ephesians 1,50,12
+παραπτωμάτων,of trespasses,N-GNP,G3900,Ephesians 1,51,12
+πλοῦτος,riches,N-ANS,G4149,Ephesians 1,52,12
+ἐπερίσσευσεν,He lavished,V-AIA-3S,G4052,Ephesians 1,53,12
+σοφίᾳ,wisdom,N-DFS,G4678,Ephesians 1,54,12
+φρονήσει,understanding,N-DFS,G5428,Ephesians 1,55,12
+γνωρίσας,having made known,V-APA-NMS,G1107,Ephesians 1,56,12
+μυστήριον,mystery,N-ANS,G3466,Ephesians 1,57,12
+προέθετο,He purposed,V-AIM-3S,G4388,Ephesians 1,58,12
+οἰκονομίαν,the administration,N-AFS,G3622,Ephesians 1,59,12
+πληρώματος,fullness,N-GNS,G4138,Ephesians 1,60,12
+καιρῶν,times,N-GMP,G2540,Ephesians 1,61,12
+ἀνακεφαλαιώσασθαι,to bring together,V-ANM,G346,Ephesians 1,62,12
+ἐπὶ,in,Prep,G1909,Ephesians 1,63,12
+οὐρανοῖς,heavens,N-DMP,G3772,Ephesians 1,64,12
+γῆς,earth,N-GFS,G1093,Ephesians 1,65,12
+ἐκληρώθημεν,we have obtained an inheritance,V-AIP-1P,G2820,Ephesians 1,66,12
+πρόθεσιν,the purpose,N-AFS,G4286,Ephesians 1,67,12
+ἐνεργοῦντος,working,V-PPA-GMS,G1754,Ephesians 1,68,12
+βουλὴν,counsel,N-AFS,G1012,Ephesians 1,69,12
+προηλπικότας,having first trusted,V-RPA-AMP,G4276,Ephesians 1,70,12
+ἀκούσαντες,having heard,V-APA-NMP,G191,Ephesians 1,71,12
+λόγον,word,N-AMS,G3056,Ephesians 1,72,12
+ἀληθείας,of truth,N-GFS,G225,Ephesians 1,73,12
+εὐαγγέλιον,gospel,N-ANS,G2098,Ephesians 1,74,12
+σωτηρίας,salvation,N-GFS,G4991,Ephesians 1,75,12
+πιστεύσαντες,having believed,V-APA-NMP,G4100,Ephesians 1,76,12
+ἐσφραγίσθητε,you were sealed,V-AIP-2P,G4972,Ephesians 1,77,12
+Πνεύματι,Spirit,N-DNS,G4151,Ephesians 1,78,12
+ἐπαγγελίας,of promise,N-GFS,G1860,Ephesians 1,79,12
+ἀρραβὼν,the guarantee,N-NMS,G728,Ephesians 1,80,12
+κληρονομίας,inheritance,N-GFS,G2817,Ephesians 1,81,12
+περιποιήσεως,acquired possession,N-GFS,G4047,Ephesians 1,82,12
+τοῦτο,this,DPro-ANS,G3778,Ephesians 1,83,12
+κἀγώ,I also,PPro-N1S,G2504,Ephesians 1,84,12
+πίστιν,faith,N-AFS,G4102,Ephesians 1,85,12
+οὐ,not,Adv,G3756,Ephesians 1,86,12
+παύομαι,do cease,V-PIM-1S,G3973,Ephesians 1,87,12
+εὐχαριστῶν,giving thanks,V-PPA-NMS,G2168,Ephesians 1,88,12
+ὑπὲρ,for,Prep,G5228,Ephesians 1,89,12
+μνείαν,mention,N-AFS,G3417,Ephesians 1,90,12
+ποιούμενος,making,V-PPM-NMS,G4160,Ephesians 1,91,12
+προσευχῶν,prayers,N-GFP,G4335,Ephesians 1,92,12
+ἵνα,that,Conj,G2443,Ephesians 1,93,12
+δώῃ,may give,V-ASA-3S,G1325,Ephesians 1,94,12
+ἀποκαλύψεως,revelation,N-GFS,G602,Ephesians 1,95,12
+ἐπιγνώσει,the knowledge,N-DFS,G1922,Ephesians 1,96,12
+πεφωτισμένους,being enlightened,V-RPM/P-AMP,G5461,Ephesians 1,97,12
+ὀφθαλμοὺς,eyes,N-AMP,G3788,Ephesians 1,98,12
+καρδίας,heart,N-GFS,G2588,Ephesians 1,99,12
+εἰδέναι,to know,V-RNA,G1492,Ephesians 1,100,12
+τίς,what,IPro-NFS,G5101,Ephesians 1,101,12
+ἐλπὶς,hope,N-NFS,G1680,Ephesians 1,102,12
+κλήσεως,calling,N-GFS,G2821,Ephesians 1,103,12
+ὑπερβάλλον,surpassing,V-PPA-NNS,G5235,Ephesians 1,104,12
+μέγεθος,greatness,N-NNS,G3174,Ephesians 1,105,12
+δυνάμεως,power,N-GFS,G1411,Ephesians 1,106,12
+ἐνέργειαν,working,N-AFS,G1753,Ephesians 1,107,12
+κράτους,might,N-GNS,G2904,Ephesians 1,108,12
+ἰσχύος,strength,N-GFS,G2479,Ephesians 1,109,12
+ἐγείρας,having raised,V-APA-NMS,G1453,Ephesians 1,110,12
+ἐκ,out from,Prep,G1537,Ephesians 1,111,12
+νεκρῶν,the dead,Adj-GMP,G3498,Ephesians 1,112,12
+καθίσας,having set Him,V-APA-NMS,G2523,Ephesians 1,113,12
+δεξιᾷ,the right hand,Adj-DFS,G1188,Ephesians 1,114,12
+ὑπεράνω,above,Prep,G5231,Ephesians 1,115,12
+ἀρχῆς,principality,N-GFS,G746,Ephesians 1,116,12
+ἐξουσίας,authority,N-GFS,G1849,Ephesians 1,117,12
+κυριότητος,dominion,N-GFS,G2963,Ephesians 1,118,12
+ὀνόματος,name,N-GNS,G3686,Ephesians 1,119,12
+ὀνομαζομένου,being named,V-PPM/P-GNS,G3687,Ephesians 1,120,12
+μόνον,only,Adv,G3440,Ephesians 1,121,12
+αἰῶνι,age,N-DMS,G165,Ephesians 1,122,12
+ἀλλὰ,but,Conj,G235,Ephesians 1,123,12
+μέλλοντι,coming,V-PPA-DMS,G3195,Ephesians 1,124,12
+ὑπέταξεν,He put,V-AIA-3S,G5293,Ephesians 1,125,12
+ὑπὸ,under,Prep,G5259,Ephesians 1,126,12
+πόδας,feet,N-AMP,G4228,Ephesians 1,127,12
+κεφαλὴν,to be head,N-AFS,G2776,Ephesians 1,128,12
+ἐκκλησίᾳ,church,N-DFS,G1577,Ephesians 1,129,12
+ἥτις,which,RelPro-NFS,G3748,Ephesians 1,130,12
+σῶμα,body,N-NNS,G4983,Ephesians 1,131,12
+πληρουμένου,filling,V-PPM-GMS,G4137,Ephesians 1,132,12
+ἁμαρτίαις,sins,N-DFP,G266,Ephesians 2,133,12
+ποτε,once,Prtcl,G4218,Ephesians 2,134,12
+περιεπατήσατε,you walked,V-AIA-2P,G4043,Ephesians 2,135,12
+ἄρχοντα,ruler,N-AMS,G758,Ephesians 2,136,12
+ἀέρος,air,N-GMS,G109,Ephesians 2,137,12
+νῦν,now,Adv,G3568,Ephesians 2,138,12
+υἱοῖς,sons,N-DMP,G5207,Ephesians 2,139,12
+ἀπειθείας,of disobedience,N-GFS,G543,Ephesians 2,140,12
+ἀνεστράφημέν,lived,V-AIP-1P,G390,Ephesians 2,141,12
+ἐπιθυμίαις,desires,N-DFP,G1939,Ephesians 2,142,12
+σαρκὸς,flesh,N-GFS,G4561,Ephesians 2,143,12
+διανοιῶν,thoughts,N-GFP,G1271,Ephesians 2,144,12
+τέκνα,children,N-NNP,G5043,Ephesians 2,145,12
+φύσει,by nature,N-DFS,G5449,Ephesians 2,146,12
+ὀργῆς,of wrath,N-GFS,G3709,Ephesians 2,147,12
+ὡς,as,Adv,G5613,Ephesians 2,148,12
+λοιποί,rest,Adj-NMP,G3062,Ephesians 2,149,12
+δὲ,But,Conj,G1161,Ephesians 2,150,12
+πλούσιος,rich,Adj-NMS,G4145,Ephesians 2,151,12
+ἐλέει,mercy,N-DNS,G1656,Ephesians 2,152,12
+πολλὴν,great,Adj-AFS,G4183,Ephesians 2,153,12
+συνεζωοποίησεν,made us alive with,V-AIA-3S,G4806,Ephesians 2,154,12
+σεσῳσμένοι,saved,V-RPM/P-NMP,G4982,Ephesians 2,155,12
+συνήγειρεν,He raised us up together,V-AIA-3S,G4891,Ephesians 2,156,12
+συνεκάθισεν,seated us together,V-AIA-3S,G4776,Ephesians 2,157,12
+ἐνδείξηται,He might show,V-ASM-3S,G1731,Ephesians 2,158,12
+ἐπερχομένοις,are coming,V-PPM/P-DMP,G1904,Ephesians 2,159,12
+χρηστότητι,kindness,N-DFS,G5544,Ephesians 2,160,12
+γὰρ,For,Conj,G1063,Ephesians 2,161,12
+δῶρον,gift,N-NNS,G1435,Ephesians 2,162,12
+ἔργων,works,N-GNP,G2041,Ephesians 2,163,12
+μή,not,Adv,G3361,Ephesians 2,164,12
+τις,anyone,IPro-NMS,G5100,Ephesians 2,165,12
+καυχήσηται,may boast,V-ASM-3S,G2744,Ephesians 2,166,12
+ποίημα,workmanship,N-NNS,G4161,Ephesians 2,167,12
+κτισθέντες,having been created,V-APP-NMP,G2936,Ephesians 2,168,12
+ἀγαθοῖς,good,Adj-DNP,G18,Ephesians 2,169,12
+προητοίμασεν,prepared beforehand,V-AIA-3S,G4282,Ephesians 2,170,12
+Διὸ,Therefore,Conj,G1352,Ephesians 2,171,12
+μνημονεύετε,remember,V-PMA-2P,G3421,Ephesians 2,172,12
+ὅτι,that,Conj,G3754,Ephesians 2,173,12
+ἔθνη,Gentiles,N-NNP,G1484,Ephesians 2,174,12
+λεγόμενοι,being called,V-PPM/P-NMP,G3004,Ephesians 2,175,12
+ἀκροβυστία,the uncircumcision,N-NFS,G203,Ephesians 2,176,12
+περιτομῆς,the circumcision,N-GFS,G4061,Ephesians 2,177,12
+χειροποιήτου,made by hands,Adj-GFS,G5499,Ephesians 2,178,12
+ἐκείνῳ,that,DPro-DMS,G1565,Ephesians 2,179,12
+χωρὶς,separate from,Prep,G5565,Ephesians 2,180,12
+ἀπηλλοτριωμένοι,alienated from,V-RPM/P-NMP,G526,Ephesians 2,181,12
+πολιτείας,commonwealth,N-GFS,G4174,Ephesians 2,182,12
+Ἰσραὴλ,of Israel,N-GMS,G2474,Ephesians 2,183,12
+ξένοι,strangers,Adj-NMP,G3581,Ephesians 2,184,12
+διαθηκῶν,covenants,N-GFP,G1242,Ephesians 2,185,12
+ἄθεοι,without God,Adj-NMP,G112,Ephesians 2,186,12
+νυνὶ,Now,Adv,G3570,Ephesians 2,187,12
+μακρὰν,far off,Adj-AFS,G3112,Ephesians 2,188,12
+ἐγενήθητε,have become,V-AIP-2P,G1096,Ephesians 2,189,12
+ἐγγὺς,near,Adv,G1451,Ephesians 2,190,12
+ἀμφότερα,both,Adj-ANP,G297,Ephesians 2,191,12
+ἓν,one,Adj-ANS,G1520,Ephesians 2,192,12
+μεσότοιχον,barrier,N-ANS,G3320,Ephesians 2,193,12
+φραγμοῦ,fence,N-GMS,G5418,Ephesians 2,194,12
+λύσας,having broken down,V-APA-NMS,G3089,Ephesians 2,195,12
+ἔχθραν,hostility,N-AFS,G2189,Ephesians 2,196,12
+νόμον,law,N-AMS,G3551,Ephesians 2,197,12
+ἐντολῶν,of commandments,N-GFP,G1785,Ephesians 2,198,12
+δόγμασιν,ordinances,N-DNP,G1378,Ephesians 2,199,12
+καταργήσας,having annulled,V-APA-NMS,G2673,Ephesians 2,200,12
+δύο,two,Adj-AMP,G1417,Ephesians 2,201,12
+αὑτῷ,Himself,PPro-DM3S,G848,Ephesians 2,202,12
+καινὸν,new,Adj-AMS,G2537,Ephesians 2,203,12
+ἄνθρωπον,man,N-AMS,G444,Ephesians 2,204,12
+ἀποκαταλλάξῃ,He might reconcile,V-ASA-3S,G604,Ephesians 2,205,12
+σταυροῦ,cross,N-GMS,G4716,Ephesians 2,206,12
+ἀποκτείνας,having slain,V-APA-NMS,G615,Ephesians 2,207,12
+ἐλθὼν,having come,V-APA-NMS,G2064,Ephesians 2,208,12
+εὐηγγελίσατο,He proclaimed the gospel,V-AIM-3S,G2097,Ephesians 2,209,12
+προσαγωγὴν,access,N-AFS,G4318,Ephesians 2,210,12
+πρὸς,to,Prep,G4314,Ephesians 2,211,12
+Ἄρα,So,Conj,G686,Ephesians 2,212,12
+οὖν,then,Conj,G3767,Ephesians 2,213,12
+οὐκέτι,no longer,Adv,G3765,Ephesians 2,214,12
+πάροικοι,aliens,Adj-NMP,G3941,Ephesians 2,215,12
+συμπολῖται,fellow citizens,N-NMP,G4847,Ephesians 2,216,12
+οἰκεῖοι,of the household,Adj-NMP,G3609,Ephesians 2,217,12
+ἐποικοδομηθέντες,having been built,V-APP-NMP,G2026,Ephesians 2,218,12
+θεμελίῳ,foundation,N-DNS,G2310,Ephesians 2,219,12
+προφητῶν,prophets,N-GMP,G4396,Ephesians 2,220,12
+ἀκρογωνιαίου,the cornerstone,Adj-GMS,G204,Ephesians 2,221,12
+οἰκοδομὴ,building,N-NFS,G3619,Ephesians 2,222,12
+συναρμολογουμένη,being fitted together,V-PPM/P-NFS,G4883,Ephesians 2,223,12
+αὔξει,is increasing,V-PIA-3S,G837,Ephesians 2,224,12
+ναὸν,a temple,N-AMS,G3485,Ephesians 2,225,12
+συνοικοδομεῖσθε,are being built together,V-PIM/P-2P,G4925,Ephesians 2,226,12
+κατοικητήριον,a habitation,N-ANS,G2732,Ephesians 2,227,12
+χάριν,for reason,Prep,G5484,Ephesians 3,228,12
+δέσμιος,prisoner,N-NMS,G1198,Ephesians 3,229,12
+Εἴ,If,Conj,G1487,Ephesians 3,230,12
+γε,indeed,Prtcl,G1065,Ephesians 3,231,12
+προέγραψα,I have written before,V-AIA-1S,G4270,Ephesians 3,232,12
+ὀλίγῳ,brief,Adj-DNS,G3641,Ephesians 3,233,12
+δύνασθε,you are able,V-PIM/P-2P,G1410,Ephesians 3,234,12
+ἀναγινώσκοντες,reading it,V-PPA-NMP,G314,Ephesians 3,235,12
+νοῆσαι,to understand,V-ANA,G3539,Ephesians 3,236,12
+σύνεσίν,insight,N-AFS,G4907,Ephesians 3,237,12
+ἑτέραις,in other,Adj-DFP,G2087,Ephesians 3,238,12
+γενεαῖς,generations,N-DFP,G1074,Ephesians 3,239,12
+ἀπεκαλύφθη,it has been revealed,V-AIP-3S,G601,Ephesians 3,240,12
+συνκληρονόμα,joint-heirs,Adj-ANP,G4789,Ephesians 3,241,12
+σύσσωμα,a joint-body,Adj-ANP,G4954,Ephesians 3,242,12
+συμμέτοχα,joint-partakers,Adj-ANP,G4830,Ephesians 3,243,12
+διάκονος,servant,N-NMS,G1249,Ephesians 3,244,12
+δωρεὰν,gift,N-AFS,G1431,Ephesians 3,245,12
+ἐλαχιστοτέρῳ,very least,Adj-DMS-C,G1647,Ephesians 3,246,12
+ἀνεξιχνίαστον,unsearchable,Adj-ANS,G421,Ephesians 3,247,12
+ἀποκεκρυμμένου,having been hidden,V-RPM/P-GNS,G613,Ephesians 3,248,12
+πολυποίκιλος,manifold,Adj-NFS,G4182,Ephesians 3,249,12
+παρρησίαν,boldness,N-AFS,G3954,Ephesians 3,250,12
+πεποιθήσει,confidence,N-DFS,G4006,Ephesians 3,251,12
+αἰτοῦμαι,I implore you,V-PIM-1S,G154,Ephesians 3,252,12
+ἐνκακεῖν,to lose heart,V-PNA,G1573,Ephesians 3,253,12
+θλίψεσίν,tribulations,N-DFP,G2347,Ephesians 3,254,12
+κάμπτω,I bow,V-PIA-1S,G2578,Ephesians 3,255,12
+γόνατά,knees,N-ANP,G1119,Ephesians 3,256,12
+πατριὰ,family,N-NFS,G3965,Ephesians 3,257,12
+κραταιωθῆναι,to be strengthened,V-ANP,G2901,Ephesians 3,258,12
+ἔσω,inner,Adv,G2080,Ephesians 3,259,12
+κατοικῆσαι,for to dwell,V-ANA,G2730,Ephesians 3,260,12
+ἐρριζωμένοι,being rooted,V-RPM/P-NMP,G4492,Ephesians 3,261,12
+τεθεμελιωμένοι,being founded,V-RPM/P-NMP,G2311,Ephesians 3,262,12
+ἐξισχύσητε,you may be fully able,V-ASA-2P,G1840,Ephesians 3,263,12
+καταλαβέσθαι,to comprehend,V-ANM,G2638,Ephesians 3,264,12
+σὺν,with,Prep,G4862,Ephesians 3,265,12
+πλάτος,breadth,N-NNS,G4114,Ephesians 3,266,12
+μῆκος,length,N-NNS,G3372,Ephesians 3,267,12
+ὕψος,height,N-NNS,G5311,Ephesians 3,268,12
+βάθος,depth,N-NNS,G899,Ephesians 3,269,12
+γνῶναί,to know,V-ANA,G1097,Ephesians 3,270,12
+τε,then,Conj,G5037,Ephesians 3,271,12
+γνώσεως,knowledge,N-GFS,G1108,Ephesians 3,272,12
+ἢ,or,Conj,G2228,Ephesians 3,273,12
+ἀμήν,Amen,Heb,G281,Ephesians 3,274,12
+Παρακαλῶ,Exhort,V-PIA-1S,G3870,Ephesians 4,275,12
+ἀξίως,worthily,Adv,G516,Ephesians 4,276,12
+ἐκλήθητε,you were called,V-AIP-2P,G2564,Ephesians 4,277,12
+μετὰ,with,Prep,G3326,Ephesians 4,278,12
+ταπεινοφροσύνης,humility,N-GFS,G5012,Ephesians 4,279,12
+πραΰτητος,gentleness,N-GFS,G4240,Ephesians 4,280,12
+μακροθυμίας,patience,N-GFS,G3115,Ephesians 4,281,12
+ἀνεχόμενοι,bearing with,V-PPM/P-NMP,G430,Ephesians 4,282,12
+ἀλλήλων,one another,RecPro-GMP,G240,Ephesians 4,283,12
+σπουδάζοντες,being diligent,V-PPA-NMP,G4704,Ephesians 4,284,12
+τηρεῖν,to keep,V-PNA,G5083,Ephesians 4,285,12
+ἑνότητα,unity,N-AFS,G1775,Ephesians 4,286,12
+συνδέσμῳ,bond,N-DMS,G4886,Ephesians 4,287,12
+βάπτισμα,baptism,N-NNS,G908,Ephesians 4,288,12
+ἑκάστῳ,to each,Adj-DMS,G1538,Ephesians 4,289,12
+μέτρον,measure,N-ANS,G3358,Ephesians 4,290,12
+Ἀναβὰς,Having ascended,V-APA-NMS,G305,Ephesians 4,291,12
+ᾐχμαλώτευσεν,He led captive,V-AIA-3S,G162,Ephesians 4,292,12
+αἰχμαλωσίαν,captivity,N-AFS,G161,Ephesians 4,293,12
+δόματα,gifts,N-ANP,G1390,Ephesians 4,294,12
+κατέβη,He descended,V-AIA-3S,G2597,Ephesians 4,295,12
+κατώτερα,lower,Adj-ANP-C,G2737,Ephesians 4,296,12
+μέρη,regions,N-ANP,G3313,Ephesians 4,297,12
+μὲν,indeed,Conj,G3303,Ephesians 4,298,12
+εὐαγγελιστάς,evangelists,N-AMP,G2099,Ephesians 4,299,12
+ποιμένας,shepherds,N-AMP,G4166,Ephesians 4,300,12
+διδασκάλους,teachers,N-AMP,G1320,Ephesians 4,301,12
+καταρτισμὸν,perfecting,N-AMS,G2677,Ephesians 4,302,12
+διακονίας,of ministry,N-GFS,G1248,Ephesians 4,303,12
+μέχρι,until,Adv,G3360,Ephesians 4,304,12
+καταντήσωμεν,we may attain,V-ASA-1P,G2658,Ephesians 4,305,12
+ἄνδρα,a man,N-AMS,G435,Ephesians 4,306,12
+τέλειον,a complete,Adj-AMS,G5046,Ephesians 4,307,12
+ἡλικίας,of the stature,N-GFS,G2244,Ephesians 4,308,12
+μηκέτι,no longer,Adv,G3371,Ephesians 4,309,12
+νήπιοι,infants,Adj-NMP,G3516,Ephesians 4,310,12
+κλυδωνιζόμενοι,being tossed by waves,V-PPM/P-NMP,G2831,Ephesians 4,311,12
+περιφερόμενοι,being carried about,V-PPM/P-NMP,G4064,Ephesians 4,312,12
+ἀνέμῳ,wind,N-DMS,G417,Ephesians 4,313,12
+διδασκαλίας,of teaching,N-GFS,G1319,Ephesians 4,314,12
+κυβείᾳ,cunning,N-DFS,G2940,Ephesians 4,315,12
+πανουργίᾳ,craftiness,N-DFS,G3834,Ephesians 4,316,12
+μεθοδείαν,scheming,N-AFS,G3180,Ephesians 4,317,12
+πλάνης,of deceit,N-GFS,G4106,Ephesians 4,318,12
+ἀληθεύοντες,Speaking the truth,V-PPA-NMP,G226,Ephesians 4,319,12
+συμβιβαζόμενον,being held together,V-PPM/P-NNS,G4822,Ephesians 4,320,12
+ἁφῆς,ligament,N-GFS,G860,Ephesians 4,321,12
+ἐπιχορηγίας,supply,N-GFS,G2024,Ephesians 4,322,12
+αὔξησιν,increase,N-AFS,G838,Ephesians 4,323,12
+ἑαυτοῦ,of itself,RefPro-GN3S,G1438,Ephesians 4,324,12
+μαρτύρομαι,testify,V-PIM/P-1S,G3143,Ephesians 4,325,12
+ματαιότητι,the futility,N-DFS,G3153,Ephesians 4,326,12
+νοὸς,mind,N-GMS,G3563,Ephesians 4,327,12
+ἐσκοτωμένοι,being darkened,V-RPM/P-NMP,G4656,Ephesians 4,328,12
+ζωῆς,life,N-GFS,G2222,Ephesians 4,329,12
+ἄγνοιαν,ignorance,N-AFS,G52,Ephesians 4,330,12
+πώρωσιν,hardness,N-AFS,G4457,Ephesians 4,331,12
+ἀπηλγηκότες,having cast off all feeling,V-RPA-NMP,G524,Ephesians 4,332,12
+παρέδωκαν,have given up,V-AIA-3P,G3860,Ephesians 4,333,12
+ἀσελγείᾳ,sensuality,N-DFS,G766,Ephesians 4,334,12
+ἐργασίαν,the working,N-AFS,G2039,Ephesians 4,335,12
+ἀκαθαρσίας,of impurity,N-GFS,G167,Ephesians 4,336,12
+πλεονεξίᾳ,greediness,N-DFS,G4124,Ephesians 4,337,12
+οὕτως,this way,Adv,G3779,Ephesians 4,338,12
+ἐμάθετε,learned,V-AIA-2P,G3129,Ephesians 4,339,12
+ἐδιδάχθητε,have been taught,V-AIP-2P,G1321,Ephesians 4,340,12
+ἀποθέσθαι,Are to have put off,V-ANM,G659,Ephesians 4,341,12
+προτέραν,former,Adj-AFS-C,G4386,Ephesians 4,342,12
+ἀναστροφὴν,way of life,N-AFS,G391,Ephesians 4,343,12
+παλαιὸν,old,Adj-AMS,G3820,Ephesians 4,344,12
+φθειρόμενον,is being corrupted,V-PPM/P-AMS,G5351,Ephesians 4,345,12
+ἀπάτης,of deceit,N-GFS,G539,Ephesians 4,346,12
+ἀνανεοῦσθαι,to be renewed,V-PNM/P,G365,Ephesians 4,347,12
+ἐνδύσασθαι,to have put on,V-ANM,G1746,Ephesians 4,348,12
+δικαιοσύνῃ,righteousness,N-DFS,G1343,Ephesians 4,349,12
+ὁσιότητι,holiness,N-DFS,G3742,Ephesians 4,350,12
+ψεῦδος,falsehood,N-ANS,G5579,Ephesians 4,351,12
+λαλεῖτε,let speak,V-PMA-2P,G2980,Ephesians 4,352,12
+πλησίον,neighbor,Adv,G4139,Ephesians 4,353,12
+μέλη,members,N-NNP,G3196,Ephesians 4,354,12
+Ὀργίζεσθε,Be angry,V-PMM/P-2P,G3710,Ephesians 4,355,12
+ἁμαρτάνετε,sin,V-PMA-2P,G264,Ephesians 4,356,12
+ἥλιος,sun,N-NMS,G2246,Ephesians 4,357,12
+ἐπιδυέτω,let set,V-PMA-3S,G1931,Ephesians 4,358,12
+παροργισμῷ,anger,N-DMS,G3950,Ephesians 4,359,12
+μηδὲ,neither,Conj,G3366,Ephesians 4,360,12
+τόπον,opportunity,N-AMS,G5117,Ephesians 4,361,12
+διαβόλῳ,devil,Adj-DMS,G1228,Ephesians 4,362,12
+κλέπτων,stealing,V-PPA-NMS,G2813,Ephesians 4,363,12
+μᾶλλον,rather,Adv,G3123,Ephesians 4,364,12
+κοπιάτω,let him toil,V-PMA-3S,G2872,Ephesians 4,365,12
+ἐργαζόμενος,working,V-PPM/P-NMS,G2038,Ephesians 4,366,12
+ἰδίαις,own,Adj-DFP,G2398,Ephesians 4,367,12
+χερσὶν,hands,N-DFP,G5495,Ephesians 4,368,12
+μεταδιδόναι,to impart,V-PNA,G3330,Ephesians 4,369,12
+χρείαν,need,N-AFS,G5532,Ephesians 4,370,12
+σαπρὸς,unwholesome,Adj-NMS,G4550,Ephesians 4,371,12
+στόματος,mouth,N-GNS,G4750,Ephesians 4,372,12
+ἐκπορευέσθω,let go forth,V-PMM/P-3S,G1607,Ephesians 4,373,12
+λυπεῖτε,grieve,V-PMA-2P,G3076,Ephesians 4,374,12
+ἡμέραν,the day,N-AFS,G2250,Ephesians 4,375,12
+πικρία,bitterness,N-NFS,G4088,Ephesians 4,376,12
+θυμὸς,rage,N-NMS,G2372,Ephesians 4,377,12
+κραυγὴ,clamor,N-NFS,G2906,Ephesians 4,378,12
+βλασφημία,slander,N-NFS,G988,Ephesians 4,379,12
+ἀρθήτω,let be removed,V-AMP-3S,G142,Ephesians 4,380,12
+κακίᾳ,malice,N-DFS,G2549,Ephesians 4,381,12
+χρηστοί,kind,Adj-NMP,G5543,Ephesians 4,382,12
+εὔσπλαγχνοι,tender-hearted,Adj-NMP,G2155,Ephesians 4,383,12
+χαριζόμενοι,forgiving,V-PPM/P-NMP,G5483,Ephesians 4,384,12
+μιμηταὶ,imitators,N-NMP,G3402,Ephesians 5,385,12
+ἀγαπητά,beloved,Adj-NNP,G27,Ephesians 5,386,12
+προσφορὰν,as an offering,N-AFS,G4376,Ephesians 5,387,12
+θυσίαν,a sacrifice,N-AFS,G2378,Ephesians 5,388,12
+ὀσμὴν,an aroma,N-AFS,G3744,Ephesians 5,389,12
+εὐωδίας,of a sweet smell,N-GFS,G2175,Ephesians 5,390,12
+Πορνεία,Sexual immorality,N-NFS,G4202,Ephesians 5,391,12
+πρέπει,is proper,V-PIA-3S,G4241,Ephesians 5,392,12
+αἰσχρότης,filthiness,N-NFS,G151,Ephesians 5,393,12
+μωρολογία,foolish talking,N-NFS,G3473,Ephesians 5,394,12
+εὐτραπελία,crude joking,N-NFS,G2160,Ephesians 5,395,12
+ἀνῆκεν,are fitting,V-IIA-3S,G433,Ephesians 5,396,12
+εὐχαριστία,thanksgiving,N-NFS,G2169,Ephesians 5,397,12
+πόρνος,fornicator,N-NMS,G4205,Ephesians 5,398,12
+ἀκάθαρτος,unclean person,Adj-NMS,G169,Ephesians 5,399,12
+πλεονέκτης,covetous man,N-NMS,G4123,Ephesians 5,400,12
+εἰδωλολάτρης,an idolater,N-NMS,G1496,Ephesians 5,401,12
+βασιλείᾳ,kingdom,N-DFS,G932,Ephesians 5,402,12
+Μηδεὶς,No one,Adj-NMS,G3367,Ephesians 5,403,12
+ἀπατάτω,let deceive,V-PMA-3S,G538,Ephesians 5,404,12
+κενοῖς,with empty,Adj-DMP,G2756,Ephesians 5,405,12
+σκότος,darkness,N-NNS,G4655,Ephesians 5,406,12
+φῶς,light,N-NNS,G5457,Ephesians 5,407,12
+καρπὸς,the fruit,N-NMS,G2590,Ephesians 5,408,12
+ἀγαθωσύνῃ,goodness,N-DFS,G19,Ephesians 5,409,12
+δοκιμάζοντες,discerning,V-PPA-NMP,G1381,Ephesians 5,410,12
+εὐάρεστον,well-pleasing,Adj-NNS,G2101,Ephesians 5,411,12
+συνκοινωνεῖτε,have fellowship with,V-PMA-2P,G4790,Ephesians 5,412,12
+ἀκάρποις,unfruitful,Adj-DNP,G175,Ephesians 5,413,12
+ἐλέγχετε,expose them,V-PMA-2P,G1651,Ephesians 5,414,12
+κρυφῇ,in secret,Adv,G2931,Ephesians 5,415,12
+αἰσχρόν,shameful,Adj-NNS,G150,Ephesians 5,416,12
+φανεροῦται,is made visible,V-PIM/P-3S,G5319,Ephesians 5,417,12
+καθεύδων,sleeping,V-PPA-VMS,G2518,Ephesians 5,418,12
+ἀνάστα,rise up,V-AMA-2S,G450,Ephesians 5,419,12
+ἐπιφαύσει,will shine upon,V-FIA-3S,G2017,Ephesians 5,420,12
+Βλέπετε,Take heed,V-PMA-2P,G991,Ephesians 5,421,12
+ἀκριβῶς,carefully,Adv,G199,Ephesians 5,422,12
+πῶς,how,Adv,G4459,Ephesians 5,423,12
+ἄσοφοι,unwise,Adj-NMP,G781,Ephesians 5,424,12
+σοφοί,wise,Adj-NMP,G4680,Ephesians 5,425,12
+ἐξαγοραζόμενοι,redeeming,V-PPM-NMP,G1805,Ephesians 5,426,12
+πονηραί,evil,Adj-NFP,G4190,Ephesians 5,427,12
+ἄφρονες,foolish,Adj-NMP,G878,Ephesians 5,428,12
+συνίετε,understand,V-PMA-2P,G4920,Ephesians 5,429,12
+μεθύσκεσθε,to be drunk,V-PMM/P-2P,G3182,Ephesians 5,430,12
+οἴνῳ,with wine,N-DMS,G3631,Ephesians 5,431,12
+ἀσωτία,debauchery,N-NFS,G810,Ephesians 5,432,12
+ψαλμοῖς,psalms,N-DMP,G5568,Ephesians 5,433,12
+ὕμνοις,hymns,N-DMP,G5215,Ephesians 5,434,12
+ᾠδαῖς,songs,N-DFP,G5603,Ephesians 5,435,12
+ᾄδοντες,singing,V-PPA-NMP,G103,Ephesians 5,436,12
+ψάλλοντες,making melody,V-PPA-NMP,G5567,Ephesians 5,437,12
+πάντοτε,at all times,Adv,G3842,Ephesians 5,438,12
+φόβῳ,reverence,N-DMS,G5401,Ephesians 5,439,12
+γυναῖκες,wives,N-VFP,G1135,Ephesians 5,440,12
+σωτὴρ,Savior,N-NMS,G4990,Ephesians 5,441,12
+ἁγιάσῃ,He might sanctify,V-ASA-3S,G37,Ephesians 5,442,12
+καθαρίσας,having cleansed her,V-APA-NMS,G2511,Ephesians 5,443,12
+λουτρῷ,washing,N-DNS,G3067,Ephesians 5,444,12
+ὕδατος,of water,N-GNS,G5204,Ephesians 5,445,12
+ῥήματι,the word,N-DNS,G4487,Ephesians 5,446,12
+παραστήσῃ,might present,V-ASA-3S,G3936,Ephesians 5,447,12
+ἔνδοξον,in glory,Adj-AFS,G1741,Ephesians 5,448,12
+σπίλον,spot,N-AMS,G4696,Ephesians 5,449,12
+ῥυτίδα,wrinkle,N-AFS,G4512,Ephesians 5,450,12
+τοιούτων,such things,DPro-GNP,G5108,Ephesians 5,451,12
+ὀφείλουσιν,ought,V-PIA-3P,G3784,Ephesians 5,452,12
+οὐδεὶς,No one,Adj-NMS,G3762,Ephesians 5,453,12
+ἐμίσησεν,hated,V-AIA-3S,G3404,Ephesians 5,454,12
+ἐκτρέφει,he nourishes,V-PIA-3S,G1625,Ephesians 5,455,12
+θάλπει,cherishes,V-PIA-3S,G2282,Ephesians 5,456,12
+αὐτοῦ,of him,PPro-GM3S,G847,Ephesians 5,457,12
+ὀστέων,bones,N-GNP,G3747,Ephesians 5,458,12
+Ἀντὶ,Because of,Prep,G473,Ephesians 5,459,12
+καταλείψει,will leave,V-FIA-3S,G2641,Ephesians 5,460,12
+μητέρα,mother,N-AFS,G3384,Ephesians 5,461,12
+προσκολληθήσεται,be joined,V-FIP-3S,G4347,Ephesians 5,462,12
+μέγα,great,Adj-NNS,G3173,Ephesians 5,463,12
+πλὴν,However,Conj,G4133,Ephesians 5,464,12
+φοβῆται,she may respect,V-PSM/P-3S,G5399,Ephesians 5,465,12
+ὑπακούετε,obey,V-PMA-2P,G5219,Ephesians 6,466,12
+γονεῦσιν,parents,N-DMP,G1118,Ephesians 6,467,12
+δίκαιον,right,Adj-NNS,G1342,Ephesians 6,468,12
+Τίμα,Honor,V-PMA-2S,G5091,Ephesians 6,469,12
+πρώτη,first,Adj-NFS,G4413,Ephesians 6,470,12
+εὖ,well,Adv,G2095,Ephesians 6,471,12
+μακροχρόνιος,long-lived,Adj-NMS,G3118,Ephesians 6,472,12
+παροργίζετε,provoke,V-PMA-2P,G3949,Ephesians 6,473,12
+παιδείᾳ,the discipline,N-DFS,G3809,Ephesians 6,474,12
+νουθεσίᾳ,admonition,N-DFS,G3559,Ephesians 6,475,12
+δοῦλοι,Slaves,N-VMP,G1401,Ephesians 6,476,12
+τρόμου,trembling,N-GMS,G5156,Ephesians 6,477,12
+ἁπλότητι,sincerity,N-DFS,G572,Ephesians 6,478,12
+ὀφθαλμοδουλίαν,eye-service,N-AFS,G3787,Ephesians 6,479,12
+ἀνθρωπάρεσκοι,men-pleasers,Adj-NMP,G441,Ephesians 6,480,12
+ψυχῆς,the heart,N-GFS,G5590,Ephesians 6,481,12
+εὐνοίας,good will,N-GFS,G2133,Ephesians 6,482,12
+δουλεύοντες,rendering service,V-PPA-NMP,G1398,Ephesians 6,483,12
+ἐάν,if,Conj,G1437,Ephesians 6,484,12
+κομίσεται,he will receive back,V-FIM-3S,G2865,Ephesians 6,485,12
+παρὰ,from,Prep,G3844,Ephesians 6,486,12
+εἴτε,whether,Conj,G1535,Ephesians 6,487,12
+ἐλεύθερος,free,Adj-NMS,G1658,Ephesians 6,488,12
+ἀνιέντες,giving up,V-PPA-NMP,G447,Ephesians 6,489,12
+ἀπειλήν,threatening,N-AFS,G547,Ephesians 6,490,12
+προσωπολημψία,partiality,N-NFS,G4382,Ephesians 6,491,12
+λοιποῦ,Henceforth,Adj-GNS,G3064,Ephesians 6,492,12
+ἐνδυναμοῦσθε,be empowered,V-PMM/P-2P,G1743,Ephesians 6,493,12
+πανοπλίαν,complete armor,N-AFS,G3833,Ephesians 6,494,12
+στῆναι,to stand,V-ANA,G2476,Ephesians 6,495,12
+πάλη,wrestling,N-NFS,G3823,Ephesians 6,496,12
+κοσμοκράτορας,cosmic powers,N-AMP,G2888,Ephesians 6,497,12
+πονηρίας,of evil,N-GFS,G4189,Ephesians 6,498,12
+ἀναλάβετε,take up,V-AMA-2P,G353,Ephesians 6,499,12
+ἀντιστῆναι,to withstand,V-ANA,G436,Ephesians 6,500,12
+ἅπαντα,all things,Adj-ANP,G537,Ephesians 6,501,12
+κατεργασάμενοι,having done,V-APM-NMP,G2716,Ephesians 6,502,12
+περιζωσάμενοι,having girded,V-APM-NMP,G4024,Ephesians 6,503,12
+ὀσφὺν,loins,N-AFS,G3751,Ephesians 6,504,12
+θώρακα,breastplate,N-AMS,G2382,Ephesians 6,505,12
+ὑποδησάμενοι,having shod,V-APM-NMP,G5265,Ephesians 6,506,12
+ἑτοιμασίᾳ,the readiness,N-DFS,G2091,Ephesians 6,507,12
+θυρεὸν,shield,N-AMS,G2375,Ephesians 6,508,12
+βέλη,arrows,N-ANP,G956,Ephesians 6,509,12
+πεπυρωμένα,flaming,V-RPM/P-ANP,G4448,Ephesians 6,510,12
+σβέσαι,to quench,V-ANA,G4570,Ephesians 6,511,12
+περικεφαλαίαν,helmet,N-AFS,G4030,Ephesians 6,512,12
+σωτηρίου,of salvation,Adj-GNS,G4992,Ephesians 6,513,12
+δέξασθε,take,V-AMM-2P,G1209,Ephesians 6,514,12
+μάχαιραν,sword,N-AFS,G3162,Ephesians 6,515,12
+δεήσεως,supplication,N-GFS,G1162,Ephesians 6,516,12
+προσευχόμενοι,praying,V-PPM/P-NMP,G4336,Ephesians 6,517,12
+ἀγρυπνοῦντες,watching,V-PPA-NMP,G69,Ephesians 6,518,12
+προσκαρτερήσει,perseverance,N-DFS,G4343,Ephesians 6,519,12
+περὶ,for,Prep,G4012,Ephesians 6,520,12
+ἀνοίξει,the opening,N-DFS,G457,Ephesians 6,521,12
+πρεσβεύω,I am an ambassador,V-PIA-1S,G4243,Ephesians 6,522,12
+ἁλύσει,a chain,N-DFS,G254,Ephesians 6,523,12
+παρρησιάσωμαι,I may be bold,V-ASM-1S,G3955,Ephesians 6,524,12
+δεῖ,it behooves,V-PIA-3S,G1163,Ephesians 6,525,12
+πράσσω,I am doing,V-PIA-1S,G4238,Ephesians 6,526,12
+Τυχικὸς,Tychicus,N-NMS,G5190,Ephesians 6,527,12
+ἀδελφὸς,brother,N-NMS,G80,Ephesians 6,528,12
+ἔπεμψα,I have sent,V-AIA-1S,G3992,Ephesians 6,529,12
+ἀφθαρσίᾳ,incorruptibility,N-DFS,G861,Ephesians 6,530,12

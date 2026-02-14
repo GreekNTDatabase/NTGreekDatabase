@@ -2,199 +2,240 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Greek New Testament Vocabulary</title>
-
-  <style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biblical Language Vocabulary Database</title>
+  <style>    *,*::before,*::after{box-sizing:border-box}
     body {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 2.5rem 1rem;
-      color: #111;
-      background: #fff;
+      line-height: 1.6; margin: 0; padding: 0;
+      color: #111; background: #fff;
     }
-
-    .container {
-      max-width: 760px;
-      margin: 0 auto;
+    nav {
+      background: #1a1a2e; padding: 0.75rem 1.5rem;
+      display: flex; gap: 1.5rem; flex-wrap: wrap;
     }
-
-    h1 {
-      font-size: 2.1rem;
-      margin-bottom: 0.5rem;
+    nav a {
+      color: #ccc; text-decoration: none; font-size: 0.95rem;
+      padding: 0.25rem 0;
     }
-
-    h2 {
-      font-size: 1.5rem;
-      margin-top: 2.5rem;
-      margin-bottom: 0.75rem;
+    nav a:hover, nav a.active { color: #fff; }
+    nav a.active { border-bottom: 2px solid #6c9bd2; }
+    .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.5rem; margin-top: 2.5rem; margin-bottom: 0.75rem;
+         padding-bottom: 0.4rem; border-bottom: 1px solid #e0e0e0; }
+    h3 { font-size: 1.15rem; margin-top: 1.75rem; margin-bottom: 0.5rem; }
+    p { margin: 0.75rem 0; }
+    a { color: #0645ad; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .subtitle { color: #555; font-size: 1.05rem; margin-top: 0; }
+    .stats-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem; margin: 1.5rem 0;
     }
-
-    h3 {
-      font-size: 1.15rem;
-      margin-top: 1.5rem;
-      margin-bottom: 0.5rem;
+    .stat-card {
+      background: #f8f9fa; border-radius: 6px; padding: 1.25rem;
+      text-align: center; border: 1px solid #e9ecef;
     }
-
-    p {
-      margin: 0.75rem 0;
+    .stat-card .number { font-size: 1.8rem; font-weight: 700; color: #1a1a2e; }
+    .stat-card .label { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
+    .corpus-cards {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem; margin: 2rem 0;
     }
-
-    a {
+    .corpus-card {
+      border: 1px solid #ddd; border-radius: 8px; padding: 1.75rem;
+      transition: box-shadow 0.2s;
+    }
+    .corpus-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .corpus-card h3 { margin-top: 0; font-size: 1.3rem; }
+    .corpus-card .meta { color: #555; font-size: 0.9rem; margin: 0.5rem 0; }
+    .corpus-card .cta {
+      display: inline-block; margin-top: 0.75rem;
+      color: #0645ad; font-weight: 600;
+    }
+    .downloads-box {
+      background: #f8f9fa; padding: 1.25rem 1.5rem;
+      border-radius: 6px; margin: 1rem 0;
+    }
+    .downloads-box ul { margin: 0.5rem 0 0.5rem 1.2rem; }
+    .downloads-box li { margin: 0.4rem 0; }
+    table {
+      width: 100%; border-collapse: collapse; margin: 1rem 0;
+      font-size: 0.88rem;
+    }
+    th, td { padding: 0.5rem 0.65rem; text-align: left; border-bottom: 1px solid #e9ecef; }
+    th {
+      background: #f8f9fa; font-weight: 600; position: sticky; top: 0;
+      cursor: pointer; user-select: none; white-space: nowrap;
+    }
+    th:hover { background: #e9ecef; }
+    th .sort-arrow { font-size: 0.7rem; margin-left: 0.3rem; color: #999; }
+    tr:hover { background: #f8f9fa; }
+    td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .pct-bar {
+      display: inline-block; height: 6px; border-radius: 3px;
+      background: #6c9bd2; vertical-align: middle; margin-left: 0.4rem;
+    }
+    .table-wrap { overflow-x: auto; margin: 1rem 0; }
+    .dl-link { font-size: 0.82rem; white-space: nowrap; }
+    .dl-link a { margin-right: 0.5rem; }
+    .strategy-label {
+      display: inline-block; background: #1a1a2e; color: #fff;
+      font-size: 0.75rem; font-weight: 700; padding: 0.15rem 0.6rem;
+      border-radius: 3px; letter-spacing: 0.03em; vertical-align: middle;
+    }
+    .highlight-box {
+      background: #e8f4f8; border-left: 4px solid #6c9bd2;
+      padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0;
+    }
+    .comparison-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 1.5rem; margin: 1.5rem 0;
+    }
+    @media (max-width: 700px) {
+      .comparison-grid { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: 1fr 1fr; }
+    }
+    .toggle-btn {
+      background: none; border: 1px solid #ccc; border-radius: 4px;
+      padding: 0.4rem 0.8rem; cursor: pointer; font-size: 0.85rem;
+      color: #333; margin: 0.5rem 0;
+    }
+    .toggle-btn:hover { background: #f0f0f0; }
+    details { margin: 0.5rem 0; }
+    details summary {
+      cursor: pointer; font-weight: 600; padding: 0.5rem 0;
       color: #0645ad;
-      text-decoration: none;
     }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .downloads {
-      background: #f8f9fa;
-      padding: 1.25rem 1.5rem;
-      border-radius: 6px;
-      margin-top: 2rem;
-    }
-
-    .downloads ul {
-      margin-left: 1.2rem;
-    }
-
+    details summary:hover { text-decoration: underline; }
     footer {
-      margin-top: 3rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid #ddd;
+      margin-top: 3rem; padding-top: 1.5rem;
+      border-top: 1px solid #ddd; font-size: 0.85rem; color: #666;
     }
-
-    small {
-      color: #555;
-    }
-  </style>
+    footer a { color: #0645ad; }
+    small { color: #555; }
+</style>
 </head>
-
 <body>
-  <div class="container">
+<nav><a href="index.html" class="active">Home</a><a href="greek-nt.html">Greek NT</a><a href="hebrew-ot.html">Hebrew OT</a><a href="about.html">About</a></nav>
+<div class="container">
 
-    <h1>Greek New Testament Vocabulary</h1>
+<h1>Biblical Language Vocabulary Database</h1>
+<p class="subtitle">Structured vocabulary datasets for studying the Greek New Testament
+and Hebrew Old Testament, optimized for language learners.</p>
 
-    <p>
-      Clean, structured Greek New Testament vocabulary datasets for study,
-      flashcards, and research.
-    </p>
-
-    <h2>About This Project</h2>
-
-    <p>
-      This project began as a personal learning tool while studying New Testament
-      Greek. It brings together an interest in data aggregation, spreadsheets,
-      and structured workflows with a desire to read the New Testament more
-      carefully and learn more about Jesus through the original language.
-    </p>
-
-    <p>
-      Once the dataset was complete, stable, and internally consistent, it was
-      published openly so others could benefit from the same learner-first
-      workflow.
-    </p>
-
-    <p>
-      One set of datasets follows the reading order recommended in
-      <strong><em>Greek for Life: Strategies for Learning, Retaining, and Reviving New Testament Greek</em></strong>
-      by Jonathan T. Pennington.
-    </p>
-
-    <p>
-      <a href="https://www.amazon.com/Greek-Life-Strategies-Retaining-Testament/dp/0801093201/"
-         target="_blank" rel="noopener">
-        Greek for Life (Amazon)
-      </a>
-    </p>
-
-    <h2>How to Use These Files</h2>
-
-    <p>
-      These CSV files are designed to be imported directly into spreadsheet
-      software or flashcard applications. Many learners use the
-      <strong>Unique Forms</strong> datasets to generate vocabulary decks while
-      reading the text in sequence.
-    </p>
-
-    <p>
-      The <strong>All Occurrences</strong> datasets preserve repetition and are
-      useful for studying frequency, reinforcement patterns, or computational
-      analysis.
-    </p>
-
-    <h2>Future Direction</h2>
-
-    <p>
-      Future expansions may include Hebrew Old Testament and Septuagint datasets
-      built with the same emphasis on openness, reproducibility, and learner-first
-      design.
-    </p>
-
-    <h2>Downloads</h2>
-
-    <div class="downloads">
-
-      <h3>Canonical Order</h3>
-      <ul>
-        <li>
-          <a href="data/canonical-order/unique/nt_unique_canonical_order.csv" download>
-            Unique Forms
-          </a><br>
-          <small>
-            Each Greek word form appears once, based on its first occurrence in
-            the traditional New Testament order.
-          </small>
-        </li>
-        <li>
-          <a href="data/canonical-order/all/nt_all_canonical_order.csv" download>
-            All Occurrences
-          </a>
-        </li>
-      </ul>
-
-      <h3>Reading Order (Greek for Life)</h3>
-      <ul>
-        <li>
-          <a href="data/reading-order/unique/nt_unique_reading_order.csv" download>
-            Unique Forms
-          </a><br>
-          <small>
-            Each Greek word form appears once, introduced in the order it is first
-            encountered using the Greek for Life reading sequence.
-          </small>
-        </li>
-        <li>
-          <a href="data/reading-order/all/nt_all_reading_order.csv" download>
-            All Occurrences
-          </a>
-        </li>
-      </ul>
-
-    </div>
-
-    <footer>
-      <p>
-        <small>
-          Files are provided as UTF-8 CSV. Download and open in Excel, LibreOffice,
-          or a flashcard application for proper formatting.
-        </small>
-      </p>
-
-      <p>
-        <small>
-          Optional support is available via
-          <a href="https://github.com/sponsors/GreekNTDatabase">GitHub Sponsors</a>.
-        </small>
-      </p>
-
-      <p>
-        <small>Licensed CC BY 4.0</small>
-      </p>
-    </footer>
-
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="number">2</div>
+    <div class="label">Corpora</div>
   </div>
+  <div class="stat-card">
+    <div class="number">66</div>
+    <div class="label">Biblical Books</div>
+  </div>
+  <div class="stat-card">
+    <div class="number">353,000+</div>
+    <div class="label">Total Tokens</div>
+  </div>
+  <div class="stat-card">
+    <div class="number">13,700+</div>
+    <div class="label">Unique Lemmas</div>
+  </div>
+</div>
+
+<div class="corpus-cards">
+  <div class="corpus-card">
+    <h3>Greek New Testament</h3>
+    <p class="meta">27 books &middot; 78,419 tokens &middot; 5,349 unique lemmas</p>
+    <p>Complete vocabulary of the Greek NT with morphological parsing,
+    Strong's numbers, and interlinear translations. Includes two
+    computationally optimized reading orders for gradual vocabulary acquisition.</p>
+    <a class="cta" href="greek-nt.html">Explore Greek NT &rarr;</a>
+  </div>
+  <div class="corpus-card">
+    <h3>Hebrew Old Testament</h3>
+    <p class="meta">39 books &middot; 275,993 tokens &middot; 8,399 unique lemmas</p>
+    <p>Complete vocabulary of the Hebrew OT with transliteration, parsing,
+    Strong's numbers, and English glosses. Includes two optimized reading
+    orders designed for progressive vocabulary building.</p>
+    <a class="cta" href="hebrew-ot.html">Explore Hebrew OT &rarr;</a>
+  </div>
+</div>
+
+<h2>What Makes This Project Different</h2>
+
+<p>Most biblical language resources present vocabulary in frequency-sorted lists
+   or in canonical book order. This project adds a data-driven approach:
+   <strong>computationally optimized reading orders</strong> that minimize
+   the vocabulary burden at each step.</p>
+
+<p>Two greedy algorithms produce two strategies:</p>
+
+<div class="comparison-grid">
+  <div class="highlight-box">
+    <strong>Strategy A &mdash; Minimal New Vocabulary</strong><br>
+    At each step, read the book that introduces the fewest new words.
+    Ideal for steady, incremental vocabulary growth.
+  </div>
+  <div class="highlight-box">
+    <strong>Strategy B &mdash; Maximum Readability</strong><br>
+    At each step, read the book where you already know the highest
+    percentage of the vocabulary. Ideal for reading comprehension.
+  </div>
+</div>
+
+<p>Every dataset is available as a downloadable CSV, ready for spreadsheets,
+   flashcard apps (Anki, Quizlet), or computational analysis.</p>
+
+<h2>How to Use These Files</h2>
+
+<p>All files are UTF-8 CSV format. Open them in Excel, Google Sheets,
+   LibreOffice, or import into flashcard applications.</p>
+
+<ul>
+  <li><strong>Full CSVs</strong> &mdash; every token (word occurrence) in reading order</li>
+  <li><strong>Unique CSVs</strong> &mdash; first occurrence of each lemma only, ideal for vocabulary decks</li>
+  <li><strong>New CSVs</strong> &mdash; only lemmas that are new at that point in the reading sequence</li>
+</ul>
+
+<footer>
+  <p>Files are provided as UTF-8 CSV. Download and open in Excel, LibreOffice,
+     or a flashcard application.</p>
+  <p>Licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+     Source on <a href="https://github.com/GreekNTDatabase/NTGreekDatabase">GitHub</a>.</p>
+</footer>
+</div>
+<script>function sortTable(table, col, type) {
+  var tbody = table.querySelector('tbody');
+  var rows = Array.from(tbody.querySelectorAll('tr'));
+  var asc = table.getAttribute('data-sort-col') == col
+            && table.getAttribute('data-sort-dir') == 'asc' ? false : true;
+  rows.sort(function(a, b) {
+    var av = a.cells[col].getAttribute('data-v') || a.cells[col].textContent.trim();
+    var bv = b.cells[col].getAttribute('data-v') || b.cells[col].textContent.trim();
+    if (type === 'num') { av = parseFloat(av) || 0; bv = parseFloat(bv) || 0; }
+    if (av < bv) return asc ? -1 : 1;
+    if (av > bv) return asc ? 1 : -1;
+    return 0;
+  });
+  rows.forEach(function(r) { tbody.appendChild(r); });
+  table.setAttribute('data-sort-col', col);
+  table.setAttribute('data-sort-dir', asc ? 'asc' : 'desc');
+  // Update arrows
+  table.querySelectorAll('th .sort-arrow').forEach(function(s) { s.textContent = '\u2195'; });
+  var arrow = table.querySelectorAll('th')[col].querySelector('.sort-arrow');
+  if (arrow) arrow.textContent = asc ? '\u25B2' : '\u25BC';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('table.sortable th').forEach(function(th, i) {
+    th.addEventListener('click', function() {
+      var table = th.closest('table');
+      var type = th.getAttribute('data-type') || 'str';
+      sortTable(table, i, type);
+    });
+  });
+});
+</script>
 </body>
 </html>

@@ -1,0 +1,1437 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Greek New Testament — Biblical Language Vocabulary Database</title>
+  <style>    *,*::before,*::after{box-sizing:border-box}
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6; margin: 0; padding: 0;
+      color: #111; background: #fff;
+    }
+    nav {
+      background: #1a1a2e; padding: 0.75rem 1.5rem;
+      display: flex; gap: 1.5rem; flex-wrap: wrap;
+    }
+    nav a {
+      color: #ccc; text-decoration: none; font-size: 0.95rem;
+      padding: 0.25rem 0;
+    }
+    nav a:hover, nav a.active { color: #fff; }
+    nav a.active { border-bottom: 2px solid #6c9bd2; }
+    .container { max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }
+    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+    h2 { font-size: 1.5rem; margin-top: 2.5rem; margin-bottom: 0.75rem;
+         padding-bottom: 0.4rem; border-bottom: 1px solid #e0e0e0; }
+    h3 { font-size: 1.15rem; margin-top: 1.75rem; margin-bottom: 0.5rem; }
+    p { margin: 0.75rem 0; }
+    a { color: #0645ad; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .subtitle { color: #555; font-size: 1.05rem; margin-top: 0; }
+    .stats-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem; margin: 1.5rem 0;
+    }
+    .stat-card {
+      background: #f8f9fa; border-radius: 6px; padding: 1.25rem;
+      text-align: center; border: 1px solid #e9ecef;
+    }
+    .stat-card .number { font-size: 1.8rem; font-weight: 700; color: #1a1a2e; }
+    .stat-card .label { font-size: 0.85rem; color: #666; margin-top: 0.25rem; }
+    .corpus-cards {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem; margin: 2rem 0;
+    }
+    .corpus-card {
+      border: 1px solid #ddd; border-radius: 8px; padding: 1.75rem;
+      transition: box-shadow 0.2s;
+    }
+    .corpus-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .corpus-card h3 { margin-top: 0; font-size: 1.3rem; }
+    .corpus-card .meta { color: #555; font-size: 0.9rem; margin: 0.5rem 0; }
+    .corpus-card .cta {
+      display: inline-block; margin-top: 0.75rem;
+      color: #0645ad; font-weight: 600;
+    }
+    .downloads-box {
+      background: #f8f9fa; padding: 1.25rem 1.5rem;
+      border-radius: 6px; margin: 1rem 0;
+    }
+    .downloads-box ul { margin: 0.5rem 0 0.5rem 1.2rem; }
+    .downloads-box li { margin: 0.4rem 0; }
+    table {
+      width: 100%; border-collapse: collapse; margin: 1rem 0;
+      font-size: 0.88rem;
+    }
+    th, td { padding: 0.5rem 0.65rem; text-align: left; border-bottom: 1px solid #e9ecef; }
+    th {
+      background: #f8f9fa; font-weight: 600; position: sticky; top: 0;
+      cursor: pointer; user-select: none; white-space: nowrap;
+    }
+    th:hover { background: #e9ecef; }
+    th .sort-arrow { font-size: 0.7rem; margin-left: 0.3rem; color: #999; }
+    tr:hover { background: #f8f9fa; }
+    td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .pct-bar {
+      display: inline-block; height: 6px; border-radius: 3px;
+      background: #6c9bd2; vertical-align: middle; margin-left: 0.4rem;
+    }
+    .table-wrap { overflow-x: auto; margin: 1rem 0; }
+    .dl-link { font-size: 0.82rem; white-space: nowrap; }
+    .dl-link a { margin-right: 0.5rem; }
+    .strategy-label {
+      display: inline-block; background: #1a1a2e; color: #fff;
+      font-size: 0.75rem; font-weight: 700; padding: 0.15rem 0.6rem;
+      border-radius: 3px; letter-spacing: 0.03em; vertical-align: middle;
+    }
+    .highlight-box {
+      background: #e8f4f8; border-left: 4px solid #6c9bd2;
+      padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0;
+    }
+    .comparison-grid {
+      display: grid; grid-template-columns: 1fr 1fr;
+      gap: 1.5rem; margin: 1.5rem 0;
+    }
+    @media (max-width: 700px) {
+      .comparison-grid { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: 1fr 1fr; }
+    }
+    .toggle-btn {
+      background: none; border: 1px solid #ccc; border-radius: 4px;
+      padding: 0.4rem 0.8rem; cursor: pointer; font-size: 0.85rem;
+      color: #333; margin: 0.5rem 0;
+    }
+    .toggle-btn:hover { background: #f0f0f0; }
+    details { margin: 0.5rem 0; }
+    details summary {
+      cursor: pointer; font-weight: 600; padding: 0.5rem 0;
+      color: #0645ad;
+    }
+    details summary:hover { text-decoration: underline; }
+    footer {
+      margin-top: 3rem; padding-top: 1.5rem;
+      border-top: 1px solid #ddd; font-size: 0.85rem; color: #666;
+    }
+    footer a { color: #0645ad; }
+    small { color: #555; }
+</style>
+</head>
+<body>
+<nav><a href="index.html">Home</a><a href="greek-nt.html" class="active">Greek NT</a><a href="hebrew-ot.html">Hebrew OT</a><a href="about.html">About</a></nav>
+<div class="container">
+
+<h1>Greek New Testament</h1>
+<p class="subtitle">Complete Greek vocabulary with morphological parsing,
+   Strong's numbers, and optimized reading orders.</p>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="number">27</div>
+    <div class="label">Books</div>
+  </div>
+  <div class="stat-card">
+    <div class="number">78,419</div>
+    <div class="label">Total Tokens</div>
+  </div>
+  <div class="stat-card">
+    <div class="number">5,349</div>
+    <div class="label">Unique Lemmas</div>
+  </div>
+  <div class="stat-card">
+    <div class="number">Luke</div>
+    <div class="label">Optimal Starting Book</div>
+  </div>
+</div>
+
+<h2>Optimized Reading Order Analysis</h2>
+
+<p>Both strategies start with <strong>Luke</strong>, which covers
+   2,038 unique lemmas (38.1% of the total Greek NT vocabulary)
+   and has the highest overlap with the most frequent words across the corpus.</p>
+
+<div class="highlight-box">
+  <strong>Key insight:</strong> By reading Luke first, you learn vocabulary
+  that recurs throughout the entire Greek NT &mdash; giving you maximum
+  return on your study investment from day one.
+</div>
+
+<h3><span class="strategy-label">A</span> Strategy A &mdash; Minimal New Vocabulary</h3>
+
+<p>At each step, pick the book that introduces the fewest new lemmas.
+   This keeps vocabulary growth as gradual as possible.</p>
+
+<div class="table-wrap">
+<table class="sortable" id="table-a">
+<thead><tr>
+  <th data-type="num">#<span class="sort-arrow">&#x2195;</span></th>
+  <th>Book<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">Unique Lemmas<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">New Lemmas<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">Cumulative<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">% of Total Vocabulary<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">% Already Known<span class="sort-arrow">&#x2195;</span></th>
+</tr></thead>
+<tbody>
+<tr>
+  <td class="num" data-v="1">1</td>
+  <td>Luke</td>
+  <td class="num" data-v="2038">2,038</td>
+  <td class="num" data-v="2038">2,038</td>
+  <td class="num" data-v="2038">2,038</td>
+  <td class="num" data-v="38.1">38.1%</td>
+  <td class="num" data-v="0.0">0.0%<span class="pct-bar" style="width:0.0px"></span></td>
+</tr><tr>
+  <td class="num" data-v="2">2</td>
+  <td>2 John</td>
+  <td class="num" data-v="96">96</td>
+  <td class="num" data-v="6">6</td>
+  <td class="num" data-v="2044">2,044</td>
+  <td class="num" data-v="38.21">38.2%</td>
+  <td class="num" data-v="93.75">93.8%<span class="pct-bar" style="width:56.25px"></span></td>
+</tr><tr>
+  <td class="num" data-v="3">3</td>
+  <td>3 John</td>
+  <td class="num" data-v="108">108</td>
+  <td class="num" data-v="16">16</td>
+  <td class="num" data-v="2060">2,060</td>
+  <td class="num" data-v="38.51">38.5%</td>
+  <td class="num" data-v="85.19">85.2%<span class="pct-bar" style="width:51.114px"></span></td>
+</tr><tr>
+  <td class="num" data-v="4">4</td>
+  <td>1 John</td>
+  <td class="num" data-v="238">238</td>
+  <td class="num" data-v="37">37</td>
+  <td class="num" data-v="2097">2,097</td>
+  <td class="num" data-v="39.2">39.2%</td>
+  <td class="num" data-v="84.45">84.5%<span class="pct-bar" style="width:50.67px"></span></td>
+</tr><tr>
+  <td class="num" data-v="5">5</td>
+  <td>Philemon</td>
+  <td class="num" data-v="141">141</td>
+  <td class="num" data-v="35">35</td>
+  <td class="num" data-v="2132">2,132</td>
+  <td class="num" data-v="39.86">39.9%</td>
+  <td class="num" data-v="75.18">75.2%<span class="pct-bar" style="width:45.108000000000004px"></span></td>
+</tr><tr>
+  <td class="num" data-v="6">6</td>
+  <td>2 Thessalonians</td>
+  <td class="num" data-v="252">252</td>
+  <td class="num" data-v="52">52</td>
+  <td class="num" data-v="2184">2,184</td>
+  <td class="num" data-v="40.83">40.8%</td>
+  <td class="num" data-v="79.37">79.4%<span class="pct-bar" style="width:47.622px"></span></td>
+</tr><tr>
+  <td class="num" data-v="7">7</td>
+  <td>Jude</td>
+  <td class="num" data-v="226">226</td>
+  <td class="num" data-v="65">65</td>
+  <td class="num" data-v="2249">2,249</td>
+  <td class="num" data-v="42.05">42.0%</td>
+  <td class="num" data-v="71.24">71.2%<span class="pct-bar" style="width:42.74399999999999px"></span></td>
+</tr><tr>
+  <td class="num" data-v="8">8</td>
+  <td>1 Thessalonians</td>
+  <td class="num" data-v="362">362</td>
+  <td class="num" data-v="76">76</td>
+  <td class="num" data-v="2325">2,325</td>
+  <td class="num" data-v="43.47">43.5%</td>
+  <td class="num" data-v="79.01">79.0%<span class="pct-bar" style="width:47.406px"></span></td>
+</tr><tr>
+  <td class="num" data-v="9">9</td>
+  <td>Titus</td>
+  <td class="num" data-v="301">301</td>
+  <td class="num" data-v="102">102</td>
+  <td class="num" data-v="2427">2,427</td>
+  <td class="num" data-v="45.37">45.4%</td>
+  <td class="num" data-v="66.11">66.1%<span class="pct-bar" style="width:39.666px"></span></td>
+</tr><tr>
+  <td class="num" data-v="10">10</td>
+  <td>2 Peter</td>
+  <td class="num" data-v="397">397</td>
+  <td class="num" data-v="117">117</td>
+  <td class="num" data-v="2544">2,544</td>
+  <td class="num" data-v="47.56">47.6%</td>
+  <td class="num" data-v="70.53">70.5%<span class="pct-bar" style="width:42.318px"></span></td>
+</tr><tr>
+  <td class="num" data-v="11">11</td>
+  <td>Colossians</td>
+  <td class="num" data-v="433">433</td>
+  <td class="num" data-v="112">112</td>
+  <td class="num" data-v="2656">2,656</td>
+  <td class="num" data-v="49.65">49.6%</td>
+  <td class="num" data-v="74.13">74.1%<span class="pct-bar" style="width:44.477999999999994px"></span></td>
+</tr><tr>
+  <td class="num" data-v="12">12</td>
+  <td>Ephesians</td>
+  <td class="num" data-v="530">530</td>
+  <td class="num" data-v="104">104</td>
+  <td class="num" data-v="2760">2,760</td>
+  <td class="num" data-v="51.6">51.6%</td>
+  <td class="num" data-v="80.38">80.4%<span class="pct-bar" style="width:48.227999999999994px"></span></td>
+</tr><tr>
+  <td class="num" data-v="13">13</td>
+  <td>Philippians</td>
+  <td class="num" data-v="448">448</td>
+  <td class="num" data-v="94">94</td>
+  <td class="num" data-v="2854">2,854</td>
+  <td class="num" data-v="53.36">53.4%</td>
+  <td class="num" data-v="79.02">79.0%<span class="pct-bar" style="width:47.412px"></span></td>
+</tr><tr>
+  <td class="num" data-v="14">14</td>
+  <td>Galatians</td>
+  <td class="num" data-v="520">520</td>
+  <td class="num" data-v="96">96</td>
+  <td class="num" data-v="2950">2,950</td>
+  <td class="num" data-v="55.15">55.1%</td>
+  <td class="num" data-v="81.54">81.5%<span class="pct-bar" style="width:48.924px"></span></td>
+</tr><tr>
+  <td class="num" data-v="15">15</td>
+  <td>2 Timothy</td>
+  <td class="num" data-v="456">456</td>
+  <td class="num" data-v="123">123</td>
+  <td class="num" data-v="3073">3,073</td>
+  <td class="num" data-v="57.45">57.5%</td>
+  <td class="num" data-v="73.03">73.0%<span class="pct-bar" style="width:43.818px"></span></td>
+</tr><tr>
+  <td class="num" data-v="16">16</td>
+  <td>James</td>
+  <td class="num" data-v="556">556</td>
+  <td class="num" data-v="121">121</td>
+  <td class="num" data-v="3194">3,194</td>
+  <td class="num" data-v="59.71">59.7%</td>
+  <td class="num" data-v="78.24">78.2%<span class="pct-bar" style="width:46.943999999999996px"></span></td>
+</tr><tr>
+  <td class="num" data-v="17">17</td>
+  <td>1 Peter</td>
+  <td class="num" data-v="543">543</td>
+  <td class="num" data-v="119">119</td>
+  <td class="num" data-v="3313">3,313</td>
+  <td class="num" data-v="61.94">61.9%</td>
+  <td class="num" data-v="78.08">78.1%<span class="pct-bar" style="width:46.848px"></span></td>
+</tr><tr>
+  <td class="num" data-v="18">18</td>
+  <td>1 Timothy</td>
+  <td class="num" data-v="538">538</td>
+  <td class="num" data-v="113">113</td>
+  <td class="num" data-v="3426">3,426</td>
+  <td class="num" data-v="64.05">64.0%</td>
+  <td class="num" data-v="79.0">79.0%<span class="pct-bar" style="width:47.4px"></span></td>
+</tr><tr>
+  <td class="num" data-v="19">19</td>
+  <td>2 Corinthians</td>
+  <td class="num" data-v="785">785</td>
+  <td class="num" data-v="158">158</td>
+  <td class="num" data-v="3584">3,584</td>
+  <td class="num" data-v="67.0">67.0%</td>
+  <td class="num" data-v="79.87">79.9%<span class="pct-bar" style="width:47.922000000000004px"></span></td>
+</tr><tr>
+  <td class="num" data-v="20">20</td>
+  <td>1 Corinthians</td>
+  <td class="num" data-v="956">956</td>
+  <td class="num" data-v="160">160</td>
+  <td class="num" data-v="3744">3,744</td>
+  <td class="num" data-v="69.99">70.0%</td>
+  <td class="num" data-v="83.26">83.3%<span class="pct-bar" style="width:49.956px"></span></td>
+</tr><tr>
+  <td class="num" data-v="21">21</td>
+  <td>Romans</td>
+  <td class="num" data-v="1060">1,060</td>
+  <td class="num" data-v="179">179</td>
+  <td class="num" data-v="3923">3,923</td>
+  <td class="num" data-v="73.34">73.3%</td>
+  <td class="num" data-v="83.11">83.1%<span class="pct-bar" style="width:49.866px"></span></td>
+</tr><tr>
+  <td class="num" data-v="22">22</td>
+  <td>John</td>
+  <td class="num" data-v="1023">1,023</td>
+  <td class="num" data-v="183">183</td>
+  <td class="num" data-v="4106">4,106</td>
+  <td class="num" data-v="76.76">76.8%</td>
+  <td class="num" data-v="82.11">82.1%<span class="pct-bar" style="width:49.266px"></span></td>
+</tr><tr>
+  <td class="num" data-v="23">23</td>
+  <td>Revelation</td>
+  <td class="num" data-v="911">911</td>
+  <td class="num" data-v="172">172</td>
+  <td class="num" data-v="4278">4,278</td>
+  <td class="num" data-v="79.98">80.0%</td>
+  <td class="num" data-v="81.12">81.1%<span class="pct-bar" style="width:48.672000000000004px"></span></td>
+</tr><tr>
+  <td class="num" data-v="24">24</td>
+  <td>Mark</td>
+  <td class="num" data-v="1355">1,355</td>
+  <td class="num" data-v="183">183</td>
+  <td class="num" data-v="4461">4,461</td>
+  <td class="num" data-v="83.4">83.4%</td>
+  <td class="num" data-v="86.49">86.5%<span class="pct-bar" style="width:51.894px"></span></td>
+</tr><tr>
+  <td class="num" data-v="25">25</td>
+  <td>Matthew</td>
+  <td class="num" data-v="1685">1,685</td>
+  <td class="num" data-v="167">167</td>
+  <td class="num" data-v="4628">4,628</td>
+  <td class="num" data-v="86.52">86.5%</td>
+  <td class="num" data-v="90.09">90.1%<span class="pct-bar" style="width:54.054px"></span></td>
+</tr><tr>
+  <td class="num" data-v="26">26</td>
+  <td>Hebrews</td>
+  <td class="num" data-v="1032">1,032</td>
+  <td class="num" data-v="175">175</td>
+  <td class="num" data-v="4803">4,803</td>
+  <td class="num" data-v="89.79">89.8%</td>
+  <td class="num" data-v="83.04">83.0%<span class="pct-bar" style="width:49.824000000000005px"></span></td>
+</tr><tr>
+  <td class="num" data-v="27">27</td>
+  <td>Acts</td>
+  <td class="num" data-v="2023">2,023</td>
+  <td class="num" data-v="546">546</td>
+  <td class="num" data-v="5349">5,349</td>
+  <td class="num" data-v="100.0">100.0%</td>
+  <td class="num" data-v="73.01">73.0%<span class="pct-bar" style="width:43.806000000000004px"></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="highlight-box">
+  <strong>Steepest step:</strong> #27 Acts
+  &mdash; 546 new lemmas
+  (73.01% already known)<br>
+  <strong>Easiest step:</strong> #2 2 John
+  &mdash; 6 new lemmas
+  (93.75% already known)
+</div>
+
+<h3><span class="strategy-label">B</span> Strategy B &mdash; Maximum Readability</h3>
+
+<p>At each step, pick the book where you already know the highest percentage
+   of its vocabulary. This maximizes comprehension at each step.</p>
+
+<div class="table-wrap">
+<table class="sortable" id="table-b">
+<thead><tr>
+  <th data-type="num">#<span class="sort-arrow">&#x2195;</span></th>
+  <th>Book<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">Unique Lemmas<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">New Lemmas<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">Cumulative<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">% of Total Vocabulary<span class="sort-arrow">&#x2195;</span></th>
+  <th data-type="num">% Already Known<span class="sort-arrow">&#x2195;</span></th>
+</tr></thead>
+<tbody>
+<tr>
+  <td class="num" data-v="1">1</td>
+  <td>Luke</td>
+  <td class="num" data-v="2038">2,038</td>
+  <td class="num" data-v="2038">2,038</td>
+  <td class="num" data-v="2038">2,038</td>
+  <td class="num" data-v="38.1">38.1%</td>
+  <td class="num" data-v="0.0">0.0%<span class="pct-bar" style="width:0.0px"></span></td>
+</tr><tr>
+  <td class="num" data-v="2">2</td>
+  <td>2 John</td>
+  <td class="num" data-v="96">96</td>
+  <td class="num" data-v="6">6</td>
+  <td class="num" data-v="2044">2,044</td>
+  <td class="num" data-v="38.21">38.2%</td>
+  <td class="num" data-v="93.75">93.8%<span class="pct-bar" style="width:56.25px"></span></td>
+</tr><tr>
+  <td class="num" data-v="3">3</td>
+  <td>3 John</td>
+  <td class="num" data-v="108">108</td>
+  <td class="num" data-v="16">16</td>
+  <td class="num" data-v="2060">2,060</td>
+  <td class="num" data-v="38.51">38.5%</td>
+  <td class="num" data-v="85.19">85.2%<span class="pct-bar" style="width:51.114px"></span></td>
+</tr><tr>
+  <td class="num" data-v="4">4</td>
+  <td>1 John</td>
+  <td class="num" data-v="238">238</td>
+  <td class="num" data-v="37">37</td>
+  <td class="num" data-v="2097">2,097</td>
+  <td class="num" data-v="39.2">39.2%</td>
+  <td class="num" data-v="84.45">84.5%<span class="pct-bar" style="width:50.67px"></span></td>
+</tr><tr>
+  <td class="num" data-v="5">5</td>
+  <td>2 Thessalonians</td>
+  <td class="num" data-v="252">252</td>
+  <td class="num" data-v="55">55</td>
+  <td class="num" data-v="2152">2,152</td>
+  <td class="num" data-v="40.23">40.2%</td>
+  <td class="num" data-v="78.17">78.2%<span class="pct-bar" style="width:46.902px"></span></td>
+</tr><tr>
+  <td class="num" data-v="6">6</td>
+  <td>1 Thessalonians</td>
+  <td class="num" data-v="362">362</td>
+  <td class="num" data-v="82">82</td>
+  <td class="num" data-v="2234">2,234</td>
+  <td class="num" data-v="41.76">41.8%</td>
+  <td class="num" data-v="77.35">77.3%<span class="pct-bar" style="width:46.41px"></span></td>
+</tr><tr>
+  <td class="num" data-v="7">7</td>
+  <td>Philemon</td>
+  <td class="num" data-v="141">141</td>
+  <td class="num" data-v="30">30</td>
+  <td class="num" data-v="2264">2,264</td>
+  <td class="num" data-v="42.33">42.3%</td>
+  <td class="num" data-v="78.72">78.7%<span class="pct-bar" style="width:47.232px"></span></td>
+</tr><tr>
+  <td class="num" data-v="8">8</td>
+  <td>Mark</td>
+  <td class="num" data-v="1355">1,355</td>
+  <td class="num" data-v="348">348</td>
+  <td class="num" data-v="2612">2,612</td>
+  <td class="num" data-v="48.83">48.8%</td>
+  <td class="num" data-v="74.32">74.3%<span class="pct-bar" style="width:44.59199999999999px"></span></td>
+</tr><tr>
+  <td class="num" data-v="9">9</td>
+  <td>Matthew</td>
+  <td class="num" data-v="1685">1,685</td>
+  <td class="num" data-v="265">265</td>
+  <td class="num" data-v="2877">2,877</td>
+  <td class="num" data-v="53.79">53.8%</td>
+  <td class="num" data-v="84.27">84.3%<span class="pct-bar" style="width:50.562px"></span></td>
+</tr><tr>
+  <td class="num" data-v="10">10</td>
+  <td>John</td>
+  <td class="num" data-v="1023">1,023</td>
+  <td class="num" data-v="186">186</td>
+  <td class="num" data-v="3063">3,063</td>
+  <td class="num" data-v="57.26">57.3%</td>
+  <td class="num" data-v="81.82">81.8%<span class="pct-bar" style="width:49.09199999999999px"></span></td>
+</tr><tr>
+  <td class="num" data-v="11">11</td>
+  <td>Jude</td>
+  <td class="num" data-v="226">226</td>
+  <td class="num" data-v="44">44</td>
+  <td class="num" data-v="3107">3,107</td>
+  <td class="num" data-v="58.09">58.1%</td>
+  <td class="num" data-v="80.53">80.5%<span class="pct-bar" style="width:48.318px"></span></td>
+</tr><tr>
+  <td class="num" data-v="12">12</td>
+  <td>Galatians</td>
+  <td class="num" data-v="520">520</td>
+  <td class="num" data-v="115">115</td>
+  <td class="num" data-v="3222">3,222</td>
+  <td class="num" data-v="60.24">60.2%</td>
+  <td class="num" data-v="77.88">77.9%<span class="pct-bar" style="width:46.727999999999994px"></span></td>
+</tr><tr>
+  <td class="num" data-v="13">13</td>
+  <td>Colossians</td>
+  <td class="num" data-v="433">433</td>
+  <td class="num" data-v="87">87</td>
+  <td class="num" data-v="3309">3,309</td>
+  <td class="num" data-v="61.86">61.9%</td>
+  <td class="num" data-v="79.91">79.9%<span class="pct-bar" style="width:47.946px"></span></td>
+</tr><tr>
+  <td class="num" data-v="14">14</td>
+  <td>Ephesians</td>
+  <td class="num" data-v="530">530</td>
+  <td class="num" data-v="94">94</td>
+  <td class="num" data-v="3403">3,403</td>
+  <td class="num" data-v="63.62">63.6%</td>
+  <td class="num" data-v="82.26">82.3%<span class="pct-bar" style="width:49.356px"></span></td>
+</tr><tr>
+  <td class="num" data-v="15">15</td>
+  <td>Philippians</td>
+  <td class="num" data-v="448">448</td>
+  <td class="num" data-v="82">82</td>
+  <td class="num" data-v="3485">3,485</td>
+  <td class="num" data-v="65.15">65.2%</td>
+  <td class="num" data-v="81.7">81.7%<span class="pct-bar" style="width:49.02px"></span></td>
+</tr><tr>
+  <td class="num" data-v="16">16</td>
+  <td>1 Corinthians</td>
+  <td class="num" data-v="956">956</td>
+  <td class="num" data-v="184">184</td>
+  <td class="num" data-v="3669">3,669</td>
+  <td class="num" data-v="68.59">68.6%</td>
+  <td class="num" data-v="80.75">80.8%<span class="pct-bar" style="width:48.449999999999996px"></span></td>
+</tr><tr>
+  <td class="num" data-v="17">17</td>
+  <td>Revelation</td>
+  <td class="num" data-v="911">911</td>
+  <td class="num" data-v="167">167</td>
+  <td class="num" data-v="3836">3,836</td>
+  <td class="num" data-v="71.71">71.7%</td>
+  <td class="num" data-v="81.67">81.7%<span class="pct-bar" style="width:49.002px"></span></td>
+</tr><tr>
+  <td class="num" data-v="18">18</td>
+  <td>James</td>
+  <td class="num" data-v="556">556</td>
+  <td class="num" data-v="96">96</td>
+  <td class="num" data-v="3932">3,932</td>
+  <td class="num" data-v="73.51">73.5%</td>
+  <td class="num" data-v="82.73">82.7%<span class="pct-bar" style="width:49.638px"></span></td>
+</tr><tr>
+  <td class="num" data-v="19">19</td>
+  <td>1 Peter</td>
+  <td class="num" data-v="543">543</td>
+  <td class="num" data-v="96">96</td>
+  <td class="num" data-v="4028">4,028</td>
+  <td class="num" data-v="75.3">75.3%</td>
+  <td class="num" data-v="82.32">82.3%<span class="pct-bar" style="width:49.391999999999996px"></span></td>
+</tr><tr>
+  <td class="num" data-v="20">20</td>
+  <td>2 Corinthians</td>
+  <td class="num" data-v="785">785</td>
+  <td class="num" data-v="133">133</td>
+  <td class="num" data-v="4161">4,161</td>
+  <td class="num" data-v="77.79">77.8%</td>
+  <td class="num" data-v="83.06">83.1%<span class="pct-bar" style="width:49.836px"></span></td>
+</tr><tr>
+  <td class="num" data-v="21">21</td>
+  <td>Romans</td>
+  <td class="num" data-v="1060">1,060</td>
+  <td class="num" data-v="175">175</td>
+  <td class="num" data-v="4336">4,336</td>
+  <td class="num" data-v="81.06">81.1%</td>
+  <td class="num" data-v="83.49">83.5%<span class="pct-bar" style="width:50.093999999999994px"></span></td>
+</tr><tr>
+  <td class="num" data-v="22">22</td>
+  <td>Titus</td>
+  <td class="num" data-v="301">301</td>
+  <td class="num" data-v="53">53</td>
+  <td class="num" data-v="4389">4,389</td>
+  <td class="num" data-v="82.05">82.0%</td>
+  <td class="num" data-v="82.39">82.4%<span class="pct-bar" style="width:49.434px"></span></td>
+</tr><tr>
+  <td class="num" data-v="23">23</td>
+  <td>2 Peter</td>
+  <td class="num" data-v="397">397</td>
+  <td class="num" data-v="70">70</td>
+  <td class="num" data-v="4459">4,459</td>
+  <td class="num" data-v="83.36">83.4%</td>
+  <td class="num" data-v="82.37">82.4%<span class="pct-bar" style="width:49.422000000000004px"></span></td>
+</tr><tr>
+  <td class="num" data-v="24">24</td>
+  <td>Hebrews</td>
+  <td class="num" data-v="1032">1,032</td>
+  <td class="num" data-v="186">186</td>
+  <td class="num" data-v="4645">4,645</td>
+  <td class="num" data-v="86.84">86.8%</td>
+  <td class="num" data-v="81.98">82.0%<span class="pct-bar" style="width:49.188px"></span></td>
+</tr><tr>
+  <td class="num" data-v="25">25</td>
+  <td>1 Timothy</td>
+  <td class="num" data-v="538">538</td>
+  <td class="num" data-v="89">89</td>
+  <td class="num" data-v="4734">4,734</td>
+  <td class="num" data-v="88.5">88.5%</td>
+  <td class="num" data-v="83.46">83.5%<span class="pct-bar" style="width:50.07599999999999px"></span></td>
+</tr><tr>
+  <td class="num" data-v="26">26</td>
+  <td>2 Timothy</td>
+  <td class="num" data-v="456">456</td>
+  <td class="num" data-v="69">69</td>
+  <td class="num" data-v="4803">4,803</td>
+  <td class="num" data-v="89.79">89.8%</td>
+  <td class="num" data-v="84.87">84.9%<span class="pct-bar" style="width:50.922000000000004px"></span></td>
+</tr><tr>
+  <td class="num" data-v="27">27</td>
+  <td>Acts</td>
+  <td class="num" data-v="2023">2,023</td>
+  <td class="num" data-v="546">546</td>
+  <td class="num" data-v="5349">5,349</td>
+  <td class="num" data-v="100.0">100.0%</td>
+  <td class="num" data-v="73.01">73.0%<span class="pct-bar" style="width:43.806000000000004px"></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="highlight-box">
+  <strong>Steepest step:</strong> #27 Acts
+  &mdash; 546 new lemmas
+  (73.01% already known)<br>
+  <strong>Easiest step:</strong> #2 2 John
+  &mdash; 6 new lemmas
+  (93.75% already known)
+</div>
+
+<h2>Downloads</h2>
+
+<h3>Master Files</h3>
+<div class="downloads-box">
+  <ul>
+    <li><a href="greek-nt/master/NT_Greek_Master.csv" download>
+      All Tokens (Canonical Order)</a>
+      &mdash; <small>78,419 rows, every word occurrence</small></li>
+    <li><a href="greek-nt/master/NT_Greek_Master_Unique.csv" download>
+      Unique Lemmas (Canonical Order)</a>
+      &mdash; <small>5,349 rows, first occurrence of each lemma</small></li>
+  </ul>
+</div>
+
+<h3>Optimized Master Files</h3>
+<div class="downloads-box">
+  <ul>
+    <li><strong>Strategy A:</strong>
+      <a href="greek-nt/optimized-a/NT_Optimized_Master_A.csv" download>All Tokens</a> &middot;
+      <a href="greek-nt/optimized-a/NT_Optimized_Master_Unique_A.csv" download>Unique Lemmas</a> &middot;
+      <a href="greek-nt/optimized-a/reading_order_summary_a.csv" download>Summary CSV</a>
+    </li>
+    <li><strong>Strategy B:</strong>
+      <a href="greek-nt/optimized-b/NT_Optimized_Master_B.csv" download>All Tokens</a> &middot;
+      <a href="greek-nt/optimized-b/NT_Optimized_Master_Unique_B.csv" download>Unique Lemmas</a> &middot;
+      <a href="greek-nt/optimized-b/reading_order_summary_b.csv" download>Summary CSV</a>
+    </li>
+    <li><strong>Reports:</strong>
+      <a href="greek-nt/reading_order_report_strategy_a.csv" download>Strategy A Report</a> &middot;
+      <a href="greek-nt/reading_order_report_strategy_b.csv" download>Strategy B Report</a>
+    </li>
+  </ul>
+</div>
+
+
+<h3>Original Dataset Downloads</h3>
+<div class="downloads-box">
+  <p>The original datasets from the initial release, including the
+     <em>Greek for Life</em> reading order:</p>
+  <ul>
+    <li><a href="data/canonical-order/unique/nt_unique_canonical_order.csv" download>
+      Canonical Order &mdash; Unique Forms</a></li>
+    <li><a href="data/canonical-order/all/nt_all_canonical_order.csv" download>
+      Canonical Order &mdash; All Occurrences</a></li>
+    <li><a href="data/reading-order/unique/nt_unique_reading_order.csv" download>
+      Greek for Life Reading Order &mdash; Unique Forms</a></li>
+    <li><a href="data/reading-order/all/nt_all_reading_order.csv" download>
+      Greek for Life Reading Order &mdash; All Occurrences</a></li>
+  </ul>
+</div>
+
+
+<h3>Per-Book Files (Canonical Order)</h3>
+
+<p>Each book is available as a full token list and a unique-lemma list.</p>
+
+<details>
+  <summary>Show 27 book downloads</summary>
+  <div class="table-wrap">
+<table>
+<thead><tr>
+  <th>Book</th><th>Tokens</th><th>Unique Lemmas</th><th>Download</th>
+</tr></thead>
+<tbody><tr>
+  <td>Matthew</td>
+  <td class="num">9,985</td>
+  <td class="num">1,685</td>
+  <td class="dl-link"><a href="greek-nt/books/Matthew.csv" download>Full</a>
+    <a href="greek-nt/books/Matthew_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Mark</td>
+  <td class="num">6,227</td>
+  <td class="num">1,355</td>
+  <td class="dl-link"><a href="greek-nt/books/Mark.csv" download>Full</a>
+    <a href="greek-nt/books/Mark_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Luke</td>
+  <td class="num">10,720</td>
+  <td class="num">2,038</td>
+  <td class="dl-link"><a href="greek-nt/books/Luke.csv" download>Full</a>
+    <a href="greek-nt/books/Luke_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>John</td>
+  <td class="num">7,558</td>
+  <td class="num">1,023</td>
+  <td class="dl-link"><a href="greek-nt/books/John.csv" download>Full</a>
+    <a href="greek-nt/books/John_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Acts</td>
+  <td class="num">11,125</td>
+  <td class="num">2,023</td>
+  <td class="dl-link"><a href="greek-nt/books/Acts.csv" download>Full</a>
+    <a href="greek-nt/books/Acts_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Romans</td>
+  <td class="num">4,029</td>
+  <td class="num">1,060</td>
+  <td class="dl-link"><a href="greek-nt/books/Romans.csv" download>Full</a>
+    <a href="greek-nt/books/Romans_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>1 Corinthians</td>
+  <td class="num">3,885</td>
+  <td class="num">956</td>
+  <td class="dl-link"><a href="greek-nt/books/1_Corinthians.csv" download>Full</a>
+    <a href="greek-nt/books/1_Corinthians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>2 Corinthians</td>
+  <td class="num">2,696</td>
+  <td class="num">785</td>
+  <td class="dl-link"><a href="greek-nt/books/2_Corinthians.csv" download>Full</a>
+    <a href="greek-nt/books/2_Corinthians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Galatians</td>
+  <td class="num">1,433</td>
+  <td class="num">520</td>
+  <td class="dl-link"><a href="greek-nt/books/Galatians.csv" download>Full</a>
+    <a href="greek-nt/books/Galatians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Ephesians</td>
+  <td class="num">1,432</td>
+  <td class="num">530</td>
+  <td class="dl-link"><a href="greek-nt/books/Ephesians.csv" download>Full</a>
+    <a href="greek-nt/books/Ephesians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Philippians</td>
+  <td class="num">1,008</td>
+  <td class="num">448</td>
+  <td class="dl-link"><a href="greek-nt/books/Philippians.csv" download>Full</a>
+    <a href="greek-nt/books/Philippians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Colossians</td>
+  <td class="num">944</td>
+  <td class="num">433</td>
+  <td class="dl-link"><a href="greek-nt/books/Colossians.csv" download>Full</a>
+    <a href="greek-nt/books/Colossians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>1 Thessalonians</td>
+  <td class="num">904</td>
+  <td class="num">362</td>
+  <td class="dl-link"><a href="greek-nt/books/1_Thessalonians.csv" download>Full</a>
+    <a href="greek-nt/books/1_Thessalonians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>2 Thessalonians</td>
+  <td class="num">513</td>
+  <td class="num">252</td>
+  <td class="dl-link"><a href="greek-nt/books/2_Thessalonians.csv" download>Full</a>
+    <a href="greek-nt/books/2_Thessalonians_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>1 Timothy</td>
+  <td class="num">1,179</td>
+  <td class="num">538</td>
+  <td class="dl-link"><a href="greek-nt/books/1_Timothy.csv" download>Full</a>
+    <a href="greek-nt/books/1_Timothy_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>2 Timothy</td>
+  <td class="num">872</td>
+  <td class="num">456</td>
+  <td class="dl-link"><a href="greek-nt/books/2_Timothy.csv" download>Full</a>
+    <a href="greek-nt/books/2_Timothy_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Titus</td>
+  <td class="num">509</td>
+  <td class="num">301</td>
+  <td class="dl-link"><a href="greek-nt/books/Titus.csv" download>Full</a>
+    <a href="greek-nt/books/Titus_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Philemon</td>
+  <td class="num">212</td>
+  <td class="num">141</td>
+  <td class="dl-link"><a href="greek-nt/books/Philemon.csv" download>Full</a>
+    <a href="greek-nt/books/Philemon_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Hebrews</td>
+  <td class="num">3,323</td>
+  <td class="num">1,032</td>
+  <td class="dl-link"><a href="greek-nt/books/Hebrews.csv" download>Full</a>
+    <a href="greek-nt/books/Hebrews_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>James</td>
+  <td class="num">1,151</td>
+  <td class="num">556</td>
+  <td class="dl-link"><a href="greek-nt/books/James.csv" download>Full</a>
+    <a href="greek-nt/books/James_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>1 Peter</td>
+  <td class="num">1,182</td>
+  <td class="num">543</td>
+  <td class="dl-link"><a href="greek-nt/books/1_Peter.csv" download>Full</a>
+    <a href="greek-nt/books/1_Peter_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>2 Peter</td>
+  <td class="num">755</td>
+  <td class="num">397</td>
+  <td class="dl-link"><a href="greek-nt/books/2_Peter.csv" download>Full</a>
+    <a href="greek-nt/books/2_Peter_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>1 John</td>
+  <td class="num">965</td>
+  <td class="num">238</td>
+  <td class="dl-link"><a href="greek-nt/books/1_John.csv" download>Full</a>
+    <a href="greek-nt/books/1_John_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>2 John</td>
+  <td class="num">158</td>
+  <td class="num">96</td>
+  <td class="dl-link"><a href="greek-nt/books/2_John.csv" download>Full</a>
+    <a href="greek-nt/books/2_John_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>3 John</td>
+  <td class="num">160</td>
+  <td class="num">108</td>
+  <td class="dl-link"><a href="greek-nt/books/3_John.csv" download>Full</a>
+    <a href="greek-nt/books/3_John_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Jude</td>
+  <td class="num">316</td>
+  <td class="num">226</td>
+  <td class="dl-link"><a href="greek-nt/books/Jude.csv" download>Full</a>
+    <a href="greek-nt/books/Jude_Unique.csv" download>Unique</a></td>
+</tr><tr>
+  <td>Revelation</td>
+  <td class="num">5,178</td>
+  <td class="num">911</td>
+  <td class="dl-link"><a href="greek-nt/books/Revelation.csv" download>Full</a>
+    <a href="greek-nt/books/Revelation_Unique.csv" download>Unique</a></td>
+</tr></tbody>
+</table>
+</div>
+</details>
+
+<h3>Optimized Reading Order Files</h3>
+
+<p>Per-book files in optimized order. Each book includes Full (all tokens),
+   Unique (first occurrence per lemma), and New (lemmas not seen in earlier books).</p>
+
+<details>
+  <summary>Strategy A &mdash; 27 book downloads</summary>
+  <div class="table-wrap">
+<table>
+<thead><tr>
+  <th>#</th><th>Book</th><th>New Lemmas</th><th>Download</th>
+</tr></thead>
+<tbody><tr>
+  <td class="num">1</td>
+  <td>Luke</td>
+  <td class="num">2,038</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/01_Luke.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/01_Luke_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/01_Luke_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">2</td>
+  <td>2 John</td>
+  <td class="num">6</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/02_2_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/02_2_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/02_2_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">3</td>
+  <td>3 John</td>
+  <td class="num">16</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/03_3_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/03_3_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/03_3_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">4</td>
+  <td>1 John</td>
+  <td class="num">37</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/04_1_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/04_1_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/04_1_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">5</td>
+  <td>Philemon</td>
+  <td class="num">35</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/05_Philemon.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/05_Philemon_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/05_Philemon_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">6</td>
+  <td>2 Thessalonians</td>
+  <td class="num">52</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/06_2_Thessalonians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/06_2_Thessalonians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/06_2_Thessalonians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">7</td>
+  <td>Jude</td>
+  <td class="num">65</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/07_Jude.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/07_Jude_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/07_Jude_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">8</td>
+  <td>1 Thessalonians</td>
+  <td class="num">76</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/08_1_Thessalonians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/08_1_Thessalonians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/08_1_Thessalonians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">9</td>
+  <td>Titus</td>
+  <td class="num">102</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/09_Titus.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/09_Titus_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/09_Titus_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">10</td>
+  <td>2 Peter</td>
+  <td class="num">117</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/10_2_Peter.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/10_2_Peter_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/10_2_Peter_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">11</td>
+  <td>Colossians</td>
+  <td class="num">112</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/11_Colossians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/11_Colossians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/11_Colossians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">12</td>
+  <td>Ephesians</td>
+  <td class="num">104</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/12_Ephesians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/12_Ephesians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/12_Ephesians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">13</td>
+  <td>Philippians</td>
+  <td class="num">94</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/13_Philippians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/13_Philippians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/13_Philippians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">14</td>
+  <td>Galatians</td>
+  <td class="num">96</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/14_Galatians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/14_Galatians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/14_Galatians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">15</td>
+  <td>2 Timothy</td>
+  <td class="num">123</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/15_2_Timothy.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/15_2_Timothy_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/15_2_Timothy_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">16</td>
+  <td>James</td>
+  <td class="num">121</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/16_James.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/16_James_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/16_James_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">17</td>
+  <td>1 Peter</td>
+  <td class="num">119</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/17_1_Peter.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/17_1_Peter_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/17_1_Peter_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">18</td>
+  <td>1 Timothy</td>
+  <td class="num">113</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/18_1_Timothy.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/18_1_Timothy_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/18_1_Timothy_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">19</td>
+  <td>2 Corinthians</td>
+  <td class="num">158</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/19_2_Corinthians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/19_2_Corinthians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/19_2_Corinthians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">20</td>
+  <td>1 Corinthians</td>
+  <td class="num">160</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/20_1_Corinthians.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/20_1_Corinthians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/20_1_Corinthians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">21</td>
+  <td>Romans</td>
+  <td class="num">179</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/21_Romans.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/21_Romans_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/21_Romans_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">22</td>
+  <td>John</td>
+  <td class="num">183</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/22_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/22_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/22_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">23</td>
+  <td>Revelation</td>
+  <td class="num">172</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/23_Revelation.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/23_Revelation_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/23_Revelation_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">24</td>
+  <td>Mark</td>
+  <td class="num">183</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/24_Mark.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/24_Mark_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/24_Mark_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">25</td>
+  <td>Matthew</td>
+  <td class="num">167</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/25_Matthew.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/25_Matthew_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/25_Matthew_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">26</td>
+  <td>Hebrews</td>
+  <td class="num">175</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/26_Hebrews.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/26_Hebrews_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/26_Hebrews_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">27</td>
+  <td>Acts</td>
+  <td class="num">546</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-a/27_Acts.csv" download>Full</a>
+    <a href="greek-nt/optimized-a/27_Acts_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-a/27_Acts_New.csv" download>New</a>
+  </td>
+</tr></tbody>
+</table>
+</div>
+</details>
+
+<details>
+  <summary>Strategy B &mdash; 27 book downloads</summary>
+  <div class="table-wrap">
+<table>
+<thead><tr>
+  <th>#</th><th>Book</th><th>New Lemmas</th><th>Download</th>
+</tr></thead>
+<tbody><tr>
+  <td class="num">1</td>
+  <td>Luke</td>
+  <td class="num">2,038</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/01_Luke.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/01_Luke_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/01_Luke_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">2</td>
+  <td>2 John</td>
+  <td class="num">6</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/02_2_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/02_2_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/02_2_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">3</td>
+  <td>3 John</td>
+  <td class="num">16</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/03_3_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/03_3_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/03_3_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">4</td>
+  <td>1 John</td>
+  <td class="num">37</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/04_1_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/04_1_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/04_1_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">5</td>
+  <td>2 Thessalonians</td>
+  <td class="num">55</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/05_2_Thessalonians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/05_2_Thessalonians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/05_2_Thessalonians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">6</td>
+  <td>1 Thessalonians</td>
+  <td class="num">82</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/06_1_Thessalonians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/06_1_Thessalonians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/06_1_Thessalonians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">7</td>
+  <td>Philemon</td>
+  <td class="num">30</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/07_Philemon.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/07_Philemon_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/07_Philemon_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">8</td>
+  <td>Mark</td>
+  <td class="num">348</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/08_Mark.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/08_Mark_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/08_Mark_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">9</td>
+  <td>Matthew</td>
+  <td class="num">265</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/09_Matthew.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/09_Matthew_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/09_Matthew_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">10</td>
+  <td>John</td>
+  <td class="num">186</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/10_John.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/10_John_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/10_John_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">11</td>
+  <td>Jude</td>
+  <td class="num">44</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/11_Jude.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/11_Jude_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/11_Jude_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">12</td>
+  <td>Galatians</td>
+  <td class="num">115</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/12_Galatians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/12_Galatians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/12_Galatians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">13</td>
+  <td>Colossians</td>
+  <td class="num">87</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/13_Colossians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/13_Colossians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/13_Colossians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">14</td>
+  <td>Ephesians</td>
+  <td class="num">94</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/14_Ephesians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/14_Ephesians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/14_Ephesians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">15</td>
+  <td>Philippians</td>
+  <td class="num">82</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/15_Philippians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/15_Philippians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/15_Philippians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">16</td>
+  <td>1 Corinthians</td>
+  <td class="num">184</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/16_1_Corinthians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/16_1_Corinthians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/16_1_Corinthians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">17</td>
+  <td>Revelation</td>
+  <td class="num">167</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/17_Revelation.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/17_Revelation_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/17_Revelation_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">18</td>
+  <td>James</td>
+  <td class="num">96</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/18_James.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/18_James_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/18_James_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">19</td>
+  <td>1 Peter</td>
+  <td class="num">96</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/19_1_Peter.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/19_1_Peter_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/19_1_Peter_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">20</td>
+  <td>2 Corinthians</td>
+  <td class="num">133</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/20_2_Corinthians.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/20_2_Corinthians_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/20_2_Corinthians_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">21</td>
+  <td>Romans</td>
+  <td class="num">175</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/21_Romans.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/21_Romans_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/21_Romans_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">22</td>
+  <td>Titus</td>
+  <td class="num">53</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/22_Titus.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/22_Titus_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/22_Titus_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">23</td>
+  <td>2 Peter</td>
+  <td class="num">70</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/23_2_Peter.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/23_2_Peter_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/23_2_Peter_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">24</td>
+  <td>Hebrews</td>
+  <td class="num">186</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/24_Hebrews.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/24_Hebrews_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/24_Hebrews_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">25</td>
+  <td>1 Timothy</td>
+  <td class="num">89</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/25_1_Timothy.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/25_1_Timothy_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/25_1_Timothy_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">26</td>
+  <td>2 Timothy</td>
+  <td class="num">69</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/26_2_Timothy.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/26_2_Timothy_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/26_2_Timothy_New.csv" download>New</a>
+  </td>
+</tr><tr>
+  <td class="num">27</td>
+  <td>Acts</td>
+  <td class="num">546</td>
+  <td class="dl-link">
+    <a href="greek-nt/optimized-b/27_Acts.csv" download>Full</a>
+    <a href="greek-nt/optimized-b/27_Acts_Unique.csv" download>Unique</a>
+    <a href="greek-nt/optimized-b/27_Acts_New.csv" download>New</a>
+  </td>
+</tr></tbody>
+</table>
+</div>
+</details>
+
+<footer>
+  <p>Files are provided as UTF-8 CSV. Download and open in Excel, LibreOffice,
+     or a flashcard application.</p>
+  <p>Licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
+     Source on <a href="https://github.com/GreekNTDatabase/NTGreekDatabase">GitHub</a>.</p>
+</footer>
+</div>
+<script>function sortTable(table, col, type) {
+  var tbody = table.querySelector('tbody');
+  var rows = Array.from(tbody.querySelectorAll('tr'));
+  var asc = table.getAttribute('data-sort-col') == col
+            && table.getAttribute('data-sort-dir') == 'asc' ? false : true;
+  rows.sort(function(a, b) {
+    var av = a.cells[col].getAttribute('data-v') || a.cells[col].textContent.trim();
+    var bv = b.cells[col].getAttribute('data-v') || b.cells[col].textContent.trim();
+    if (type === 'num') { av = parseFloat(av) || 0; bv = parseFloat(bv) || 0; }
+    if (av < bv) return asc ? -1 : 1;
+    if (av > bv) return asc ? 1 : -1;
+    return 0;
+  });
+  rows.forEach(function(r) { tbody.appendChild(r); });
+  table.setAttribute('data-sort-col', col);
+  table.setAttribute('data-sort-dir', asc ? 'asc' : 'desc');
+  // Update arrows
+  table.querySelectorAll('th .sort-arrow').forEach(function(s) { s.textContent = '\u2195'; });
+  var arrow = table.querySelectorAll('th')[col].querySelector('.sort-arrow');
+  if (arrow) arrow.textContent = asc ? '\u25B2' : '\u25BC';
+}
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('table.sortable th').forEach(function(th, i) {
+    th.addEventListener('click', function() {
+      var table = th.closest('table');
+      var type = th.getAttribute('data-type') || 'str';
+      sortTable(table, i, type);
+    });
+  });
+});
+</script>
+</body>
+</html>
